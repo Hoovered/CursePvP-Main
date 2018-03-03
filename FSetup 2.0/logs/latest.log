@@ -1,152 +1,989 @@
-[23:10:10] [main/WARN]: Usercache.json is corrupted or has bad formatting. Deleting it to prevent further issues.
-[23:10:10] [Server thread/INFO]: Starting minecraft server version 1.8.8
-[23:10:10] [Server thread/INFO]: Loading properties
-[23:10:10] [Server thread/INFO]: Default game type: SURVIVAL
-[23:10:10] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-e4d4710-e1ebe52 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
-[23:10:11] [Server thread/ERROR]: Could not load spigot.yml, please correct your syntax errors
-org.bukkit.configuration.InvalidConfigurationException: while scanning a simple key
- in 'string', line 16, column 1:
-    <<<<<<< HEAD
-    ^
-could not find expected ':'
- in 'string', line 17, column 31:
-      save-user-cache-on-stop-only: false
-                                  ^
-
-	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:57) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:226) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:169) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.spigotmc.SpigotConfig.init(SpigotConfig.java:58) [spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:177) [spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525) [spigot.jar:git-Spigot-e4d4710-e1ebe52]
+[23:44:42] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[23:44:42] [Server thread/INFO]: Loading properties
+[23:44:42] [Server thread/INFO]: Default game type: SURVIVAL
+[23:44:42] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-db6de12-18fbb24 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[23:44:42] [Server thread/INFO]: Debug logging is disabled
+[23:44:42] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:44:42] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:44:42] [Server thread/INFO]: Generating keypair
+[23:44:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:44:42] [Server thread/INFO]: Using default channel type
+[23:44:43] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[23:44:43] [Server thread/WARN]: WARNING: Could not read fields for RedemptivePlugin
+[23:44:43] [Server thread/INFO]: [FactionsFly] Library io.reactivex:rxjava:1.0.16 is already downloaded!
+[23:44:43] [Server thread/INFO]: [FactionsFly] Loaded library rxjava-1.0.16.jar
+[23:44:43] [Server thread/ERROR]: Could not load 'plugins\DisguiseCraft.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidPluginException: java.lang.NoClassDefFoundError: net/minecraft/server/v1_8_R2/Packet
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:135) ~[spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:329) ~[spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:251) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugins(CraftServer.java:292) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:198) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525) [spigot.jar:git-Spigot-db6de12-18fbb24]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_162]
-Caused by: org.yaml.snakeyaml.scanner.ScannerException: while scanning a simple key
- in 'string', line 16, column 1:
-    <<<<<<< HEAD
-    ^
-could not find expected ':'
- in 'string', line 17, column 31:
-      save-user-cache-on-stop-only: false
-                                  ^
-
-	at org.yaml.snakeyaml.scanner.ScannerImpl.stalePossibleSimpleKeys(ScannerImpl.java:465) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.yaml.snakeyaml.scanner.ScannerImpl.needMoreTokens(ScannerImpl.java:280) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:225) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:558) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:143) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:224) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:229) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:122) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:105) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:120) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:450) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.yaml.snakeyaml.Yaml.load(Yaml.java:369) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/server/v1_8_R2/Packet
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_162]
+	at java.lang.Class.forName(Unknown Source) ~[?:1.8.0_162]
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:64) ~[spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:131) ~[spigot.jar:git-Spigot-db6de12-18fbb24]
 	... 6 more
-[23:10:11] [Server thread/ERROR]: Encountered an unexpected exception
-java.lang.RuntimeException: org.bukkit.configuration.InvalidConfigurationException: while scanning a simple key
- in 'string', line 16, column 1:
-    <<<<<<< HEAD
-    ^
-could not find expected ':'
- in 'string', line 17, column 31:
-      save-user-cache-on-stop-only: false
-                                  ^
-
-	at com.google.common.base.Throwables.propagate(Throwables.java:160) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.spigotmc.SpigotConfig.init(SpigotConfig.java:64) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:177) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525) [spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_162]
-Caused by: org.bukkit.configuration.InvalidConfigurationException: while scanning a simple key
- in 'string', line 16, column 1:
-    <<<<<<< HEAD
-    ^
-could not find expected ':'
- in 'string', line 17, column 31:
-      save-user-cache-on-stop-only: false
-                                  ^
-
-	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:57) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:226) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:169) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.spigotmc.SpigotConfig.init(SpigotConfig.java:58) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	... 3 more
-Caused by: org.yaml.snakeyaml.scanner.ScannerException: while scanning a simple key
- in 'string', line 16, column 1:
-    <<<<<<< HEAD
-    ^
-could not find expected ':'
- in 'string', line 17, column 31:
-      save-user-cache-on-stop-only: false
-                                  ^
-
-	at org.yaml.snakeyaml.scanner.ScannerImpl.stalePossibleSimpleKeys(ScannerImpl.java:465) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.yaml.snakeyaml.scanner.ScannerImpl.needMoreTokens(ScannerImpl.java:280) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:225) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:558) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:143) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:224) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:229) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:122) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:105) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:120) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:450) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.yaml.snakeyaml.Yaml.load(Yaml.java:369) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:226) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:169) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.spigotmc.SpigotConfig.init(SpigotConfig.java:58) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	... 3 more
-[23:10:11] [Server thread/ERROR]: 	Cause of unexpected exception was
-org.bukkit.configuration.InvalidConfigurationException: while scanning a simple key
- in 'string', line 16, column 1:
-    <<<<<<< HEAD
-    ^
-could not find expected ':'
- in 'string', line 17, column 31:
-      save-user-cache-on-stop-only: false
-                                  ^
-
-	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:57) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:226) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:169) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.spigotmc.SpigotConfig.init(SpigotConfig.java:58) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:177) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525) [spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_162]
-Caused by: org.yaml.snakeyaml.scanner.ScannerException: while scanning a simple key
- in 'string', line 16, column 1:
-    <<<<<<< HEAD
-    ^
-could not find expected ':'
- in 'string', line 17, column 31:
-      save-user-cache-on-stop-only: false
-                                  ^
-
-	at org.yaml.snakeyaml.scanner.ScannerImpl.stalePossibleSimpleKeys(ScannerImpl.java:465) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.yaml.snakeyaml.scanner.ScannerImpl.needMoreTokens(ScannerImpl.java:280) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:225) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:558) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:143) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:224) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:229) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:122) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:105) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:120) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:450) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.yaml.snakeyaml.Yaml.load(Yaml.java:369) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
-	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55) ~[spigot.jar:git-Spigot-e4d4710-e1ebe52]
+Caused by: java.lang.ClassNotFoundException: net.minecraft.server.v1_8_R2.Packet
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:91) ~[spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:86) ~[spigot.jar:git-Spigot-db6de12-18fbb24]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_162]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_162]
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_162]
+	at java.lang.Class.forName(Unknown Source) ~[?:1.8.0_162]
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:64) ~[spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:131) ~[spigot.jar:git-Spigot-db6de12-18fbb24]
 	... 6 more
-[23:10:11] [Server thread/ERROR]: This crash report has been saved to: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\.\crash-reports\crash-2018-03-02_23.10.11-server.txt
-[23:10:11] [Server thread/INFO]: Stopping server
-[23:10:11] [Server thread/INFO]: Saving players
+[23:44:45] [Server thread/INFO]: [MotdManager] Loading MotdManager v1.41-b20
+[23:44:45] [Server thread/INFO]: [ClicksPerSecond] Loading ClicksPerSecond v1.0
+[23:44:45] [Server thread/INFO]: [Disposal] Loading Disposal v0.6
+[23:44:45] [Server thread/INFO]: [FactionsFly] Loading FactionsFly v1.2.3
+[23:44:45] [Server thread/INFO]: [MobMerge] Loading MobMerge v1.0.5-SNAPSHOT
+[23:44:45] [Server thread/INFO]: [PlugMan] Loading PlugMan v2.1.4
+[23:44:45] [Server thread/INFO]: [TnTFill] Loading TnTFill v1
+[23:44:45] [Server thread/INFO]: [AntiPhase] Loading AntiPhase v0.0.1-SNAPSHOT
+[23:44:45] [Server thread/INFO]: [Arconix] Loading Arconix v1.1.1
+[23:44:45] [Server thread/INFO]: [AntiBotUltra] Loading AntiBotUltra v7.1
+[23:44:45] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v5.170.0-SNAPSHOT-jnks317-gitfcb8fe1
+[23:44:45] [Server thread/INFO]: [NoteBlockAPI] Loading NoteBlockAPI v1.1.0
+[23:44:45] [Server thread/INFO]: [RandomTeleport] Loading RandomTeleport v1.0
+[23:44:45] [Server thread/INFO]: [AJB] Loading AntiJoinBot v5.0
+[23:44:45] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v1.3.0
+[23:44:45] [Server thread/INFO]: [ViaVersion] ViaVersion 1.3.0 is now loaded, injecting!
+[23:44:45] [Server thread/INFO]: [CmdSpy] Loading CmdSpy v1.0
+[23:44:45] [Server thread/INFO]: [Installer] Loading Installer v2.4.1
+[23:44:45] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[23:44:45] [Server thread/INFO]: [StackedPots] Loading StackedPots v1
+[23:44:45] [Server thread/INFO]: [ClearLag] Loading ClearLag v2.9.7
+[23:44:45] [Server thread/INFO]: [ChatControl] Loading ChatControl v5.3.2
+[23:44:45] [Server thread/INFO]: [WorldBorder] Loading WorldBorder v1.8.4
+[23:44:45] [Server thread/INFO]: [FactionsBreak] Loading FactionsBreak v1.0
+[23:44:45] [Server thread/INFO]: [BuycraftX] Loading BuycraftX v10.3.0
+[23:44:45] [Server thread/INFO]: [Discord] Loading Discord v1.0
+[23:44:45] [Server thread/INFO]: [Votifier] Loading Votifier v1.9
+[23:44:45] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.4-b527
+[23:44:45] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v3.6.5
+[23:44:45] [Server thread/INFO]: [AntiWDL] Loading AntiWDL v0.1
+[23:44:45] [Server thread/INFO]: [NoCheatPlus] Loading NoCheatPlus v3.14.0-SNAPSHOT-sMD5NET-b968
+[23:44:45] [Server thread/INFO]: onLoad: Early set up of static API, configuration, logging.
+[23:44:45] [Server thread/INFO]: [NoCheatPlus] Logging system initialized.
+[23:44:45] [Server thread/INFO]: [NoCheatPlus] Detected Minecraft version: 1.8.8
+[23:44:45] [Server thread/INFO]: [PhantomAntiDupe] Loading PhantomAntiDupe v1.2
+[23:44:45] [Server thread/INFO]: [KitAdder] Loading KitAdder v2.3
+[23:44:45] [Server thread/INFO]: [MVdWPlaceholderAPI] Loading MVdWPlaceholderAPI v2.4.0
+[23:44:45] [Server thread/INFO]: [FastAsyncWorldEdit] Loading FastAsyncWorldEdit v18.03.01-b430f47-1020-19.1.15
+[23:44:45] [Server thread/INFO]: [WorldEditCrashFix] Loading WorldEditCrashFix v2.0
+[23:44:45] [Server thread/INFO]: [ObsidianBreak] Loading ObsidianBreak v1.0
+[23:44:45] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
+[23:44:45] [Server thread/INFO]: [FeatherBoard] Loading FeatherBoard v4.5.0
+[23:44:45] [Server thread/INFO]: [CommandWatcher] Loading CommandWatcher v1.5.3
+[23:44:45] [Server thread/INFO]: [AntiAura] Loading AntiAura v0.1-SNAPSHOT
+[23:44:45] [Server thread/INFO]: [mcMMO] Loading mcMMO v1.5.04-SNAPSHOT-b${BUILD_NUMBER}
+[23:44:45] [Server thread/INFO]: [ActionAnnouncer] Loading ActionAnnouncer v1.9.1
+[23:44:45] [Server thread/INFO]: [AntiCombatLog] Loading AntiCombatLog v1.0
+[23:44:45] [Server thread/INFO]: [GAListener] Loading GAListener v1.3.1
+[23:44:45] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[23:44:45] [Server thread/INFO]: [GuiShopRecoded] Loading GuiShopRecoded v1.4
+[23:44:45] [Server thread/INFO]: [MassiveCore] Loading MassiveCore v2.13.6
+[23:44:45] [Server thread/INFO]: [NoHopperCraft] Loading NoHopperCraft v1.0
+[23:44:45] [Server thread/INFO]: [SkinChanger] Loading SkinChanger v1.0.0
+[23:44:45] [Server thread/INFO]: [AntiCommandTab] Loading AntiCommandTab v3.4
+[23:44:45] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.2.6
+[23:44:45] [Server thread/INFO]: [AuctionHouse] Loading AuctionHouse v3.2
+[23:44:45] [Server thread/INFO]: [PlayerVaults] Loading PlayerVaults v3.5.7-b${BUILD_NUMBER}
+[23:44:45] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[23:44:45] [Server thread/INFO]: [MyCommand] Loading MyCommand v5.3.4
+[23:44:45] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.1-SNAPSHOT;3501-c85c9f7
+[23:44:45] [Server thread/INFO]: [VotifierScripts] Loading VotifierScripts v1.0-b21
+[23:44:45] [Server thread/INFO]: [SpawnerShop] Loading SpawnerShop v3.2
+[23:44:45] [Server thread/INFO]: [PureCombat] Loading PureCombat v1.0
+[23:44:45] [Server thread/INFO]: [Banknotes] Loading Banknotes v1.8.0
+[23:44:45] [Server thread/INFO]: [LiteBans] Loading LiteBans v2.2.4
+[23:44:45] [Server thread/INFO]: [CrateReloaded] Loading CrateReloaded v1.3.27
+[23:44:45] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.16-SNAPSHOT (build 1267)
+[23:44:45] [Server thread/INFO]: [VanishNoPacket] Loading VanishNoPacket v3.20
+[23:44:45] [Server thread/INFO]: [KitPreview] Loading KitPreview v5.4.1
+[23:44:45] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[23:44:45] [Server thread/INFO]: [Factions] Loading Factions v2.13.6
+[23:44:45] [Server thread/INFO]: [FactionsTop] Loading FactionsTop v4.6
+[23:44:45] [Server thread/INFO]: [TitleManager] Loading TitleManager v2.0.9
+[23:44:45] [Server thread/INFO]: [CombatLog] Loading CombatLog v1.8.11-hack
+[23:44:45] [Server thread/INFO]: [FBasics] Loading FBasics v2.1.8
+[23:44:45] [Server thread/INFO]: [WarpPortals] Loading WarpPortals v5.6.3
+[23:44:45] [Server thread/INFO]: [SilkSpawners] Loading SilkSpawners v5.0.0
+[23:44:45] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v3.6.5
+[23:44:45] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[23:44:45] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v18.03.01-b430f47-1020-19.1.15
+[23:44:47] [Server thread/INFO]: ====== USE PAPER ======[m
+[23:44:47] [Server thread/INFO]: DOWNLOAD: https://ci.destroystokyo.com/job/PaperSpigot/[m
+[23:44:47] [Server thread/INFO]: GUIDE: https://www.spigotmc.org/threads/21726/[m
+[23:44:47] [Server thread/INFO]:  - This is only a recommendation[m
+[23:44:47] [Server thread/INFO]: ==============================[m
+[23:44:47] [Server thread/INFO]: [mcMMO] Enabling mcMMO v1.5.04-SNAPSHOT-b${BUILD_NUMBER}
+[23:44:48] [Server thread/WARN]: [mcMMO] NoCheatPlus plugin found, but CompatNoCheatPlus was not found!
+[23:44:48] [Server thread/WARN]: [mcMMO] mcMMO will not work properly alongside NoCheatPlus without CompatNoCheatPlus
+[23:44:48] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[23:44:48] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[23:44:48] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
+[23:44:48] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[23:44:48] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
+[23:44:48] [Server thread/INFO]: [Vault] Enabled Version 1.5.6-b49
+[23:44:48] [Server thread/INFO]: [MassiveCore] Enabling MassiveCore v2.13.6
+[23:44:48] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.13.6[0;36;22m] [0;33;1m=== ENABLE START ===[m
+[23:44:48] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.13.6[0;36;22m] [0;33;1m[0;33;1mLoading Cachefile datas...[m
+[23:44:48] [Server thread/ERROR]: Error occurred while enabling MassiveCore v2.13.6 (Is it up to date?)
+com.massivecraft.massivecore.xlib.gson.JsonSyntaxException: com.massivecraft.massivecore.xlib.gson.stream.MalformedJsonException: Expected ':' at line 258 column 10 path $[51].<<<<<<<
+	at com.massivecraft.massivecore.xlib.gson.Gson.fromJson(Gson.java:903) ~[?:?]
+	at com.massivecraft.massivecore.xlib.gson.Gson.fromJson(Gson.java:853) ~[?:?]
+	at com.massivecraft.massivecore.xlib.gson.Gson.fromJson(Gson.java:802) ~[?:?]
+	at com.massivecraft.massivecore.util.IdUtil.getCachefileDatas(IdUtil.java:907) ~[?:?]
+	at com.massivecraft.massivecore.util.IdUtil.loadDatas(IdUtil.java:859) ~[?:?]
+	at com.massivecraft.massivecore.util.IdUtil.setup(IdUtil.java:352) ~[?:?]
+	at com.massivecraft.massivecore.MassiveCore.onEnableInner(MassiveCore.java:229) ~[?:?]
+	at com.massivecraft.massivecore.MassivePlugin.onEnable(MassivePlugin.java:82) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321) ~[spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:357) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:317) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:199) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_162]
+Caused by: com.massivecraft.massivecore.xlib.gson.stream.MalformedJsonException: Expected ':' at line 258 column 10 path $[51].<<<<<<<
+	at com.massivecraft.massivecore.xlib.gson.stream.JsonReader.syntaxError(JsonReader.java:1568) ~[?:?]
+	at com.massivecraft.massivecore.xlib.gson.stream.JsonReader.doPeek(JsonReader.java:530) ~[?:?]
+	at com.massivecraft.massivecore.xlib.gson.stream.JsonReader.skipValue(JsonReader.java:1232) ~[?:?]
+	at com.massivecraft.massivecore.xlib.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:218) ~[?:?]
+	at com.massivecraft.massivecore.xlib.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[?:?]
+	at com.massivecraft.massivecore.xlib.gson.internal.bind.CollectionTypeAdapterFactory$Adapter.read(CollectionTypeAdapterFactory.java:82) ~[?:?]
+	at com.massivecraft.massivecore.xlib.gson.internal.bind.CollectionTypeAdapterFactory$Adapter.read(CollectionTypeAdapterFactory.java:61) ~[?:?]
+	at com.massivecraft.massivecore.xlib.gson.Gson.fromJson(Gson.java:888) ~[?:?]
+	... 15 more
+[23:44:48] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[23:44:48] [Server thread/INFO]: Preparing level "world"
+[23:44:48] [Server thread/INFO]: -------- World Settings For [world] --------
+[23:44:48] [Server thread/INFO]: Item Despawn Rate: 6000
+[23:44:48] [Server thread/INFO]: Item Merge Radius: 2.5
+[23:44:48] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[23:44:48] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[23:44:48] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[23:44:48] [Server thread/INFO]: Experience Merge Radius: 3.0
+[23:44:48] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[23:44:48] [Server thread/INFO]: Clear tick list: false
+[23:44:48] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[23:44:48] [Server thread/INFO]: Max Entity Collisions: 8
+[23:44:48] [Server thread/INFO]: View Distance: 10
+[23:44:48] [Server thread/INFO]: Sending up to 10 chunks per packet
+[23:44:48] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[23:44:48] [Server thread/INFO]: Mob Spawn Range: 4
+[23:44:48] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[23:44:48] [Server thread/INFO]: Cane Growth Modifier: 100%
+[23:44:48] [Server thread/INFO]: Melon Growth Modifier: 100%
+[23:44:48] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[23:44:48] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[23:44:48] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[23:44:48] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[23:44:48] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[23:44:48] [Server thread/INFO]: Random Lighting Updates: false
+[23:44:48] [Server thread/INFO]: Anti X-Ray: true
+[23:44:48] [Server thread/INFO]: 	Engine Mode: 1
+[23:44:48] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[23:44:48] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[23:44:48] [Server thread/INFO]: Structure Info Saving: true
+[23:44:48] [Server thread/INFO]: Max TNT Explosions: 100
+[23:44:48] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[23:44:48] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[23:44:48] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[23:44:48] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[23:44:48] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[23:44:48] [Server thread/INFO]: Item Despawn Rate: 6000
+[23:44:48] [Server thread/INFO]: Item Merge Radius: 2.5
+[23:44:48] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[23:44:48] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[23:44:48] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[23:44:48] [Server thread/INFO]: Experience Merge Radius: 3.0
+[23:44:48] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[23:44:48] [Server thread/INFO]: Clear tick list: false
+[23:44:48] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[23:44:48] [Server thread/INFO]: Max Entity Collisions: 8
+[23:44:48] [Server thread/INFO]: View Distance: 10
+[23:44:48] [Server thread/INFO]: Sending up to 10 chunks per packet
+[23:44:48] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[23:44:48] [Server thread/INFO]: Mob Spawn Range: 4
+[23:44:48] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[23:44:48] [Server thread/INFO]: Cane Growth Modifier: 100%
+[23:44:48] [Server thread/INFO]: Melon Growth Modifier: 100%
+[23:44:48] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[23:44:48] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[23:44:48] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[23:44:48] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[23:44:48] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[23:44:48] [Server thread/INFO]: Random Lighting Updates: false
+[23:44:48] [Server thread/INFO]: Anti X-Ray: true
+[23:44:48] [Server thread/INFO]: 	Engine Mode: 1
+[23:44:48] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[23:44:48] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[23:44:48] [Server thread/INFO]: Structure Info Saving: true
+[23:44:48] [Server thread/INFO]: Max TNT Explosions: 100
+[23:44:48] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[23:44:48] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[23:44:48] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[23:44:48] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[23:44:48] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[23:44:48] [Server thread/INFO]: Item Despawn Rate: 6000
+[23:44:48] [Server thread/INFO]: Item Merge Radius: 2.5
+[23:44:48] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[23:44:48] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[23:44:48] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[23:44:48] [Server thread/INFO]: Experience Merge Radius: 3.0
+[23:44:48] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[23:44:48] [Server thread/INFO]: Clear tick list: false
+[23:44:48] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[23:44:48] [Server thread/INFO]: Max Entity Collisions: 8
+[23:44:48] [Server thread/INFO]: View Distance: 10
+[23:44:48] [Server thread/INFO]: Sending up to 10 chunks per packet
+[23:44:48] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[23:44:48] [Server thread/INFO]: Mob Spawn Range: 4
+[23:44:48] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[23:44:48] [Server thread/INFO]: Cane Growth Modifier: 100%
+[23:44:48] [Server thread/INFO]: Melon Growth Modifier: 100%
+[23:44:48] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[23:44:48] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[23:44:48] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[23:44:48] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[23:44:48] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[23:44:48] [Server thread/INFO]: Random Lighting Updates: false
+[23:44:48] [Server thread/INFO]: Anti X-Ray: true
+[23:44:48] [Server thread/INFO]: 	Engine Mode: 1
+[23:44:48] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[23:44:48] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[23:44:48] [Server thread/INFO]: Structure Info Saving: true
+[23:44:48] [Server thread/INFO]: Max TNT Explosions: 100
+[23:44:48] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[23:44:48] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[23:44:48] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[23:44:48] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[23:44:48] [Server thread/INFO]: Preparing start region for level 0 (Seed: -8013875772503020374)
+[23:44:49] [Server thread/INFO]: Preparing spawn area: 45%
+[23:44:50] [Server thread/INFO]: Preparing start region for level 1 (Seed: -654650595)
+[23:44:51] [Server thread/INFO]: Preparing spawn area: 89%
+[23:44:51] [Server thread/INFO]: Preparing start region for level 2 (Seed: -654650595)
+[23:44:51] [Server thread/INFO]: [MotdManager] Enabling MotdManager v1.41-b20
+[23:44:51] [Server thread/INFO]: [MotdManager] version 1.41-b20 is enabled!
+[23:44:51] [Server thread/INFO]: [ClicksPerSecond] Enabling ClicksPerSecond v1.0
+[23:44:51] [Server thread/INFO]: [Disposal] Enabling Disposal v0.6
+[23:44:51] [Server thread/INFO]: [FactionsFly] Enabling FactionsFly v1.2.3
+[23:44:51] [Server thread/INFO]: [FactionsFly] Linked to Factions
+[23:44:51] [Server thread/INFO]: [FactionsFly] Registered command /ground
+[23:44:51] [Server thread/INFO]: [MobMerge] Enabling MobMerge v1.0.5-SNAPSHOT
+[23:44:51] [Server thread/INFO]: [PlugMan] Enabling PlugMan v2.1.4
+[23:44:51] [Server thread/INFO]: [TnTFill] Enabling TnTFill v1
+[23:44:51] [Server thread/INFO]: [AntiPhase] Enabling AntiPhase v0.0.1-SNAPSHOT
+[23:44:51] [Server thread/INFO]: [AntiPhase] AntiPhase has been enabled!
+[23:44:51] [Server thread/INFO]: [Arconix] Enabling Arconix v1.1.1
+[23:44:51] [Server thread/INFO]: [AntiBotUltra] Enabling AntiBotUltra v7.1
+[23:44:51] [Server thread/INFO]: [AntiBotUltra] This server is protected!
+[23:44:51] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v5.170.0-SNAPSHOT-jnks317-gitfcb8fe1
+[23:44:51] [Server thread/INFO]: [VoxelSniper] Registered 75 Sniper Brushes with 149 handles.
+[23:44:51] [Server thread/INFO]: [VoxelSniper] Registered Sniper Listener.
+[23:44:51] [Server thread/INFO]: [NoteBlockAPI] Enabling NoteBlockAPI v1.1.0
+[23:44:51] [Server thread/INFO]: [RandomTeleport] Enabling RandomTeleport v1.0
+[23:44:51] [Server thread/INFO]: [0;36;1m=======================================[m
+[23:44:51] [Server thread/INFO]: [0;36;1m   [RandomTeleport] has been enabled ![m
+[23:44:51] [Server thread/INFO]: [0;36;1m=======================================[m
+[23:44:51] [Server thread/INFO]: [AJB] Enabling AntiJoinBot v5.0
+[23:44:52] [Server thread/INFO]: AntiJoinBot enabled in 60 seconds
+[23:44:52] [Server thread/INFO]: [AJB] Loaded: 11680 IP's
+[23:44:52] [Server thread/INFO]: [AJB] Loaded: 8 User's
+[23:44:52] [Server thread/INFO]: [AJB] Downloading Blacklist...
+[23:44:52] [Server thread/INFO]: [AJB] Blacklist successfully Downloaded
+[23:44:52] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v1.3.0
+[23:44:52] [Server thread/INFO]: [CmdSpy] Enabling CmdSpy v1.0
+[23:44:52] [Server thread/INFO]: [Installer] Enabling Installer v2.4.1
+[23:44:52] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[23:44:52] [Server thread/INFO]: Bukkit version format changed. Version not checked.
+[23:44:52] [Server thread/INFO]: git-Spigot-db6de12-18fbb24 (MC: 1.8.8)
+[23:44:52] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[23:44:52] [Server thread/INFO]: Using locale en_US
+[23:44:52] [Server thread/INFO]: Using locale en_US
+[23:44:52] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[23:44:52] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[23:44:52] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[23:44:52] [Server thread/INFO]: [StackedPots] Enabling StackedPots v1
+[23:44:52] [Server thread/INFO]: [ClearLag] Enabling ClearLag v2.9.7
+[23:44:52] [Server thread/INFO]: [ClearLag] Loading modules...
+[23:44:52] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[23:44:52] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[23:44:52] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[23:44:52] [Server thread/INFO]: [ChatControl] Enabling ChatControl v5.3.2
+[23:44:52] [Server thread/INFO]: [0;36;22mHooked into[0;30;1m: [0;37;1mEssentials[m
+[23:44:52] [Server thread/INFO]: [0;36;22mHooked into[0;30;1m: [0;37;1mMultiverse-Core [0;37;22m(World Alias)[m
+[23:44:52] [Server thread/INFO]: [0;36;22mHooked into[0;30;1m: [0;37;1mProtocolLib [0;37;22m(Packet Features)[m
+[23:44:52] [Server thread/INFO]: [0;36;22mHooked into[0;30;1m: [0;37;1mVault[m
+[23:44:52] [Server thread/INFO]: [0;36;22mHooked into[0;30;1m: [0;37;1mFactions[m
+[23:44:52] [Server thread/INFO]: [0;36;22mHooked into[0;30;1m: [0;37;1mFactions[m
+[23:44:52] [Server thread/INFO]: [WorldBorder] Enabling WorldBorder v1.8.4
+[23:44:52] [Server thread/INFO]: [WorldBorder] [CONFIG] Using elliptic/round border, knockback of 3.0 blocks, and timer delay of 5.
+[23:44:52] [Server thread/INFO]: [WorldBorder] [CONFIG] Border-checking timed task started.
+[23:44:52] [Server thread/INFO]: [WorldBorder] [CONFIG] World "world" has border radius 12000 at X: -236.0 Z: 261.0
+[23:44:52] [Server thread/INFO]: [WorldBorder] [CONFIG] World "Factions" has border radius 10000 at X: -1318.9 Z: -406.5
+[23:44:52] [Server thread/INFO]: [WorldBorder] [CONFIG] World "NewFactions" has border radius 8000 at X: -229.5 Z: -962.8
+[23:44:52] [Server thread/INFO]: [WorldBorder] [CONFIG] World "Terrain1" has border radius 10000 at X: -4.2 Z: 11.8
+[23:44:52] [Server thread/INFO]: [WorldBorder] For reference, the main world's spawn location is at X: -221.0 Y: 68.0 Z: 244.0
+[23:44:52] [Server thread/INFO]: [FactionsBreak] Enabling FactionsBreak v1.0
+[23:44:52] [Server thread/INFO]: [BuycraftX] Enabling BuycraftX v10.3.0
+[23:44:52] [Thread-16/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.8]...
+[23:44:53] [Server thread/INFO]: [BuycraftX] Validating your server key...
+[23:44:53] [Thread-16/INFO]: [ClearLag] No updates found!
+[23:44:54] [Server thread/INFO]: [BuycraftX] A new version of BuycraftX (10.5.0) is available. Go to your server panel at https://server.buycraft.net/plugins to download the update.
+[23:44:54] [Server thread/INFO]: [BuycraftX] Fetching all server packages...
+[23:44:54] [Server thread/INFO]: [BuycraftX] Updating coupon list...
+[23:44:54] [Server thread/INFO]: [Discord] Enabling Discord v1.0
+[23:44:54] [Server thread/INFO]: [Discord] has been activated
+[23:44:54] [Server thread/INFO]: [Votifier] Enabling Votifier v1.9
+[23:44:54] [Server thread/INFO]: [Votifier] Votifier enabled.
+[23:44:54] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
+[23:44:54] [Server thread/INFO]: [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+[23:44:54] [Server thread/INFO]: [AllPay] - Version 10.0 - hooked into Essentials Economy for Multiverse-Core v2.4-b527
+[23:44:54] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -8013875772503020374
+[23:44:54] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -654650595
+[23:44:54] [Server thread/WARN]: [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+[23:44:54] [Server thread/WARN]: [Multiverse-Core] Original Location: X: 1 Y: 77 Z: 0 P: 0 Y: 0 
+[23:44:54] [Server thread/ERROR]: [Multiverse-Core] New safe spawn NOT found!!!
+[23:44:54] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -654650595
+[23:44:54] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'buildsextra' - Env: NORMAL - Type: FLAT & seed: -7165224370601606865
+[23:44:54] [Server thread/INFO]: -------- World Settings For [buildsextra] --------
+[23:44:54] [Server thread/INFO]: Item Despawn Rate: 6000
+[23:44:54] [Server thread/INFO]: Item Merge Radius: 2.5
+[23:44:54] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[23:44:54] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[23:44:54] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[23:44:54] [Server thread/INFO]: Experience Merge Radius: 3.0
+[23:44:54] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[23:44:54] [Server thread/INFO]: Clear tick list: false
+[23:44:54] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[23:44:54] [Server thread/INFO]: Max Entity Collisions: 8
+[23:44:54] [Server thread/INFO]: View Distance: 10
+[23:44:54] [Server thread/INFO]: Sending up to 10 chunks per packet
+[23:44:54] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[23:44:54] [Server thread/INFO]: Mob Spawn Range: 4
+[23:44:54] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[23:44:54] [Server thread/INFO]: Cane Growth Modifier: 100%
+[23:44:54] [Server thread/INFO]: Melon Growth Modifier: 100%
+[23:44:54] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[23:44:54] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[23:44:54] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[23:44:54] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[23:44:54] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[23:44:54] [Server thread/INFO]: Random Lighting Updates: false
+[23:44:54] [Server thread/INFO]: Anti X-Ray: true
+[23:44:54] [Server thread/INFO]: 	Engine Mode: 1
+[23:44:54] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[23:44:54] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[23:44:54] [Server thread/INFO]: Structure Info Saving: true
+[23:44:54] [Server thread/INFO]: Max TNT Explosions: 100
+[23:44:54] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[23:44:54] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[23:44:54] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[23:44:54] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[23:44:54] [Server thread/INFO]: Preparing start region for level 3 (Seed: -7165224370601606865)
+[23:44:55] [Server thread/INFO]: [Multiverse-Core] 4 - World(s) loaded.
+[23:44:55] [Server thread/INFO]: [AntiWDL] Enabling AntiWDL v0.1
+[23:44:55] [Server thread/INFO]: [0;37;22m[[0;33;22mAntiWDL[0;37;22m] [0;30;1m-----------------------------[m
+[23:44:55] [Server thread/INFO]: [0;37;22m[[0;33;22mAntiWDL[0;37;22m] [0;30;1mLoading AntiWDL by Upd4ting[m
+[23:44:55] [Server thread/INFO]: [0;37;22m[[0;33;22mAntiWDL[0;37;22m] [0;30;1mCheck out my twitter: twitter.com/upd4ting[m
+[23:44:55] [Server thread/INFO]: [0;37;22m[[0;33;22mAntiWDL[0;37;22m] [0;30;1m-----------------------------[m
+[23:44:55] [Server thread/INFO]: [NoCheatPlus] Enabling NoCheatPlus v3.14.0-SNAPSHOT-sMD5NET-b968
+[23:44:55] [Server thread/INFO]: [NoCheatPlus] McAccess set to: 1.8.4-1.8.8 / Spigot-CB-1.8_R3
+[23:44:55] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.5 blocks.
+[23:44:55] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.6.1 blocks.
+[23:44:55] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.7.2 blocks.
+[23:44:55] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.8 blocks.
+[23:44:55] [Server thread/INFO]: [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
+[23:44:55] [Server thread/INFO]: [NoCheatPlus] Adding packet level hooks for ProtocolLib (MC 1.8.8)...
+[23:44:55] [Server thread/INFO]: [NoCheatPlus] Available (and activated) packet level hooks: UseEntityAdapter | MovingFlying | OutgoingPosition | KeepAliveAdapter | SoundDistance
+[23:44:55] [Server thread/INFO]: [NoCheatPlus] Version 3.14.0-SNAPSHOT-sMD5NET-b968 is enabled.
+[23:44:55] [Server thread/INFO]: [PhantomAntiDupe] Enabling PhantomAntiDupe v1.2
+[23:44:55] [Server thread/INFO]: [KitAdder] Enabling KitAdder v2.3
+[23:44:55] [Server thread/INFO]: [KitAdder] KitAdder plugin has been enabled!
+[23:44:55] [Server thread/INFO]: [MVdWPlaceholderAPI] Enabling MVdWPlaceholderAPI v2.4.0
+[23:44:55] [Server thread/INFO]: [MVdWPlaceholderAPI] Initializing ...
+[23:44:55] [Server thread/INFO]: [MVdWPlaceholderAPI] Sending metrics ...
+[23:44:55] [Server thread/INFO]: [WorldEditCrashFix] Enabling WorldEditCrashFix v2.0
+[23:44:55] [Server thread/INFO]: [ObsidianBreak] Enabling ObsidianBreak v1.0
+[23:44:55] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
+[23:44:55] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[23:44:55] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[23:44:55] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
+[23:44:55] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
+[23:44:55] [Server thread/INFO]: Essentials: Using PermissionsEx based permissions.
+[23:44:55] [Server thread/INFO]: [FeatherBoard] Enabling FeatherBoard v4.5.0
+[23:44:55] [Server thread/INFO]: [FeatherBoard] -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+[23:44:55] [Server thread/INFO]: [FeatherBoard] Plugin: FeatherBoard v4.5.0
+[23:44:55] [Server thread/INFO]: [FeatherBoard] Framework version: 2018-02
+[23:44:55] [Server thread/INFO]: [FeatherBoard] Author: Maximvdw (Maxim Van de Wynckel)
+[23:44:55] [Server thread/INFO]: [FeatherBoard] Site: https://www.mvdw-software.com/
+[23:44:55] [Server thread/INFO]: [FeatherBoard] -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+[23:44:55] [Server thread/INFO]: [FeatherBoard] Loading database driver ...
+[23:44:55] [Server thread/INFO]: [FeatherBoard] Loading dependency Javax Persistence 2.1.0 ...
+[23:44:55] [Server thread/INFO]: [FeatherBoard] Javax Persistence 2.1.0 is now loaded!
+[23:44:55] [Server thread/INFO]: [FeatherBoard] Loading dependency ORMLite 5 ...
+[23:44:55] [Server thread/INFO]: [FeatherBoard] ORMLite 5 is now loaded!
+[23:44:55] [Server thread/INFO]: [FeatherBoard] Loading dependency ORMLite 5 JDBC ...
+[23:44:55] [Server thread/INFO]: [FeatherBoard] ORMLite 5 JDBC is now loaded!
+[23:44:55] [Server thread/INFO]: [FeatherBoard] Loading configuration ...
+[23:44:55] [Server thread/INFO]: [FeatherBoard] Loading messages ...
+[23:44:55] [Server thread/INFO]: [FeatherBoard] Loading language file: lang_en
+[23:44:57] [Server thread/INFO]: [FeatherBoard] Loaded FeatherBoard module: [_LegacyPatch_1.jar] by Maximvdw
+[23:44:57] [Server thread/INFO]: [FeatherBoard] Checking for module updates ...
+[23:44:57] [Server thread/INFO]: [FeatherBoard] Fetching modules from server ...
+[23:44:58] [Server thread/INFO]: [FeatherBoard] Loading placeholders and event triggers ...
+[23:44:58] [Server thread/INFO]: [FeatherBoard] Loading internal placeholders ...
+[23:44:58] [Server thread/INFO]: [FeatherBoard] Fetching available placeholders from server ...
+[23:44:58] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Armor] ...
+[23:44:58] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Bukkit] ...
+[23:44:58] [Server thread/INFO]: [FeatherBoard] Loading placeholder [BungeeCord] ...
+[23:44:58] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Color] ...
+[23:44:58] [Server thread/INFO]: [FeatherBoard] Loading placeholder [CommandPlaceholderPack] ...
+[23:44:58] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Compass placeholders] ...
+[23:44:58] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Economy] ...
+[23:44:58] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Effects] ...
+[23:44:58] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Entities] ...
+[23:44:58] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Essentials] ...
+[23:44:58] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Facebook] ...
+[23:44:59] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Factions 2.7<] ...
+[23:44:59] [Server thread/INFO]: [FeatherBoard] Loading placeholder [FireworkEffect] ...
+[23:44:59] [Server thread/INFO]: [FeatherBoard] Loading placeholder [GAListener] ...
+[23:44:59] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Geographical] ...
+[23:44:59] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Hotbar] ...
+[23:44:59] [Server thread/INFO]: [FeatherBoard] Loading placeholder [JavaInfo] ...
+[23:44:59] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Memory] ...
+[23:44:59] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Multiverse-Core] ...
+[23:44:59] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Permissions] ...
+[23:44:59] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Player] ...
+[23:45:00] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Previous Names] ...
+[23:45:00] [Server thread/INFO]: [FeatherBoard] Loading placeholder [RedisBungee] ...
+[23:45:00] [Server thread/INFO]: [FeatherBoard] Loading placeholder [ServerPinger] ...
+[23:45:00] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Sound Effects] ...
+[23:45:00] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Statistics] ...
+[23:45:00] [Server thread/INFO]: [FeatherBoard] Loading placeholder [TicksPerSecond] ...
+[23:45:00] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Twitter] ...
+[23:45:00] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Unicode Characters] ...
+[23:45:00] [Server thread/INFO]: [FeatherBoard] Loading placeholder [VanillaEvents] ...
+[23:45:00] [Server thread/INFO]: [FeatherBoard] Loading event hook: Vanilla Combat hook ...
+[23:45:00] [Server thread/INFO]: [FeatherBoard] Loading event hook: Vanilla Block break hook ...
+[23:45:00] [Server thread/INFO]: [FeatherBoard] Loading event hook: Vanilla Block place hook ...
+[23:45:00] [Server thread/INFO]: [FeatherBoard] Loading event hook: Vanilla player rejoin ...
+[23:45:00] [Server thread/INFO]: [FeatherBoard] Loading event hook: Vanilla player join ...
+[23:45:00] [Server thread/INFO]: [FeatherBoard] Loading event hook: Vanilla Death hook ...
+[23:45:00] [Server thread/INFO]: [FeatherBoard] Loading event hook: Vanilla Create portal hook ...
+[23:45:00] [Server thread/INFO]: [FeatherBoard] Loading event hook: Vanilla player first join ...
+[23:45:00] [Server thread/INFO]: [FeatherBoard] Loading event hook: Vanilla Combat hook ...
+[23:45:00] [Server thread/INFO]: [FeatherBoard] Loading event hook: Vanilla Block break hook ...
+[23:45:00] [Server thread/INFO]: [FeatherBoard] Loading event hook: Vanilla Block place hook ...
+[23:45:00] [Server thread/INFO]: [FeatherBoard] Loading event hook: Vanilla player rejoin ...
+[23:45:00] [Server thread/INFO]: [FeatherBoard] Loading event hook: Vanilla player join ...
+[23:45:00] [Server thread/INFO]: [FeatherBoard] Loading event hook: Vanilla Death hook ...
+[23:45:00] [Server thread/INFO]: [FeatherBoard] Loading event hook: Vanilla Create portal hook ...
+[23:45:00] [Server thread/INFO]: [FeatherBoard] Loading event hook: Vanilla player first join ...
+[23:45:00] [Server thread/INFO]: [FeatherBoard] Loading placeholder [World] ...
+[23:45:00] [Server thread/INFO]: [FeatherBoard] Loading placeholder [WorldBorder] ...
+[23:45:00] [Server thread/INFO]: [FeatherBoard] Loading placeholder [WorldGuard] ...
+[23:45:00] [Server thread/INFO]: [FeatherBoard] Loading event hook: WorldGuard Region ...
+[23:45:00] [Server thread/INFO]: [FeatherBoard] Loading event hook: WorldGuard Region ...
+[23:45:00] [Server thread/INFO]: [FeatherBoard] Loading placeholder [mcMMO] ...
+[23:45:00] [Server thread/INFO]: [FeatherBoard] Loading event hook: mcMMO Party Level up ...
+[23:45:00] [Server thread/INFO]: [FeatherBoard] Loading event hook: mcMMO Level up event ...
+[23:45:00] [Server thread/INFO]: [FeatherBoard] Loading event hook: mcMMO Level down event ...
+[23:45:00] [Server thread/INFO]: [FeatherBoard] Loading event hook: mcMMO Party Level up ...
+[23:45:00] [Server thread/INFO]: [FeatherBoard] Loading event hook: mcMMO Level up event ...
+[23:45:00] [Server thread/INFO]: [FeatherBoard] Loading event hook: mcMMO Level down event ...
+[23:45:00] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Factions] ...
+[23:45:01] [Server thread/INFO]: [0;35;22m[[0;34;1mFeatherBoard[0;35;22m] [0;33;1mUnable to load placeholders 'factions1_6'. Version incompatible for Factions[m
+[23:45:01] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Factions 1.8] ...
+[23:45:01] [Server thread/INFO]: [0;35;22m[[0;34;1mFeatherBoard[0;35;22m] [0;33;1mUnable to load placeholders 'factions1_8'. Version incompatible for Factions[m
+[23:45:01] [Server thread/INFO]: [FeatherBoard] Checking for placeholder updates ...
+[23:45:01] [Server thread/INFO]: [FeatherBoard] Loaded 2632 of the 2632 placholders
+[23:45:01] [Server thread/INFO]: [MVdWPlaceholderAPI] Hooked into MVdW plugin: FeatherBoard
+[23:45:01] [Server thread/INFO]: [FeatherBoard] Creating new custom effect: warning
+[23:45:01] [Server thread/INFO]: [FeatherBoard] 	Lines: 2
+[23:45:01] [Server thread/INFO]: [FeatherBoard] 	Arguments: 1
+[23:45:01] [Server thread/INFO]: [FeatherBoard] Using OPTIMAL as the update strategy
+[23:45:01] [Server thread/INFO]: [FeatherBoard] Adding scoreboard group 'benchmark' ...
+[23:45:04] [Server thread/INFO]: [FeatherBoard] Adding scoreboard group 'combat-scoreboard-example' ...
+[23:45:04] [Server thread/INFO]: [FeatherBoard] Adding scoreboard group 'default' ...
+[23:45:04] [Server thread/INFO]: [FeatherBoard] Adding scoreboard group 'mcmmo-levelup' ...
+[23:45:04] [Server thread/INFO]: [FeatherBoard] Adding scoreboard group 'towny-town-example' ...
+[23:45:04] [Server thread/INFO]: [FeatherBoard] Added 'PERMISSION' as the default scoreboard assign method
+[23:45:04] [Server thread/INFO]: [0;35;22m[[0;34;1mFeatherBoard[0;35;22m] [0;31;1mA new update for FeatherBoard is available for download on Spigot![m
+[23:45:04] [Server thread/INFO]: [FeatherBoard] Toggle persistence is disabled!
+[23:45:04] [Server thread/INFO]: [FeatherBoard] Adding command 'featherboard'
+[23:45:04] [Server thread/INFO]: [CommandWatcher] Enabling CommandWatcher v1.5.3
+[23:45:04] [Server thread/INFO]: [CommandWatcher] v1.5.3 aktiviert
+[23:45:04] [Server thread/INFO]: [AntiAura] Enabling AntiAura v0.1-SNAPSHOT
+[23:45:04] [Server thread/INFO]: [ActionAnnouncer] Enabling ActionAnnouncer v1.9.1
+[23:45:05] [Server thread/INFO]: [AntiCombatLog] Enabling AntiCombatLog v1.0
+[23:45:05] [Server thread/INFO]: [GAListener] Enabling GAListener v1.3.1
+[23:45:05] [Server thread/INFO]: [GAListener] GAListener v1.3.1 Enabled
+[23:45:05] [Server thread/INFO]: [GuiShopRecoded] Enabling GuiShopRecoded v1.4
+[23:45:05] [Server thread/ERROR]: Error occurred while enabling GuiShopRecoded v1.4 (Is it up to date?)
+java.lang.IllegalArgumentException: Title cannot be longer than 32 characters
+	at org.apache.commons.lang.Validate.isTrue(Validate.java:136) ~[spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.craftbukkit.v1_8_R3.inventory.CraftInventoryCustom$MinecraftInventory.<init>(CraftInventoryCustom.java:59) ~[spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.craftbukkit.v1_8_R3.inventory.CraftInventoryCustom.<init>(CraftInventoryCustom.java:32) ~[spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.createInventory(CraftServer.java:1525) ~[spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.Bukkit.createInventory(Bukkit.java:938) ~[spigot.jar:git-Spigot-db6de12-18fbb24]
+	at ru.blc.guishop.gui.GUI.generateMain(GUI.java:234) ~[?:?]
+	at ru.blc.guishop.gui.GUI.createShop(GUI.java:32) ~[?:?]
+	at ru.blc.guishop.GuiShopRecoded.onEnable(GuiShopRecoded.java:82) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321) ~[spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:357) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:317) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:414) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:378) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:333) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:263) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_162]
+[23:45:05] [Server thread/INFO]: [NoHopperCraft] Enabling NoHopperCraft v1.0
+[23:45:05] [Server thread/INFO]: [NoHopperCraft] NoHopperCraft 1.0 has been enabled!
+[23:45:05] [Server thread/INFO]: [SkinChanger] Enabling SkinChanger v1.0.0
+[23:45:05] [Server thread/ERROR]: Error occurred while enabling SkinChanger v1.0.0 (Is it up to date?)
+java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(I)Lcom/google/common/cache/CacheBuilder;
+	at com.faris.skinchanger.PlayerDisplayModifier.<init>(PlayerDisplayModifier.java:53) ~[?:?]
+	at com.faris.skinchanger.Main.enablePlugin(Main.java:188) ~[?:?]
+	at com.faris.skinchanger.Main.onEnable(Main.java:43) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321) ~[spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:357) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:317) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:414) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:378) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:333) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:263) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_162]
+[23:45:05] [Server thread/INFO]: [AntiCommandTab] Enabling AntiCommandTab v3.4
+[23:45:05] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.2.6
+[23:45:05] [Server thread/INFO]: [HolographicDisplays] Found ProtocolLib, using old version.
+[23:45:05] [Server thread/INFO]: [HolographicDisplays] Enabled player relative placeholders with ProtocolLib.
+[23:45:05] [Server thread/WARN]: [HolographicDisplays] Hologram 'crate1' was in the world 'Terrain1' but it wasn't loaded.
+[23:45:05] [Server thread/WARN]: [HolographicDisplays] Hologram 'crate3' was in the world 'world1' but it wasn't loaded.
+[23:45:05] [Server thread/WARN]: [HolographicDisplays] Hologram 'crate4' was in the world 'world1' but it wasn't loaded.
+[23:45:05] [Server thread/WARN]: [HolographicDisplays] Hologram 'portal' was in the world 'world1' but it wasn't loaded.
+[23:45:05] [Server thread/WARN]: [HolographicDisplays] Hologram 'netherportal' was in the world 'world1' but it wasn't loaded.
+[23:45:05] [Server thread/WARN]: [HolographicDisplays] Hologram 'endp' was in the world 'world1' but it wasn't loaded.
+[23:45:05] [Server thread/WARN]: [HolographicDisplays] Hologram 'youtube' was in the world 'spawn' but it wasn't loaded.
+[23:45:05] [Server thread/WARN]: [HolographicDisplays] Hologram 'spawn' was in the world 'spawn' but it wasn't loaded.
+[23:45:05] [Server thread/WARN]: [HolographicDisplays] Hologram 'worldsize' was in the world 'spawn' but it wasn't loaded.
+[23:45:05] [Server thread/WARN]: [HolographicDisplays] Hologram '3' was in the world 'Terrain1' but it wasn't loaded.
+[23:45:05] [Server thread/WARN]: [HolographicDisplays] Hologram '4' was in the world 'terrain' but it wasn't loaded.
+[23:45:05] [Server thread/WARN]: [HolographicDisplays] Hologram '6' was in the world 'Terrain1' but it wasn't loaded.
+[23:45:05] [Server thread/WARN]: [HolographicDisplays] Hologram '7' was in the world 'Terrain1' but it wasn't loaded.
+[23:45:05] [Server thread/WARN]: [HolographicDisplays] Hologram 'shop' was in the world 'Building' but it wasn't loaded.
+[23:45:05] [Server thread/WARN]: [HolographicDisplays] Hologram 'crates' was in the world 'Terrain1' but it wasn't loaded.
+[23:45:05] [Server thread/WARN]: [HolographicDisplays] Hologram 'voting' was in the world 'Terrain1' but it wasn't loaded.
+[23:45:05] [Server thread/WARN]: [HolographicDisplays] Hologram 'global' was in the world 'Terrain1' but it wasn't loaded.
+[23:45:05] [Server thread/INFO]: [AuctionHouse] Enabling AuctionHouse v3.2
+[23:45:05] [Server thread/INFO]: [PlayerVaults] Enabling PlayerVaults v3.5.7-b${BUILD_NUMBER}
+[23:45:05] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[23:45:05] [Server thread/INFO]: [MyCommand] Enabling MyCommand v5.3.4
+[23:45:05] [Server thread/INFO]: *-=-=-=-=-=-=-=-=-=-* MyCommand *-=-=-=-=-=-=-=-=-=-=-*
+[23:45:05] [Server thread/INFO]: | You are using an not fully supported server version. (v1_8_R3)
+[23:45:05] [Server thread/INFO]: | Vault  : Ok. Hooked on Vault 1.5.6-b49
+[23:45:05] [Server thread/INFO]: | Command file(s) found : 1
+[23:45:05] [Server thread/INFO]: | Config : Ready.
+[23:45:05] [Server thread/INFO]: | PlaceholderAPI: Not Found
+[23:45:05] [Server thread/INFO]: | Custom commands loaded : 39
+[23:45:05] [Server thread/INFO]: | Version: 5.3.4
+[23:45:05] [Server thread/INFO]: | Author : emmerrei a.k.a Ivanpro
+[23:45:05] [Server thread/INFO]: | You are running the latest version of MyCommand.
+[23:45:05] [Server thread/INFO]: *-=-=-=-=-=-=-=-=-=-*   Done!   *-=-=-=-=-=-=-=-=-=-=-*
+[23:45:05] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.1-SNAPSHOT;3501-c85c9f7
+[23:45:05] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[23:45:05] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[23:45:05] [Server thread/INFO]: [VotifierScripts] Enabling VotifierScripts v1.0-b21
+[23:45:05] [Server thread/INFO]: [SpawnerShop] Enabling SpawnerShop v3.2
+[23:45:05] [Server thread/INFO]: [PureCombat] Enabling PureCombat v1.0
+[23:45:05] [Server thread/INFO]: [PureCombat] Saved the message config!
+[23:45:05] [Server thread/INFO]: [Banknotes] Enabling Banknotes v1.8.0
+[23:45:05] [Server thread/INFO]: [LiteBans] Enabling LiteBans v2.2.4
+[23:45:05] [Server thread/INFO]: [0;31;1m[LiteBans] Cracked by Java | BlackSpigot.com[m
+[23:45:06] [Server thread/INFO]: [LiteBans] Loading SQL driver: h2 (org.h2.Driver)
+[23:45:06] [Server thread/INFO]: [LiteBans] Connecting to database...
+[23:45:06] [Server thread/INFO]: [LiteBans] Connected to [jdbc:h2://C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\LiteBans\litebans] (551.3 ms).
+[23:45:06] [Server thread/INFO]: [LiteBans] Database connection fully initialized (555.9 ms).
+[23:45:06] [Server thread/INFO]: [LiteBans] v2.2.4 enabled. Startup took 978 ms.
+[23:45:07] [Server thread/INFO]: [CrateReloaded] Enabling CrateReloaded v1.3.27
+[23:45:07] [Server thread/INFO]: [CrateReloaded] org.bukkit.craftbukkit.v1_8_R3
+[23:45:07] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.16-SNAPSHOT (build 1267)
+[23:45:07] [Server thread/WARN]: org.bukkit.configuration.InvalidConfigurationException: while scanning a simple key
+ in 'string', line 7, column 1:
+    <<<<<<< HEAD
+    ^
+could not find expected ':'
+ in 'string', line 8, column 27:
+          player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjAwNjAyNj ... 
+                              ^
+
+[23:45:07] [Server thread/WARN]: 	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:57)
+[23:45:07] [Server thread/WARN]: 	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:226)
+[23:45:07] [Server thread/WARN]: 	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:169)
+[23:45:07] [Server thread/WARN]: 	at net.citizensnpcs.api.util.YamlStorage.load(YamlStorage.java:87)
+[23:45:07] [Server thread/WARN]: 	at net.citizensnpcs.Citizens.createStorage(Citizens.java:98)
+[23:45:07] [Server thread/WARN]: 	at net.citizensnpcs.Citizens.onEnable(Citizens.java:271)
+[23:45:07] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321)
+[23:45:07] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340)
+[23:45:07] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405)
+[23:45:07] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:357)
+[23:45:07] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:317)
+[23:45:07] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:414)
+[23:45:07] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:378)
+[23:45:07] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:333)
+[23:45:07] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:263)
+[23:45:07] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525)
+[23:45:07] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[23:45:07] [Server thread/WARN]: Caused by: while scanning a simple key
+ in 'string', line 7, column 1:
+    <<<<<<< HEAD
+    ^
+could not find expected ':'
+ in 'string', line 8, column 27:
+          player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjAwNjAyNj ... 
+                              ^
+
+[23:45:07] [Server thread/WARN]: 	at org.yaml.snakeyaml.scanner.ScannerImpl.stalePossibleSimpleKeys(ScannerImpl.java:465)
+[23:45:07] [Server thread/WARN]: 	at org.yaml.snakeyaml.scanner.ScannerImpl.needMoreTokens(ScannerImpl.java:280)
+[23:45:07] [Server thread/WARN]: 	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:225)
+[23:45:07] [Server thread/WARN]: 	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingValue.produce(ParserImpl.java:586)
+[23:45:07] [Server thread/WARN]: 	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158)
+[23:45:07] [Server thread/WARN]: 	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:143)
+[23:45:07] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:132)
+[23:45:07] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:229)
+[23:45:07] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155)
+[23:45:07] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:229)
+[23:45:07] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155)
+[23:45:07] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:229)
+[23:45:07] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155)
+[23:45:07] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:122)
+[23:45:07] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:105)
+[23:45:07] [Server thread/WARN]: 	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:120)
+[23:45:07] [Server thread/WARN]: 	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:450)
+[23:45:07] [Server thread/WARN]: 	at org.yaml.snakeyaml.Yaml.load(Yaml.java:369)
+[23:45:07] [Server thread/WARN]: 	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55)
+[23:45:07] [Server thread/WARN]: 	... 16 more
+[23:45:07] [Server thread/ERROR]: [Citizens] Unable to load saves, disabling...
+[23:45:07] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.16-SNAPSHOT (build 1267)
+[23:45:07] [Server thread/ERROR]: Error occurred while disabling Citizens v2.0.16-SNAPSHOT (build 1267) (Is it up to date?)
+java.lang.NullPointerException
+	at net.citizensnpcs.Citizens.onDisable(Citizens.java:247) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:323) ~[spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:364) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:424) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.citizensnpcs.Citizens.onEnable(Citizens.java:274) [Citizens.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:357) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:317) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:414) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:378) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:333) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:263) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_162]
+[23:45:07] [Server thread/INFO]: [VanishNoPacket] Enabling VanishNoPacket v3.20
+[23:45:07] [Server thread/INFO]: [VanishNoPacket] Colored nametags enabled, but I couldn't find TagAPI
+[23:45:07] [Server thread/INFO]: [VanishNoPacket] For awesome colored nametags on vanish, visit
+[23:45:07] [Server thread/INFO]: [VanishNoPacket] http://dev.bukkit.org/server-mods/tag/ 
+[23:45:07] [Server thread/INFO]: [VanishNoPacket] and download TagAPI.jar
+[23:45:07] [Server thread/INFO]: [VanishNoPacket] Now hooking into Essentials
+[23:45:07] [Server thread/INFO]: [VanishNoPacket] 3.20 loaded.
+[23:45:07] [Server thread/INFO]: [KitPreview] Enabling KitPreview v5.4.1
+[23:45:07] [Server thread/INFO]: [0;32;1m=============================[m
+[23:45:07] [Server thread/INFO]: [0;37;22mKitPreview5.4.1 by [0;35;22mBrianna <3![m
+[23:45:07] [Server thread/INFO]: [0;37;22mAction: [0;32;1mEnabling[0;37;22m...[m
+[23:45:07] [Server thread/INFO]: [KitPreview] Loading language file
+[23:45:07] [Server thread/INFO]: [KitPreview] Loading data file
+[23:45:07] [Server thread/INFO]: MCUpdate enabled and loaded
+[23:45:07] [Server thread/INFO]: [0;37;22mThe [0;32;1m/kit[0;37;22m and [0;32;1m/kits [0;37;22mfeatures have been [0;31;1mdisabled[0;37;22m.[m
+[23:45:07] [Server thread/INFO]: [0;32;1m=============================[m
+[23:45:07] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[23:45:07] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[23:45:07] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[23:45:07] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[23:45:07] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[23:45:07] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[23:45:07] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[23:45:07] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[23:45:07] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
+[23:45:07] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[23:45:07] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[23:45:07] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[23:45:07] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[23:45:07] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
+[23:45:07] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[23:45:07] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[23:45:07] [Server thread/INFO]: [WorldGuard] (buildsextra) TNT ignition is PERMITTED.
+[23:45:07] [Server thread/INFO]: [WorldGuard] (buildsextra) Lighters are PERMITTED.
+[23:45:07] [Server thread/INFO]: [WorldGuard] (buildsextra) Lava fire is blocked.
+[23:45:07] [Server thread/INFO]: [WorldGuard] (buildsextra) Fire spread is UNRESTRICTED.
+[23:45:07] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'buildsextra'
+[23:45:07] [Server thread/INFO]: [WorldGuard] Loading region data...
+[23:45:07] [Server thread/INFO]: [Factions] Enabling Factions v2.13.6
+[23:45:07] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.13.6[0;36;22m] [0;33;1m=== ENABLE START ===[m
+[23:45:07] [Server thread/ERROR]: Error occurred while enabling Factions v2.13.6 (Is it up to date?)
+java.lang.NullPointerException
+	at com.massivecraft.massivecore.MassivePlugin.checkVersionSynchronization(MassivePlugin.java:117) ~[?:?]
+	at com.massivecraft.massivecore.MassivePlugin.onEnablePre(MassivePlugin.java:96) ~[?:?]
+	at com.massivecraft.massivecore.MassivePlugin.onEnable(MassivePlugin.java:81) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321) ~[spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:357) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:317) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:414) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:378) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:333) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:263) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_162]
+[23:45:07] [Server thread/INFO]: [FactionsTop] Enabling FactionsTop v4.6
+[23:45:07] [Server thread/ERROR]: Error occurred while enabling FactionsTop v4.6 (Is it up to date?)
+java.lang.NoClassDefFoundError: com/massivecraft/factions/iface/RelationParticipator
+	at me.determined.ftop.FTop.registerListeners(FTop.java:114) ~[?:?]
+	at me.determined.ftop.FTop.onEnable(FTop.java:68) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321) ~[spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:357) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:317) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:414) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:378) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:333) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:263) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_162]
+Caused by: java.lang.ClassNotFoundException: com.massivecraft.factions.iface.RelationParticipator
+	at java.net.URLClassLoader.findClass(Unknown Source) ~[?:1.8.0_162]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:101) ~[spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:86) ~[spigot.jar:git-Spigot-db6de12-18fbb24]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_162]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_162]
+	... 13 more
+[23:45:07] [Server thread/INFO]: [TitleManager] Enabling TitleManager v2.0.9
+[23:45:09] [Server thread/INFO]: [CombatLog] Enabling CombatLog v1.8.11-hack
+[23:45:09] [Server thread/INFO]: [CombatLog] Loading messages.properties.
+[23:45:09] [Server thread/INFO]: [CombatLog] Loading config.yml.
+[23:45:09] [Server thread/INFO]: [0;31;1m[CombatLog] DisguiseCraft plugin not found! Disguise removal will not work.[m
+[23:45:09] [Server thread/INFO]: [CombatLog] CombatLog v1.8.11-hack Enabled.
+[23:45:09] [Server thread/INFO]: [FBasics] Enabling FBasics v2.1.8
+[23:45:09] [Server thread/WARN]: [FBasics] **WARNING**
+[23:45:09] [Server thread/WARN]: [FBasics] Failed to enable Factions integration due to errors.
+[23:45:09] [Server thread/WARN]: [FBasics] This is most likely due to an unsupported version of Factions.
+[23:45:09] [Server thread/WARN]: [FBasics] Defaulting to a non-factions configuration.
+[23:45:09] [Server thread/WARN]: java.lang.ClassNotFoundException: org.originmc.fbasics.factions.v2_13.FactionsHook
+[23:45:09] [Server thread/WARN]: 	at java.net.URLClassLoader.findClass(Unknown Source)
+[23:45:09] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:101)
+[23:45:09] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:86)
+[23:45:09] [Server thread/WARN]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[23:45:09] [Server thread/WARN]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[23:45:09] [Server thread/WARN]: 	at java.lang.Class.forName0(Native Method)
+[23:45:09] [Server thread/WARN]: 	at java.lang.Class.forName(Unknown Source)
+[23:45:09] [Server thread/WARN]: 	at org.originmc.fbasics.FBasics.integrateFactions(FBasics.java:211)
+[23:45:09] [Server thread/WARN]: 	at org.originmc.fbasics.FBasics.onEnable(FBasics.java:106)
+[23:45:09] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321)
+[23:45:09] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340)
+[23:45:09] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405)
+[23:45:09] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:357)
+[23:45:09] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:317)
+[23:45:09] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:414)
+[23:45:09] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:378)
+[23:45:09] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:333)
+[23:45:09] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:263)
+[23:45:09] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525)
+[23:45:09] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[23:45:09] [Server thread/INFO]: [MVdWPlaceholderAPI] FBasics added custom placeholder {fbasics_enderpearl_cooldown}
+[23:45:09] [Server thread/INFO]: [WarpPortals] Enabling WarpPortals v5.6.3
+[23:45:09] [Server thread/INFO]: [WarpPortals] 0 Portals loaded!
+[23:45:09] [Server thread/INFO]: [WarpPortals] 0 Destinations loaded!
+[23:45:09] [Server thread/INFO]: [SilkSpawners] Enabling SilkSpawners v5.0.0
+[23:45:09] [Server thread/INFO]: [SilkSpawners] WorldGuard was found and support is enabled
+[23:45:09] [Server thread/INFO]: [SilkSpawners] Loading support for v1_8_R3
+[23:45:09] [Server thread/INFO]: [SilkSpawners] AutoUpdater is enabled.
+[23:45:09] [Server thread/INFO]: [SilkSpawners] Result from AutoUpdater is: NO_UPDATE
+[23:45:09] [Server thread/INFO]: [SilkSpawners] BarAPI was not found and remains disabled!
+[23:45:09] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:45:09] [Server thread/INFO]: Done (21.043s)! For help, type "help" or "?"
+[23:45:09] [Server thread/INFO]: [Banknotes] Found economy provider Vault
+[23:45:09] [Server thread/INFO]: [PlayerVaults] ** Vaults have already been converted to UUIDs. If this is incorrect, shutdown your server and rename the plugins\PlayerVaults\uuidvaults directory.
+[23:45:09] [Server thread/INFO]: [0;30;1m([0;31;22m[21mFAWE[0;30;1m)[m[0;37;22m Plugin 'WorldGuard' found. Using it now.[m
+[23:45:09] [Craft Scheduler Thread - 33/INFO]: [PlayerVaults] We didn't find an update!
+[23:45:10] [Craft Scheduler Thread - 41/INFO]: [GAListener] Connection established!
+[23:45:10] [Server thread/INFO]: [0;30;1m([0;31;22m[21mFAWE[0;30;1m)[m[0;37;22m Plugin 'Factions' found. Using it now.[m
+[23:45:10] [Craft Scheduler Thread - 41/INFO]: [GAListener] Loading queued votes
+[23:45:10] [Craft Scheduler Thread - 41/INFO]: [GAListener] Loaded 5 queued votes
+[23:45:10] [Craft Scheduler Thread - 14/INFO]: [NoCheatPlus] Registered for fr.neatmonster.nocheatplus.components.location.IEntityAccessLastPositionAndLook: fr.neatmonster.nocheatplus.compat.cbreflect.reflect.ReflectEntityLastPositionAndLook
+[23:45:10] [Craft Scheduler Thread - 14/INFO]: [NoCheatPlus] Added hook: AllViolations(NCP) [1.0].
+[23:45:10] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.8.x(47)
+[23:45:10] [Server thread/INFO]: [NoCheatPlus] Post-enable running...
+[23:45:10] [Craft Scheduler Thread - 191/INFO]: [PlugMan] No update was found.
+[23:45:10] [Craft Scheduler Thread - 141/INFO]: [ChatControl] [0;36;1mChatControl is updating! Downloading v5.6.4[m
+[23:45:10] [Craft Scheduler Thread - 141/INFO]: [ChatControl] Got file of size: 193.533 kb[m
+[23:45:10] [Craft Scheduler Thread - 141/INFO]: [ChatControl] Downloaded! File uploaded into the update folder. Please copy it to the plugins folder.[m
+[23:45:10] [Server thread/INFO]: [NoCheatPlus] Post-enable finished.
+[23:45:10] [Craft Scheduler Thread - 24/INFO]: [Vault] Checking for Updates ... 
+[23:45:10] [Craft Scheduler Thread - 24/INFO]: [Vault] No new version available
+[23:45:10] [Craft Scheduler Thread - 153/INFO]: [BuycraftX] Fetching all due players...
+[23:45:10] [Craft Scheduler Thread - 153/INFO]: [BuycraftX] Fetched due players (0 found).
+[23:45:11] [Craft Scheduler Thread - 58/INFO]: [VanishNoPacket] Error: Could not check if plugin was up to date. Will try later
+[23:45:11] [Craft Scheduler Thread - 58/INFO]: [VanishNoPacket] Exception message: Server returned HTTP response code: 403 for URL: https://servermods.forgesvc.net/servermods/files?projectIds=30949
+[23:45:30] [Craft Scheduler Thread - 134/INFO]: [Metrics] Connection timed out: connect
+[23:46:10] [Craft Scheduler Thread - 46/INFO]: [BuycraftX] Updating coupon list...
+[23:46:10] [Craft Scheduler Thread - 70/INFO]: AntiJoinBot is enabled
+[23:46:24] [Server thread/INFO]: Stopping the server
+[23:46:24] [Server thread/INFO]: Stopping server
+[23:46:24] [Server thread/INFO]: [SilkSpawners] Disabling SilkSpawners v5.0.0
+[23:46:24] [Server thread/INFO]: [WarpPortals] Disabling WarpPortals v5.6.3
+[23:46:24] [Server thread/INFO]: [FBasics] Disabling FBasics v2.1.8
+[23:46:24] [Server thread/INFO]: [CombatLog] Disabling CombatLog v1.8.11-hack
+[23:46:24] [Server thread/INFO]: [CombatLog] CombatLog v1.8.11-hack Disabled.
+[23:46:24] [Server thread/INFO]: [TitleManager] Disabling TitleManager v2.0.9
+[23:46:24] [Server thread/INFO]: [FactionsTop] Disabling FactionsTop v4.6
+[23:46:24] [Server thread/INFO]: [Factions] Disabling Factions v2.13.6
+[23:46:24] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.13.6[0;36;22m] [0;33;1mDisabled[m
+[23:46:24] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[23:46:24] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[23:46:24] [Server thread/INFO]: [KitPreview] Disabling KitPreview v5.4.1
+[23:46:24] [Server thread/INFO]: [0;32;1m=============================[m
+[23:46:24] [Server thread/INFO]: [0;37;22mKitPreview 5.4.1 by [0;35;22mBrianna <3![m
+[23:46:24] [Server thread/INFO]: [0;37;22mAction: [0;31;1mDisabling[0;37;22m...[m
+[23:46:24] [Server thread/INFO]: [0;32;1m=============================[m
+[23:46:24] [Server thread/INFO]: [VanishNoPacket] Disabling VanishNoPacket v3.20
+[23:46:24] [Server thread/INFO]: [VanishNoPacket] 3.20 unloaded.
+[23:46:24] [Server thread/INFO]: [CrateReloaded] Disabling CrateReloaded v1.3.27
+[23:46:24] [Server thread/INFO]: [LiteBans] Disabling LiteBans v2.2.4
+[23:46:24] [Server thread/INFO]: [LiteBans] litebans-pool - Shutdown initiated...
+[23:46:24] [Server thread/INFO]: [LiteBans] litebans-pool - Shutdown completed.
+[23:46:25] [Server thread/INFO]: [LiteBans] v2.2.4 disabled.
+[23:46:25] [Server thread/INFO]: [Banknotes] Disabling Banknotes v1.8.0
+[23:46:25] [Server thread/INFO]: [PureCombat] Disabling PureCombat v1.0
+[23:46:25] [Server thread/INFO]: [SpawnerShop] Disabling SpawnerShop v3.2
+[23:46:25] [Server thread/INFO]: [VotifierScripts] Disabling VotifierScripts v1.0-b21
+[23:46:25] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.1-SNAPSHOT;3501-c85c9f7
+[23:46:25] [Server thread/INFO]: [MyCommand] Disabling MyCommand v5.3.4
+[23:46:25] [Server thread/INFO]: *-=-=-=-=-=-=-=-=-=-* MyCommand *-=-=-=-=-=-=-=-=-=-=-*
+[23:46:25] [Server thread/INFO]: | Tasks   : Stopped all.
+[23:46:25] [Server thread/INFO]: | Version : 5.3.4
+[23:46:25] [Server thread/INFO]: | Author  : emmerrei a.k.a Ivanpro
+[23:46:25] [Server thread/INFO]: *-=-=-=-=-=-=-=-=-=-*    Bye!   *-=-=-=-=-=-=-=-=-=-=-*
+[23:46:25] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[23:46:25] [Server thread/INFO]: [PlayerVaults] Disabling PlayerVaults v3.5.7-b${BUILD_NUMBER}
+[23:46:25] [Server thread/INFO]: [AuctionHouse] Disabling AuctionHouse v3.2
+[23:46:25] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.2.6
+[23:46:25] [Server thread/INFO]: [AntiCommandTab] Disabling AntiCommandTab v3.4
+[23:46:25] [Server thread/INFO]: [SkinChanger] Disabling SkinChanger v1.0.0
+[23:46:25] [Server thread/ERROR]: Error occurred while disabling SkinChanger v1.0.0 (Is it up to date?)
+java.lang.NullPointerException
+	at com.faris.skinchanger.Main.disablePlugin(Main.java:160) ~[?:?]
+	at com.faris.skinchanger.Main.onDisable(Main.java:50) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:323) ~[spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:364) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:424) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:417) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.disablePlugins(CraftServer.java:336) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.stop(MinecraftServer.java:460) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:593) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_162]
+[23:46:25] [Server thread/INFO]: [NoHopperCraft] Disabling NoHopperCraft v1.0
+[23:46:25] [Server thread/INFO]: [NoHopperCraft] NoHopperCraft 1.0 has been disabled!
+[23:46:25] [Server thread/INFO]: [MassiveCore] Disabling MassiveCore v2.13.6
+[23:46:25] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.13.6[0;36;22m] [0;33;1mDisabled[m
+[23:46:25] [Server thread/ERROR]: Error occurred while disabling MassiveCore v2.13.6 (Is it up to date?)
+java.lang.NullPointerException
+	at com.massivecraft.massivecore.MassiveCoreTaskDeleteFiles.run(MassiveCoreTaskDeleteFiles.java:21) ~[?:?]
+	at com.massivecraft.massivecore.MassiveCore.onDisable(MassiveCore.java:299) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:323) ~[spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:364) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:424) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:417) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.disablePlugins(CraftServer.java:336) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.stop(MinecraftServer.java:460) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:593) [spigot.jar:git-Spigot-db6de12-18fbb24]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_162]
+[23:46:25] [Server thread/INFO]: [GuiShopRecoded] Disabling GuiShopRecoded v1.4
+[23:46:25] [Server thread/INFO]: [Vault] Disabling Vault v1.5.6-b49
+[23:46:25] [Server thread/INFO]: [GAListener] Disabling GAListener v1.3.1
+[23:46:25] [Server thread/INFO]: [GAListener] GAListener v1.3.1 Disabled
+[23:46:25] [Server thread/INFO]: [AntiCombatLog] Disabling AntiCombatLog v1.0
+[23:46:25] [Server thread/INFO]: [ActionAnnouncer] Disabling ActionAnnouncer v1.9.1
+[23:46:25] [Server thread/INFO]: [mcMMO] Disabling mcMMO v1.5.04-SNAPSHOT-b${BUILD_NUMBER}
+[23:46:25] [Server thread/INFO]: [AntiAura] Disabling AntiAura v0.1-SNAPSHOT
+[23:46:25] [Server thread/INFO]: [CommandWatcher] Disabling CommandWatcher v1.5.3
+[23:46:25] [Server thread/INFO]: [FeatherBoard] Disabling FeatherBoard v4.5.0
+[23:46:25] [Server thread/INFO]: [FeatherBoard] Cancelling all tasks ...
+[23:46:25] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
+[23:46:25] [Server thread/INFO]: [ObsidianBreak] Disabling ObsidianBreak v1.0
+[23:46:25] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[23:46:25] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[23:46:25] [Server thread/INFO]: [WorldEditCrashFix] Disabling WorldEditCrashFix v2.0
+[23:46:25] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v18.03.01-b430f47-1020-19.1.15
+[23:46:25] [Server thread/INFO]: [MVdWPlaceholderAPI] Disabling MVdWPlaceholderAPI v2.4.0
+[23:46:25] [Server thread/INFO]: [KitAdder] Disabling KitAdder v2.3
+[23:46:25] [Server thread/INFO]: [KitAdder] KitAdder plugin has been disabled!
+[23:46:25] [Server thread/INFO]: [PhantomAntiDupe] Disabling PhantomAntiDupe v1.2
+[23:46:25] [Server thread/INFO]: [NoCheatPlus] Disabling NoCheatPlus v3.14.0-SNAPSHOT-sMD5NET-b968
+[23:46:25] [Server thread/INFO]: [NoCheatPlus] Removed hook: AllViolations(NCP) [1.0].
+[23:46:25] [Server thread/INFO]: Version 3.14.0-SNAPSHOT-sMD5NET-b968 is disabled.
+[23:46:25] [Server thread/INFO]: [AntiWDL] Disabling AntiWDL v0.1
+[23:46:25] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v3.6.5
+[23:46:25] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.4-b527
+[23:46:25] [Server thread/INFO]: [Multiverse-Core] - Disabled
+[23:46:25] [Server thread/INFO]: [Votifier] Disabling Votifier v1.9
+[23:46:25] [Server thread/INFO]: [Votifier] Votifier disabled.
+[23:46:25] [Server thread/INFO]: [Discord] Disabling Discord v1.0
+[23:46:25] [Server thread/INFO]: [BuycraftX] Disabling BuycraftX v10.3.0
+[23:46:25] [Server thread/INFO]: [FactionsBreak] Disabling FactionsBreak v1.0
+[23:46:25] [Server thread/INFO]: [WorldBorder] Disabling WorldBorder v1.8.4
+[23:46:25] [Server thread/INFO]: [WorldBorder] [CONFIG] Border-checking timed task stopped.
+[23:46:25] [Server thread/INFO]: [ChatControl] Disabling ChatControl v5.3.2
+[23:46:25] [Server thread/INFO]: [ClearLag] Disabling ClearLag v2.9.7
+[23:46:25] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[23:46:25] [Server thread/INFO]: [StackedPots] Disabling StackedPots v1
+[23:46:25] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[23:46:25] [Server thread/INFO]: [Installer] Disabling Installer v2.4.1
+[23:46:25] [Server thread/INFO]: [CmdSpy] Disabling CmdSpy v1.0
+[23:46:25] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v1.3.0
+[23:46:25] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[23:46:25] [Server thread/INFO]: [AJB] Disabling AntiJoinBot v5.0
+[23:46:25] [Server thread/INFO]: [RandomTeleport] Disabling RandomTeleport v1.0
+[23:46:25] [Server thread/INFO]: [0;31;1m=======================================[m
+[23:46:25] [Server thread/INFO]: [0;31;1m  [RandomTeleport] has been disabled ![m
+[23:46:25] [Server thread/INFO]: [0;31;1m=======================================[m
+[23:46:25] [Server thread/INFO]: [NoteBlockAPI] Disabling NoteBlockAPI v1.1.0
+[23:46:25] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v5.170.0-SNAPSHOT-jnks317-gitfcb8fe1
+[23:46:25] [Server thread/INFO]: [AntiBotUltra] Disabling AntiBotUltra v7.1
+[23:46:25] [Server thread/INFO]: [Arconix] Disabling Arconix v1.1.1
+[23:46:25] [Server thread/INFO]: [AntiPhase] Disabling AntiPhase v0.0.1-SNAPSHOT
+[23:46:25] [Server thread/INFO]: [AntiPhase] AntiPhase has been disabled!
+[23:46:25] [Server thread/INFO]: [TnTFill] Disabling TnTFill v1
+[23:46:25] [Server thread/INFO]: [PlugMan] Disabling PlugMan v2.1.4
+[23:46:25] [Server thread/INFO]: [MobMerge] Disabling MobMerge v1.0.5-SNAPSHOT
+[23:46:25] [Server thread/INFO]: [FactionsFly] Disabling FactionsFly v1.2.3
+[23:46:25] [Server thread/INFO]: [Disposal] Disabling Disposal v0.6
+[23:46:25] [Server thread/INFO]: [ClicksPerSecond] Disabling ClicksPerSecond v1.0
+[23:46:25] [Server thread/INFO]: [MotdManager] Disabling MotdManager v1.41-b20
+[23:46:25] [Server thread/INFO]: [MotdManager] version 1.41-b20 is disabled!
+[23:46:25] [Server thread/INFO]: Saving players
+[23:46:25] [Thread-18/WARN]: [Votifier] Protocol error. Ignoring packet - socket closed
+[23:46:25] [Server thread/INFO]: Saving worlds
+[23:46:25] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[23:46:26] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[23:46:26] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[23:46:26] [Server thread/INFO]: Saving chunks for level 'buildsextra'/Overworld

@@ -3,36 +3,21 @@ GET
 0
 HTTP/1.1 200 OK
 15
-<<<<<<< HEAD
-Date: Sat, 03 Mar 2018 06:57:13 GMT
+Date: Sat, 03 Mar 2018 07:45:45 GMT
 Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
-Set-Cookie: __cfduid=dcc4986e6ad6775188912f7cadd978d9f1520060233; expires=Sun, 03-Mar-19 06:57:13 GMT; path=/; domain=.plugin.buycraft.net; HttpOnly
-=======
-Date: Sat, 03 Mar 2018 06:26:14 GMT
-Content-Type: application/json
-Transfer-Encoding: chunked
-Connection: keep-alive
-Set-Cookie: __cfduid=d8be512ff5e74266b41460c260fd03c951520058374; expires=Sun, 03-Mar-19 06:26:14 GMT; path=/; domain=.plugin.buycraft.net; HttpOnly
->>>>>>> 5682967f55b411c7f1b6bc15bc212457838d1c14
+Set-Cookie: __cfduid=d03d65e16435d18c4ccf10f45e9cf060d1520063144; expires=Sun, 03-Mar-19 07:45:44 GMT; path=/; domain=.plugin.buycraft.net; HttpOnly
 Cache-Control: private, must-revalidate
 ETag: W/"972613c3da2a059aaf58c802fe30a609684476f5"
 X-BC-Node: i-0fba98162c21bc91c d-Q2R71BBSR
 Strict-Transport-Security: max-age=31536000;
 Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
 Server: cloudflare
-<<<<<<< HEAD
-CF-RAY: 3f5a352bd94b55ee-ORD
+CF-RAY: 3f5a7c3fcdb5920c-EWR
 Content-Encoding: gzip
-OkHttp-Sent-Millis: 1520060236188
-OkHttp-Received-Millis: 1520060236349
-=======
-CF-RAY: 3f5a07cb0fcd9230-EWR
-Content-Encoding: gzip
-OkHttp-Sent-Millis: 1520058333492
-OkHttp-Received-Millis: 1520058333603
->>>>>>> 5682967f55b411c7f1b6bc15bc212457838d1c14
+OkHttp-Sent-Millis: 1520063093920
+OkHttp-Received-Millis: 1520063094105
 
 TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256
 2

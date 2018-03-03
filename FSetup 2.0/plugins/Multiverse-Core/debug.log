@@ -2090,3 +2090,57 @@
 2018-03-02 22:25:26 [INFO] [Multiverse-Core] Loading World & Settings - 'buildsextra' - Env: NORMAL - Type: FLAT & seed: -7165224370601606865
 2018-03-02 22:25:26 [INFO] [Multiverse-Core] 4 - World(s) loaded.
 >>>>>>> 5682967f55b411c7f1b6bc15bc212457838d1c14
+2018-03-02 23:26:06 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2018-03-02 23:26:06 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -8013875772503020374
+2018-03-02 23:26:06 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -654650595
+2018-03-02 23:26:06 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2018-03-02 23:26:06 [WARNING] [Multiverse-Core] Original Location: X: 1 Y: 77 Z: 0 P: 0 Y: 0 
+2018-03-02 23:26:07 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2018-03-02 23:26:07 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -654650595
+2018-03-02 23:26:07 [INFO] [Multiverse-Core] Loading World & Settings - 'buildsextra' - Env: NORMAL - Type: FLAT & seed: -7165224370601606865
+2018-03-02 23:26:07 [INFO] [Multiverse-Core] 4 - World(s) loaded.
+2018-03-02 23:28:17 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2018-03-02 23:28:17 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -8013875772503020374
+2018-03-02 23:28:17 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -654650595
+2018-03-02 23:28:17 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2018-03-02 23:28:17 [WARNING] [Multiverse-Core] Original Location: X: 1 Y: 77 Z: 0 P: 0 Y: 0 
+2018-03-02 23:28:17 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2018-03-02 23:28:17 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -654650595
+2018-03-02 23:28:17 [INFO] [Multiverse-Core] Loading World & Settings - 'buildsextra' - Env: NORMAL - Type: FLAT & seed: -7165224370601606865
+2018-03-02 23:28:18 [INFO] [Multiverse-Core] 4 - World(s) loaded.
+2018-03-02 23:33:03 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2018-03-02 23:33:03 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -8013875772503020374
+2018-03-02 23:33:03 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -654650595
+2018-03-02 23:33:03 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2018-03-02 23:33:03 [WARNING] [Multiverse-Core] Original Location: X: 1 Y: 77 Z: 0 P: 0 Y: 0 
+2018-03-02 23:33:04 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2018-03-02 23:33:04 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -654650595
+2018-03-02 23:33:04 [INFO] [Multiverse-Core] Loading World & Settings - 'buildsextra' - Env: NORMAL - Type: FLAT & seed: -7165224370601606865
+2018-03-02 23:33:04 [INFO] [Multiverse-Core] 4 - World(s) loaded.
+2018-03-02 23:36:23 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2018-03-02 23:36:23 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -8013875772503020374
+2018-03-02 23:36:23 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -654650595
+2018-03-02 23:36:23 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2018-03-02 23:36:23 [WARNING] [Multiverse-Core] Original Location: X: 1 Y: 77 Z: 0 P: 0 Y: 0 
+2018-03-02 23:36:23 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2018-03-02 23:36:23 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -654650595
+2018-03-02 23:36:23 [INFO] [Multiverse-Core] Loading World & Settings - 'buildsextra' - Env: NORMAL - Type: FLAT & seed: -7165224370601606865
+2018-03-02 23:36:24 [INFO] [Multiverse-Core] 4 - World(s) loaded.
+2018-03-02 23:43:07 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2018-03-02 23:43:08 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -8013875772503020374
+2018-03-02 23:43:08 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -654650595
+2018-03-02 23:43:08 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2018-03-02 23:43:08 [WARNING] [Multiverse-Core] Original Location: X: 1 Y: 77 Z: 0 P: 0 Y: 0 
+2018-03-02 23:43:08 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2018-03-02 23:43:08 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -654650595
+2018-03-02 23:43:08 [INFO] [Multiverse-Core] Loading World & Settings - 'buildsextra' - Env: NORMAL - Type: FLAT & seed: -7165224370601606865
+2018-03-02 23:43:09 [INFO] [Multiverse-Core] 4 - World(s) loaded.
+2018-03-02 23:44:54 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2018-03-02 23:44:54 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -8013875772503020374
+2018-03-02 23:44:54 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -654650595
+2018-03-02 23:44:54 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2018-03-02 23:44:54 [WARNING] [Multiverse-Core] Original Location: X: 1 Y: 77 Z: 0 P: 0 Y: 0 
+2018-03-02 23:44:54 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2018-03-02 23:44:54 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -654650595
+2018-03-02 23:44:54 [INFO] [Multiverse-Core] Loading World & Settings - 'buildsextra' - Env: NORMAL - Type: FLAT & seed: -7165224370601606865
+2018-03-02 23:44:55 [INFO] [Multiverse-Core] 4 - World(s) loaded.

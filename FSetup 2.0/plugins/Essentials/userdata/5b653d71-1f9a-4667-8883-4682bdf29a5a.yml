@@ -1,11 +1,12 @@
 lastAccountName: Kaatokence
 timestamps:
-  login: 1520054261071
+  login: 1520056804939
   kits:
     dragon2: 1520054523234
     ki: 1520054761570
     kitwither: 1520054598613
     youtube: 1520054706941
+  logout: 0
 ipAddress: 98.211.48.161
 lastlocation:
   world: world

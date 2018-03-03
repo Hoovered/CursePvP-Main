@@ -1,8 +1,10 @@
 ## --------------------------------------- ##
-## MySQL Placeholders
+## MySQL custom placeholders Placeholders
+## About: This configuration allows you to
+##        configure what certain placeholders return.
 ## --------------------------------------- ##
 
-## Do not edit this config version
+# DO NOT EDIT THE CONFIG VERSION
 config: 2
 
 # Enable/Disable the placeholder group
@@ -10,15 +12,3 @@ config: 2
 # when not used.
 enabled: true
 
-# Placeholders under this list will have the prefix {mysql_.....}
-placeholders: [] # Remove the [] when you have something under this
-#  example: # {mysql_example}
-#    # Description of the placeholder. Used for help message
-#    description: 'This is an example placeholder with MySQL queries'
-#    hostname: 'localhost'
-#    port: 3306
-#    database: 'minecraft'
-#    username: 'root'
-#    password: ''
-#    # A select query used to get 1 row and 1 column result
-#    query: "SELECT amount FROM MoneyTable WHERE player = '{playeruuid}'"

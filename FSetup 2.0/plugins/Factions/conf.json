@@ -21,6 +21,8 @@
   "powerFactionMax": 0.0,
   "prefixAdmin": "**",
   "prefixMod": "*",
+  "prefixRecruit": "-",
+  "prefixNormal": "+",
   "factionTagLengthMin": 3,
   "factionTagLengthMax": 10,
   "factionTagForceUpperCase": false,
@@ -45,6 +47,7 @@
   "allianceChatFormat": "§d%s:§f %s",
   "truceChatFormat": "§5%s:§f %s",
   "broadcastDescriptionChanges": false,
+  "broadcastTagChanges": false,
   "saveToFileEveryXMinutes": 30.0,
   "autoLeaveAfterDaysOfInactivity": 10.0,
   "autoLeaveRoutineRunsEveryXMinutes": 5.0,
@@ -298,5 +301,7 @@
   "worldsNoPowerLoss": [],
   "worldsIgnorePvP": [],
   "worldsNoWildernessProtection": [],
+  "vaultPrefix": "faction-%s",
+  "defaultMaxVaults": 0,
   "backEnd": "JSON"
 }

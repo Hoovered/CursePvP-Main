@@ -12,11 +12,11 @@
 # $silent - whether this punishment was executed silently (-s)
 # $active - whether this punishment is active
 #
-# Punished player specific variables
+# Affected player specific variables
 # $playerDisplayName - player display name. If display names are not enabled in the configuration or if the player's display name is not available in the message's context, the player's regular name will be used instead.
 # $playerName - player name, only available in certain contexts
-# $playerUUID - UUID of punished player
-# $playerIP - IP of punished player
+# $playerUUID - UUID of affected player
+# $playerIP - IP of affected player
 # $geoip - Country of affected player, requires GeoIP to be enabled in the configuration, won't work with imported bans
 #
 # Servers
@@ -135,6 +135,7 @@ command:
       \ &ffor $tempDuration for '&a$reason&f'"
     no_override: '&cPlayer is already muted!'
     response: ''
+    broadcast_unmute: '&a$executor &funmuted &a$bannedPlayer'
   warn:
     usage: '&cUsage: /warn [-s] <player> [reason]'
     unwarn_usage: '&cUsage: /unwarn <player>'

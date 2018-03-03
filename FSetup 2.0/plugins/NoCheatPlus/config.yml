@@ -1,13 +1,16 @@
 savebackconfig: true
 configversion:
   notify: true
+  notifymaxpaths: 5
   created: 785
-  saved: 785
+  saved: 1103
 logging:
   active: true
   maxqueuesize: 5000
   extended:
     status: false
+    commands:
+      actions: false
     allviolations:
       debug: true
       debugonly: false
@@ -143,6 +146,8 @@ checks:
       active: true
       interval: 45
       actions: cancel vl>140 log:projectilespeed:2:10:i cancel
+    preventmisc:
+      boatsanywhere: true
   chat:
     captcha:
       active: true
@@ -410,6 +415,9 @@ checks:
       active: true
       strict: true
       delay: 130
+      improbable:
+        feedonly: false
+        weight: 0.6
       actions: cancel vl>20 log:fastbow:0:12:i cancel
     instanteat:
       active: true
@@ -429,6 +437,9 @@ checks:
       active: false
       close: false
       cancelother: true
+    hotfix:
+      duplication:
+        fallingblockendportal: true
   moving:
     creativefly:
       active: true
@@ -481,10 +492,12 @@ checks:
         packets: 40
         directviolation: 60
         epmviolation: 180
+      setbackage: 40
       actions: cancel vl>135 log:morepackets:0:11:i cancel vl>750 log:morepackets:0:15:i cancel cmd:javaerror
     nofall:
       active: true
       dealdamage: true
+      skipallowflight: true
       resetonviolation: false
       resetonteleport: false
       resetonvehicle: true
@@ -492,9 +505,6 @@ checks:
       actions: log:nofall:0:11:i cancel
     passable:
       active: true
-      raytracing:
-        active: true
-        blockchangeonly: false
       actions: cancel vl>50 log:phase:0:11:i cancel
       untracked:
         teleport:
@@ -520,6 +530,7 @@ checks:
       extended:
         vertical-accounting: true
       stepheight: default
+      hbufmax: 1.0
       setbackpolicy:
         falldamage: true
         voidtovoid: true
@@ -531,9 +542,6 @@ checks:
         loginticks: 60
         falldamage: true
         sfviolation: 400
-    trace:
-      size: 60
-      mergedist: 0.9752
     velocity:
       activationcounter: 80
       activationticks: 140
@@ -543,19 +551,28 @@ checks:
     tempkickillegal: true
     loadchunks:
       join: true
+      move: true
+      teleport: true
+      worldchange: true
     sprintinggrace: 2.0
     assumesprint: true
     speedgrace: 4.0
     enforcelocation: default
+    setback:
+      method: default
     vehicle:
       preventdestroyown: true
       enforcelocation: default
+      schedulesetbacks: default
       morepackets:
         active: true
         actions: cancel vl>135 log:morepackets:0:11:i cancel vl>750 log:morepackets:0:15:i cancel cmd:javaerror
       envelope:
         active: default
         actions: cancel vl>100 cancel log:vehicleenvelope:0:12:i
+    message:
+      illegalplayermove: Illegal move.
+      illegalvehiclemove: Illegal vehicle move.
   net:
     attackfrequency:
       active: true
@@ -578,9 +595,17 @@ checks:
     keepalivefrequency:
       active: true
       actions: cancel vl>32 log:keepalive:0:12:i cancel
+    packetfrequency:
+      active: default
+      limitpersecond: 200
+      seconds: 4
+      actions: cancel cmd:kickpacketfrequency
     sounddistance:
       active: true
       maxdistance: 320
+    superseded:
+      flying:
+        cancelwaiting: true
 strings:
   angle: '&c[player] &7failed &cForceField&7 (&c[violations]&7VL)'
   attackfrequency: '&c[player] &7might be using an &cAuto-Clicker &7(Fast Clicking)&7 (&c[violations]VL&7)'
@@ -611,6 +636,7 @@ strings:
   fdirection: '&c[player] &7might be using an &cAimBot &7(Check 1) &7(&c[violations]VL&7)'
   flyshort: '&c[player] &7might be using &cFly &7(&c[violations]VL&7)'
   flylong: '&c[player] &7failed &cFly &7(&c[violations]VL&7) (Kicked)'
+  flyfile: '[player] failed [check]: tried to move: [locationfrom] -> [locationto], d=[distance] ([tags]). VL [violations].'
   freach: '&c[player] &7failed &c[check] &7(&c[violations]VL&7)'
   fselfhit: '&c[player] &7failed &cSelfHit &7(&c[violations]VL&7)'
   fspeed: '&c[player] &7failed &c[check] &7(&c[violations]VL&7)'
@@ -635,6 +661,7 @@ strings:
   kickfrequency: ncp kick [player] How about doing that less often?
   kickgod: ncp kick [player] God mode?
   kickinvaliddata: ncp kick &c[player] Invalid data.
+  kickpacketfrequency: ncp kick [player] Too many packets.
   kickpackets: ncp delay ncp kick [player] Too many packets (extreme lag?)
   kickselfhit: ncp kick [player] Stop hitting yourself, stop hitting yourself!
   kickwb: ncp kick &c[player] Block breaking out of sync!
@@ -705,6 +732,19 @@ strings:
 compatibility:
   managelisteners: false
   exemptions:
+    wildcard:
+      default:
+        metadata:
+          active: true
+          keys:
+          - nocheat.exempt
+      npc:
+        active: true
+        bukkitnpc: true
+        metadata:
+          active: true
+          keys:
+          - NPC
     remove:
       join: true
       leave: true
@@ -714,16 +754,13 @@ compatibility:
     cbreflect:
       enable: true
   blocks:
-    ignorepassable:
-    - WOODEN_DOOR
-    - IRON_DOOR_BLOCK
-    - IRON_TRAPDOOR
-    - TRAP_DOOR
-    - PISTON_EXTENSION
-    - PISTON_MOVING_PIECE
     allowinstantbreak: []
     overrideflags:
       snow: default
+      piston_moving_piece: default+ign_passable+ground_height
     changetracker:
       active: false
       pistons: true
+      maxageticks: 80
+      perworld:
+        maxentries: 1000

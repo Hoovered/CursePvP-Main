@@ -1,6 +1,5 @@
 ## --------------------------------------- ##
-## WorldBorder Placeholders
-## http://dev.bukkit.org/bukkit-plugins/worldborder/
+## WorldBorder placeholders Placeholders
 ## About: This configuration allows you to
 ##        configure what certain placeholders return.
 ## --------------------------------------- ##
@@ -16,16 +15,16 @@ enabled: true
 # Define what the boolean placeholder {worldborder_filltask_ispaused_raw} returns
 worldborder_filltask_ispaused_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
 # Define what the boolean placeholder {worldborder_trimtask_ispaused_raw} returns
 worldborder_trimtask_ispaused_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 

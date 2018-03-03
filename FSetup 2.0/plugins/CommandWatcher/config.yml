@@ -1,2 +1,10 @@
+BlackListCommands: true
+BlockedCommands:
+- /login
+- /changepassword
+- /register
+OnCommandMessage: '&3[CW]&c&player &6&cmd'
+RemoveFromCwOnQuit: true
+EnablePermissionExempt: true
 Authme:
   Blocked: true

@@ -1,5 +1,5 @@
 ## --------------------------------------- ##
-## Player Hotbar item placeholders Placeholders
+## Hotbar placeholders Placeholders
 ## About: This configuration allows you to
 ##        configure what certain placeholders return.
 ## --------------------------------------- ##
@@ -12,651 +12,651 @@ config: 1
 # when not used.
 enabled: true
 
-# Define what the boolean placeholder {hotbaritem8:isoccluding_raw} returns
-hotbaritem8:isoccluding_raw:
+# Define what the boolean placeholder {hotbaritem8_isoccluding_raw} returns
+hotbaritem8_isoccluding_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem4:isblock_raw} returns
-hotbaritem4:isblock_raw:
+# Define what the boolean placeholder {hotbaritem4_isblock_raw} returns
+hotbaritem4_isblock_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem9:isburnable_raw} returns
-hotbaritem9:isburnable_raw:
+# Define what the boolean placeholder {hotbaritem9_isburnable_raw} returns
+hotbaritem9_isburnable_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem9:isrecord_raw} returns
-hotbaritem9:isrecord_raw:
+# Define what the boolean placeholder {hotbaritem9_isrecord_raw} returns
+hotbaritem9_isrecord_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem1:isedible_raw} returns
-hotbaritem1:isedible_raw:
+# Define what the boolean placeholder {hotbaritem1_isedible_raw} returns
+hotbaritem1_isedible_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem6:istransparent_raw} returns
-hotbaritem6:istransparent_raw:
+# Define what the boolean placeholder {hotbaritem6_istransparent_raw} returns
+hotbaritem6_istransparent_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem3:isburnable_raw} returns
-hotbaritem3:isburnable_raw:
+# Define what the boolean placeholder {hotbaritem3_isburnable_raw} returns
+hotbaritem3_isburnable_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem6:isburnable_raw} returns
-hotbaritem6:isburnable_raw:
+# Define what the boolean placeholder {hotbaritem6_isburnable_raw} returns
+hotbaritem6_isburnable_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem4:isflammable_raw} returns
-hotbaritem4:isflammable_raw:
+# Define what the boolean placeholder {hotbaritem4_isflammable_raw} returns
+hotbaritem4_isflammable_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem4:isoccluding_raw} returns
-hotbaritem4:isoccluding_raw:
+# Define what the boolean placeholder {hotbaritem4_isoccluding_raw} returns
+hotbaritem4_isoccluding_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem4:isrecord_raw} returns
-hotbaritem4:isrecord_raw:
+# Define what the boolean placeholder {hotbaritem4_isrecord_raw} returns
+hotbaritem4_isrecord_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem8:isflammable_raw} returns
-hotbaritem8:isflammable_raw:
+# Define what the boolean placeholder {hotbaritem8_isflammable_raw} returns
+hotbaritem8_isflammable_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem3:isblock_raw} returns
-hotbaritem3:isblock_raw:
+# Define what the boolean placeholder {hotbaritem3_isblock_raw} returns
+hotbaritem3_isblock_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem5:isblock_raw} returns
-hotbaritem5:isblock_raw:
+# Define what the boolean placeholder {hotbaritem5_isblock_raw} returns
+hotbaritem5_isblock_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem8:hasgravity_raw} returns
-hotbaritem8:hasgravity_raw:
+# Define what the boolean placeholder {hotbaritem8_hasgravity_raw} returns
+hotbaritem8_hasgravity_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem5:isedible_raw} returns
-hotbaritem5:isedible_raw:
+# Define what the boolean placeholder {hotbaritem5_isedible_raw} returns
+hotbaritem5_isedible_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem2:hasgravity_raw} returns
-hotbaritem2:hasgravity_raw:
+# Define what the boolean placeholder {hotbaritem2_hasgravity_raw} returns
+hotbaritem2_hasgravity_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem5:hasgravity_raw} returns
-hotbaritem5:hasgravity_raw:
+# Define what the boolean placeholder {hotbaritem5_hasgravity_raw} returns
+hotbaritem5_hasgravity_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem5:isflammable_raw} returns
-hotbaritem5:isflammable_raw:
+# Define what the boolean placeholder {hotbaritem5_isflammable_raw} returns
+hotbaritem5_isflammable_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem9:issolid_raw} returns
-hotbaritem9:issolid_raw:
+# Define what the boolean placeholder {hotbaritem9_issolid_raw} returns
+hotbaritem9_issolid_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem1:issolid_raw} returns
-hotbaritem1:issolid_raw:
+# Define what the boolean placeholder {hotbaritem1_issolid_raw} returns
+hotbaritem1_issolid_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem6:isedible_raw} returns
-hotbaritem6:isedible_raw:
+# Define what the boolean placeholder {hotbaritem6_isedible_raw} returns
+hotbaritem6_isedible_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem7:issolid_raw} returns
-hotbaritem7:issolid_raw:
+# Define what the boolean placeholder {hotbaritem7_issolid_raw} returns
+hotbaritem7_issolid_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem4:istransparent_raw} returns
-hotbaritem4:istransparent_raw:
+# Define what the boolean placeholder {hotbaritem4_istransparent_raw} returns
+hotbaritem4_istransparent_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem9:isoccluding_raw} returns
-hotbaritem9:isoccluding_raw:
+# Define what the boolean placeholder {hotbaritem9_isoccluding_raw} returns
+hotbaritem9_isoccluding_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem3:isrecord_raw} returns
-hotbaritem3:isrecord_raw:
+# Define what the boolean placeholder {hotbaritem3_isrecord_raw} returns
+hotbaritem3_isrecord_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem8:istransparent_raw} returns
-hotbaritem8:istransparent_raw:
+# Define what the boolean placeholder {hotbaritem8_istransparent_raw} returns
+hotbaritem8_istransparent_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem8:isrecord_raw} returns
-hotbaritem8:isrecord_raw:
+# Define what the boolean placeholder {hotbaritem8_isrecord_raw} returns
+hotbaritem8_isrecord_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem1:istransparent_raw} returns
-hotbaritem1:istransparent_raw:
+# Define what the boolean placeholder {hotbaritem1_istransparent_raw} returns
+hotbaritem1_istransparent_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem7:isburnable_raw} returns
-hotbaritem7:isburnable_raw:
+# Define what the boolean placeholder {hotbaritem7_isburnable_raw} returns
+hotbaritem7_isburnable_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem4:isedible_raw} returns
-hotbaritem4:isedible_raw:
+# Define what the boolean placeholder {hotbaritem4_isedible_raw} returns
+hotbaritem4_isedible_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem3:isoccluding_raw} returns
-hotbaritem3:isoccluding_raw:
+# Define what the boolean placeholder {hotbaritem3_isoccluding_raw} returns
+hotbaritem3_isoccluding_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem1:isburnable_raw} returns
-hotbaritem1:isburnable_raw:
+# Define what the boolean placeholder {hotbaritem1_isburnable_raw} returns
+hotbaritem1_isburnable_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem5:istransparent_raw} returns
-hotbaritem5:istransparent_raw:
+# Define what the boolean placeholder {hotbaritem5_istransparent_raw} returns
+hotbaritem5_istransparent_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem3:istransparent_raw} returns
-hotbaritem3:istransparent_raw:
+# Define what the boolean placeholder {hotbaritem3_istransparent_raw} returns
+hotbaritem3_istransparent_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem4:isburnable_raw} returns
-hotbaritem4:isburnable_raw:
+# Define what the boolean placeholder {hotbaritem4_isburnable_raw} returns
+hotbaritem4_isburnable_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem7:istransparent_raw} returns
-hotbaritem7:istransparent_raw:
+# Define what the boolean placeholder {hotbaritem7_istransparent_raw} returns
+hotbaritem7_istransparent_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem6:isflammable_raw} returns
-hotbaritem6:isflammable_raw:
+# Define what the boolean placeholder {hotbaritem6_isflammable_raw} returns
+hotbaritem6_isflammable_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem9:isflammable_raw} returns
-hotbaritem9:isflammable_raw:
+# Define what the boolean placeholder {hotbaritem9_isflammable_raw} returns
+hotbaritem9_isflammable_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem9:istransparent_raw} returns
-hotbaritem9:istransparent_raw:
+# Define what the boolean placeholder {hotbaritem9_istransparent_raw} returns
+hotbaritem9_istransparent_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem7:isrecord_raw} returns
-hotbaritem7:isrecord_raw:
+# Define what the boolean placeholder {hotbaritem7_isrecord_raw} returns
+hotbaritem7_isrecord_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem3:isedible_raw} returns
-hotbaritem3:isedible_raw:
+# Define what the boolean placeholder {hotbaritem3_isedible_raw} returns
+hotbaritem3_isedible_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem5:isrecord_raw} returns
-hotbaritem5:isrecord_raw:
+# Define what the boolean placeholder {hotbaritem5_isrecord_raw} returns
+hotbaritem5_isrecord_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem4:issolid_raw} returns
-hotbaritem4:issolid_raw:
+# Define what the boolean placeholder {hotbaritem4_issolid_raw} returns
+hotbaritem4_issolid_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem2:isedible_raw} returns
-hotbaritem2:isedible_raw:
+# Define what the boolean placeholder {hotbaritem2_isedible_raw} returns
+hotbaritem2_isedible_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem3:isflammable_raw} returns
-hotbaritem3:isflammable_raw:
+# Define what the boolean placeholder {hotbaritem3_isflammable_raw} returns
+hotbaritem3_isflammable_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem8:issolid_raw} returns
-hotbaritem8:issolid_raw:
+# Define what the boolean placeholder {hotbaritem8_issolid_raw} returns
+hotbaritem8_issolid_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem6:isrecord_raw} returns
-hotbaritem6:isrecord_raw:
+# Define what the boolean placeholder {hotbaritem6_isrecord_raw} returns
+hotbaritem6_isrecord_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem2:istransparent_raw} returns
-hotbaritem2:istransparent_raw:
+# Define what the boolean placeholder {hotbaritem2_istransparent_raw} returns
+hotbaritem2_istransparent_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem9:hasgravity_raw} returns
-hotbaritem9:hasgravity_raw:
+# Define what the boolean placeholder {hotbaritem9_hasgravity_raw} returns
+hotbaritem9_hasgravity_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem3:hasgravity_raw} returns
-hotbaritem3:hasgravity_raw:
+# Define what the boolean placeholder {hotbaritem3_hasgravity_raw} returns
+hotbaritem3_hasgravity_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem2:isflammable_raw} returns
-hotbaritem2:isflammable_raw:
+# Define what the boolean placeholder {hotbaritem2_isflammable_raw} returns
+hotbaritem2_isflammable_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem6:hasgravity_raw} returns
-hotbaritem6:hasgravity_raw:
+# Define what the boolean placeholder {hotbaritem6_hasgravity_raw} returns
+hotbaritem6_hasgravity_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem8:isblock_raw} returns
-hotbaritem8:isblock_raw:
+# Define what the boolean placeholder {hotbaritem8_isblock_raw} returns
+hotbaritem8_isblock_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem6:isoccluding_raw} returns
-hotbaritem6:isoccluding_raw:
+# Define what the boolean placeholder {hotbaritem6_isoccluding_raw} returns
+hotbaritem6_isoccluding_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem1:isoccluding_raw} returns
-hotbaritem1:isoccluding_raw:
+# Define what the boolean placeholder {hotbaritem1_isoccluding_raw} returns
+hotbaritem1_isoccluding_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem8:isedible_raw} returns
-hotbaritem8:isedible_raw:
+# Define what the boolean placeholder {hotbaritem8_isedible_raw} returns
+hotbaritem8_isedible_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem1:isrecord_raw} returns
-hotbaritem1:isrecord_raw:
+# Define what the boolean placeholder {hotbaritem1_isrecord_raw} returns
+hotbaritem1_isrecord_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem2:isoccluding_raw} returns
-hotbaritem2:isoccluding_raw:
+# Define what the boolean placeholder {hotbaritem2_isoccluding_raw} returns
+hotbaritem2_isoccluding_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem9:isblock_raw} returns
-hotbaritem9:isblock_raw:
+# Define what the boolean placeholder {hotbaritem9_isblock_raw} returns
+hotbaritem9_isblock_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem7:isblock_raw} returns
-hotbaritem7:isblock_raw:
+# Define what the boolean placeholder {hotbaritem7_isblock_raw} returns
+hotbaritem7_isblock_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem5:isoccluding_raw} returns
-hotbaritem5:isoccluding_raw:
+# Define what the boolean placeholder {hotbaritem5_isoccluding_raw} returns
+hotbaritem5_isoccluding_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem1:isblock_raw} returns
-hotbaritem1:isblock_raw:
+# Define what the boolean placeholder {hotbaritem1_isblock_raw} returns
+hotbaritem1_isblock_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem2:isrecord_raw} returns
-hotbaritem2:isrecord_raw:
+# Define what the boolean placeholder {hotbaritem2_isrecord_raw} returns
+hotbaritem2_isrecord_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem3:issolid_raw} returns
-hotbaritem3:issolid_raw:
+# Define what the boolean placeholder {hotbaritem3_issolid_raw} returns
+hotbaritem3_issolid_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem8:isburnable_raw} returns
-hotbaritem8:isburnable_raw:
+# Define what the boolean placeholder {hotbaritem8_isburnable_raw} returns
+hotbaritem8_isburnable_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem5:issolid_raw} returns
-hotbaritem5:issolid_raw:
+# Define what the boolean placeholder {hotbaritem5_issolid_raw} returns
+hotbaritem5_issolid_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem2:isburnable_raw} returns
-hotbaritem2:isburnable_raw:
+# Define what the boolean placeholder {hotbaritem2_isburnable_raw} returns
+hotbaritem2_isburnable_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem5:isburnable_raw} returns
-hotbaritem5:isburnable_raw:
+# Define what the boolean placeholder {hotbaritem5_isburnable_raw} returns
+hotbaritem5_isburnable_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem7:isedible_raw} returns
-hotbaritem7:isedible_raw:
+# Define what the boolean placeholder {hotbaritem7_isedible_raw} returns
+hotbaritem7_isedible_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem2:isblock_raw} returns
-hotbaritem2:isblock_raw:
+# Define what the boolean placeholder {hotbaritem2_isblock_raw} returns
+hotbaritem2_isblock_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem6:isblock_raw} returns
-hotbaritem6:isblock_raw:
+# Define what the boolean placeholder {hotbaritem6_isblock_raw} returns
+hotbaritem6_isblock_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem1:isflammable_raw} returns
-hotbaritem1:isflammable_raw:
+# Define what the boolean placeholder {hotbaritem1_isflammable_raw} returns
+hotbaritem1_isflammable_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem4:hasgravity_raw} returns
-hotbaritem4:hasgravity_raw:
+# Define what the boolean placeholder {hotbaritem4_hasgravity_raw} returns
+hotbaritem4_hasgravity_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem7:isoccluding_raw} returns
-hotbaritem7:isoccluding_raw:
+# Define what the boolean placeholder {hotbaritem7_isoccluding_raw} returns
+hotbaritem7_isoccluding_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem1:hasgravity_raw} returns
-hotbaritem1:hasgravity_raw:
+# Define what the boolean placeholder {hotbaritem1_hasgravity_raw} returns
+hotbaritem1_hasgravity_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem7:hasgravity_raw} returns
-hotbaritem7:hasgravity_raw:
+# Define what the boolean placeholder {hotbaritem7_hasgravity_raw} returns
+hotbaritem7_hasgravity_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem9:isedible_raw} returns
-hotbaritem9:isedible_raw:
+# Define what the boolean placeholder {hotbaritem9_isedible_raw} returns
+hotbaritem9_isedible_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem7:isflammable_raw} returns
-hotbaritem7:isflammable_raw:
+# Define what the boolean placeholder {hotbaritem7_isflammable_raw} returns
+hotbaritem7_isflammable_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem2:issolid_raw} returns
-hotbaritem2:issolid_raw:
+# Define what the boolean placeholder {hotbaritem2_issolid_raw} returns
+hotbaritem2_issolid_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 
-# Define what the boolean placeholder {hotbaritem6:issolid_raw} returns
-hotbaritem6:issolid_raw:
+# Define what the boolean placeholder {hotbaritem6_issolid_raw} returns
+hotbaritem6_issolid_raw:
   # This will be shown when the placeholder is 'True'
-  true: 'true'
+  true: "true"
   # This will be shown when the placeholder is 'False'
-  false: 'false'
+  false: "false"
 
 

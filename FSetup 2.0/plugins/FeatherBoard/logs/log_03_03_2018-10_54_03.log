@@ -1,0 +1,422 @@
+03/03/2018 10:54:19 [DEBUG] Refreshing group 'mcmmo-levelup' for new custom placeholder 'fbasics_enderpearl_cooldown'
+03/03/2018 10:54:19 [DEBUG] Refreshing group 'benchmark' for new custom placeholder 'fbasics_enderpearl_cooldown'
+03/03/2018 10:54:19 [DEBUG] Refreshing group 'towny-town-example' for new custom placeholder 'factionstop_rank:3'
+03/03/2018 10:54:19 [DEBUG] Refreshing group 'combat-scoreboard-example' for new custom placeholder 'factionstop_rank:3'
+03/03/2018 10:54:19 [DEBUG] Refreshing group 'default' for new custom placeholder 'factionstop_rank:3'
+03/03/2018 10:54:15 [DEBUG] 	Line: spacer1 Static: true
+03/03/2018 10:54:11 [DEBUG] Loaded placeholder: worldguard
+03/03/2018 10:54:15 [DEBUG] 	Line: info-label Static: false
+03/03/2018 10:54:10 [INFO] Downloading placeholder [Unicode Characters 1.0.1] ...
+03/03/2018 10:54:11 [DEBUG] Loaded placeholder: worldborder
+03/03/2018 10:54:11 [DEBUG] Downloaded file to: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\worldborder.jar
+03/03/2018 10:54:11 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/7c8cb73d-9f74-493f-b9d5-9c604d8cf64e/download?plugin=FeatherBoard&plugin-version=4.6.0&plugin-filehash=696dbdd1c41690ee1d7c05ec7f479374&plugin-nonce=84870899&plugin-asmhash=e18bc9eeab11bea7ab70641b6843be8a&plugin-asmhash2=213b7978a23843e0cbd586ac5d42fed4&plugin-filecount=386&plugin-user=7154&server-javaversion=1.8.0_162
+03/03/2018 10:54:04 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/ce6aa146-d4e0-4f9b-bf19-af835f709111/download?plugin=FeatherBoard&plugin-version=4.6.0&plugin-filehash=696dbdd1c41690ee1d7c05ec7f479374&plugin-nonce=84870899&plugin-asmhash=e18bc9eeab11bea7ab70641b6843be8a&plugin-asmhash2=213b7978a23843e0cbd586ac5d42fed4&plugin-filecount=386&plugin-user=7154&server-javaversion=1.8.0_162
+03/03/2018 10:54:11 [INFO] Loading placeholder [World 1.0.1] ...
+03/03/2018 10:54:15 [DEBUG] 	Line: header Static: true
+03/03/2018 10:54:11 [DEBUG] Download location: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\world.jar
+03/03/2018 10:54:15 [DEBUG] 	Line: title Static: false
+03/03/2018 10:54:10 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/7d9e45b7-310c-44a1-a184-4ed47f35d933/download?plugin=FeatherBoard&plugin-version=4.6.0&plugin-filehash=696dbdd1c41690ee1d7c05ec7f479374&plugin-nonce=84870899&plugin-asmhash=e18bc9eeab11bea7ab70641b6843be8a&plugin-asmhash2=213b7978a23843e0cbd586ac5d42fed4&plugin-filecount=386&plugin-user=7154&server-javaversion=1.8.0_162
+03/03/2018 10:54:15 [DEBUG] 	Line: skill-label Static: true
+03/03/2018 10:54:15 [DEBUG] 	Line: spacer2 Static: true
+03/03/2018 10:54:15 [DEBUG] 	Line: skilllevel Static: false
+03/03/2018 10:54:10 [DEBUG] Output file is: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\ultimatevotes.jar
+03/03/2018 10:54:15 [DEBUG] 	Line: title Static: false
+03/03/2018 10:54:15 [DEBUG] 	Line: town-label Static: true
+03/03/2018 10:54:15 [DEBUG] 	Line: spacer1 Static: false
+03/03/2018 10:54:15 [DEBUG] 	Line: townboard Static: false
+03/03/2018 10:54:15 [DEBUG] 	Line: population-label Static: true
+03/03/2018 10:54:15 [DEBUG] 	Line: footer Static: true
+03/03/2018 10:54:15 [DEBUG] Scoreboards groups sorted by priority:
+03/03/2018 10:54:11 [DEBUG] Download location: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\worldguard.jar
+03/03/2018 10:54:11 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/f45af077-96b3-4a6c-857c-d4c345a63355/download?plugin=FeatherBoard&plugin-version=4.6.0&plugin-filehash=696dbdd1c41690ee1d7c05ec7f479374&plugin-nonce=84870899&plugin-asmhash=e18bc9eeab11bea7ab70641b6843be8a&plugin-asmhash2=213b7978a23843e0cbd586ac5d42fed4&plugin-filecount=386&plugin-user=7154&server-javaversion=1.8.0_162
+03/03/2018 10:54:15 [DEBUG] 	Line: skill Static: false
+03/03/2018 10:54:06 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/93cb5b0c-06b4-4333-8ad0-7845d3ce183b/download?plugin=FeatherBoard&plugin-version=4.6.0&plugin-filehash=696dbdd1c41690ee1d7c05ec7f479374&plugin-nonce=84870899&plugin-asmhash=e18bc9eeab11bea7ab70641b6843be8a&plugin-asmhash2=213b7978a23843e0cbd586ac5d42fed4&plugin-filecount=386&plugin-user=7154&server-javaversion=1.8.0_162
+03/03/2018 10:54:15 [DEBUG] 	Line: footer Static: true
+03/03/2018 10:54:15 [INFO] Adding scoreboard group 'towny-town-example' ...
+03/03/2018 10:54:15 [DEBUG] 	Line: header Static: true
+03/03/2018 10:54:15 [DEBUG] 	Line: town-data Static: true
+03/03/2018 10:54:15 [DEBUG] 	Line: spacer2 Static: false
+03/03/2018 10:54:15 [DEBUG] 	Line: poplulation-data Static: true
+03/03/2018 10:54:10 [INFO] Downloading placeholder [UltimateVotes 1.0.1] ...
+03/03/2018 10:54:15 [DEBUG] 	default - 10
+03/03/2018 10:54:15 [DEBUG] 	combat-scoreboard-example - 0
+03/03/2018 10:54:15 [DEBUG] 	towny-town-example - 0
+03/03/2018 10:54:06 [DEBUG] Output file is: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\entities.jar
+03/03/2018 10:54:15 [MESSAGE] &5[&9FeatherBoard&5] &aYour version is up to date!
+03/03/2018 10:54:15 [INFO] Adding command 'featherboard'
+03/03/2018 10:54:15 [DEBUG] 	Adding sub command 'on'
+03/03/2018 10:54:15 [DEBUG] 	Adding sub command 'off'
+03/03/2018 10:54:15 [DEBUG] 	Adding sub command 'placeholders'
+03/03/2018 10:54:15 [DEBUG] 	Adding sub command 'reload'
+03/03/2018 10:54:15 [DEBUG] 	Adding sub command 'about'
+03/03/2018 10:54:10 [DEBUG] Loaded placeholder: twitter
+03/03/2018 10:54:15 [DEBUG] 	Adding sub command 'parse'
+03/03/2018 10:54:10 [INFO] Loading placeholder [Twitter 1.0.2] ...
+03/03/2018 10:54:15 [DEBUG] 	Adding sub command 'removescoreboard'
+03/03/2018 10:54:06 [INFO] Downloading placeholder [Entities 1.0.1] ...
+03/03/2018 10:54:15 [DEBUG] 	Adding sub command 'add'
+03/03/2018 10:54:10 [DEBUG] Downloaded file to: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\twitter.jar
+03/03/2018 10:54:06 [INFO] Loading placeholder [Effects 1.0.1] ...
+03/03/2018 10:54:10 [DEBUG] Output file is: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\twitter.jar
+03/03/2018 10:54:19 [DEBUG] Refreshing group 'mcmmo-levelup' for new custom placeholder 'factionstop_rank:2'
+03/03/2018 10:54:06 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/d1e86e80-d79e-4055-93f3-6bdcd46bba10/download?plugin=FeatherBoard&plugin-version=4.6.0&plugin-filehash=696dbdd1c41690ee1d7c05ec7f479374&plugin-nonce=84870899&plugin-asmhash=e18bc9eeab11bea7ab70641b6843be8a&plugin-asmhash2=213b7978a23843e0cbd586ac5d42fed4&plugin-filecount=386&plugin-user=7154&server-javaversion=1.8.0_162
+03/03/2018 10:54:06 [DEBUG] Output file is: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\essentials.jar
+03/03/2018 10:54:10 [DEBUG] Downloaded file to: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\unicode characters.jar
+03/03/2018 10:54:06 [DEBUG] Loaded placeholder: entities
+03/03/2018 10:54:06 [INFO] Downloading placeholder [Essentials 1.0.1] ...
+03/03/2018 10:54:10 [DEBUG] Output file is: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\unicode characters.jar
+03/03/2018 10:54:11 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/c4537efb-81e5-417a-a61d-0e754b9b8588/download?plugin=FeatherBoard&plugin-version=4.6.0&plugin-filehash=696dbdd1c41690ee1d7c05ec7f479374&plugin-nonce=84870899&plugin-asmhash=e18bc9eeab11bea7ab70641b6843be8a&plugin-asmhash2=213b7978a23843e0cbd586ac5d42fed4&plugin-filecount=386&plugin-user=7154&server-javaversion=1.8.0_162
+03/03/2018 10:54:11 [INFO] Downloading placeholder [VanillaEvents 1.0.5] ...
+03/03/2018 10:54:11 [DEBUG] Loaded placeholder: vanillaevents
+03/03/2018 10:54:11 [DEBUG] Downloaded file to: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\vanillaevents.jar
+03/03/2018 10:54:11 [INFO] Loading event hook: Vanilla player rejoin ...
+03/03/2018 10:54:11 [INFO] Loading event hook: Vanilla Block break hook ...
+03/03/2018 10:54:11 [INFO] Loading event hook: Vanilla Death hook ...
+03/03/2018 10:54:11 [INFO] Loading event hook: Vanilla Block break hook ...
+03/03/2018 10:54:11 [INFO] Loading event hook: Vanilla player first join ...
+03/03/2018 10:54:11 [INFO] Loading event hook: Vanilla player rejoin ...
+03/03/2018 10:54:11 [INFO] Loading event hook: Vanilla Death hook ...
+03/03/2018 10:54:11 [INFO] Downloading placeholder [WorldGuard 1.0.1] ...
+03/03/2018 10:54:11 [DEBUG] Download location: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\worldborder.jar
+03/03/2018 10:54:11 [DEBUG] Output file is: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\world.jar
+03/03/2018 10:54:06 [INFO] Loading placeholder [Entities 1.0.1] ...
+03/03/2018 10:54:11 [DEBUG] Loaded placeholder: world
+03/03/2018 10:54:11 [INFO] Loading event hook: WorldGuard Region ...
+03/03/2018 10:54:11 [INFO] Downloading placeholder [mcMMO 1.0.1] ...
+03/03/2018 10:54:11 [DEBUG] Downloaded file to: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\worldguard.jar
+03/03/2018 10:54:11 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/aa2e96af-5e92-46b4-97ef-8e39c78afe2d/download?plugin=FeatherBoard&plugin-version=4.6.0&plugin-filehash=696dbdd1c41690ee1d7c05ec7f479374&plugin-nonce=84870899&plugin-asmhash=e18bc9eeab11bea7ab70641b6843be8a&plugin-asmhash2=213b7978a23843e0cbd586ac5d42fed4&plugin-filecount=386&plugin-user=7154&server-javaversion=1.8.0_162
+03/03/2018 10:54:11 [DEBUG] Loaded placeholder: mcmmo
+03/03/2018 10:54:11 [DEBUG] Downloaded file to: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\mcmmo.jar
+03/03/2018 10:54:10 [DEBUG] Download location: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\ultimatevotes.jar
+03/03/2018 10:54:10 [DEBUG] Downloaded file to: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\ultimatevotes.jar
+03/03/2018 10:54:10 [DEBUG] Loaded placeholder: ultimatevotes
+03/03/2018 10:54:11 [INFO] Loading event hook: mcMMO Party Level up ...
+03/03/2018 10:54:11 [INFO] Loading event hook: mcMMO Level down event ...
+03/03/2018 10:54:11 [INFO] Loaded 3055 of the 3055 placholders
+03/03/2018 10:54:06 [DEBUG] Downloaded file to: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\entities.jar
+03/03/2018 10:54:12 [DEBUG]  - Server supports Team entries
+03/03/2018 10:54:10 [INFO] Loading placeholder [UltimateVotes 1.0.1] ...
+03/03/2018 10:54:12 [DEBUG] 	Line: title Static: false
+03/03/2018 10:54:13 [DEBUG] 	Line: line2 Static: false
+03/03/2018 10:54:13 [DEBUG] 	Line: line4 Static: false
+03/03/2018 10:54:14 [DEBUG] 	Line: line8 Static: false
+03/03/2018 10:54:14 [DEBUG] 	Line: line10 Static: false
+03/03/2018 10:54:14 [DEBUG] 	Line: line12 Static: false
+03/03/2018 10:54:04 [INFO] Downloading required module [_LegacyPatch_1] ...
+03/03/2018 10:54:06 [DEBUG] Download location: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\entities.jar
+03/03/2018 10:54:15 [DEBUG] 	Line: title Static: false
+03/03/2018 10:54:15 [DEBUG] 	Line: combat-label Static: true
+03/03/2018 10:54:15 [DEBUG] 	Line: spacer1 Static: false
+03/03/2018 10:54:15 [DEBUG] 	Line: health-data-1 Static: false
+03/03/2018 10:54:15 [INFO] Adding scoreboard group 'default' ...
+03/03/2018 10:54:15 [DEBUG] 	Line: footer Static: true
+03/03/2018 10:54:15 [DEBUG] 	Line: player-line1 Static: false
+03/03/2018 10:54:15 [DEBUG] 	Line: header Static: false
+03/03/2018 10:54:15 [DEBUG] 	Line: news Static: false
+03/03/2018 10:54:15 [DEBUG] 	Line: spacer1 Static: false
+03/03/2018 10:54:06 [DEBUG] Download location: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\essentials.jar
+03/03/2018 10:54:15 [DEBUG] 	Line: timesplayed Static: false
+03/03/2018 10:54:15 [DEBUG] 	Line: server-label Static: true
+03/03/2018 10:54:15 [DEBUG] 	Line: server-line2 Static: false
+03/03/2018 10:54:12 [INFO] 	Arguments: 1
+03/03/2018 10:54:12 [DEBUG] Using SCOREBOARD v7
+03/03/2018 10:54:04 [INFO] Loading module [_LegacyPatch_1] ...
+03/03/2018 10:54:15 [DEBUG] 	Line: health-data-2 Static: false
+03/03/2018 10:54:15 [DEBUG] 	Line: health-label Static: true
+03/03/2018 10:54:15 [DEBUG] 	Line: combat-data Static: false
+03/03/2018 10:54:15 [DEBUG] 	Line: header Static: true
+03/03/2018 10:54:15 [INFO] Adding scoreboard group 'combat-scoreboard-example' ...
+03/03/2018 10:54:15 [DEBUG] 	Line: line15 Static: false
+03/03/2018 10:54:14 [DEBUG] 	Line: line13 Static: false
+03/03/2018 10:54:14 [DEBUG] 	Line: line11 Static: false
+03/03/2018 10:54:14 [DEBUG] 	Line: line9 Static: false
+03/03/2018 10:54:13 [DEBUG] 	Line: line7 Static: false
+03/03/2018 10:54:13 [DEBUG] 	Line: line5 Static: false
+03/03/2018 10:54:13 [DEBUG] 	Line: line3 Static: false
+03/03/2018 10:54:13 [DEBUG] 	Line: line1 Static: false
+03/03/2018 10:54:12 [INFO] Adding scoreboard group 'benchmark' ...
+03/03/2018 10:54:12 [INFO] Copying default scoreboards ...
+03/03/2018 10:54:12 [DEBUG]  - Server supports Team prefix/suffix
+03/03/2018 10:54:12 [INFO] Copying 'plugins\FeatherBoard\effects\customeffects.yml' from the resources!
+03/03/2018 10:54:11 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/12dea5c6-4646-41ee-9048-ae7d7fefe422/download?plugin=FeatherBoard&plugin-version=4.6.0&plugin-filehash=696dbdd1c41690ee1d7c05ec7f479374&plugin-nonce=84870899&plugin-asmhash=e18bc9eeab11bea7ab70641b6843be8a&plugin-asmhash2=213b7978a23843e0cbd586ac5d42fed4&plugin-filecount=386&plugin-user=7154&server-javaversion=1.8.0_162
+03/03/2018 10:54:10 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/3bb0751f-ea43-44a8-b468-62d907991d76/download?plugin=FeatherBoard&plugin-version=4.6.0&plugin-filehash=696dbdd1c41690ee1d7c05ec7f479374&plugin-nonce=84870899&plugin-asmhash=e18bc9eeab11bea7ab70641b6843be8a&plugin-asmhash2=213b7978a23843e0cbd586ac5d42fed4&plugin-filecount=386&plugin-user=7154&server-javaversion=1.8.0_162
+03/03/2018 10:54:12 [DEBUG]  - Server supports Objective entries
+03/03/2018 10:54:12 [INFO] 	Lines: 2
+03/03/2018 10:54:11 [INFO] Checking for placeholder updates ...
+03/03/2018 10:54:11 [INFO] Loading placeholder [mcMMO 1.0.1] ...
+03/03/2018 10:54:11 [DEBUG] Loaded placeholder: unicode
+03/03/2018 10:54:11 [INFO] Loading event hook: mcMMO Level up event ...
+03/03/2018 10:54:11 [INFO] Loading event hook: mcMMO Level down event ...
+03/03/2018 10:54:11 [INFO] Loading event hook: mcMMO Party Level up ...
+03/03/2018 10:54:11 [DEBUG] Download location: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\mcmmo.jar
+03/03/2018 10:54:11 [DEBUG] Output file is: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\mcmmo.jar
+03/03/2018 10:54:11 [DEBUG] Output file is: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\worldborder.jar
+03/03/2018 10:54:10 [DEBUG] Download location: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\unicode characters.jar
+03/03/2018 10:54:10 [INFO] Loading placeholder [Unicode Characters 1.0.1] ...
+03/03/2018 10:54:11 [INFO] Loading event hook: WorldGuard Region ...
+03/03/2018 10:54:11 [INFO] Loading placeholder [WorldGuard 1.0.1] ...
+03/03/2018 10:54:11 [INFO] Loading placeholder [WorldBorder 1.0.1] ...
+03/03/2018 10:54:11 [INFO] Downloading placeholder [World 1.0.1] ...
+03/03/2018 10:54:11 [INFO] Loading event hook: Vanilla Create portal hook ...
+03/03/2018 10:54:11 [INFO] Loading event hook: Vanilla player join ...
+03/03/2018 10:54:11 [DEBUG] Downloaded file to: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\world.jar
+03/03/2018 10:54:11 [DEBUG] Download location: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\vanillaevents.jar
+03/03/2018 10:54:11 [DEBUG] Output file is: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\vanillaevents.jar
+03/03/2018 10:54:04 [DEBUG] Download location: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\_LegacyPatch_1.jar
+03/03/2018 10:54:11 [INFO] Loading event hook: Vanilla Block place hook ...
+03/03/2018 10:54:11 [INFO] Loading event hook: Vanilla Combat hook ...
+03/03/2018 10:54:11 [INFO] Loading event hook: Vanilla Create portal hook ...
+03/03/2018 10:54:11 [INFO] Loading event hook: Vanilla player join ...
+03/03/2018 10:54:11 [INFO] Loading event hook: Vanilla Block place hook ...
+03/03/2018 10:54:11 [INFO] Loading event hook: Vanilla Combat hook ...
+03/03/2018 10:54:11 [INFO] Loading placeholder [VanillaEvents 1.0.5] ...
+03/03/2018 10:54:15 [DEBUG] 	Line: spacer3 Static: false
+03/03/2018 10:54:15 [DEBUG] 	Line: news-info Static: true
+03/03/2018 10:54:15 [DEBUG] 	Line: player-line2 Static: false
+03/03/2018 10:54:15 [DEBUG] 	Line: spacer2 Static: false
+03/03/2018 10:54:15 [DEBUG] 	Line: title Static: false
+03/03/2018 10:54:15 [DEBUG] 	Line: player-label Static: true
+03/03/2018 10:54:15 [DEBUG] 	Line: server-line1 Static: false
+03/03/2018 10:54:15 [DEBUG] 	Line: footer Static: false
+03/03/2018 10:54:06 [DEBUG] Loaded placeholder: playereffects
+03/03/2018 10:54:19 [DEBUG] Refreshing group 'benchmark' for new custom placeholder 'factionstop_rank:2'
+03/03/2018 10:54:19 [DEBUG] Refreshing group 'towny-town-example' for new custom placeholder 'factionstop_rank:1'
+03/03/2018 10:54:19 [DEBUG] Refreshing group 'combat-scoreboard-example' for new custom placeholder 'factionstop_rank:1'
+03/03/2018 10:54:19 [DEBUG] Refreshing group 'default' for new custom placeholder 'factionstop_rank:1'
+03/03/2018 10:54:19 [DEBUG] Refreshing group 'mcmmo-levelup' for new custom placeholder 'factionstop_rank:last'
+03/03/2018 10:54:19 [DEBUG] Refreshing group 'benchmark' for new custom placeholder 'factionstop_rank:last'
+03/03/2018 10:54:05 [DEBUG] Output file is: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\economy.jar
+03/03/2018 10:54:09 [DEBUG] Output file is: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\sound effects.jar
+03/03/2018 10:54:09 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/d55bae2c-ef40-4002-b509-1929cc39f464/download?plugin=FeatherBoard&plugin-version=4.6.0&plugin-filehash=696dbdd1c41690ee1d7c05ec7f479374&plugin-nonce=84870899&plugin-asmhash=e18bc9eeab11bea7ab70641b6843be8a&plugin-asmhash2=213b7978a23843e0cbd586ac5d42fed4&plugin-filecount=386&plugin-user=7154&server-javaversion=1.8.0_162
+03/03/2018 10:54:15 [DEBUG] 	Line: townboard-label Static: true
+03/03/2018 10:54:19 [DEBUG] Refreshing group 'towny-town-example' for new custom placeholder 'fbasics_enderpearl_cooldown'
+03/03/2018 10:54:19 [DEBUG] Refreshing group 'combat-scoreboard-example' for new custom placeholder 'fbasics_enderpearl_cooldown'
+03/03/2018 10:54:19 [DEBUG] Refreshing group 'default' for new custom placeholder 'fbasics_enderpearl_cooldown'
+03/03/2018 10:54:19 [DEBUG] Refreshing group 'mcmmo-levelup' for new custom placeholder 'factionstop_rank:3'
+03/03/2018 10:54:19 [DEBUG] Refreshing group 'benchmark' for new custom placeholder 'factionstop_rank:3'
+03/03/2018 10:54:19 [DEBUG] Refreshing group 'towny-town-example' for new custom placeholder 'factionstop_rank:2'
+03/03/2018 10:54:19 [DEBUG] Refreshing group 'combat-scoreboard-example' for new custom placeholder 'factionstop_rank:2'
+03/03/2018 10:54:19 [DEBUG] Refreshing group 'default' for new custom placeholder 'factionstop_rank:2'
+03/03/2018 10:54:19 [DEBUG] Refreshing group 'mcmmo-levelup' for new custom placeholder 'factionstop_rank:1'
+03/03/2018 10:54:19 [DEBUG] Refreshing group 'benchmark' for new custom placeholder 'factionstop_rank:1'
+03/03/2018 10:54:19 [DEBUG] Refreshing group 'towny-town-example' for new custom placeholder 'factionstop_rank:last'
+03/03/2018 10:54:19 [DEBUG] Refreshing group 'default' for new custom placeholder 'factionstop_rank:last'
+03/03/2018 10:54:09 [DEBUG] Download location: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\sound effects.jar
+03/03/2018 10:54:05 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/31e2c055-4d34-47cf-b8eb-869f73800dba/download?plugin=FeatherBoard&plugin-version=4.6.0&plugin-filehash=696dbdd1c41690ee1d7c05ec7f479374&plugin-nonce=84870899&plugin-asmhash=e18bc9eeab11bea7ab70641b6843be8a&plugin-asmhash2=213b7978a23843e0cbd586ac5d42fed4&plugin-filecount=386&plugin-user=7154&server-javaversion=1.8.0_162
+03/03/2018 10:54:09 [INFO] Downloading placeholder [Sound Effects 1.0.1] ...
+03/03/2018 10:54:09 [INFO] Loading placeholder [Sound Effects 1.0.1] ...
+03/03/2018 10:54:05 [DEBUG] Download location: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\economy.jar
+03/03/2018 10:54:09 [INFO] Downloading placeholder [Statistics 1.0.3] ...
+03/03/2018 10:54:09 [DEBUG] Loaded placeholder: sound
+03/03/2018 10:54:05 [INFO] Loading placeholder [Economy 1.0.1] ...
+03/03/2018 10:54:10 [DEBUG] Download location: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\statistics.jar
+03/03/2018 10:54:03 [INFO] Loading messages ...
+03/03/2018 10:54:05 [DEBUG] Output file is: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\effects.jar
+03/03/2018 10:54:10 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/15a8a3dc-e3ce-43df-b4ab-b04da812209d/download?plugin=FeatherBoard&plugin-version=4.6.0&plugin-filehash=696dbdd1c41690ee1d7c05ec7f479374&plugin-nonce=84870899&plugin-asmhash=e18bc9eeab11bea7ab70641b6843be8a&plugin-asmhash2=213b7978a23843e0cbd586ac5d42fed4&plugin-filecount=386&plugin-user=7154&server-javaversion=1.8.0_162
+03/03/2018 10:54:06 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/fea83b6e-2058-4e44-8a31-4a6df5e13a6d/download?plugin=FeatherBoard&plugin-version=4.6.0&plugin-filehash=696dbdd1c41690ee1d7c05ec7f479374&plugin-nonce=84870899&plugin-asmhash=e18bc9eeab11bea7ab70641b6843be8a&plugin-asmhash2=213b7978a23843e0cbd586ac5d42fed4&plugin-filecount=386&plugin-user=7154&server-javaversion=1.8.0_162
+03/03/2018 10:54:10 [INFO] Loading placeholder [Statistics 1.0.3] ...
+03/03/2018 10:54:10 [DEBUG] Output file is: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\tickspersecond.jar
+03/03/2018 10:54:06 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/7ae70f9d-9f43-4b95-b74c-bcd99eabd20b/download?plugin=FeatherBoard&plugin-version=4.6.0&plugin-filehash=696dbdd1c41690ee1d7c05ec7f479374&plugin-nonce=84870899&plugin-asmhash=e18bc9eeab11bea7ab70641b6843be8a&plugin-asmhash2=213b7978a23843e0cbd586ac5d42fed4&plugin-filecount=386&plugin-user=7154&server-javaversion=1.8.0_162
+03/03/2018 10:54:10 [INFO] Loading placeholder [TicksPerSecond 1.0.2] ...
+03/03/2018 10:54:04 [INFO] Loaded FeatherBoard module: [_LegacyPatch_1.jar] by Maximvdw
+03/03/2018 10:54:06 [INFO] Loading placeholder [Essentials 1.0.1] ...
+03/03/2018 10:54:04 [INFO] Loading placeholders and event triggers ...
+03/03/2018 10:54:06 [DEBUG] Loaded placeholder: essentials
+03/03/2018 10:54:06 [INFO] Downloading placeholder [Facebook 1.0.2] ...
+03/03/2018 10:54:04 [INFO] Loading internal placeholders ...
+03/03/2018 10:54:04 [DEBUG] Loaded placeholder: CustomPlaceholders
+03/03/2018 10:54:06 [DEBUG] Downloaded file to: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\essentials.jar
+03/03/2018 10:54:06 [DEBUG] Output file is: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\facebook.jar
+03/03/2018 10:54:06 [DEBUG] Download location: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\facebook.jar
+03/03/2018 10:54:07 [DEBUG] Downloaded file to: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\facebook.jar
+03/03/2018 10:54:06 [DEBUG] Download location: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\effects.jar
+03/03/2018 10:54:19 [DEBUG] Refreshing group 'combat-scoreboard-example' for new custom placeholder 'factionstop_rank:last'
+03/03/2018 10:54:10 [DEBUG] Loaded placeholder: tickspersecond
+03/03/2018 10:54:10 [INFO] Downloading placeholder [Twitter 1.0.2] ...
+03/03/2018 10:54:10 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/d0c4ab1d-a802-4224-8d2e-3e308b44d584/download?plugin=FeatherBoard&plugin-version=4.6.0&plugin-filehash=696dbdd1c41690ee1d7c05ec7f479374&plugin-nonce=84870899&plugin-asmhash=e18bc9eeab11bea7ab70641b6843be8a&plugin-asmhash2=213b7978a23843e0cbd586ac5d42fed4&plugin-filecount=386&plugin-user=7154&server-javaversion=1.8.0_162
+03/03/2018 10:54:10 [DEBUG] Download location: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\twitter.jar
+03/03/2018 10:54:03 [INFO] Checking for module updates ...
+03/03/2018 10:54:15 [DEBUG] 	Adding sub command 'info'
+03/03/2018 10:54:15 [DEBUG] 	Adding sub command 'remove'
+03/03/2018 10:54:15 [DEBUG] 	Adding sub command 'createscoreboard'
+03/03/2018 10:54:15 [DEBUG] 	Adding sub command 'editsetting'
+03/03/2018 10:54:15 [DEBUG] 	Adding sub command 'generatebbcode'
+03/03/2018 10:54:15 [DEBUG] 	Adding sub command 'help'
+03/03/2018 10:54:15 [DEBUG] 	Adding sub command 'permissions'
+03/03/2018 10:54:15 [DEBUG] 	Adding sub command 'debug'
+03/03/2018 10:54:09 [DEBUG] Download location: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\previous names.jar
+03/03/2018 10:54:09 [DEBUG] Downloaded file to: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\player.jar
+03/03/2018 10:54:15 [INFO] Generating metrics information ...
+03/03/2018 10:54:09 [INFO] Loading placeholder [Permissions 1.0.1] ...
+03/03/2018 10:54:09 [DEBUG] Downloaded file to: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\permissions.jar
+03/03/2018 10:54:09 [DEBUG] Download location: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\permissions.jar
+03/03/2018 10:54:09 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/a037ff10-3991-4b65-8059-aa09fd0d2fad/download?plugin=FeatherBoard&plugin-version=4.6.0&plugin-filehash=696dbdd1c41690ee1d7c05ec7f479374&plugin-nonce=84870899&plugin-asmhash=e18bc9eeab11bea7ab70641b6843be8a&plugin-asmhash2=213b7978a23843e0cbd586ac5d42fed4&plugin-filecount=386&plugin-user=7154&server-javaversion=1.8.0_162
+03/03/2018 10:54:09 [DEBUG] Output file is: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\permissions.jar
+03/03/2018 10:54:09 [INFO] Downloading placeholder [Permissions 1.0.1] ...
+03/03/2018 10:54:09 [DEBUG] Loaded placeholder: multiverse
+03/03/2018 10:54:09 [INFO] Loading placeholder [Multiverse-Core 1.0.1] ...
+03/03/2018 10:54:09 [DEBUG] Downloaded file to: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\multiverse-core.jar
+03/03/2018 10:54:09 [DEBUG] Download location: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\multiverse-core.jar
+03/03/2018 10:54:09 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/df725e8e-1895-4fc5-b930-c90f3eb30b7c/download?plugin=FeatherBoard&plugin-version=4.6.0&plugin-filehash=696dbdd1c41690ee1d7c05ec7f479374&plugin-nonce=84870899&plugin-asmhash=e18bc9eeab11bea7ab70641b6843be8a&plugin-asmhash2=213b7978a23843e0cbd586ac5d42fed4&plugin-filecount=386&plugin-user=7154&server-javaversion=1.8.0_162
+03/03/2018 10:54:15 [DEBUG] 	Line: skilllevel-label Static: true
+03/03/2018 10:54:08 [INFO] Downloading placeholder [Multiverse-Core 1.0.1] ...
+03/03/2018 10:54:08 [DEBUG] Loaded placeholder: memory
+03/03/2018 10:54:08 [INFO] Loading placeholder [Memory 1.0.1] ...
+03/03/2018 10:54:15 [INFO] Adding scoreboard group 'mcmmo-levelup' ...
+03/03/2018 10:54:08 [DEBUG] Download location: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\memory.jar
+03/03/2018 10:54:08 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/fa5e56ac-5b4c-4b18-94f2-9f9c98c0efc9/download?plugin=FeatherBoard&plugin-version=4.6.0&plugin-filehash=696dbdd1c41690ee1d7c05ec7f479374&plugin-nonce=84870899&plugin-asmhash=e18bc9eeab11bea7ab70641b6843be8a&plugin-asmhash2=213b7978a23843e0cbd586ac5d42fed4&plugin-filecount=386&plugin-user=7154&server-javaversion=1.8.0_162
+03/03/2018 10:54:08 [DEBUG] Output file is: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\memory.jar
+03/03/2018 10:54:15 [DEBUG] 	Line: timesplayed-label Static: false
+03/03/2018 10:54:08 [DEBUG] Loaded placeholder: java
+03/03/2018 10:54:08 [INFO] Loading placeholder [JavaInfo 1.0.1] ...
+03/03/2018 10:54:08 [DEBUG] Downloaded file to: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\javainfo.jar
+03/03/2018 10:54:08 [DEBUG] Download location: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\javainfo.jar
+03/03/2018 10:54:08 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/d02ea30f-f831-4e8b-a80d-a48e436a0e4e/download?plugin=FeatherBoard&plugin-version=4.6.0&plugin-filehash=696dbdd1c41690ee1d7c05ec7f479374&plugin-nonce=84870899&plugin-asmhash=e18bc9eeab11bea7ab70641b6843be8a&plugin-asmhash2=213b7978a23843e0cbd586ac5d42fed4&plugin-filecount=386&plugin-user=7154&server-javaversion=1.8.0_162
+03/03/2018 10:54:08 [DEBUG] Output file is: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\javainfo.jar
+03/03/2018 10:54:08 [INFO] Downloading placeholder [JavaInfo 1.0.1] ...
+03/03/2018 10:54:08 [DEBUG] Loaded placeholder: hotbar
+03/03/2018 10:54:08 [INFO] Loading placeholder [Hotbar 1.0.1] ...
+03/03/2018 10:54:08 [DEBUG] Downloaded file to: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\hotbar.jar
+03/03/2018 10:54:08 [DEBUG] Download location: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\hotbar.jar
+03/03/2018 10:54:15 [DEBUG] 	Line: line14 Static: false
+03/03/2018 10:54:08 [DEBUG] Output file is: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\hotbar.jar
+03/03/2018 10:54:08 [INFO] Downloading placeholder [Hotbar 1.0.1] ...
+03/03/2018 10:54:08 [DEBUG] Loaded placeholder: geographical
+03/03/2018 10:54:13 [DEBUG] 	Line: line6 Static: false
+03/03/2018 10:54:08 [DEBUG] Downloaded file to: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\geographical.jar
+03/03/2018 10:54:08 [DEBUG] Download location: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\geographical.jar
+03/03/2018 10:54:08 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/b69f2856-daba-4fa7-a405-14c3bf61c8cc/download?plugin=FeatherBoard&plugin-version=4.6.0&plugin-filehash=696dbdd1c41690ee1d7c05ec7f479374&plugin-nonce=84870899&plugin-asmhash=e18bc9eeab11bea7ab70641b6843be8a&plugin-asmhash2=213b7978a23843e0cbd586ac5d42fed4&plugin-filecount=386&plugin-user=7154&server-javaversion=1.8.0_162
+03/03/2018 10:54:05 [DEBUG] Loaded placeholder: armor
+03/03/2018 10:54:08 [INFO] Downloading placeholder [FireworkEffect 1.0.1] ...
+03/03/2018 10:54:05 [INFO] Downloading placeholder [Bukkit 1.0.5] ...
+03/03/2018 10:54:05 [DEBUG] Output file is: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\bukkit.jar
+03/03/2018 10:54:08 [DEBUG] Downloaded file to: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\fireworkeffect.jar
+03/03/2018 10:54:05 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/7fb749cc-7d20-465c-8aab-a9b53b2e7f93/download?plugin=FeatherBoard&plugin-version=4.6.0&plugin-filehash=696dbdd1c41690ee1d7c05ec7f479374&plugin-nonce=84870899&plugin-asmhash=e18bc9eeab11bea7ab70641b6843be8a&plugin-asmhash2=213b7978a23843e0cbd586ac5d42fed4&plugin-filecount=386&plugin-user=7154&server-javaversion=1.8.0_162
+03/03/2018 10:54:05 [DEBUG] Download location: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\bukkit.jar
+03/03/2018 10:54:08 [DEBUG] Output file is: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\geographical.jar
+03/03/2018 10:54:05 [DEBUG] Downloaded file to: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\bukkit.jar
+03/03/2018 10:54:05 [INFO] Loading placeholder [Bukkit 1.0.5] ...
+03/03/2018 10:54:08 [INFO] Loading placeholder [Geographical 1.0.1] ...
+03/03/2018 10:54:05 [DEBUG] Loaded placeholder: bukkit
+03/03/2018 10:54:05 [INFO] Downloading placeholder [BungeeCord 1.0.1] ...
+03/03/2018 10:54:08 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/ecbcb67f-3cdc-420f-a50f-66eb56d0351f/download?plugin=FeatherBoard&plugin-version=4.6.0&plugin-filehash=696dbdd1c41690ee1d7c05ec7f479374&plugin-nonce=84870899&plugin-asmhash=e18bc9eeab11bea7ab70641b6843be8a&plugin-asmhash2=213b7978a23843e0cbd586ac5d42fed4&plugin-filecount=386&plugin-user=7154&server-javaversion=1.8.0_162
+03/03/2018 10:54:05 [DEBUG] Output file is: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\bungeecord.jar
+03/03/2018 10:54:15 [DEBUG] 	Adding sub command 'show'
+03/03/2018 10:54:05 [INFO] Loading placeholder [Armor 1.0.1] ...
+03/03/2018 10:54:05 [DEBUG] Downloaded file to: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\armor.jar
+03/03/2018 10:54:08 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/a05f8a3e-05b5-4eef-9ee7-f9c7745f204c/download?plugin=FeatherBoard&plugin-version=4.6.0&plugin-filehash=696dbdd1c41690ee1d7c05ec7f479374&plugin-nonce=84870899&plugin-asmhash=e18bc9eeab11bea7ab70641b6843be8a&plugin-asmhash2=213b7978a23843e0cbd586ac5d42fed4&plugin-filecount=386&plugin-user=7154&server-javaversion=1.8.0_162
+03/03/2018 10:54:07 [DEBUG] Output file is: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\factions 1.8.jar
+03/03/2018 10:54:05 [DEBUG] Download location: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\armor.jar
+03/03/2018 10:54:07 [INFO] Downloading placeholder [Factions 1.8 1.0.1] ...
+03/03/2018 10:54:11 [DEBUG] Output file is: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\worldguard.jar
+03/03/2018 10:54:08 [DEBUG] Download location: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\factions 1.8.jar
+03/03/2018 10:54:08 [DEBUG] Downloaded file to: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\factions 1.8.jar
+03/03/2018 10:54:08 [INFO] Loading placeholder [Factions 1.8 1.0.1] ...
+03/03/2018 10:54:08 [DEBUG] Loaded placeholder: factions1_8
+03/03/2018 10:54:11 [INFO] Loading event hook: mcMMO Level up event ...
+03/03/2018 10:54:08 [DEBUG] Output file is: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\fireworkeffect.jar
+03/03/2018 10:54:08 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/ca9f5e55-3fb7-43fe-94d6-e9e1609997ff/download?plugin=FeatherBoard&plugin-version=4.6.0&plugin-filehash=696dbdd1c41690ee1d7c05ec7f479374&plugin-nonce=84870899&plugin-asmhash=e18bc9eeab11bea7ab70641b6843be8a&plugin-asmhash2=213b7978a23843e0cbd586ac5d42fed4&plugin-filecount=386&plugin-user=7154&server-javaversion=1.8.0_162
+03/03/2018 10:54:08 [DEBUG] Download location: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\fireworkeffect.jar
+03/03/2018 10:54:12 [INFO] Creating new custom effect: warning
+03/03/2018 10:54:08 [INFO] Loading placeholder [FireworkEffect 1.0.1] ...
+03/03/2018 10:54:08 [DEBUG] Loaded placeholder: firework
+03/03/2018 10:54:09 [INFO] Downloading placeholder [Player 1.0.10] ...
+03/03/2018 10:54:09 [DEBUG] Output file is: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\player.jar
+03/03/2018 10:54:12 [INFO] Using OPTIMAL as the update strategy
+03/03/2018 10:54:08 [INFO] Downloading placeholder [Geographical 1.0.1] ...
+03/03/2018 10:54:15 [DEBUG] 	Adding sub command 'reload'
+03/03/2018 10:54:09 [DEBUG] Loaded placeholder: player
+03/03/2018 10:54:09 [INFO] Loading placeholder [Player 1.0.10] ...
+03/03/2018 10:54:09 [DEBUG] Download location: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\player.jar
+03/03/2018 10:54:09 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/ffcf2c28-d554-4ce2-b1a4-e8f991afeda4/download?plugin=FeatherBoard&plugin-version=4.6.0&plugin-filehash=696dbdd1c41690ee1d7c05ec7f479374&plugin-nonce=84870899&plugin-asmhash=e18bc9eeab11bea7ab70641b6843be8a&plugin-asmhash2=213b7978a23843e0cbd586ac5d42fed4&plugin-filecount=386&plugin-user=7154&server-javaversion=1.8.0_162
+03/03/2018 10:54:09 [DEBUG] Output file is: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\previous names.jar
+03/03/2018 10:54:15 [DEBUG] 	Adding sub command 'hide'
+03/03/2018 10:54:15 [DEBUG] 	Adding sub command 'modules'
+03/03/2018 10:54:15 [DEBUG] 	Adding sub command 'module'
+03/03/2018 10:54:09 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/c3926954-b7ba-4f5e-9956-70fdf421d077/download?plugin=FeatherBoard&plugin-version=4.6.0&plugin-filehash=696dbdd1c41690ee1d7c05ec7f479374&plugin-nonce=84870899&plugin-asmhash=e18bc9eeab11bea7ab70641b6843be8a&plugin-asmhash2=213b7978a23843e0cbd586ac5d42fed4&plugin-filecount=386&plugin-user=7154&server-javaversion=1.8.0_162
+03/03/2018 10:54:09 [DEBUG] Output file is: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\redisbungee.jar
+03/03/2018 10:54:09 [DEBUG] Loaded placeholder: previousnames
+03/03/2018 10:54:09 [INFO] Loading placeholder [RedisBungee 1.0.1] ...
+03/03/2018 10:54:09 [DEBUG] Download location: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\redisbungee.jar
+03/03/2018 10:54:09 [DEBUG] Loaded placeholder: redisbungee
+03/03/2018 10:54:09 [DEBUG] Output file is: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\serverpinger.jar
+03/03/2018 10:54:09 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/66aafeb3-e1f7-4e78-b1e3-ba9ff4c8c7e9/download?plugin=FeatherBoard&plugin-version=4.6.0&plugin-filehash=696dbdd1c41690ee1d7c05ec7f479374&plugin-nonce=84870899&plugin-asmhash=e18bc9eeab11bea7ab70641b6843be8a&plugin-asmhash2=213b7978a23843e0cbd586ac5d42fed4&plugin-filecount=386&plugin-user=7154&server-javaversion=1.8.0_162
+03/03/2018 10:54:09 [DEBUG] Download location: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\serverpinger.jar
+03/03/2018 10:54:09 [DEBUG] Downloaded file to: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\serverpinger.jar
+03/03/2018 10:54:09 [INFO] Loading placeholder [ServerPinger 1.0.2] ...
+03/03/2018 10:54:07 [DEBUG] Loaded placeholder: factions1_6
+03/03/2018 10:54:07 [INFO] Loading placeholder [Factions 1.0.1] ...
+03/03/2018 10:54:05 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/0da20ebe-8635-4c28-befc-6c3a24c9fdf9/download?plugin=FeatherBoard&plugin-version=4.6.0&plugin-filehash=696dbdd1c41690ee1d7c05ec7f479374&plugin-nonce=84870899&plugin-asmhash=e18bc9eeab11bea7ab70641b6843be8a&plugin-asmhash2=213b7978a23843e0cbd586ac5d42fed4&plugin-filecount=386&plugin-user=7154&server-javaversion=1.8.0_162
+03/03/2018 10:54:09 [DEBUG] Loaded placeholder: serverpinger
+03/03/2018 10:54:04 [DEBUG] Output file is: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\armor.jar
+03/03/2018 10:54:07 [DEBUG] Downloaded file to: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\factions.jar
+03/03/2018 10:54:07 [DEBUG] Download location: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\factions.jar
+03/03/2018 10:54:07 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/b983e9b1-a7ab-4370-bb7a-a38fa39fdcce/download?plugin=FeatherBoard&plugin-version=4.6.0&plugin-filehash=696dbdd1c41690ee1d7c05ec7f479374&plugin-nonce=84870899&plugin-asmhash=e18bc9eeab11bea7ab70641b6843be8a&plugin-asmhash2=213b7978a23843e0cbd586ac5d42fed4&plugin-filecount=386&plugin-user=7154&server-javaversion=1.8.0_162
+03/03/2018 10:54:11 [INFO] Downloading placeholder [WorldBorder 1.0.1] ...
+03/03/2018 10:54:07 [INFO] Downloading placeholder [Factions 1.0.1] ...
+03/03/2018 10:54:07 [DEBUG] Output file is: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\factions.jar
+03/03/2018 10:54:04 [INFO] Downloading placeholder [Armor 1.0.1] ...
+03/03/2018 10:54:04 [INFO] Fetching available placeholders from server ...
+03/03/2018 10:54:07 [INFO] Loading placeholder [Facebook 1.0.2] ...
+03/03/2018 10:54:11 [INFO] Loading event hook: Vanilla player first join ...
+03/03/2018 10:54:07 [DEBUG] Loaded placeholder: facebook
+03/03/2018 10:54:15 [DEBUG] 	Adding sub command 'toggle'
+03/03/2018 10:54:04 [DEBUG] Loaded placeholder: MySQL
+03/03/2018 10:54:05 [DEBUG] Downloaded file to: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\bungeecord.jar
+03/03/2018 10:54:05 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/af492a97-cde0-4e34-a80e-2f6bab4b9e3a/download?plugin=FeatherBoard&plugin-version=4.6.0&plugin-filehash=696dbdd1c41690ee1d7c05ec7f479374&plugin-nonce=84870899&plugin-asmhash=e18bc9eeab11bea7ab70641b6843be8a&plugin-asmhash2=213b7978a23843e0cbd586ac5d42fed4&plugin-filecount=386&plugin-user=7154&server-javaversion=1.8.0_162
+03/03/2018 10:54:15 [DEBUG] 	Adding sub command 'gui'
+03/03/2018 10:54:05 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/48c998b3-6d9a-446e-8138-55d80397067f/download?plugin=FeatherBoard&plugin-version=4.6.0&plugin-filehash=696dbdd1c41690ee1d7c05ec7f479374&plugin-nonce=84870899&plugin-asmhash=e18bc9eeab11bea7ab70641b6843be8a&plugin-asmhash2=213b7978a23843e0cbd586ac5d42fed4&plugin-filecount=386&plugin-user=7154&server-javaversion=1.8.0_162
+03/03/2018 10:54:05 [DEBUG] Download location: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\bungeecord.jar
+03/03/2018 10:54:05 [INFO] Loading placeholder [BungeeCord 1.0.1] ...
+03/03/2018 10:54:08 [INFO] Downloading placeholder [Memory 1.0.1] ...
+03/03/2018 10:54:09 [INFO] Loading placeholder [Previous Names 1.0.1] ...
+03/03/2018 10:54:08 [DEBUG] Downloaded file to: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\memory.jar
+03/03/2018 10:54:05 [DEBUG] Loaded placeholder: bungeecord
+03/03/2018 10:54:05 [INFO] Downloading placeholder [Color 1.0.1] ...
+03/03/2018 10:54:05 [INFO] Downloading placeholder [Economy 1.0.1] ...
+03/03/2018 10:54:05 [DEBUG] Loaded placeholder: compass
+03/03/2018 10:54:05 [INFO] Loading placeholder [Compass placeholders 1.0.1] ...
+03/03/2018 10:54:09 [INFO] Downloading placeholder [ServerPinger 1.0.2] ...
+03/03/2018 10:54:09 [DEBUG] Downloaded file to: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\redisbungee.jar
+03/03/2018 10:54:05 [DEBUG] Output file is: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\compass placeholders.jar
+03/03/2018 10:54:09 [INFO] Downloading placeholder [RedisBungee 1.0.1] ...
+03/03/2018 10:54:05 [DEBUG] Loaded placeholder: command
+03/03/2018 10:54:09 [DEBUG] Downloaded file to: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\previous names.jar
+03/03/2018 10:54:09 [INFO] Downloading placeholder [Previous Names 1.0.1] ...
+03/03/2018 10:54:05 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/d84132d6-4053-482f-afcf-d568eea7f35d/download?plugin=FeatherBoard&plugin-version=4.6.0&plugin-filehash=696dbdd1c41690ee1d7c05ec7f479374&plugin-nonce=84870899&plugin-asmhash=e18bc9eeab11bea7ab70641b6843be8a&plugin-asmhash2=213b7978a23843e0cbd586ac5d42fed4&plugin-filecount=386&plugin-user=7154&server-javaversion=1.8.0_162
+03/03/2018 10:54:05 [DEBUG] Output file is: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\commandplaceholderpack.jar
+03/03/2018 10:54:05 [INFO] Downloading placeholder [CommandPlaceholderPack 1.0.1] ...
+03/03/2018 10:54:09 [DEBUG] Loaded placeholder: permissions
+03/03/2018 10:54:05 [INFO] Loading placeholder [Color 1.0.1] ...
+03/03/2018 10:54:05 [DEBUG] Downloaded file to: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\color.jar
+03/03/2018 10:54:05 [DEBUG] Download location: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\color.jar
+03/03/2018 10:54:08 [DEBUG] Output file is: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\multiverse-core.jar
+03/03/2018 10:54:05 [DEBUG] Output file is: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\color.jar
+03/03/2018 10:54:05 [DEBUG] Loaded placeholder: color
+03/03/2018 10:54:05 [DEBUG] Download location: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\commandplaceholderpack.jar
+03/03/2018 10:54:05 [DEBUG] Downloaded file to: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\commandplaceholderpack.jar
+03/03/2018 10:54:05 [INFO] Loading placeholder [CommandPlaceholderPack 1.0.1] ...
+03/03/2018 10:54:05 [DEBUG] Download location: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\compass placeholders.jar
+03/03/2018 10:54:09 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/1169a630-36d0-4e67-af93-8f77e6f4d990/download?plugin=FeatherBoard&plugin-version=4.6.0&plugin-filehash=696dbdd1c41690ee1d7c05ec7f479374&plugin-nonce=84870899&plugin-asmhash=e18bc9eeab11bea7ab70641b6843be8a&plugin-asmhash2=213b7978a23843e0cbd586ac5d42fed4&plugin-filecount=386&plugin-user=7154&server-javaversion=1.8.0_162
+03/03/2018 10:54:15 [INFO] Toggle persistence is disabled!
+03/03/2018 10:54:03 [INFO] Fetching modules from server ...
+03/03/2018 10:54:15 [INFO] Added 'PERMISSION' as the default scoreboard assign method
+03/03/2018 10:54:15 [DEBUG] 	mcmmo-levelup - 0
+03/03/2018 10:54:10 [DEBUG] Download location: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\tickspersecond.jar
+03/03/2018 10:54:15 [DEBUG] 	benchmark - 0
+03/03/2018 10:54:03 [INFO] Creating new file 'plugins\FeatherBoard\lang\lang_en.yml'!
+03/03/2018 10:54:09 [DEBUG] Downloaded file to: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\sound effects.jar
+03/03/2018 10:54:10 [INFO] Downloading placeholder [TicksPerSecond 1.0.2] ...
+03/03/2018 10:54:10 [DEBUG] Loaded placeholder: statistics
+03/03/2018 10:54:05 [DEBUG] Downloaded file to: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\economy.jar
+03/03/2018 10:54:05 [INFO] Downloading placeholder [Effects 1.0.1] ...
+03/03/2018 10:54:10 [DEBUG] Downloaded file to: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\statistics.jar
+03/03/2018 10:54:09 [DEBUG] Output file is: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\statistics.jar
+03/03/2018 10:54:05 [DEBUG] Loaded placeholder: economy
+03/03/2018 10:54:10 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/02d11193-32da-456e-b2b3-16e1e5ba5072/download?plugin=FeatherBoard&plugin-version=4.6.0&plugin-filehash=696dbdd1c41690ee1d7c05ec7f479374&plugin-nonce=84870899&plugin-asmhash=e18bc9eeab11bea7ab70641b6843be8a&plugin-asmhash2=213b7978a23843e0cbd586ac5d42fed4&plugin-filecount=386&plugin-user=7154&server-javaversion=1.8.0_162
+03/03/2018 10:54:10 [DEBUG] Downloaded file to: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\tickspersecond.jar
+03/03/2018 10:54:03 [INFO] Loading language file: lang_en
+03/03/2018 10:54:06 [DEBUG] Downloaded file to: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\effects.jar
+03/03/2018 10:54:05 [INFO] Downloading placeholder [Compass placeholders 1.0.1] ...
+03/03/2018 10:54:05 [DEBUG] Downloading file: http://modules.mvdw-software.com/api/v1/moduleupdate/55f47c7a-085b-409f-aa6a-2ad63fae89a9/download?plugin=FeatherBoard&plugin-version=4.6.0&plugin-filehash=696dbdd1c41690ee1d7c05ec7f479374&plugin-nonce=84870899&plugin-asmhash=e18bc9eeab11bea7ab70641b6843be8a&plugin-asmhash2=213b7978a23843e0cbd586ac5d42fed4&plugin-filecount=386&plugin-user=7154&server-javaversion=1.8.0_162
+03/03/2018 10:54:05 [DEBUG] Downloaded file to: C:\Users\Administrator\Documents\CursePvP-Main\FSetup 2.0\plugins\FeatherBoard\modules\compass placeholders.jar

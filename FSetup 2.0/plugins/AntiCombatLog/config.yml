@@ -6,8 +6,11 @@ Messages:
   canttpincombat: AntiCombatLog &cYou can't teleport in Combat.
   oncombatlog: AntiCombatLog %player% &clogged out in Combat!
   canttypecommand: AntiCombatLog You can't type that command in Combat.
-combattime: 25
-disableFly: true
-disableCreative: true
 canTPincombat: false
+disableCreative: true
+disableFly: true
+combattime: 25
+disableDisguise: true
 blocked-cmds: []
+disabledWorlds:
+- disabledWorld1

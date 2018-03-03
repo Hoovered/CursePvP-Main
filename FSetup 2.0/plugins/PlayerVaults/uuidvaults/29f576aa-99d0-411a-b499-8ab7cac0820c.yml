@@ -1,0 +1,5 @@
+vault1:
+  '0': '{"==":"org.bukkit.inventory.ItemStack","amount":4,"type":"GOLDEN_APPLE"}'
+  '1': '{"==":"org.bukkit.inventory.ItemStack","amount":4,"type":"ENDER_PEARL"}'
+  '2': '{"==":"org.bukkit.inventory.ItemStack","amount":32,"type":"LOG"}'
+  '3': '{"==":"org.bukkit.inventory.ItemStack","amount":8,"type":"CACTUS"}'

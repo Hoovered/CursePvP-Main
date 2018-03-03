@@ -1,23 +1,26 @@
 {
-  "maxTabCompletions": 100,
-  "aliasesOuterMassiveCore": [
+  "version": 1,
+  "aliasesMcore": [
     "massivecore",
     "mcore"
   ],
-  "aliasesOuterMassiveCoreUsys": [
+  "aliasesUsys": [
     "usys"
   ],
-  "aliasesOuterMassiveCoreStore": [
+  "aliasesMstore": [
     "massivestore",
     "mstore"
   ],
-  "aliasesOuterMassiveCoreBuffer": [
+  "aliasesBuffer": [
     "buffer"
   ],
-  "aliasesOuterMassiveCoreCmdurl": [
+  "aliasesCmdurl": [
     "cmdurl"
   ],
-  "usingRecipientChatEvent": true,
+  "versionSynchronizationEnabled": true,
+  "tabCompletionLimit": 100,
+  "recipientChatEventEnabled": true,
+  "consoleColorsEnabled": true,
   "permissionDeniedFormats": {
     "some.awesome.permission.node": "<b>You must be awesome to %s<b>.",
     "some.derp.permission.node.1": "derp",
@@ -30,10 +33,30 @@
     "default": 10
   },
   "deleteFiles": [],
+  "variableBookName": "***book***",
+  "variableBookEnabled": true,
+  "variableBufferName": "***buffer***",
+  "variableBufferEnabled": true,
+  "clickSound": {
+    "soundId": "UI_BUTTON_CLICK",
+    "volume": 0.75,
+    "pitch": 1.0
+  },
+  "millisBetweenLocalPoll": 300000,
+  "millisBetweenRemotePollWithoutPusher": 10000,
+  "millisBetweenRemotePollWithPusher": 60000,
+  "warnOnLocalAlter": false,
+  "cleanTaskPeriodMillis": 86400000,
+  "cleanTaskOffsetMillis": 0,
+  "cleanTaskLastMillis": 1520102477856,
   "catchingMongoDbErrorsOnSave": true,
   "catchingMongoDbErrorsOnDelete": true,
-  "variableBook": "***book***",
-  "usingVariableBook": true,
-  "variableBuffer": "***buffer***",
-  "usingVariableBuffer": true
+  "debugEnabled": false,
+  "sponsorUpdateMillis": 1520102477467,
+  "sponsorEnabled": true,
+  "metricsEnabled": true,
+  "loreSortOnInventoryClick": false,
+  "loreSortOnInventoryOpen": false,
+  "lorePrioritiesPrefix": {},
+  "lorePrioritiesRegex": {}
 }

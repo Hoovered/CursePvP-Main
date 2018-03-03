@@ -17,7 +17,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "ed684b27-0eae-4c97-8412-2b19568240ae": {
     "factionId": "0",
@@ -37,7 +39,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "8b1155d6-332f-40cd-b848-584a946bd046": {
     "factionId": "0",
@@ -57,7 +61,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "b1e8185c-d7d3-41da-a859-df026fc292f3": {
     "factionId": "16",
@@ -77,7 +83,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "0fcad380-b226-4ea2-acfc-1cc7cf6fe3f3": {
     "factionId": "10",
@@ -97,7 +105,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 2,
-    "deaths": 2
+    "deaths": 2,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "6a32bc5d-a969-42ab-bfe2-d37a31115cb3": {
     "factionId": "20",
@@ -117,7 +127,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 2,
-    "deaths": 2
+    "deaths": 2,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "147c2b4f-1f89-4010-b59a-178b6e3576f9": {
     "factionId": "0",
@@ -137,7 +149,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "005cb1db-7cf7-4535-aff5-092b6313da09": {
     "factionId": "0",
@@ -157,7 +171,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "65402b20-f29d-4513-a184-5e2980f1ea7f": {
     "factionId": "0",
@@ -177,7 +193,31 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
+  },
+  "14f4a6d8-0275-4ddc-915c-a04f374296e8": {
+    "factionId": "0",
+    "role": "NORMAL",
+    "title": "",
+    "power": 0.6745366666666668,
+    "powerBoost": 0.0,
+    "lastPowerUpdateTime": 1520100660057,
+    "lastLoginTime": 1520100660057,
+    "chatMode": "PUBLIC",
+    "ignoreAllianceChat": false,
+    "id": "14f4a6d8-0275-4ddc-915c-a04f374296e8",
+    "name": "PetiProtoBG",
+    "monitorJoins": false,
+    "spyingChat": false,
+    "showScoreboard": false,
+    "warmupTask": 0,
+    "isAdminBypassing": false,
+    "kills": 0,
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "7a96bd9c-4cee-4be4-814d-79f49aceef83": {
     "factionId": "8",
@@ -197,7 +237,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "ac4b20f1-7c85-30c7-9063-942cfef879c8": {
     "factionId": "0",
@@ -217,7 +259,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "cad039bd-6cf2-4082-a8d2-ab497692ee70": {
     "factionId": "8",
@@ -237,7 +281,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "607e69ef-0dc7-4df7-ba4a-19af3e5aeba2": {
     "factionId": "14",
@@ -257,7 +303,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 1
+    "deaths": 1,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "7227a2e0-877e-4a82-8b89-bdcad77c4ff2": {
     "factionId": "0",
@@ -277,7 +325,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "7f5e909d-ea53-4f75-8fba-90933ad71571": {
     "factionId": "25",
@@ -297,7 +347,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "dabc9441-3acc-4c7a-bce9-b34f50f71b3d": {
     "factionId": "6",
@@ -317,7 +369,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 1,
-    "deaths": 3
+    "deaths": 3,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "8516c76c-64a8-401f-9b22-e89f1430a695": {
     "factionId": "0",
@@ -337,7 +391,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "f18520ba-d0da-4d39-8bb1-1e29aec37caf": {
     "factionId": "0",
@@ -357,7 +413,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 1
+    "deaths": 1,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "243682b7-ba1f-4e9c-8216-273a65849574": {
     "factionId": "7",
@@ -377,7 +435,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 11
+    "deaths": 11,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "aff24648-051b-44f8-8ccb-6b44eb037b97": {
     "factionId": "0",
@@ -397,7 +457,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "964221cf-16e8-4718-95ce-6a6bac2fbd21": {
     "factionId": "0",
@@ -417,7 +479,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "6301e23c-8e6a-49cc-850b-7393a8c9885a": {
     "factionId": "4",
@@ -437,7 +501,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 1,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "e5a7cce4-8fed-4667-bd07-c627850275f7": {
     "factionId": "0",
@@ -457,7 +523,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 1
+    "deaths": 1,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "d3d4b36f-0d79-4fa9-8e46-2de46b1a7cbf": {
     "factionId": "0",
@@ -477,7 +545,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "c77378eb-afdb-4a88-bde0-54c882efc8d9": {
     "factionId": "0",
@@ -497,7 +567,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "c54e9cf9-a8fc-4981-a1ee-1bcc03233db1": {
     "factionId": "9",
@@ -517,7 +589,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "ab92fc92-f17f-4e76-8dc3-ef13bab1ffb1": {
     "factionId": "10",
@@ -537,7 +611,9 @@
     "warmupTask": 0,
     "isAdminBypassing": true,
     "kills": 8,
-    "deaths": 2
+    "deaths": 2,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "5013e6a9-b5b1-463e-9524-9cd480147c20": {
     "factionId": "0",
@@ -557,7 +633,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "4196a473-f72f-42e7-b2d3-70c858c446da": {
     "factionId": "0",
@@ -577,7 +655,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "847d494e-0a15-40aa-964b-e7172c0221a8": {
     "factionId": "0",
@@ -597,7 +677,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "45fbdbed-0ba1-44e7-bbf6-9bfafd9d194d": {
     "factionId": "6",
@@ -617,7 +699,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 1,
-    "deaths": 1
+    "deaths": 1,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "e9cdf146-0116-41a7-83fa-1e0853b5579f": {
     "factionId": "0",
@@ -637,7 +721,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "b407639b-fb64-410c-98ab-d5b5c651d814": {
     "factionId": "0",
@@ -657,7 +743,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 1
+    "deaths": 1,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "a0a7d27b-9d1d-437c-afbd-7f02b3126e21": {
     "factionId": "0",
@@ -677,7 +765,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "43adde83-bb15-4bbb-8b80-b1021226012a": {
     "factionId": "0",
@@ -697,7 +787,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "8cee8f26-d43e-4c76-8c09-4e5e0c22d331": {
     "factionId": "0",
@@ -717,7 +809,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 1
+    "deaths": 1,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "0f5d8bff-2b19-4124-bb80-e0ec2612b920": {
     "factionId": "0",
@@ -737,7 +831,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "3429c631-3db5-4e38-85ce-592e4f59724b": {
     "factionId": "0",
@@ -757,7 +853,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "913bbf6e-3d7a-43fe-b07e-799dcf75e48f": {
     "factionId": "0",
@@ -777,7 +875,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "0558706e-1622-4eed-9d77-0f4bf9702a38": {
     "factionId": "0",
@@ -797,7 +897,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 1
+    "deaths": 1,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "2400220a-a7bc-41b8-9eb9-8cbfff35a0d9": {
     "factionId": "0",
@@ -817,7 +919,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "fa754dd3-10b6-443d-ad52-2ebe3bc672e3": {
     "factionId": "0",
@@ -837,7 +941,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "69d52f75-5a26-485d-915a-ce0f4a086b7e": {
     "factionId": "22",
@@ -857,7 +963,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 1
+    "deaths": 1,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "ae7bfaf7-e2a3-41b5-9d1a-f04a1db13a8e": {
     "factionId": "0",
@@ -877,7 +985,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 3,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "56a032d3-0436-4f53-8ebe-65cc226809dc": {
     "factionId": "0",
@@ -897,7 +1007,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 3,
-    "deaths": 16
+    "deaths": 16,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "38ab1f79-38d7-4ef3-be43-b1d7878a7475": {
     "factionId": "0",
@@ -917,7 +1029,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "dd5b3c85-23bc-4837-91d0-cbe200eee83e": {
     "factionId": "0",
@@ -937,7 +1051,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "5c98fdec-5758-4c91-aadc-b8fe7f9fe1c6": {
     "factionId": "0",
@@ -957,7 +1073,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "9f07ad01-8fb7-4712-bd5d-f5e4ff968ae7": {
     "factionId": "0",
@@ -977,7 +1095,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "00cfd3a2-97e6-44c8-b34b-eab224cb0432": {
     "factionId": "0",
@@ -997,7 +1117,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "c6d43215-dd4f-44ba-8315-bdc71962737d": {
     "factionId": "12",
@@ -1017,7 +1139,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "ec0b21a4-ef6e-4066-85a0-ae906b8f22b5": {
     "factionId": "2",
@@ -1037,7 +1161,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "740a827e-bb42-4452-9e76-6a3a028d355a": {
     "factionId": "0",
@@ -1057,7 +1183,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "5296068d-6263-4d3f-8172-701237beb8ac": {
     "factionId": "5",
@@ -1077,7 +1205,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "98a64426-3ca4-4148-a389-89b181f21913": {
     "factionId": "0",
@@ -1097,7 +1227,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "a97e5f27-0180-49c4-b549-76e9aa98124f": {
     "factionId": "0",
@@ -1117,7 +1249,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 2
+    "deaths": 2,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "bb2644d9-a04c-4b88-8d90-4ae625df62a6": {
     "factionId": "0",
@@ -1137,7 +1271,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 2,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "6a58399c-d345-46a5-ad91-78bdba45bd7b": {
     "factionId": "23",
@@ -1157,7 +1293,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "dcf43d34-86a5-4878-8fb9-d69586494f3c": {
     "factionId": "0",
@@ -1177,7 +1315,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 2
+    "deaths": 2,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "6991b496-a8e6-4bce-816a-51a5f2cc8c65": {
     "factionId": "0",
@@ -1197,7 +1337,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "8be45cca-4892-4dac-beb2-6d17db992a9d": {
     "factionId": "0",
@@ -1217,7 +1359,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "7d87ff66-3724-44ec-8476-e86a68c7554d": {
     "factionId": "0",
@@ -1237,7 +1381,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "7546368f-6bdd-46a1-a34a-4633bbe3ad90": {
     "factionId": "0",
@@ -1257,7 +1403,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "ee4a2cc7-f467-4c6d-bcd8-8c8877c6f5ef": {
     "factionId": "0",
@@ -1277,7 +1425,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "262f4022-13f1-45e1-a45a-274804c62df8": {
     "factionId": "0",
@@ -1297,7 +1447,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "fdebacf4-9d47-4907-a7d4-5856445a5486": {
     "factionId": "0",
@@ -1317,7 +1469,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 1
+    "deaths": 1,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "d014a885-2e29-4de0-b38f-d4dae21b6e38": {
     "factionId": "0",
@@ -1337,7 +1491,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "c7269bea-7dc5-4e34-8b38-d1bbb2fa5e55": {
     "factionId": "0",
@@ -1357,7 +1513,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "0cedbca3-63a4-4afb-8889-f686e01fa0ee": {
     "factionId": "0",
@@ -1377,7 +1535,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "964bb9ef-0188-4b32-85df-8540fefd3e43": {
     "factionId": "0",
@@ -1397,7 +1557,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 1
+    "deaths": 1,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "5538786b-3acc-4ecb-86cb-a68ee2a3b985": {
     "factionId": "9",
@@ -1417,7 +1579,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 1
+    "deaths": 1,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "7ec8f2ba-55fa-4f13-a179-5f33a3ee989c": {
     "factionId": "0",
@@ -1437,7 +1601,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "917f5259-7e2f-4938-a72d-dd8e2572db1b": {
     "factionId": "0",
@@ -1457,7 +1623,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "0632500b-4562-4838-a0ab-4d5ebeedca79": {
     "factionId": "0",
@@ -1477,7 +1645,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "50f44869-5d1d-4712-afc6-39ec9417d2be": {
     "factionId": "0",
@@ -1497,7 +1667,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "505484a4-3ce3-4826-8fcd-0b483b4b046e": {
     "factionId": "18",
@@ -1517,7 +1689,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "ac328916-14a6-48ab-b3a2-b0f0c4cba4b4": {
     "factionId": "0",
@@ -1537,7 +1711,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "aced96c1-c811-45f9-83dc-628ba8657181": {
     "factionId": "6",
@@ -1557,7 +1733,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "dd816751-a72a-4971-b035-2bff51f0a92b": {
     "factionId": "0",
@@ -1577,7 +1755,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 1
+    "deaths": 1,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "eb6d9aac-3305-45a3-b819-08111ea3c47c": {
     "factionId": "10",
@@ -1597,7 +1777,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "3e17fc39-626c-4a04-bcc3-af18613608f5": {
     "factionId": "0",
@@ -1617,7 +1799,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 2,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "824aa11a-dec0-4381-b284-549e0702a8ac": {
     "factionId": "0",
@@ -1637,7 +1821,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "e99ff23d-08c1-4926-ad2c-7d8dfbed4213": {
     "factionId": "9",
@@ -1657,7 +1843,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 3
+    "deaths": 3,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "c483da27-1b35-3d95-afb4-b8733bf044a7": {
     "factionId": "0",
@@ -1677,7 +1865,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "a802d83d-0698-4c5d-99b9-98b336becb1d": {
     "factionId": "0",
@@ -1697,7 +1887,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "c4c72feb-a07d-410b-bfa3-c549fa75bdff": {
     "factionId": "0",
@@ -1717,7 +1909,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 1
+    "deaths": 1,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "5698bfa6-f242-4783-9d71-d9c622049d58": {
     "factionId": "0",
@@ -1737,7 +1931,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 1,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "6bc96819-90fd-4e7c-8fc1-be32cc18521f": {
     "factionId": "0",
@@ -1757,16 +1953,18 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "87ba496f-d58f-478c-b3bd-d0b64524e587": {
     "factionId": "26",
     "role": "ADMIN",
     "title": "",
-    "power": 1.6606200000000002,
+    "power": 1.7339133333333336,
     "powerBoost": 0.0,
-    "lastPowerUpdateTime": 1520096312310,
-    "lastLoginTime": 1520096312310,
+    "lastPowerUpdateTime": 1520099797280,
+    "lastLoginTime": 1520099797280,
     "chatMode": "PUBLIC",
     "ignoreAllianceChat": false,
     "id": "87ba496f-d58f-478c-b3bd-d0b64524e587",
@@ -1777,7 +1975,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "b1b6182c-0203-4bed-a920-f463945e4c5f": {
     "factionId": "6",
@@ -1797,7 +1997,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "8273ebe0-18d7-4358-b7a9-7ff54bef4351": {
     "factionId": "8",
@@ -1817,7 +2019,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "a29a344a-7c9a-4e89-b7d4-692aa657fe34": {
     "factionId": "6",
@@ -1837,7 +2041,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 19,
-    "deaths": 10
+    "deaths": 10,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "18e14cfc-fd66-45ae-9e40-fa62ba768cb4": {
     "factionId": "3",
@@ -1857,7 +2063,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 1,
-    "deaths": 3
+    "deaths": 3,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "0aa6db68-e0d3-476e-a50a-af10ec3dbfe7": {
     "factionId": "0",
@@ -1877,7 +2085,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "a320564b-d6f3-4d38-aa87-9db7d8c72ab1": {
     "factionId": "6",
@@ -1897,7 +2107,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 3,
-    "deaths": 1
+    "deaths": 1,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "d8cbf736-1a71-4cfe-abfc-303638bcf8fd": {
     "factionId": "0",
@@ -1917,7 +2129,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "595152a7-78f2-44d4-be0a-8ea6424eab2c": {
     "factionId": "6",
@@ -1937,7 +2151,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "d5cca3da-77c1-45bc-92c9-f4d8de1716e0": {
     "factionId": "0",
@@ -1957,7 +2173,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "9e303471-4e60-4d7b-bcc7-241f31cda139": {
     "factionId": "0",
@@ -1977,7 +2195,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "a105f7d6-7793-327c-82e7-f0848bfc4fe7": {
     "factionId": "0",
@@ -1997,7 +2217,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "a668a442-342b-4119-935d-228ce0189b12": {
     "factionId": "0",
@@ -2017,7 +2239,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "28c8235b-1087-4171-9b21-2e31105f8f9f": {
     "factionId": "6",
@@ -2037,7 +2261,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "9c6057da-ea23-4c32-b51e-23c8ef7ee36a": {
     "factionId": "2",
@@ -2057,7 +2283,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "d6f0af60-b128-493b-8bd2-d6e9733111ec": {
     "factionId": "0",
@@ -2077,7 +2305,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "79be2688-b60f-47ac-91b7-81ee751ba744": {
     "factionId": "0",
@@ -2097,7 +2327,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "c853e2fb-8610-3f4a-ae24-16f4008a6553": {
     "factionId": "0",
@@ -2117,7 +2349,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 3
+    "deaths": 3,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "0a4cb8d3-a804-4cf8-b314-0b33c8add56b": {
     "factionId": "0",
@@ -2137,7 +2371,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "584e18c5-8028-4c3d-bbb5-b29624fbf2c8": {
     "factionId": "0",
@@ -2157,7 +2393,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "e46c45c9-03ea-48b2-8c62-e57e44155f81": {
     "factionId": "0",
@@ -2177,7 +2415,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 4
+    "deaths": 4,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "c7f10750-8b4a-4f38-bd9b-e8559b4ddb8f": {
     "factionId": "0",
@@ -2197,7 +2437,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "404f1826-0c79-4768-96b8-3fe7094fff72": {
     "factionId": "0",
@@ -2217,7 +2459,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "88ab0fe2-12b3-453a-956c-50645aeb73ed": {
     "factionId": "0",
@@ -2237,7 +2481,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "bbb7aa12-0cb8-4927-b293-a029bc98089a": {
     "factionId": "0",
@@ -2257,7 +2503,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "2bf83fe8-c2bc-4c1a-808a-0604171d4ea9": {
     "factionId": "24",
@@ -2277,7 +2525,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "eafe80e6-0f5e-4e1a-9617-63e9c590fe9e": {
     "factionId": "0",
@@ -2297,7 +2547,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "17a26d1b-9381-44d6-a955-5b798c98be13": {
     "factionId": "11",
@@ -2317,7 +2569,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "4276c00b-bc43-425e-a3c5-c0f6dbebc053": {
     "factionId": "0",
@@ -2337,7 +2591,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "01e16dfe-de00-4f2f-9f80-f511eabcce75": {
     "factionId": "0",
@@ -2357,7 +2613,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "4fb3378b-afe6-48da-bf0a-eccf3ccbb622": {
     "factionId": "26",
@@ -2377,7 +2635,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "09ebf22b-721f-4aca-b0bf-902cfdd9b47a": {
     "factionId": "0",
@@ -2397,7 +2657,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "a04e52ef-79e9-4d91-b74a-cb24ed264065": {
     "factionId": "8",
@@ -2417,7 +2679,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "51df132c-ed26-4113-9442-8b9687e3e627": {
     "factionId": "0",
@@ -2437,7 +2701,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "81fdb204-e422-4f6f-b28c-a060fab5fb79": {
     "factionId": "17",
@@ -2457,7 +2723,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "f3b110b7-b48f-44ee-adb2-a148e4b8ace3": {
     "factionId": "0",
@@ -2477,7 +2745,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "324f7847-40ec-4810-84b6-81e9c5b41b6e": {
     "factionId": "0",
@@ -2497,7 +2767,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "c06197e7-09f8-4db4-b579-4a31c370e7e3": {
     "factionId": "0",
@@ -2517,7 +2789,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 2
+    "deaths": 2,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "cf25749d-4287-46ee-8510-0df719fa856b": {
     "factionId": "0",
@@ -2537,7 +2811,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "bbe3c5f1-98a0-4e58-aa40-b118810070d6": {
     "factionId": "0",
@@ -2557,7 +2833,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "af591356-7788-4f5d-90b2-b9c4a5afa237": {
     "factionId": "0",
@@ -2577,7 +2855,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "7087d70a-8dcf-4951-9345-fe8d54f753dd": {
     "factionId": "0",
@@ -2597,7 +2877,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "dd7134bb-cade-41cf-8e1b-c646b2520741": {
     "factionId": "0",
@@ -2617,7 +2899,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "250043ac-d4dc-4dd9-9ada-f406900f2dda": {
     "factionId": "0",
@@ -2637,7 +2921,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "ea6dc2ba-3c2c-473b-96bd-5e7752cb3fd0": {
     "factionId": "0",
@@ -2657,7 +2943,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "cddcf48e-060f-443e-86d2-01e1ba007640": {
     "factionId": "0",
@@ -2677,7 +2965,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "67b4781e-3fd7-4cb9-a7fc-0c56093f7107": {
     "factionId": "24",
@@ -2697,7 +2987,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "df84debc-b368-4ab9-ae9f-2b12f4f66091": {
     "factionId": "0",
@@ -2717,7 +3009,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "f85ab195-d73f-4629-8f08-57bb15c38e65": {
     "factionId": "0",
@@ -2737,7 +3031,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "5660284d-91c4-4c48-8b51-2c7242f9d912": {
     "factionId": "0",
@@ -2757,7 +3053,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "6c335b8f-97d8-4901-9555-51a4dedd11b5": {
     "factionId": "0",
@@ -2777,7 +3075,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "c80a8cb6-3ea0-451f-89b5-ba98b2a5274a": {
     "factionId": "0",
@@ -2797,7 +3097,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "f98fe3f4-f068-43ce-818f-7a6b030ec1a4": {
     "factionId": "19",
@@ -2817,7 +3119,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "13776a56-0cd7-42af-a827-9a47ef9bbd7f": {
     "factionId": "21",
@@ -2837,7 +3141,9 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   },
   "9a8a8ee6-9570-4be8-94f1-aa4c35a6b7db": {
     "factionId": "0",
@@ -2857,6 +3163,8 @@
     "warmupTask": 0,
     "isAdminBypassing": false,
     "kills": 0,
-    "deaths": 0
+    "deaths": 0,
+    "willAutoLeave": false,
+    "mapHeight": 0
   }
 }

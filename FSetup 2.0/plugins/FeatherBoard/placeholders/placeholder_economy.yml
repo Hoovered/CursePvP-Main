@@ -1,8 +1,10 @@
 ## --------------------------------------- ##
-## Economy Placeholders
+## Vault economy money placeholders Placeholders
+## About: This configuration allows you to
+##        configure what certain placeholders return.
 ## --------------------------------------- ##
 
-## Do not edit this config version
+# DO NOT EDIT THE CONFIG VERSION
 config: 2
 
 # Enable/Disable the placeholder group
@@ -10,12 +12,14 @@ config: 2
 # when not used.
 enabled: true
 
+
 # Formatted money settings
 money_formatted:
   fix_thousands: true
   fix_millions: true
-  thousands_format: k
-  millions_format: M
-  billions_format: B
-  trillions_format: T
-  quadrillions_format: Q
+  thousands_format: "k"
+  millions_format: "M"
+  billions_format: "B"
+  trillions_format: "T"
+  quadrillions_format: "Q"
+

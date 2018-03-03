@@ -1,4 +1,4 @@
-# ActionAnnouncer v1.9.1 Main configuration
+# ActionAnnouncer v1.12.0 Main configuration
 announcer_enabled: true
 announcer_random: true
 announce_interval: 60

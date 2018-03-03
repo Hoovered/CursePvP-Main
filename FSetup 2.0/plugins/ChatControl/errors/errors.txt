@@ -4,3 +4,6 @@
 [26.02.2018 17:32:58] Regex check timed out (bad regex?) (plugin ver. 5.3.2)!
 [26.02.2018 17:32:58] String checked: Infringes my rights
 [26.02.2018 17:32:58] Regex: \b(n+(\W|\d|_)*i+(\W|\d|_)*g+(\W|\d|_)*g+(\W|\d|_)*e+(\W|\d|_)*r+(\W|\d|_)*)
+[03.03.2018 10:44:51] Regex check timed out (bad regex?) (plugin ver. 5.6.4)!
+[03.03.2018 10:44:51] String checked: -----------------------------------------------------
+[03.03.2018 10:44:51] Regex: ^I'm sorry, but you do not have permission to perform this.*|^You do not have access to that command.

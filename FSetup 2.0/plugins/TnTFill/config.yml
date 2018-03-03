@@ -1,16 +1,15 @@
-allow-creative-dispensers: false
-creative-dispenser-permission: getmycombos.tntfill.creative
-msg-above-allowed-radius: '&cI''m sorry but the radius you specified is to big'
-msg-invalid-amount: '&cYou have specified a invalid number'
-msg-cant-use-tntfill-in-this-world: '&cYou can''t use tntfill in this world'
-msg-command-usage: '&cCommand usage: /tntfill <radius> <tntperdispenser>'
-msg-filled-dispensers: '&6You have filled the dispensers around you'
-msg-no-dispensers: '&cNo dispensers are near your location'
-msg-not-enough-tnt: '&cYou don''t have enough tnt'
-msg-no-permission: '&cYou don''t have permission to run this command'
-maxradius: 20
-height: 5
-tntfill-permission: getmycombos.tntfill
-tntfill-radius-bypass-permission: getmycombos.tntfill.bypassradius
-worlds-no-tnt:
-- Example-World
+Permissions:
+  tnt-fill: CustomEnchants.TnTFill
+  tnt-fill-creative: CustomEnchants.TnTFill.creative
+Radius:
+  x: 6
+  y: 4
+  z: 6
+Messages:
+  tntfill:
+    console-sender: '&c&lTnTFill &aYou can''t run this command as console'
+    no-permission: '&c&lTnTFill &aYou don''t have permission to run this command'
+    no-dispensers-nearby: '&c&lTnTFill &aUnable to find nearby dispensers'
+    no-tnt-in-inventory: '&c&lTnTFill &aYou have no tnt in your inventory'
+    unable-to-fill: '&c&lTnTFill &aUnable to fill the dispensers'
+    filled: '&c&lTnTFill &aYou have filled the dispensers with tnt'

@@ -1,6 +1,6 @@
 #
 #  Experience configuration
-#  Last updated on 1.5.04-SNAPSHOT-b${BUILD_NUMBER}
+#  Last updated on 1.5.00-b3547
 #
 #  Configure the experience formula and experience settings here.
 #
@@ -51,8 +51,6 @@ Experience_Formula:
     # with 1.25 by default, resulting in a 25% XP boost
     Custom_XP_Perk:
         Boost: 1.25
-    Breeding:
-        Multiplier: 1.0
 #
 #  Settings for XP conversion with '/mcconvert experience'
 ###
@@ -72,17 +70,7 @@ Experience:
         # FeatherFall_Multiplier: Multiply Acrobatics XP by this value when wearing boots with the Feather Fall enchant
         FeatherFall_Multiplier: 2.0
     Alchemy:
-        # Alchemy potion stages are based on the number of ingredients added
-        # Potion_Stage_1 represents a base potion
-        # Potion_Stage_2 represents a base potion with one ingredient
-        # Potion_Stage_3 represents a base potion with one ingredient and one amplifier
-        # Potion_Stage_4 represents a base potion with one ingredient and two amplifiers
-        # Potion_Stage_5 represents a base potion with one ingredient where the amplifiers are swapped
-        Potion_Stage_1: 15
-        Potion_Stage_2: 30
-        Potion_Stage_3: 60
-        Potion_Stage_4: 120
-        Potion_Stage_5: 0
+        Potion: 120
     Fishing:
         Raw_Fish: 800
         Raw_Salmon: 800
@@ -99,9 +87,6 @@ Experience:
         Snow: 20
         Snow_Block: 40
         Soul_Sand: 40
-        Red_Sand: 40
-        Coarse_Dirt: 40
-        Podzol: 40
     Woodcutting:
         Acacia: 90
         Birch: 90
@@ -163,8 +148,6 @@ Experience:
         Sandstone: 30
         Stained_Clay: 50
         Stone: 30
-        Red_Sandstone: 100
-        Prismarine: 70
     Repair:
         Base: 1000.0
         Wood: 0.6
@@ -210,30 +193,3 @@ Experience:
             Witch: 0.0
             Iron_Golem: 2.0
             Wither_Skeleton: 4.0
-            Guardian: 3.0
-            Elder_Guardian: 4.0
-            Endermite: 2.0
-    Archery:
-        Distance_Multiplier: 0.025
-#
-# Settings for Diminished Returns
-###
-Diminished_Returns:
-    Enabled: false
-    # Limit the amount of experience a player can earn:
-    # Threshold (amount of experience) per Time_Interval (in minutes)
-    Threshold:
-        Swords: 20000
-        Taming: 20000
-        Acrobatics: 20000
-        Excavation: 20000
-        Herbalism: 20000
-        Unarmed: 20000
-        Woodcutting: 20000
-        Mining: 20000
-        Archery: 20000
-        Axes: 20000
-        Repair: 20000
-        Fishing: 20000
-        Alchemy: 20000
-    Time_Interval: 10

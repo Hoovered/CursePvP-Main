@@ -152,7 +152,8 @@ COMMAND:
     CLICKTOWARP: Click to warp!
     COMMANDFORMAT: <i>/f warp <warpname>
     WARPED: <i>Warped to <a>%1$s
-    INVALID: <i>Couldn't find warp <a>%1$s
+    INVALID:
+      PASSWORD: '&4Invalid password!'
     TOWARP: to warp
     FORWARPING: for warping
     WARPS: 'Warps: '
@@ -442,6 +443,7 @@ COMMAND:
     DEATHS:
       TIL:
         RAIDABLE: '<i>DTR: %1$d'
+    EXEMPT: <b>This faction is exempt and cannot be seen.
   SHOWINVITES:
     PENDING: 'Players with pending invites: '
     CLICKTOREVOKE: Click to revoke invite for %1$s
@@ -518,6 +520,38 @@ COMMAND:
     SUCCESS: $1%s was sent to their f home.
     OFFLINE: '%1$s is offline.'
     TARGET: You were sent to your f home.
+  MAPHEIGHT:
+    DESCRIPTION: '&eUpdate the lines that /f map sends'
+    SET: '&eSet /f map lines to &a%1$d'
+    CURRENT: '&eCurrent mapheight: &a%1$d'
+  PERM:
+    DESCRIPTION: '&6Edit or list your Faction''s permissions.'
+    INVALID:
+      RELATION: Invalid relation defined. Try something like 'ally'
+      ACCESS: Invalid access defined. Try something like 'allow'
+      ACTION: Invalid action defined. Try something like 'build'
+    SET: Set permission %1$s to %2$s for relation %3$s
+    TOP: RCT MEM OFF ALLY TRUCE NEUT ENEMY
+  PROMOTE:
+    TARGET: You've been %1$s to %2$s
+    SUCCESS: You successfully %1$s %2$s to %3$s
+    PROMOTED: promoted
+    DEMOTED: demoted
+    DESCRIPTION: /f promote <name>
+    WRONGFACTION: '%1$s is not part of your faction.'
+    NOTTHATPLAYER: That player cannot be promoted.
+  NOACCESS: You don't have access to that.
+  SETDEFAULTROLE:
+    DESCRIPTION: /f defaultrole <role> - set your Faction's default role.
+    NOTTHATROLE: You cannot set the default to admin.
+    SUCCESS: Set default role of your faction to %1$s
+    INVALIDROLE: Couldn't find matching role for %1$s
+  SETMAXVAULTS:
+    DESCRIPTION: Set max vaults for a Faction.
+    SUCCESS: '&aSet max vaults for &e%s &ato &b%d'
+  VAULT:
+    DESCRIPTION: /f vault <number> to open one of your Faction's vaults.
+    TOOHIGH: '&cYou tried to open vault %d but your Faction only has %d vaults.'
 command:
   help:
     invitations: '<i>You might want to close it and use invitations:'
@@ -606,6 +640,7 @@ CHAT:
   PUBLIC: public chat
 ECON:
   'OFF': no %s
+  FORMAT: '###,###.###'
 RELATION:
   MEMBER:
     SINGULAR: member
@@ -626,6 +661,7 @@ ROLE:
   ADMIN: admin
   MODERATOR: moderator
   NORMAL: normal member
+  RECRUIT: recruit
 REGION:
   SAFEZONE: safezone
   WARZONE: warzone
@@ -692,3 +728,5 @@ WARMUPS:
   ALREADY: '&cYou are already warming up.'
   CANCELLED: '&cYou have cancelled your warmup.'
 nofactions-prefix: '&6[&a4-&6]&r'
+faction-announcement-top: '&d--Unread Faction Announcements--'
+faction-announcement-bottom: '&d--Unread Faction Announcements--'

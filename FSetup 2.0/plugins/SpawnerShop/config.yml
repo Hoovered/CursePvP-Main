@@ -1,5 +1,4 @@
 options:
-  heads: true
   shopname: Spawner Shop
   openmessage: '&aOpening Spawner Shop'
   signsuccess: '&3You have sucessfully created a SpawnerShop sign!'
@@ -11,6 +10,222 @@ options:
   reloadsuccess: '&aYou have successfully reloaded SpawnerShop!'
   prefix: '&7[&eSpawnerShop&7]'
   nomoney: '&aYou do not have enough funds!'
+  heads: true
+spawners:
+  Enderman:
+    enabled: true
+    buy-price: 100000
+    sell-price: 10000
+    data-value: 58
+  Blaze:
+    enabled: true
+    buy-price: 100000
+    sell-price: 10000
+    data-value: 61
+  Skeleton:
+    enabled: true
+    buy-price: 100000
+    sell-price: 10000
+    data-value: 51
+  Zombie:
+    enabled: true
+    buy-price: 100000
+    sell-price: 10000
+    data-value: 54
+  Creeper:
+    enabled: true
+    buy-price: 100000
+    sell-price: 10000
+    data-value: 50
+  CaveSpider:
+    enabled: true
+    buy-price: 100000
+    sell-price: 10000
+    data-value: 59
+  Spider:
+    enabled: true
+    buy-price: 100000
+    sell-price: 10000
+    data-value: 52
+  Wolf:
+    enabled: true
+    buy-price: 100000
+    sell-price: 10000
+    data-value: 95
+  Chicken:
+    enabled: true
+    buy-price: 100000
+    sell-price: 10000
+    data-value: 93
+  Cow:
+    enabled: true
+    buy-price: 100000
+    sell-price: 10000
+    data-value: 92
+  Pig:
+    enabled: true
+    buy-price: 100000
+    sell-price: 10000
+    data-value: 90
+  Ocelot:
+    enabled: true
+    buy-price: 100000
+    sell-price: 10000
+    data-value: 98
+  MushroomCow:
+    enabled: true
+    buy-price: 100000
+    sell-price: 10000
+    data-value: 96
+  Sheep:
+    enabled: true
+    buy-price: 100000
+    sell-price: 10000
+    data-value: 91
+  Bat:
+    enabled: true
+    buy-price: 100000
+    sell-price: 10000
+    data-value: 65
+  Rabbit:
+    enabled: true
+    buy-price: 100000
+    sell-price: 10000
+    data-value: 101
+  Squid:
+    enabled: true
+    buy-price: 100000
+    sell-price: 10000
+    data-value: 94
+  Villager:
+    enabled: true
+    buy-price: 100000
+    sell-price: 10000
+    data-value: 120
+  ZombiePigman:
+    enabled: true
+    buy-price: 100000
+    sell-price: 10000
+    data-value: 57
+  SilverFish:
+    enabled: true
+    buy-price: 100000
+    sell-price: 10000
+    data-value: 60
+  IronGolem:
+    enabled: true
+    buy-price: 100000
+    sell-price: 10000
+    data-value: 99
+  Slime:
+    enabled: true
+    buy-price: 100000
+    sell-price: 10000
+    data-value: 55
+  Horse:
+    enabled: true
+    buy-price: 100000
+    sell-price: 10000
+    data-value: 100
+  Witch:
+    enabled: true
+    buy-price: 100000
+    sell-price: 10000
+    data-value: 66
+  MagmaCube:
+    enabled: true
+    buy-price: 100000
+    sell-price: 10000
+    data-value: 62
+  PolarBear:
+    enabled: true
+    buy-price: 100000
+    sell-price: 10000
+    data-value: 102
+  Endermite:
+    enabled: true
+    buy-price: 100000
+    sell-price: 10000
+    data-value: 67
+  Evoker:
+    enabled: true
+    buy-price: 100000
+    sell-price: 10000
+    data-value: 34
+  Guardian:
+    enabled: true
+    buy-price: 100000
+    sell-price: 10000
+    data-value: 68
+  Shulker:
+    enabled: true
+    buy-price: 100000
+    sell-price: 10000
+    data-value: 69
+  Husk:
+    enabled: true
+    buy-price: 100000
+    sell-price: 10000
+    data-value: 23
+  Stray:
+    enabled: true
+    buy-price: 100000
+    sell-price: 10000
+    data-value: 6
+  Vex:
+    enabled: true
+    buy-price: 100000
+    sell-price: 10000
+    data-value: 35
+  Vindicator:
+    enabled: true
+    buy-price: 100000
+    sell-price: 10000
+    data-value: 36
+  Llama:
+    enabled: true
+    buy-price: 100000
+    sell-price: 10000
+    data-value: 103
+  Mule:
+    enabled: true
+    buy-price: 100000
+    sell-price: 10000
+    data-value: 32
+  Illusioner:
+    enabled: true
+    buy-price: 100000
+    sell-price: 10000
+    data-value: 32
+  Parrot:
+    enabled: true
+    buy-price: 100000
+    sell-price: 10000
+    data-value: 105
+  enderman: true
+  blaze: true
+  skeleton: true
+  zombie: true
+  creeper: true
+  cavespider: true
+  spider: true
+  wolf: false
+  chicken: true
+  cow: true
+  pig: true
+  ocelot: false
+  mushroom: false
+  sheep: true
+  bat: false
+  rabbit: false
+  squid: false
+  villager: false
+  zombiepigman: true
+  silverfish: false
+  irongolem: true
+  slime: false
+  horse: false
+  witch: false
 prices:
   enderman: 390000
   blaze: 450000
@@ -36,28 +251,3 @@ prices:
   slime: 100000
   horse: 100000
   witch: 600000
-spawners:
-  enderman: true
-  blaze: true
-  skeleton: true
-  zombie: true
-  creeper: true
-  cavespider: true
-  spider: true
-  wolf: false
-  chicken: true
-  cow: true
-  pig: true
-  ocelot: false
-  mushroom: false
-  sheep: true
-  bat: false
-  rabbit: false
-  squid: false
-  villager: false
-  zombiepigman: true
-  silverfish: false
-  irongolem: true
-  slime: false
-  horse: false
-  witch: false

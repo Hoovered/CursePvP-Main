@@ -1,0 +1,20 @@
+lastAccountName: PetiProtoBG
+timestamps:
+  login: 1520100478000
+  logout: 1520100657697
+ipAddress: 77.70.97.209
+lastlocation:
+  world: world
+  x: -220.5
+  y: 68.0
+  z: 244.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -579.4875000119209
+  y: 68.01391586470497
+  z: 951.3000000119209
+  yaw: -101.38383
+  pitch: 51.347095
+money: '0.0'

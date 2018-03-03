@@ -631,5 +631,3 @@ users:
   5b653d71-1f9a-4667-8883-4682bdf29a5a:
     group:
     - developer
-    options:
-      name: Kaatokence

@@ -1,5 +1,16 @@
 '10':
-  value: 1674232
+<<<<<<< HEAD
+  value: 1560000
+'11':
+  value: 0
+'22':
+  value: 0
+'12':
+  value: 0
+'23':
+  value: 0
+=======
+  value: 1718524
 '9':
   value: 468496
 '6':
@@ -10,37 +21,40 @@
   value: 107021
 '27':
   value: 66000
+>>>>>>> 5682967f55b411c7f1b6bc15bc212457838d1c14
 '24':
-  value: 3000
-'16':
-  value: 2000
-'25':
-  value: 2000
-'2':
-  value: 2000
-'19':
-  value: 1000
-'17':
-  value: 1000
-'22':
-  value: 1000
-'18':
-  value: 1000
-'23':
-  value: 1000
-'26':
-  value: 1000
+  value: 0
 '14':
-  value: 1000
-'11':
-  value: 1000
-'12':
-  value: 1000
+  value: 0
+'25':
+  value: 0
+'26':
+  value: 0
+'16':
+  value: 0
+'27':
+  value: 0
+'17':
+  value: 0
+'18':
+  value: 0
+'19':
+  value: 0
+'2':
+  value: 0
 '3':
-  value: 1000
-'5':
-  value: 1000
+  value: 0
 '4':
-  value: 1000
+  value: 0
+'5':
+  value: 0
+'6':
+  value: 0
+'8':
+  value: 0
+'9':
+  value: 0
+'20':
+  value: 0
 '21':
   value: 0

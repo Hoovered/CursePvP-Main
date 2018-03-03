@@ -1,12 +1,22 @@
 lastAccountName: Kaatokence
 timestamps:
-  login: 1520054261071
+<<<<<<< HEAD
+  login: 1520060261657
+=======
+  login: 1520056804939
+>>>>>>> 5682967f55b411c7f1b6bc15bc212457838d1c14
   kits:
     dragon2: 1520054523234
     ki: 1520054761570
     kitwither: 1520054598613
     youtube: 1520054706941
+<<<<<<< HEAD
+  logout: 1520060372481
+ipAddress: 127.0.0.1
+=======
+  logout: 0
 ipAddress: 98.211.48.161
+>>>>>>> 5682967f55b411c7f1b6bc15bc212457838d1c14
 lastlocation:
   world: world
   x: 363.6192854673623
@@ -14,3 +24,10 @@ lastlocation:
   z: -665.5605701882095
   yaw: -251.99792
   pitch: 4.714807
+logoutlocation:
+  world: world
+  x: 5355.288622642365
+  y: 200.0
+  z: 4298.155067017862
+  yaw: -346.4381
+  pitch: 69.51887

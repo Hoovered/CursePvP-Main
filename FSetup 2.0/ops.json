@@ -1,25 +1,7 @@
 [
   {
-    "uuid": "ab92fc92-f17f-4e76-8dc3-ef13bab1ffb1",
-    "name": "Hoovered",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "c45fe808-0248-3ba5-a36b-f2893c96830c",
-    "name": "Hoovered",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "dfc363ed-9c3c-3654-8dfe-81fb34b3cda2",
-    "name": "S",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "5b653d71-1f9a-4667-8883-4682bdf29a5a",
-    "name": "Kaatokence",
+    "uuid": "9d853341-0ec2-3604-9a76-d464e90edaec",
+    "name": "ImVexy",
     "level": 4,
     "bypassesPlayerLimit": false
   },
@@ -30,14 +12,8 @@
     "bypassesPlayerLimit": false
   },
   {
-    "uuid": "0fcad380-b226-4ea2-acfc-1cc7cf6fe3f3",
-    "name": "SecurityCode",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "9d853341-0ec2-3604-9a76-d464e90edaec",
-    "name": "ImVexy",
+    "uuid": "ab92fc92-f17f-4e76-8dc3-ef13bab1ffb1",
+    "name": "Hoovered",
     "level": 4,
     "bypassesPlayerLimit": false
   },
@@ -48,8 +24,26 @@
     "bypassesPlayerLimit": false
   },
   {
-    "uuid": "c853e2fb-8610-3f4a-ae24-16f4008a6553",
-    "name": "notyouaccount",
+    "uuid": "c45fe808-0248-3ba5-a36b-f2893c96830c",
+    "name": "Hoovered",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "0fcad380-b226-4ea2-acfc-1cc7cf6fe3f3",
+    "name": "SecurityCode",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "dfc363ed-9c3c-3654-8dfe-81fb34b3cda2",
+    "name": "S",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c483da27-1b35-3d95-afb4-b8733bf044a7",
+    "name": "christheGOD2017",
     "level": 4,
     "bypassesPlayerLimit": false
   },
@@ -60,8 +54,14 @@
     "bypassesPlayerLimit": false
   },
   {
-    "uuid": "c483da27-1b35-3d95-afb4-b8733bf044a7",
-    "name": "christheGOD2017",
+    "uuid": "5b653d71-1f9a-4667-8883-4682bdf29a5a",
+    "name": "Kaatokence",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c853e2fb-8610-3f4a-ae24-16f4008a6553",
+    "name": "notyouaccount",
     "level": 4,
     "bypassesPlayerLimit": false
   }

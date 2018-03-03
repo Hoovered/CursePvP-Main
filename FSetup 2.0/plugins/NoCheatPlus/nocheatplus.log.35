@@ -1,0 +1,1222 @@
+16-03-08 23:10:29 [INFO] Logger started.
+16-03-08 23:10:29 [INFO] Logging system initialized.
+16-03-08 23:10:29 [INFO] Detected Minecraft version: 1.7.10
+16-03-08 23:10:35 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-08 23:10:35 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-08 23:10:35 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-08 23:10:35 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-08 23:10:35 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-08 23:10:35 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-08 23:10:35 [INFO] Packet level access: ProtocolLib is not available.
+16-03-08 23:10:35 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-08 23:10:37 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-08 23:10:37 [INFO] Post-enable running...
+16-03-08 23:10:37 [INFO] Post-enable finished.
+16-03-08 23:10:37 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-1.7.9-R0.2-208-ge0f2e95 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-08 23:20:08 [INFO] ToxicGen failed to use fly hacks. FLY.
+16-03-08 23:20:14 [INFO] Rubics_ failed Text: acted like spamming (IP: 60.231.86.175). VL 2.
+16-03-08 23:20:14 [INFO] (CONSOLE) Kicked Rubics_ : You're not allowed to spam in chat!
+16-03-08 23:20:27 [INFO] ToxicGen failed to use fly hacks. FLY.
+16-03-08 23:20:38 [INFO] ToxicGen failed to use fly hacks. FLY.
+16-03-08 23:20:57 [INFO] ToxicGen failed to use fly hacks. FLY.
+16-03-08 23:20:58 [INFO] ToxicGen failed to use fly hacks. FLY.
+16-03-08 23:22:08 [INFO] ChronosYT failed to use fly hacks. FLY.
+16-03-08 23:22:08 [INFO] ChronosYT failed to use speed hacks. SPEED.
+16-03-08 23:22:08 [INFO] ChronosYT failed to use nofall hacks. NO FALL.
+16-03-08 23:24:31 [INFO] Rubics_ failed to use speed hacks. SPEED.
+16-03-08 23:28:13 [INFO] ToxicGen failed to use fly hacks. FLY.
+16-03-08 23:28:23 [INFO] ToxicGen failed to use fly hacks. FLY.
+16-03-08 23:28:33 [INFO] ToxicGen failed to use fly hacks. FLY.
+16-03-08 23:29:57 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-08 23:29:57 [FINE] | canceldead 3 (3/0) | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 44302 (44302/0) | event.player.move.handled.pos 28671 (28671/0) | event.player.move.handled.look 1293 (1293/0) | event.player.move.handled.pos_look 14316 (14316/0) |
+16-03-08 23:30:38 [INFO] Logger started.
+16-03-08 23:30:38 [INFO] Logging system initialized.
+16-03-08 23:30:38 [INFO] Detected Minecraft version: 1.8.8
+16-03-08 23:30:50 [INFO] McAccess set to: 1.8.4-1.8.8 / Spigot-CB-1.8_R3
+16-03-08 23:30:50 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-08 23:30:50 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-08 23:30:50 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-08 23:30:50 [INFO] Added block-info for Minecraft 1.8 blocks.
+16-03-08 23:30:50 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-08 23:30:50 [INFO] Adding packet level hooks for ProtocolLib (MC 1.8.8)...
+16-03-08 23:30:50 [INFO] Available (and activated) packet level hooks: UseEntityAdapter | MovingFlying | OutgoingPosition | KeepAliveAdapter | SoundDistance
+16-03-08 23:30:50 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-08 23:30:52 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-08 23:30:52 [INFO] Post-enable running...
+16-03-08 23:30:52 [INFO] Post-enable finished.
+16-03-08 23:30:52 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-76236cb-62a2169 ~MC: 1.8.8~
+  detected: 1.8.8
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.8.4-1.8.8 / Spigot-CB-1.8_R3
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2 | BlocksMC1_8
+  checks: FastConsume | Gutenberg | AttackFrequency | FlyingFrequency | KeepAliveFrequency
+  defaults: pvpKnockBackVelocity
+  packet-listeners: UseEntityAdapter | MovingFlying | OutgoingPosition | KeepAliveAdapter | SoundDistance
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-08 23:30:59 [INFO] ChronosYT failed to use fly hacks. FLY.
+16-03-08 23:32:00 [INFO] RedOfficial failed to use speed hacks. SPEED.
+16-03-08 23:32:58 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-08 23:32:58 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 3986 (3986/0) | event.player.move.handled.pos 2706 (2706/0) | event.player.move.handled.look 38 (38/0) | event.player.move.handled.pos_look 1240 (1240/0) | packet.flying.nullplayer 0 | packet.flying.handled 6047 (0/6047) | packet.flying.asynchronous 6047 (0/6047) | packet.outgoing_position.untracked 0 | packet.sound.cancel 0 |
+16-03-08 23:33:41 [INFO] Logger started.
+16-03-08 23:33:41 [INFO] Logging system initialized.
+16-03-08 23:33:41 [INFO] Detected Minecraft version: 1.7.9
+16-03-08 23:33:47 [INFO] McAccess set to: 1.7.8|1.7.9 / CB3043
+16-03-08 23:33:47 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-08 23:33:47 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-08 23:33:47 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-08 23:33:47 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-08 23:33:47 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-08 23:33:47 [INFO] Packet level access: ProtocolLib is not available.
+16-03-08 23:33:47 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-08 23:33:48 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-08 23:33:48 [INFO] Post-enable running...
+16-03-08 23:33:48 [INFO] Post-enable finished.
+16-03-08 23:33:49 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-1486 ~MC: 1.7.9~
+  detected: 1.7.9
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.8|1.7.9 / CB3043
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-08 23:50:52 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-08 23:50:52 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 2803 (2803/0) | event.player.move.handled.pos 1304 (1304/0) | event.player.move.handled.look 35 (35/0) | event.player.move.handled.pos_look 1463 (1463/0) |
+16-03-09 00:03:06 [INFO] Logger started.
+16-03-09 00:03:06 [INFO] Logging system initialized.
+16-03-09 00:03:06 [INFO] Detected Minecraft version: 1.7.9
+16-03-09 00:03:12 [INFO] McAccess set to: 1.7.8|1.7.9 / CB3043
+16-03-09 00:03:12 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-09 00:03:12 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-09 00:03:12 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-09 00:03:12 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-09 00:03:12 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-09 00:03:12 [INFO] Packet level access: ProtocolLib is not available.
+16-03-09 00:03:12 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-09 00:03:13 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-09 00:03:13 [INFO] Post-enable running...
+16-03-09 00:03:13 [INFO] Post-enable finished.
+16-03-09 00:03:14 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-1486 ~MC: 1.7.9~
+  detected: 1.7.9
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.8|1.7.9 / CB3043
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-09 02:16:15 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-09 02:16:15 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 9250 (9250/0) | event.player.move.handled.pos 3862 (3862/0) | event.player.move.handled.look 137 (137/0) | event.player.move.handled.pos_look 5247 (5247/0) |
+16-03-09 02:16:24 [INFO] Logger started.
+16-03-09 02:16:24 [INFO] Logging system initialized.
+16-03-09 02:16:24 [INFO] Detected Minecraft version: 1.7.9
+16-03-09 02:16:30 [INFO] McAccess set to: 1.7.8|1.7.9 / CB3043
+16-03-09 02:16:30 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-09 02:16:30 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-09 02:16:30 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-09 02:16:30 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-09 02:16:30 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-09 02:16:30 [INFO] Packet level access: ProtocolLib is not available.
+16-03-09 02:16:30 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-09 02:17:45 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-09 02:17:45 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-09 02:17:45 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 0 | event.player.move.handled.pos 0 | event.player.move.handled.look 0 | event.player.move.handled.pos_look 0 |
+16-03-09 02:17:53 [INFO] Logger started.
+16-03-09 02:17:53 [INFO] Logging system initialized.
+16-03-09 02:17:53 [INFO] Detected Minecraft version: 1.7.10
+16-03-09 02:17:59 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-09 02:17:59 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-09 02:17:59 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-09 02:17:59 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-09 02:17:59 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-09 02:17:59 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-09 02:17:59 [INFO] Packet level access: ProtocolLib is not available.
+16-03-09 02:17:59 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-09 02:23:41 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-09 02:23:41 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-09 02:23:41 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 0 | event.player.move.handled.pos 0 | event.player.move.handled.look 0 | event.player.move.handled.pos_look 0 |
+16-03-09 02:23:49 [INFO] Logger started.
+16-03-09 02:23:49 [INFO] Logging system initialized.
+16-03-09 02:23:49 [INFO] Detected Minecraft version: 1.7.10
+16-03-09 02:24:00 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-09 02:24:00 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-09 02:24:00 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-09 02:24:00 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-09 02:24:00 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-09 02:24:00 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-09 02:24:00 [INFO] Packet level access: ProtocolLib is not available.
+16-03-09 02:24:00 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-09 02:25:10 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-09 02:25:10 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-09 02:25:10 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 0 | event.player.move.handled.pos 0 | event.player.move.handled.look 0 | event.player.move.handled.pos_look 0 |
+16-03-09 02:25:17 [INFO] Logger started.
+16-03-09 02:25:17 [INFO] Logging system initialized.
+16-03-09 02:25:17 [INFO] Detected Minecraft version: 1.7.10
+16-03-09 02:25:24 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-09 02:25:24 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-09 02:25:24 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-09 02:25:24 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-09 02:25:24 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-09 02:25:24 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-09 02:25:24 [INFO] Packet level access: ProtocolLib is not available.
+16-03-09 02:25:24 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-09 02:25:25 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-09 02:25:26 [INFO] Post-enable running...
+16-03-09 02:25:26 [INFO] Post-enable finished.
+16-03-09 02:25:26 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-1.7.9-R0.2-208-ge0f2e95 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-09 03:27:45 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-09 03:27:45 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 4074 (4074/0) | event.player.move.handled.pos 2354 (2354/0) | event.player.move.handled.look 48 (48/0) | event.player.move.handled.pos_look 1667 (1667/0) |
+16-03-09 03:27:53 [INFO] Logger started.
+16-03-09 03:27:53 [INFO] Logging system initialized.
+16-03-09 03:27:53 [INFO] Detected Minecraft version: 1.7.10
+16-03-09 03:28:00 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-09 03:28:00 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-09 03:28:00 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-09 03:28:00 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-09 03:28:00 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-09 03:28:00 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-09 03:28:00 [INFO] Packet level access: ProtocolLib is not available.
+16-03-09 03:28:00 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-09 03:28:01 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-09 03:28:02 [INFO] Post-enable running...
+16-03-09 03:28:02 [INFO] Post-enable finished.
+16-03-09 03:28:02 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-1.7.9-R0.2-208-ge0f2e95 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-09 03:35:54 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-09 03:35:54 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 522 (522/0) | event.player.move.handled.pos 349 (349/0) | event.player.move.handled.look 0 | event.player.move.handled.pos_look 173 (173/0) |
+16-03-09 03:35:55 [INFO] Logger started.
+16-03-09 03:35:55 [INFO] Logging system initialized.
+16-03-09 03:35:55 [INFO] Detected Minecraft version: 1.7.10
+16-03-09 03:35:59 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-09 03:35:59 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-09 03:35:59 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-09 03:35:59 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-09 03:36:00 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-09 03:36:00 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-09 03:36:00 [INFO] Packet level access: ProtocolLib is not available.
+16-03-09 03:36:00 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-09 03:36:02 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-09 03:36:02 [INFO] Post-enable running...
+16-03-09 03:36:02 [INFO] Updated data for 1 players (post-enable).
+16-03-09 03:36:02 [INFO] Post-enable finished.
+16-03-09 03:36:02 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-1.7.9-R0.2-208-ge0f2e95 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-09 03:39:49 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-09 03:39:49 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 1645 (1645/0) | event.player.move.handled.pos 638 (638/0) | event.player.move.handled.look 91 (91/0) | event.player.move.handled.pos_look 914 (914/0) |
+16-03-09 03:39:56 [INFO] Logger started.
+16-03-09 03:39:56 [INFO] Logging system initialized.
+16-03-09 03:39:56 [INFO] Detected Minecraft version: 1.7.10
+16-03-09 03:40:03 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-09 03:40:03 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-09 03:40:03 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-09 03:40:03 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-09 03:40:03 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-09 03:40:03 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-09 03:40:03 [INFO] Packet level access: ProtocolLib is not available.
+16-03-09 03:40:03 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-09 03:40:04 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-09 03:40:05 [INFO] Post-enable running...
+16-03-09 03:40:05 [INFO] Post-enable finished.
+16-03-09 03:40:05 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-1.7.9-R0.2-208-ge0f2e95 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-09 03:44:51 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-09 03:44:51 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 1074 (1074/0) | event.player.move.handled.pos 555 (555/0) | event.player.move.handled.look 66 (66/0) | event.player.move.handled.pos_look 450 (450/0) |
+16-03-09 03:44:51 [INFO] Logger started.
+16-03-09 03:44:51 [INFO] Logging system initialized.
+16-03-09 03:44:51 [INFO] Detected Minecraft version: 1.7.10
+16-03-09 03:44:56 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-09 03:44:56 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-09 03:44:56 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-09 03:44:56 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-09 03:44:56 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-09 03:44:56 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-09 03:44:56 [INFO] Packet level access: ProtocolLib is not available.
+16-03-09 03:44:56 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-09 03:44:58 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-09 03:44:58 [INFO] Post-enable running...
+16-03-09 03:44:58 [INFO] Updated data for 2 players (post-enable).
+16-03-09 03:44:58 [INFO] Post-enable finished.
+16-03-09 03:44:58 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-1.7.9-R0.2-208-ge0f2e95 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-09 03:47:51 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-09 03:47:51 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 1176 (1176/0) | event.player.move.handled.pos 538 (538/0) | event.player.move.handled.look 88 (88/0) | event.player.move.handled.pos_look 548 (548/0) |
+16-03-09 03:47:51 [INFO] Logger started.
+16-03-09 03:47:51 [INFO] Logging system initialized.
+16-03-09 03:47:51 [INFO] Detected Minecraft version: 1.7.10
+16-03-09 03:47:56 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-09 03:47:56 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-09 03:47:56 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-09 03:47:56 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-09 03:47:56 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-09 03:47:56 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-09 03:47:56 [INFO] Packet level access: ProtocolLib is not available.
+16-03-09 03:47:56 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-09 03:47:58 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-09 03:47:58 [INFO] Post-enable running...
+16-03-09 03:47:58 [INFO] Updated data for 2 players (post-enable).
+16-03-09 03:47:58 [INFO] Post-enable finished.
+16-03-09 03:47:58 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-1.7.9-R0.2-208-ge0f2e95 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-09 03:48:42 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-09 03:48:42 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 202 (202/0) | event.player.move.handled.pos 132 (132/0) | event.player.move.handled.look 22 (22/0) | event.player.move.handled.pos_look 47 (47/0) |
+16-03-09 03:48:43 [INFO] Logger started.
+16-03-09 03:48:43 [INFO] Logging system initialized.
+16-03-09 03:48:43 [INFO] Detected Minecraft version: 1.7.10
+16-03-09 03:48:58 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-09 03:48:58 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-09 03:48:58 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-09 03:48:58 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-09 03:48:58 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-09 03:48:58 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-09 03:48:58 [INFO] Packet level access: ProtocolLib is not available.
+16-03-09 03:48:58 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-09 03:49:00 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-09 03:49:00 [INFO] Post-enable running...
+16-03-09 03:49:00 [INFO] Updated data for 2 players (post-enable).
+16-03-09 03:49:00 [INFO] Post-enable finished.
+16-03-09 03:49:00 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-1.7.9-R0.2-208-ge0f2e95 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-09 04:37:09 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-09 04:37:09 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 4608 (4608/0) | event.player.move.handled.pos 1953 (1953/0) | event.player.move.handled.look 210 (210/0) | event.player.move.handled.pos_look 2431 (2431/0) |
+16-03-09 04:37:10 [INFO] Logger started.
+16-03-09 04:37:10 [INFO] Logging system initialized.
+16-03-09 04:37:10 [INFO] Detected Minecraft version: 1.7.10
+16-03-09 04:37:14 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-09 04:37:14 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-09 04:37:14 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-09 04:37:14 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-09 04:37:14 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-09 04:37:14 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-09 04:37:14 [INFO] Packet level access: ProtocolLib is not available.
+16-03-09 04:37:14 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-09 04:37:17 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-09 04:37:17 [INFO] Post-enable running...
+16-03-09 04:37:17 [INFO] Updated data for 1 players (post-enable).
+16-03-09 04:37:17 [INFO] Post-enable finished.
+16-03-09 04:37:17 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-1.7.9-R0.2-208-ge0f2e95 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-09 04:38:09 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-09 04:38:09 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 204 (204/0) | event.player.move.handled.pos 76 (76/0) | event.player.move.handled.look 15 (15/0) | event.player.move.handled.pos_look 113 (113/0) |
+16-03-09 04:38:10 [INFO] Logger started.
+16-03-09 04:38:10 [INFO] Logging system initialized.
+16-03-09 04:38:10 [INFO] Detected Minecraft version: 1.7.10
+16-03-09 04:38:14 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-09 04:38:14 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-09 04:38:14 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-09 04:38:14 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-09 04:38:15 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-09 04:38:15 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-09 04:38:15 [INFO] Packet level access: ProtocolLib is not available.
+16-03-09 04:38:15 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-09 04:38:16 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-09 04:38:16 [INFO] Post-enable running...
+16-03-09 04:38:17 [INFO] Updated data for 1 players (post-enable).
+16-03-09 04:38:17 [INFO] Post-enable finished.
+16-03-09 04:38:17 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-1.7.9-R0.2-208-ge0f2e95 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-09 04:38:39 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-09 04:38:39 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 153 (153/0) | event.player.move.handled.pos 49 (49/0) | event.player.move.handled.look 2 (2/0) | event.player.move.handled.pos_look 101 (101/0) |
+16-03-09 04:38:39 [INFO] Logger started.
+16-03-09 04:38:39 [INFO] Logging system initialized.
+16-03-09 04:38:39 [INFO] Detected Minecraft version: 1.7.10
+16-03-09 04:38:44 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-09 04:38:44 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-09 04:38:44 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-09 04:38:44 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-09 04:38:44 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-09 04:38:44 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-09 04:38:44 [INFO] Packet level access: ProtocolLib is not available.
+16-03-09 04:38:44 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-09 04:38:46 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-09 04:38:46 [INFO] Post-enable running...
+16-03-09 04:38:46 [INFO] Updated data for 1 players (post-enable).
+16-03-09 04:38:46 [INFO] Post-enable finished.
+16-03-09 04:38:46 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-1.7.9-R0.2-208-ge0f2e95 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-09 04:43:33 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-09 04:43:33 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 839 (839/0) | event.player.move.handled.pos 521 (521/0) | event.player.move.handled.look 14 (14/0) | event.player.move.handled.pos_look 304 (304/0) |
+16-03-09 04:43:33 [INFO] Logger started.
+16-03-09 04:43:33 [INFO] Logging system initialized.
+16-03-09 04:43:33 [INFO] Detected Minecraft version: 1.7.10
+16-03-09 04:43:37 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-09 04:43:37 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-09 04:43:37 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-09 04:43:37 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-09 04:43:37 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-09 04:43:37 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-09 04:43:37 [INFO] Packet level access: ProtocolLib is not available.
+16-03-09 04:43:38 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-09 04:43:39 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-09 04:43:39 [INFO] Post-enable running...
+16-03-09 04:43:39 [INFO] Updated data for 1 players (post-enable).
+16-03-09 04:43:39 [INFO] Post-enable finished.
+16-03-09 04:43:39 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-1.7.9-R0.2-208-ge0f2e95 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-09 04:47:51 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-09 04:47:51 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 933 (933/0) | event.player.move.handled.pos 372 (372/0) | event.player.move.handled.look 19 (19/0) | event.player.move.handled.pos_look 537 (537/0) |
+16-03-09 04:47:51 [INFO] Logger started.
+16-03-09 04:47:51 [INFO] Logging system initialized.
+16-03-09 04:47:51 [INFO] Detected Minecraft version: 1.7.10
+16-03-09 04:47:56 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-09 04:47:56 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-09 04:47:56 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-09 04:47:56 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-09 04:47:56 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-09 04:47:56 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-09 04:47:56 [INFO] Packet level access: ProtocolLib is not available.
+16-03-09 04:47:56 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-09 04:47:57 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-09 04:47:58 [INFO] Post-enable running...
+16-03-09 04:47:58 [INFO] Updated data for 1 players (post-enable).
+16-03-09 04:47:58 [INFO] Post-enable finished.
+16-03-09 04:47:58 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-1.7.9-R0.2-208-ge0f2e95 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-09 04:49:28 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-09 04:49:28 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 343 (343/0) | event.player.move.handled.pos 109 (109/0) | event.player.move.handled.look 10 (10/0) | event.player.move.handled.pos_look 224 (224/0) |
+16-03-09 04:49:36 [INFO] Logger started.
+16-03-09 04:49:36 [INFO] Logging system initialized.
+16-03-09 04:49:36 [INFO] Detected Minecraft version: 1.7.10
+16-03-09 04:49:43 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-09 04:49:43 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-09 04:49:43 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-09 04:49:43 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-09 04:49:43 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-09 04:49:43 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-09 04:49:43 [INFO] Packet level access: ProtocolLib is not available.
+16-03-09 04:49:43 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-09 04:49:45 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-09 04:49:45 [INFO] Post-enable running...
+16-03-09 04:49:45 [INFO] Post-enable finished.
+16-03-09 04:49:45 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-1.7.9-R0.2-208-ge0f2e95 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-09 04:49:52 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-09 04:49:52 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 0 | event.player.move.handled.pos 0 | event.player.move.handled.look 0 | event.player.move.handled.pos_look 0 |
+16-03-09 04:50:28 [INFO] Logger started.
+16-03-09 04:50:28 [INFO] Logging system initialized.
+16-03-09 04:50:28 [INFO] Detected Minecraft version: 1.7.10
+16-03-09 04:50:50 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-09 04:50:50 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-09 04:50:50 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-09 04:50:50 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-09 04:50:50 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-09 04:50:50 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-09 04:50:50 [INFO] Packet level access: ProtocolLib is not available.
+16-03-09 04:50:50 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-09 04:50:52 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-09 04:50:53 [INFO] Post-enable running...
+16-03-09 04:50:53 [INFO] Post-enable finished.
+16-03-09 04:50:53 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-1.7.9-R0.2-208-ge0f2e95 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-09 04:51:58 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-09 04:51:58 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 0 | event.player.move.handled.pos 0 | event.player.move.handled.look 0 | event.player.move.handled.pos_look 0 |
+16-03-09 04:52:40 [INFO] Logger started.
+16-03-09 04:52:40 [INFO] Logging system initialized.
+16-03-09 04:52:40 [INFO] Detected Minecraft version: 1.7.10
+16-03-09 04:52:46 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-09 04:52:46 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-09 04:52:46 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-09 04:52:46 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-09 04:52:46 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-09 04:52:46 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-09 04:52:46 [INFO] Packet level access: ProtocolLib is not available.
+16-03-09 04:52:46 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-09 04:52:48 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-09 04:52:48 [INFO] Post-enable running...
+16-03-09 04:52:48 [INFO] Post-enable finished.
+16-03-09 04:52:48 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-1.7.9-R0.2-208-ge0f2e95 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-09 04:55:18 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-09 04:55:18 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 199 (199/0) | event.player.move.handled.pos 72 (72/0) | event.player.move.handled.look 1 (1/0) | event.player.move.handled.pos_look 126 (126/0) |
+16-03-09 04:55:32 [INFO] Logger started.
+16-03-09 04:55:32 [INFO] Logging system initialized.
+16-03-09 04:55:32 [INFO] Detected Minecraft version: 1.7.10
+16-03-09 04:55:38 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-09 04:55:38 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-09 04:55:38 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-09 04:55:38 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-09 04:55:38 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-09 04:55:38 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-09 04:55:38 [INFO] Packet level access: ProtocolLib is not available.
+16-03-09 04:55:38 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-09 04:55:40 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-09 04:55:40 [INFO] Post-enable running...
+16-03-09 04:55:40 [INFO] Post-enable finished.
+16-03-09 04:55:40 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-1.7.9-R0.2-208-ge0f2e95 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-09 04:56:31 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-09 04:56:31 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 370 (370/0) | event.player.move.handled.pos 110 (110/0) | event.player.move.handled.look 0 | event.player.move.handled.pos_look 260 (260/0) |
+16-03-09 04:56:53 [INFO] Logger started.
+16-03-09 04:56:53 [INFO] Logging system initialized.
+16-03-09 04:56:53 [INFO] Detected Minecraft version: 1.7.10
+16-03-09 04:56:58 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-09 04:56:58 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-09 04:56:58 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-09 04:56:58 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-09 04:56:58 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-09 04:56:58 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-09 04:56:58 [INFO] Packet level access: ProtocolLib is not available.
+16-03-09 04:56:58 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-09 04:57:00 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-09 04:57:00 [INFO] Post-enable running...
+16-03-09 04:57:01 [INFO] Post-enable finished.
+16-03-09 04:57:01 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-1.7.9-R0.2-208-ge0f2e95 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-09 04:57:56 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-09 04:57:56 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 657 (657/0) | event.player.move.handled.pos 166 (166/0) | event.player.move.handled.look 1 (1/0) | event.player.move.handled.pos_look 490 (490/0) |
+16-03-09 04:59:01 [INFO] Logger started.
+16-03-09 04:59:01 [INFO] Logging system initialized.
+16-03-09 04:59:01 [INFO] Detected Minecraft version: 1.7.10
+16-03-09 04:59:07 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-09 04:59:07 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-09 04:59:07 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-09 04:59:07 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-09 04:59:07 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-09 04:59:07 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-09 04:59:07 [INFO] Packet level access: ProtocolLib is not available.
+16-03-09 04:59:07 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-09 04:59:09 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-09 04:59:09 [INFO] Post-enable running...
+16-03-09 04:59:09 [INFO] Post-enable finished.
+16-03-09 04:59:09 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-1.7.9-R0.2-208-ge0f2e95 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-09 05:00:27 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-09 05:00:27 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 373 (373/0) | event.player.move.handled.pos 109 (109/0) | event.player.move.handled.look 0 | event.player.move.handled.pos_look 264 (264/0) |
+16-03-09 05:01:06 [INFO] Logger started.
+16-03-09 05:01:06 [INFO] Logging system initialized.
+16-03-09 05:01:06 [INFO] Detected Minecraft version: 1.7.10
+16-03-09 05:01:12 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-09 05:01:12 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-09 05:01:12 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-09 05:01:12 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-09 05:01:12 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-09 05:01:12 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-09 05:01:12 [INFO] Packet level access: ProtocolLib is not available.
+16-03-09 05:01:12 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-09 05:01:14 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-09 05:01:14 [INFO] Post-enable running...
+16-03-09 05:01:14 [INFO] Post-enable finished.
+16-03-09 05:01:14 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-1.7.9-R0.2-208-ge0f2e95 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-09 05:02:06 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-09 05:02:06 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 70 (70/0) | event.player.move.handled.pos 23 (23/0) | event.player.move.handled.look 4 (4/0) | event.player.move.handled.pos_look 43 (43/0) |
+16-03-09 05:02:40 [INFO] Logger started.
+16-03-09 05:02:40 [INFO] Logging system initialized.
+16-03-09 05:02:40 [INFO] Detected Minecraft version: 1.7.10
+16-03-09 05:03:02 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-09 05:03:02 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-09 05:03:02 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-09 05:03:02 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-09 05:03:02 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-09 05:03:02 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-09 05:03:02 [INFO] Packet level access: ProtocolLib is not available.
+16-03-09 05:03:02 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-09 05:03:03 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-09 05:03:04 [INFO] Post-enable running...
+16-03-09 05:03:04 [INFO] Post-enable finished.
+16-03-09 05:03:04 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-1.7.9-R0.2-208-ge0f2e95 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-09 05:05:44 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-09 05:05:44 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 60 (60/0) | event.player.move.handled.pos 28 (28/0) | event.player.move.handled.look 5 (5/0) | event.player.move.handled.pos_look 27 (27/0) |
+16-03-09 05:06:19 [INFO] Logger started.
+16-03-09 05:06:19 [INFO] Logging system initialized.
+16-03-09 05:06:19 [INFO] Detected Minecraft version: 1.7.10
+16-03-09 05:06:26 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-09 05:06:26 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-09 05:06:26 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-09 05:06:26 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-09 05:06:26 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-09 05:06:26 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-09 05:06:26 [INFO] Packet level access: ProtocolLib is not available.
+16-03-09 05:06:26 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-09 05:06:27 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-09 05:06:28 [INFO] Post-enable running...
+16-03-09 05:06:28 [INFO] Post-enable finished.
+16-03-09 05:06:28 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-1.7.9-R0.2-208-ge0f2e95 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-09 05:08:16 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-09 05:08:16 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 330 (330/0) | event.player.move.handled.pos 137 (137/0) | event.player.move.handled.look 4 (4/0) | event.player.move.handled.pos_look 187 (187/0) |
+16-03-09 05:08:45 [INFO] Logger started.
+16-03-09 05:08:45 [INFO] Logging system initialized.
+16-03-09 05:08:45 [INFO] Detected Minecraft version: 1.7.10
+16-03-09 05:08:51 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-09 05:08:51 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-09 05:08:51 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-09 05:08:51 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-09 05:08:51 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-09 05:08:51 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-09 05:08:51 [INFO] Packet level access: ProtocolLib is not available.
+16-03-09 05:08:51 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-09 05:08:53 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-09 05:08:53 [INFO] Post-enable running...
+16-03-09 05:08:53 [INFO] Post-enable finished.
+16-03-09 05:08:53 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-1.7.9-R0.2-208-ge0f2e95 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-09 05:10:47 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-09 05:10:47 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 168 (168/0) | event.player.move.handled.pos 49 (49/0) | event.player.move.handled.look 5 (5/0) | event.player.move.handled.pos_look 114 (114/0) |
+16-03-09 05:11:16 [INFO] Logger started.
+16-03-09 05:11:16 [INFO] Logging system initialized.
+16-03-09 05:11:16 [INFO] Detected Minecraft version: 1.7.10
+16-03-09 05:11:22 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-09 05:11:22 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-09 05:11:22 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-09 05:11:22 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-09 05:11:22 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-09 05:11:22 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-09 05:11:22 [INFO] Packet level access: ProtocolLib is not available.
+16-03-09 05:11:22 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-09 05:11:24 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-09 05:11:24 [INFO] Post-enable running...
+16-03-09 05:11:24 [INFO] Post-enable finished.
+16-03-09 05:11:24 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-1.7.9-R0.2-208-ge0f2e95 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-09 05:13:25 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-09 05:13:25 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 110 (110/0) | event.player.move.handled.pos 37 (37/0) | event.player.move.handled.look 24 (24/0) | event.player.move.handled.pos_look 49 (49/0) |
+16-03-09 05:13:39 [INFO] Logger started.
+16-03-09 05:13:39 [INFO] Logging system initialized.
+16-03-09 05:13:39 [INFO] Detected Minecraft version: 1.7.10
+16-03-09 05:13:45 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-09 05:13:45 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-09 05:13:45 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-09 05:13:45 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-09 05:13:45 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-09 05:13:45 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-09 05:13:45 [INFO] Packet level access: ProtocolLib is not available.
+16-03-09 05:13:45 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-09 05:13:47 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-09 05:13:48 [INFO] Post-enable running...
+16-03-09 05:13:48 [INFO] Post-enable finished.
+16-03-09 05:13:48 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-1.7.9-R0.2-208-ge0f2e95 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-09 05:15:07 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-09 05:15:07 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 115 (115/0) | event.player.move.handled.pos 44 (44/0) | event.player.move.handled.look 7 (7/0) | event.player.move.handled.pos_look 64 (64/0) |
+16-03-09 05:15:15 [INFO] Logger started.
+16-03-09 05:15:15 [INFO] Logging system initialized.
+16-03-09 05:15:15 [INFO] Detected Minecraft version: 1.7.10
+16-03-09 05:15:21 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-09 05:15:21 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-09 05:15:21 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-09 05:15:21 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-09 05:15:21 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-09 05:15:21 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-09 05:15:21 [INFO] Packet level access: ProtocolLib is not available.
+16-03-09 05:15:22 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-09 05:15:23 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-09 05:15:24 [INFO] Post-enable running...
+16-03-09 05:15:24 [INFO] Post-enable finished.
+16-03-09 05:15:24 [INFO] ---- Version information ----
+#### Server ####
+git-PaperSpigot-1f7d532 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-09 05:18:05 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-09 05:18:05 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 89 (89/0) | event.player.move.handled.pos 31 (31/0) | event.player.move.handled.look 27 (27/0) | event.player.move.handled.pos_look 31 (31/0) |
+16-03-09 05:18:17 [INFO] Logger started.
+16-03-09 05:18:17 [INFO] Logging system initialized.
+16-03-09 05:18:17 [INFO] Detected Minecraft version: 1.7.10
+16-03-09 05:18:24 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-09 05:18:24 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-09 05:18:24 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-09 05:18:24 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-09 05:18:24 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-09 05:18:24 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-09 05:18:24 [INFO] Packet level access: ProtocolLib is not available.
+16-03-09 05:18:24 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-09 05:18:26 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-09 05:18:26 [INFO] Post-enable running...
+16-03-09 05:18:26 [INFO] Post-enable finished.
+16-03-09 05:18:26 [INFO] ---- Version information ----
+#### Server ####
+git-PaperSpigot-1f7d532 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-09 05:20:13 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-09 05:20:13 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 1 (1/0) | event.player.move.handled.pos 1 (1/0) | event.player.move.handled.look 0 | event.player.move.handled.pos_look 0 |
+16-03-09 05:20:23 [INFO] Logger started.
+16-03-09 05:20:23 [INFO] Logging system initialized.
+16-03-09 05:20:23 [INFO] Detected Minecraft version: 1.7.10
+16-03-09 05:20:29 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-09 05:20:29 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-09 05:20:29 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-09 05:20:29 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-09 05:20:29 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-09 05:20:29 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-09 05:20:29 [INFO] Packet level access: ProtocolLib is not available.
+16-03-09 05:20:30 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-09 05:20:31 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-09 05:20:32 [INFO] Post-enable running...
+16-03-09 05:20:32 [INFO] Post-enable finished.
+16-03-09 05:20:32 [INFO] ---- Version information ----
+#### Server ####
+git-PaperSpigot-1f7d532 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-09 05:22:03 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-09 05:22:03 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 512 (512/0) | event.player.move.handled.pos 155 (155/0) | event.player.move.handled.look 33 (33/0) | event.player.move.handled.pos_look 324 (324/0) |
+16-03-09 05:22:13 [INFO] Logger started.
+16-03-09 05:22:13 [INFO] Logging system initialized.
+16-03-09 05:22:13 [INFO] Detected Minecraft version: 1.7.10
+16-03-09 05:22:20 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-09 05:22:20 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-09 05:22:20 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-09 05:22:20 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-09 05:22:20 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-09 05:22:20 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-09 05:22:20 [INFO] Packet level access: ProtocolLib is not available.
+16-03-09 05:22:20 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-09 05:22:22 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-09 05:22:22 [INFO] Post-enable running...
+16-03-09 05:22:22 [INFO] Post-enable finished.
+16-03-09 05:22:22 [INFO] ---- Version information ----
+#### Server ####
+git-PaperSpigot-1f7d532 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-09 05:24:42 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-09 05:24:42 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 1104 (1104/0) | event.player.move.handled.pos 380 (380/0) | event.player.move.handled.look 62 (62/0) | event.player.move.handled.pos_look 659 (659/0) |
+16-03-09 05:24:51 [INFO] Logger started.
+16-03-09 05:24:51 [INFO] Logging system initialized.
+16-03-09 05:24:51 [INFO] Detected Minecraft version: 1.7.10
+16-03-09 05:24:58 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-09 05:24:58 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-09 05:24:58 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-09 05:24:58 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-09 05:24:58 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-09 05:24:58 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-09 05:24:58 [INFO] Packet level access: ProtocolLib is not available.
+16-03-09 05:24:58 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-09 05:24:59 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-09 05:25:00 [INFO] Post-enable running...
+16-03-09 05:25:00 [INFO] Post-enable finished.
+16-03-09 05:25:00 [INFO] ---- Version information ----
+#### Server ####
+git-PaperSpigot-1f7d532 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-09 05:26:07 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-09 05:26:07 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 966 (966/0) | event.player.move.handled.pos 449 (449/0) | event.player.move.handled.look 11 (11/0) | event.player.move.handled.pos_look 506 (506/0) |
+16-03-09 05:26:31 [INFO] Logger started.
+16-03-09 05:26:31 [INFO] Logging system initialized.
+16-03-09 05:26:31 [INFO] Detected Minecraft version: 1.7.10
+16-03-09 05:26:43 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-09 05:26:43 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-09 05:26:43 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-09 05:26:43 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-09 05:26:43 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-09 05:26:43 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-09 05:26:43 [INFO] Packet level access: ProtocolLib is not available.
+16-03-09 05:26:43 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-09 05:26:44 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-09 05:26:44 [INFO] Post-enable running...
+16-03-09 05:26:44 [INFO] Post-enable finished.
+16-03-09 05:26:44 [INFO] ---- Version information ----
+#### Server ####
+git-PaperSpigot-1f7d532 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-09 10:33:52 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-09 10:33:52 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 8935 (8935/0) | event.player.move.handled.pos 3939 (3939/0) | event.player.move.handled.look 184 (184/0) | event.player.move.handled.pos_look 4806 (4806/0) |
+16-03-09 10:34:00 [INFO] Logger started.
+16-03-09 10:34:00 [INFO] Logging system initialized.
+16-03-09 10:34:00 [INFO] Detected Minecraft version: 1.7.10
+16-03-09 10:34:07 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-09 10:34:07 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-09 10:34:07 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-09 10:34:07 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-09 10:34:07 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-09 10:34:07 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-09 10:34:07 [INFO] Packet level access: ProtocolLib is not available.
+16-03-09 10:34:07 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-09 10:34:08 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-09 10:34:08 [INFO] Post-enable running...
+16-03-09 10:34:09 [INFO] Post-enable finished.
+16-03-09 10:34:09 [INFO] ---- Version information ----
+#### Server ####
+git-PaperSpigot-1f7d532 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-09 15:34:14 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-09 15:34:14 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 37204 (37204/0) | event.player.move.handled.pos 18264 (18264/0) | event.player.move.handled.look 4374 (4374/0) | event.player.move.handled.pos_look 14389 (14389/0) |
+16-03-09 15:34:27 [INFO] Logger started.
+16-03-09 15:34:27 [INFO] Logging system initialized.
+16-03-09 15:34:27 [INFO] Detected Minecraft version: 1.7.10
+16-03-09 15:34:34 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-09 15:34:34 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-09 15:34:34 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-09 15:34:34 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-09 15:34:34 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-09 15:34:34 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-09 15:34:34 [INFO] Packet level access: ProtocolLib is not available.
+16-03-09 15:34:34 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-09 15:34:36 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-09 15:34:36 [INFO] Post-enable running...
+16-03-09 15:34:36 [INFO] Post-enable finished.
+16-03-09 15:34:36 [INFO] ---- Version information ----
+#### Server ####
+git-PaperSpigot-1f7d532 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-09 15:36:14 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-09 15:36:14 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 761 (761/0) | event.player.move.handled.pos 436 (436/0) | event.player.move.handled.look 4 (4/0) | event.player.move.handled.pos_look 321 (321/0) |
+16-03-09 15:36:43 [INFO] Logger started.
+16-03-09 15:36:43 [INFO] Logging system initialized.
+16-03-09 15:36:43 [INFO] Detected Minecraft version: 1.7.10
+16-03-09 15:36:49 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-09 15:36:49 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-09 15:36:49 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-09 15:36:49 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-09 15:36:50 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-09 15:36:50 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-09 15:36:50 [INFO] Packet level access: ProtocolLib is not available.
+16-03-09 15:36:50 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-09 15:36:51 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-09 15:36:51 [INFO] Post-enable running...
+16-03-09 15:36:51 [INFO] Post-enable finished.
+16-03-09 15:36:51 [INFO] ---- Version information ----
+#### Server ####
+git-PaperSpigot-1f7d532 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-09 15:38:30 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-09 15:38:30 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 1003 (1003/0) | event.player.move.handled.pos 759 (759/0) | event.player.move.handled.look 27 (27/0) | event.player.move.handled.pos_look 217 (217/0) |
+16-03-09 15:38:37 [INFO] Logger started.
+16-03-09 15:38:37 [INFO] Logging system initialized.
+16-03-09 15:38:37 [INFO] Detected Minecraft version: 1.7.10
+16-03-09 15:38:43 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-09 15:38:44 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-09 15:38:44 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-09 15:38:44 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-09 15:38:44 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-09 15:38:44 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-09 15:38:44 [INFO] Packet level access: ProtocolLib is not available.
+16-03-09 15:38:44 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-09 15:38:45 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-09 15:38:46 [INFO] Post-enable running...
+16-03-09 15:38:46 [INFO] Post-enable finished.
+16-03-09 15:38:46 [INFO] ---- Version information ----
+#### Server ####
+git-PaperSpigot-1f7d532 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-09 16:08:59 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-09 16:08:59 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 33195 (33195/0) | event.player.move.handled.pos 11761 (11761/0) | event.player.move.handled.look 1347 (1347/0) | event.player.move.handled.pos_look 20028 (20028/0) |
+16-03-09 16:09:36 [INFO] Logger started.
+16-03-09 16:09:36 [INFO] Logging system initialized.
+16-03-09 16:09:36 [INFO] Detected Minecraft version: 1.7.10
+16-03-09 16:09:42 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-09 16:09:42 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-09 16:09:42 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-09 16:09:42 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-09 16:09:43 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-09 16:09:43 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-09 16:09:43 [INFO] Packet level access: ProtocolLib is not available.
+16-03-09 16:09:43 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-09 16:09:45 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-09 16:09:45 [INFO] Post-enable running...
+16-03-09 16:09:45 [INFO] Post-enable finished.
+16-03-09 16:09:45 [INFO] ---- Version information ----
+#### Server ####
+git-PaperSpigot-1f7d532 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-09 16:21:55 [INFO] DrDynimate failed to use speed hacks. SPEED.
+16-03-09 16:21:55 [INFO] (CONSOLE) Kicked DrDynimate : Kicked for flying (or related)
+16-03-09 16:22:03 [INFO] DrDynimate failed to use speed hacks. SPEED.
+16-03-09 16:22:03 [INFO] DrDynimate failed to use speed hacks. SPEED.
+16-03-09 16:22:03 [INFO] (CONSOLE) Kicked DrDynimate : Kicked for flying (or related)
+16-03-09 16:22:09 [INFO] DrDynimate failed to use speed hacks. SPEED.
+16-03-09 16:22:10 [INFO] DrDynimate failed to use speed hacks. SPEED.
+16-03-09 16:22:10 [INFO] (CONSOLE) Kicked DrDynimate : Kicked for flying (or related)
+16-03-09 16:22:22 [INFO] DrDynimate failed to use speed hacks. SPEED.
+16-03-09 16:31:57 [INFO] RedOfficial failed Passable: moved into a block (4) from 679.74, 98.19, 1637.30 to 679.74, 97.89, 1637.30 distance 0.30 . VL 11.
+16-03-09 16:32:02 [INFO] RedOfficial failed Passable: moved into a block (4) from 679.74, 99.23, 1637.30 to 679.74, 98.85, 1637.30 distance 0.38 . VL 15.
+16-03-09 16:32:07 [INFO] RedOfficial failed Passable: moved into a block (4) from 679.74, 94.04, 1637.30 to 679.74, 93.97, 1637.30 distance 0.08 . VL 23.
+16-03-09 16:32:15 [INFO] RedOfficial failed Passable: moved into a block (4) from 679.74, 88.23, 1637.30 to 679.74, 87.85, 1637.30 distance 0.38 . VL 26.
+16-03-09 16:33:24 [INFO] AbusiveMango failed Passable: moved into a block (2) from 532.58, 77.00, 337.34 to 532.58, 76.92, 337.34 distance 0.08 . VL 10.
+16-03-09 16:33:32 [INFO] AbusiveMango failed Passable: moved into a block (2) from 532.58, 77.00, 337.34 to 532.58, 76.92, 337.34 distance 0.08 . VL 12.
+16-03-09 16:33:41 [INFO] AbusiveMango failed Passable: moved into a block (2) from 532.58, 77.00, 337.34 to 532.58, 76.92, 337.34 distance 0.08 . VL 14.
+16-03-09 16:33:50 [INFO] AbusiveMango failed Passable: moved into a block (2) from 532.58, 77.00, 337.34 to 532.58, 76.92, 337.34 distance 0.08 . VL 15.
+16-03-09 16:34:17 [INFO] AbusiveMango failed Passable: moved into a block (2) from 532.58, 77.00, 337.34 to 532.58, 76.92, 337.34 distance 0.08 . VL 18.
+16-03-09 16:34:20 [INFO] SportsOG failed to use fly hacks. FLY.
+16-03-09 16:34:21 [INFO] SportsOG failed to use fly hacks. FLY.
+16-03-09 16:34:30 [INFO] AbusiveMango failed Passable: moved into a block (2) from 531.46, 77.00, 334.30 to 531.45, 76.92, 334.30 distance 0.08 . VL 19.
+16-03-09 16:35:00 [INFO] AbusiveMango failed Passable: moved into a block (2) from 532.30, 77.00, 333.67 to 532.30, 76.92, 333.67 distance 0.08 . VL 20.
+16-03-09 16:37:56 [INFO] AbusiveMango failed Passable: moved into a block (3) from 528.56, 77.23, 328.55 to 528.56, 76.85, 328.55 distance 0.38 . VL 14.

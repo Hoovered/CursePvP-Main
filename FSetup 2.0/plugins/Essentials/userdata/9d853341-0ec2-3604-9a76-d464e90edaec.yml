@@ -1,0 +1,29 @@
+lastAccountName: ImVexy
+timestamps:
+  login: 1476234169372
+  lastteleport: 1476231213729
+  logout: 1476232883573
+  kits:
+    dragon2: 1471368299738
+    creeper2: 1476231018431
+    member: 1471368315436
+    dragon: 1471368304484
+    food: 1474911325131
+    ki: 1474911314827
+    kitwither: 1474911318328
+ipAddress: 127.0.0.1
+lastlocation:
+  world: buildsextra
+  x: 302.388834710939
+  y: 18.949811022781248
+  z: 160.89491639111094
+  yaw: -177.72433
+  pitch: 23.935661
+money: '1767400.0'
+logoutlocation:
+  world: world
+  x: 369.82839060761626
+  y: 72.0
+  z: -692.7657083025528
+  yaw: -171.85266
+  pitch: 19.958193

@@ -1,0 +1,43 @@
+lastAccountName: Hoovered
+timestamps:
+  login: 1520054827252
+  lastteleport: 1520054561725
+  logout: 0
+  kits:
+    creeper2: 1519692677431
+    dragon2: 1519977499061
+    member: 1519600194988
+    ki: 1519540051354
+    kitwither: 1519540061430
+    zombie: 1519881714194
+    food: 1519603553593
+    dragon: 1519977492241
+    enderman2: 1519692667247
+ipAddress: 107.2.106.156
+lastlocation:
+  world: world
+  x: 5371.548791634591
+  y: 9.732233394447334
+  z: 4330.63779331416
+  yaw: 137.92163
+  pitch: 26.77202
+money: '110510.0'
+socialspy: true
+logoutlocation:
+  world: world
+  x: 5362.108827694144
+  y: 200.5
+  z: 4309.288721255423
+  yaw: 0.65018785
+  pitch: 9.282385
+nickname: "\xa7cHoovered"
+afk: false
+powertools: {}
+homes:
+  baseuse:
+    world: world
+    x: 5352.666021797937
+    y: 200.0
+    z: 4311.039142249213
+    yaw: 267.3179
+    pitch: -0.4812122

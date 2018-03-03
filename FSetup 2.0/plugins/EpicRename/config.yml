@@ -1,0 +1,53 @@
+# EpicRename Configuration File
+# This is Color Code compatible (&)
+
+# Prefix for all messages
+prefix: '&8[&3&oRename&8] &7' 
+
+# Economy Settings
+economy:
+   use: false
+   costs:
+      rename: 100
+      renameany: 100
+      lore: 100
+      renameentity: 100
+      
+# Don't change This
+Config Version: 3
+
+# When a player doesn't have permission.
+no permission: '&cYou don''t have permission!'
+
+# When player puts too many or too little args. example: if a player types (/rename test good) or (/rename) without putting a name.
+not enough or too many args: '&cToo many or too little arguments.'
+
+# When a player tries to rename air. (Not a good idea :D)
+item in hand is air: '&cItem in hand is air.'
+
+#For /rename only.
+item in hand is not a diamond pickaxe: '&cItem in hand is not a diamond pickaxe.'
+
+# What prints to console when item is renamed in /rename. example: playername (automatic) + your msg (below) + the renamed item name (automatic)
+your msg: ' renamed an item to '
+
+#What gets sent to the player when a item is renamed.
+rename complete: '&aItem renamed.'
+
+#What gets said if player doesn't give at least one word after /lore
+lore usage: '&cPlease put at least one word after /lore'
+
+# What gets said when a item is /lore successfully
+lore complete: '&aItem Relored'
+
+
+#Blacklist Section
+
+#If the plugin finds a blacklisted word.
+found blacklisted word: '&4Sorry that message contains a blacklisted word.'
+
+#If any of these words are found the plugin will stop the rename and print the message above.
+blacklist:
+ - blacklist
+ -
+ -

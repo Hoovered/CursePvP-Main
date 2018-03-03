@@ -1,0 +1,20 @@
+lastAccountName: Criminaliteit
+timestamps:
+  login: 1519758439640
+  lastteleport: 1519758487272
+  logout: 1519758632376
+ipAddress: 141.105.10.46
+lastlocation:
+  world: world
+  x: 325.103828847624
+  y: 72.0
+  z: -667.720995603907
+  yaw: 83.2024
+  pitch: 0.9454259
+logoutlocation:
+  world: world
+  x: 391.5968946131436
+  y: 68.0
+  z: -647.3010862283294
+  yaw: 202.47253
+  pitch: -4.757643E-5

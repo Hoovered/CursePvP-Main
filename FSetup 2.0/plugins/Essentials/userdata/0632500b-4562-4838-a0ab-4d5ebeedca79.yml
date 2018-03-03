@@ -1,0 +1,23 @@
+lastAccountName: ToxicGamerX
+timestamps:
+  login: 1520005592668
+  logout: 1520005593924
+  lastteleport: 1519886602088
+  kits:
+    member: 1519958550527
+ipAddress: 73.169.159.75
+lastlocation:
+  world: world
+  x: -1344.297269319565
+  y: 73.0
+  z: -437.3426921250218
+  yaw: 164.72887
+  pitch: 34.764748
+logoutlocation:
+  world: world
+  x: 1877.1863210300999
+  y: 70.0
+  z: -432.82479353260993
+  yaw: 219.64241
+  pitch: -0.5049166
+money: '2000'

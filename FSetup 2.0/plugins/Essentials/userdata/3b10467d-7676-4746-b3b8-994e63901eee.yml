@@ -1,0 +1,29 @@
+lastAccountName: Tanis1007
+timestamps:
+  login: 1519979612487
+  lastteleport: 1519979710913
+  logout: 1519979723117
+ipAddress: 76.27.35.206
+lastlocation:
+  world: world
+  x: -4266.439771917285
+  y: 63.0
+  z: -1256.071758640456
+  yaw: 320.9468
+  pitch: 47.851063
+money: '80.0'
+homes:
+  home:
+    world: world
+    x: -4264.292598727344
+    y: 63.015625
+    z: -1253.4206776783303
+    yaw: -42.701103
+    pitch: 54.28835
+logoutlocation:
+  world: world
+  x: -4271.586535209301
+  y: 64.0
+  z: -1254.5333506170907
+  yaw: 77.677826
+  pitch: 28.416

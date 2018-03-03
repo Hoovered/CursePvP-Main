@@ -1,0 +1,30 @@
+lastAccountName: iTsAlekFTW
+timestamps:
+  login: 1519981578766
+  kits:
+    member: 1519981250476
+  lastteleport: 1519981299006
+  logout: 1519981581881
+ipAddress: 178.79.0.20
+lastlocation:
+  world: world
+  x: 378.03692650472175
+  y: 60.0
+  z: -925.3000000119209
+  yaw: 25.633745
+  pitch: 64.65425
+homes:
+  home:
+    world: world
+    x: 377.55512592784123
+    y: 63.015625
+    z: -927.1418781710619
+    yaw: 32.233734
+    pitch: 66.904274
+logoutlocation:
+  world: world
+  x: 396.46669185080583
+  y: 70.0
+  z: -1080.402653442726
+  yaw: 267.88315
+  pitch: 61.79981

@@ -1,0 +1,16 @@
+allow-creative-dispensers: false
+creative-dispenser-permission: getmycombos.tntfill.creative
+msg-above-allowed-radius: '&cI''m sorry but the radius you specified is to big'
+msg-invalid-amount: '&cYou have specified a invalid number'
+msg-cant-use-tntfill-in-this-world: '&cYou can''t use tntfill in this world'
+msg-command-usage: '&cCommand usage: /tntfill <radius> <tntperdispenser>'
+msg-filled-dispensers: '&6You have filled the dispensers around you'
+msg-no-dispensers: '&cNo dispensers are near your location'
+msg-not-enough-tnt: '&cYou don''t have enough tnt'
+msg-no-permission: '&cYou don''t have permission to run this command'
+maxradius: 20
+height: 5
+tntfill-permission: getmycombos.tntfill
+tntfill-radius-bypass-permission: getmycombos.tntfill.bypassradius
+worlds-no-tnt:
+- Example-World

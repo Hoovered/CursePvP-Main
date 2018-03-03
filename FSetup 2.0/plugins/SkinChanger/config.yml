@@ -1,0 +1,6 @@
+# SkinChanger configuration
+Check for updates: true
+Automatically update: false
+Change skin on join: false
+Player join skins:
+- KingFaris10

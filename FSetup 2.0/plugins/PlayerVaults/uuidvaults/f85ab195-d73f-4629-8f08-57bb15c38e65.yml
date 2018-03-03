@@ -1,0 +1,11 @@
+vault1:
+  '0': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"GOLDEN_APPLE"}'
+  '1': '{"amount":22,"==":"org.bukkit.inventory.ItemStack","damage":1,"type":"GOLDEN_APPLE"}'
+  '2': "{\"amount\":3,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\"\
+    ,\"meta\":{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at\
+    \ /warp crates!\"]}}"
+  '45': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"GOLDEN_APPLE"}'
+  '46': '{"amount":8,"==":"org.bukkit.inventory.ItemStack","type":"GOLDEN_APPLE"}'
+  '47': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"GOLDEN_APPLE"}'
+  '48': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"GOLDEN_APPLE"}'

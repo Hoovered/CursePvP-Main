@@ -1,0 +1,20 @@
+lastAccountName: TheThingGoes
+timestamps:
+  login: 1519591510273
+  lastteleport: 1519591632886
+  logout: 1519591661547
+ipAddress: 77.168.253.28
+lastlocation:
+  world: world
+  x: 601.0605533335954
+  y: 63.0
+  z: -654.1848445817117
+  yaw: 207.10251
+  pitch: 14.145391
+logoutlocation:
+  world: world
+  x: 372.63855607221177
+  y: 71.0
+  z: -667.4983839571651
+  yaw: 89.502365
+  pitch: -2.3545702

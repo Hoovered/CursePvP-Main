@@ -1,0 +1,40 @@
+vault1:
+  '0': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\",\"meta\"\
+    :{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\":\"UNSPECIFIC\"\
+    ,\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at /warp crates!\"\
+    ]}}"
+  '1': '{"amount":16,"==":"org.bukkit.inventory.ItemStack","type":"EXP_BOTTLE"}'
+  '2': '{"amount":10,"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND"}'
+  '3': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_HELMET\",\"\
+    meta\":{\"display-name\":\"\xa7a\xa7lMEMBER\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"PROTECTION_ENVIRONMENTAL\":1}}}"
+  '4': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_CHESTPLATE\"\
+    ,\"meta\":{\"display-name\":\"\xa7a\xa7lMEMBER\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"PROTECTION_ENVIRONMENTAL\":1}}}"
+  '5': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_LEGGINGS\",\"\
+    meta\":{\"display-name\":\"\xa7a\xa7lMEMBER\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"PROTECTION_ENVIRONMENTAL\":1}}}"
+  '6': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_BOOTS\",\"meta\"\
+    :{\"display-name\":\"\xa7a\xa7lMEMBER\",\"==\":\"ItemMeta\",\"meta-type\":\"UNSPECIFIC\"\
+    ,\"enchants\":{\"PROTECTION_ENVIRONMENTAL\":1}}}"
+  '7': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"OBSIDIAN"}'
+  '8': '{"==":"org.bukkit.inventory.ItemStack","damage":41,"type":"POTION","meta":{"==":"ItemMeta","meta-type":"POTION","custom-effects":[{"duration":1800,"effect":5,"==":"PotionEffect","has-particles":true,"ambient":true,"amplifier":0}]}}'
+  '9': '{"amount":16,"==":"org.bukkit.inventory.ItemStack","type":"SUGAR_CANE"}'
+  '10': '{"amount":8,"==":"org.bukkit.inventory.ItemStack","type":"CACTUS"}'
+  '11': '{"amount":16,"==":"org.bukkit.inventory.ItemStack","type":"PUMPKIN_SEEDS"}'
+  '12': '{"amount":16,"==":"org.bukkit.inventory.ItemStack","type":"MELON_SEEDS"}'
+  '13': '{"amount":4,"==":"org.bukkit.inventory.ItemStack","type":"ENDER_PEARL"}'
+  '14': '{"amount":4,"==":"org.bukkit.inventory.ItemStack","type":"GOLDEN_APPLE"}'
+  '15': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"COOKED_BEEF"}'
+  '16': '{"==":"org.bukkit.inventory.ItemStack","damage":41,"type":"POTION","meta":{"==":"ItemMeta","meta-type":"POTION","custom-effects":[{"duration":1800,"effect":5,"==":"PotionEffect","has-particles":true,"ambient":true,"amplifier":0}]}}'
+  '17': '{"==":"org.bukkit.inventory.ItemStack","damage":34,"type":"POTION","meta":{"==":"ItemMeta","meta-type":"POTION","custom-effects":[{"duration":1800,"effect":1,"==":"PotionEffect","has-particles":true,"ambient":true,"amplifier":0}]}}'
+  '18': '{"==":"org.bukkit.inventory.ItemStack","damage":34,"type":"POTION","meta":{"==":"ItemMeta","meta-type":"POTION","custom-effects":[{"duration":1800,"effect":1,"==":"PotionEffect","has-particles":true,"ambient":true,"amplifier":0}]}}'
+  '19': '{"==":"org.bukkit.inventory.ItemStack","type":"BOAT"}'
+  '20': '{"amount":32,"==":"org.bukkit.inventory.ItemStack","type":"LOG"}'
+  '21': '{"==":"org.bukkit.inventory.ItemStack","type":"BOAT"}'
+  '22': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_SWORD\",\"\
+    meta\":{\"display-name\":\"\xa7a\xa7lMEMBER\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DAMAGE_ALL\":1}}}"
+  '23': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HOE"}'
+  '24': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_SPADE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DIG_SPEED":1}}}'
+  '25': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_AXE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DIG_SPEED":1}}}'

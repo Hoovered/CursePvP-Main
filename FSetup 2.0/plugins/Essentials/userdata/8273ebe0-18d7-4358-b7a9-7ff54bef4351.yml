@@ -1,0 +1,31 @@
+lastAccountName: xXDRA60NSLAYERXx
+timestamps:
+  login: 1520005464543
+  logout: 1520005598979
+  kits:
+    member: 1519698465996
+    food: 1520005532291
+ipAddress: 208.96.67.84
+lastlocation:
+  world: world
+  x: -220.5
+  y: 68.0
+  z: 244.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -1499.0858183818686
+  y: 65.0
+  z: -767.6116175684642
+  yaw: 263.99994
+  pitch: 70.35
+money: '4019.25'
+homes:
+  home:
+    world: world
+    x: -1499.770698113647
+    y: 64.0
+    z: -765.5181602337625
+    yaw: 183.7498
+    pitch: 13.65

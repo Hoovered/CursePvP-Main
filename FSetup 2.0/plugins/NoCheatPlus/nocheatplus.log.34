@@ -1,0 +1,37 @@
+16-03-08 21:53:38 [INFO] Logger started.
+16-03-08 21:53:38 [INFO] Logging system initialized.
+16-03-08 21:53:38 [INFO] Detected Minecraft version: 1.7.10
+16-03-08 21:53:45 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-08 21:53:45 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-08 21:53:45 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-08 21:53:45 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-08 21:53:45 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-08 21:53:45 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-08 21:53:45 [INFO] Packet level access: ProtocolLib is not available.
+16-03-08 21:53:45 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-08 21:53:46 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-08 21:53:47 [INFO] Post-enable running...
+16-03-08 21:53:47 [INFO] Post-enable finished.
+16-03-08 21:53:47 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-1.7.9-R0.2-208-ge0f2e95 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-08 21:53:50 [INFO] 158ms failed to use fly hacks. FLY.
+16-03-08 21:53:51 [INFO] 158ms failed to use speed hacks. SPEED.
+16-03-08 21:58:10 [INFO] SilentMC failed MorePackets: sent too many moves (25 epsacc). VL 25.
+16-03-08 22:05:28 [INFO] iHackClient failed to use fly hacks. FLY.
+16-03-08 22:05:47 [INFO] SilentMC failed Direction: tried to hit an entity out of line of sight. VL 11.
+16-03-08 22:10:07 [INFO] 158ms failed to use fly hacks. FLY.
+16-03-08 22:15:31 [INFO] SilentMC failed Direction: tried to interact with a block out of their line of sight. VL 11.
+16-03-08 22:15:37 [INFO] SilentMC failed Direction: tried to interact with a block out of their line of sight. VL 18.
+16-03-08 22:15:41 [INFO] SilentMC failed Direction: tried to interact with a block out of their line of sight. VL 22.
+16-03-08 22:15:45 [INFO] SilentMC failed Direction: tried to interact with a block out of their line of sight. VL 26.

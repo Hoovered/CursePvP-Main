@@ -1,0 +1,20 @@
+lastAccountName: GameBoys125
+timestamps:
+  login: 1519846826028
+  logout: 1519846879581
+  lastteleport: 1519846868351
+ipAddress: 86.82.138.49
+lastlocation:
+  world: world
+  x: 2500.348667956024
+  y: 64.0
+  z: -1077.581618635763
+  yaw: -11.400032
+  pitch: 7.4999895
+logoutlocation:
+  world: world
+  x: -3289.5
+  y: 63.0
+  z: 3983.5
+  yaw: 94.04553
+  pitch: 19.950012

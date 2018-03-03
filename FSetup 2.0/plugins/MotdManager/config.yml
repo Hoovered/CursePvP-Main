@@ -1,0 +1,7 @@
+# MotdManager Configuration file!
+# @author syamn <admin@sakura-server.net>
+# github: https://github.com/syamn/MotdManager
+
+MotdList:
+- '&a&lCurse&d&lPvP &7&l- &e&l50% Off Sale                                           &7&l>> &c&lFactions Beta / Alpha &7&l<<'
+FakeMaxPlayer: 250

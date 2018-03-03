@@ -1,0 +1,7 @@
+vault1:
+  '0': '{"amount":4,"==":"org.bukkit.inventory.ItemStack","type":"GOLDEN_APPLE"}'
+  '1': '{"amount":4,"==":"org.bukkit.inventory.ItemStack","type":"ENDER_PEARL"}'
+  '2': '{"amount":32,"==":"org.bukkit.inventory.ItemStack","type":"LOG"}'
+  '3': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_SWORD\",\"meta\"\
+    :{\"display-name\":\"\xa7a\xa7lMEMBER\",\"==\":\"ItemMeta\",\"meta-type\":\"UNSPECIFIC\"\
+    ,\"enchants\":{\"DAMAGE_ALL\":1}}}"

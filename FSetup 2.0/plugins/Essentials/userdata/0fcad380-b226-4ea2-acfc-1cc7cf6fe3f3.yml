@@ -1,0 +1,48 @@
+lastAccountName: SecurityCode
+timestamps:
+  login: 1520047991710
+  lastteleport: 1520047494432
+  logout: 1520048003705
+  kits:
+    zombie2: 1519622041718
+    dragon2: 1519623218117
+    creeper2: 1519623317814
+    ki: 1519623206432
+    kitwither: 1519623201310
+    zombie: 1519622035421
+    food: 1519622076046
+    dragon: 1519866963425
+    enderman: 1519626940295
+    skelly: 1519624143284
+    creeper: 1519626957193
+ipAddress: 86.16.136.71
+lastlocation:
+  world: world
+  x: -4075.300000011921
+  y: 39.71364523274126
+  z: -3275.699999988079
+  yaw: -148.5325
+  pitch: -78.41474
+money: '1722.0'
+logoutlocation:
+  world: world
+  x: -3965.5
+  y: 112.0
+  z: -3423.5
+  yaw: -6.735895
+  pitch: 49.046894
+homes:
+  shop:
+    world: buildsextra
+    x: -1.4346641330539354
+    y: 36.3717107229739
+    z: 250.9594687541897
+    yaw: -223.20094
+    pitch: 25.9135
+  b:
+    world: world
+    x: 5352.501986778952
+    y: 200.0
+    z: 4310.997456329863
+    yaw: 270.25568
+    pitch: -1.0688105

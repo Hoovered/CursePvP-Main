@@ -1,0 +1,33 @@
+lastAccountName: MerlinMagician
+timestamps:
+  login: 1520044488248
+  logout: 1520044530983
+  lastteleport: 1520037795990
+  kits:
+    member: 1519880211670
+    food: 1519954183711
+  lastheal: 1519918551431
+ipAddress: 68.227.147.155
+lastlocation:
+  world: world
+  x: -4622.822240198405
+  y: 6.0
+  z: -1784.05815034737
+  yaw: 11.3819275
+  pitch: -14.292225
+logoutlocation:
+  world: world
+  x: -927.5503802027249
+  y: 5.0
+  z: -1205.302442860091
+  yaw: 90.36186
+  pitch: -4.63683
+money: '294000.0'
+homes:
+  home:
+    world: world
+    x: -926.879166377422
+    y: 5.0
+    z: -1205.300000011921
+    yaw: 81.47797
+    pitch: -5.744042

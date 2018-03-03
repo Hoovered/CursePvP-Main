@@ -1,0 +1,20 @@
+lastAccountName: kungfumark
+timestamps:
+  login: 1519718661210
+  logout: 1519718872640
+ipAddress: 98.163.40.135
+lastlocation:
+  world: world
+  x: -220.5
+  y: 68.0
+  z: 244.5
+  yaw: 0.0
+  pitch: 0.0
+money: '2000'
+logoutlocation:
+  world: world
+  x: 1073.2158056420037
+  y: 70.0
+  z: 1153.658000735354
+  yaw: -334.56866
+  pitch: 58.34411

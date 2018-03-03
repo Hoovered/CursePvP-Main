@@ -1,0 +1,104 @@
+vault1:
+  '0': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"EXP_BOTTLE"}'
+  '1': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"GOLDEN_APPLE"}'
+  '2': '{"amount":20,"==":"org.bukkit.inventory.ItemStack","type":"GOLDEN_APPLE"}'
+  '3': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"EXP_BOTTLE"}'
+  '4': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"COOKED_BEEF"}'
+  '5': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"GOLDEN_APPLE"}'
+  '6': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"GOLDEN_APPLE"}'
+  '7': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"EXP_BOTTLE"}'
+  '8': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"EXP_BOTTLE"}'
+  '9': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"EXP_BOTTLE"}'
+  '10': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"EXP_BOTTLE"}'
+  '11': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"EXP_BOTTLE"}'
+  '12': '{"amount":32,"==":"org.bukkit.inventory.ItemStack","type":"EXP_BOTTLE"}'
+  '19': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"BOW\",\"meta\":{\"\
+    display-name\":\"\xa73\xa7lENDERDRAGON\",\"==\":\"ItemMeta\",\"meta-type\":\"\
+    UNSPECIFIC\",\"enchants\":{\"ARROW_KNOCKBACK\":3,\"ARROW_DAMAGE\":6}}}"
+  '20': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_AXE\",\"meta\"\
+    :{\"display-name\":\"\xa75\xa7lENDERMAN\",\"==\":\"ItemMeta\",\"meta-type\":\"\
+    UNSPECIFIC\",\"enchants\":{\"DIG_SPEED\":5,\"LOOT_BONUS_BLOCKS\":3}}}"
+  '21': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_BOOTS\",\"\
+    meta\":{\"display-name\":\"\xa73\xa7lENDERDRAGON\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"PROTECTION_ENVIRONMENTAL\":6,\"DURABILITY\":6}}}"
+  '22': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_LEGGINGS\"\
+    ,\"meta\":{\"display-name\":\"\xa73\xa7lENDERDRAGON\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"PROTECTION_ENVIRONMENTAL\":6,\"DURABILITY\":6}}}"
+  '23': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_CHESTPLATE\"\
+    ,\"meta\":{\"display-name\":\"\xa73\xa7lENDERDRAGON\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"PROTECTION_ENVIRONMENTAL\":6,\"DURABILITY\":6}}}"
+  '24': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_HELMET\",\"\
+    meta\":{\"display-name\":\"\xa73\xa7lENDERDRAGON\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"PROTECTION_ENVIRONMENTAL\":6,\"DURABILITY\":6}}}"
+  '27': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_PICKAXE\",\"\
+    meta\":{\"display-name\":\"\xa73\xa7lENDERDRAGON\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DIG_SPEED\":6,\"LOOT_BONUS_BLOCKS\":4}}}"
+  '28': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"BOW\",\"meta\":{\"\
+    display-name\":\"\xa73\xa7lENDERDRAGON\",\"==\":\"ItemMeta\",\"meta-type\":\"\
+    UNSPECIFIC\",\"enchants\":{\"ARROW_KNOCKBACK\":3,\"ARROW_DAMAGE\":6}}}"
+  '29': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_AXE\",\"meta\"\
+    :{\"display-name\":\"\xa73\xa7lENDERDRAGON\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DIG_SPEED\":6,\"LOOT_BONUS_BLOCKS\":4}}}"
+  '30': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_BOOTS\",\"\
+    meta\":{\"display-name\":\"\xa73\xa7lENDERDRAGON\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"PROTECTION_ENVIRONMENTAL\":6,\"DURABILITY\":6}}}"
+  '31': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_LEGGINGS\"\
+    ,\"meta\":{\"display-name\":\"\xa73\xa7lENDERDRAGON\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"PROTECTION_ENVIRONMENTAL\":6,\"DURABILITY\":6}}}"
+  '32': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_CHESTPLATE\"\
+    ,\"meta\":{\"display-name\":\"\xa73\xa7lENDERDRAGON\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"PROTECTION_ENVIRONMENTAL\":6,\"DURABILITY\":6}}}"
+  '33': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_HELMET\",\"\
+    meta\":{\"display-name\":\"\xa73\xa7lENDERDRAGON\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"PROTECTION_ENVIRONMENTAL\":6,\"DURABILITY\":6}}}"
+  '34': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_SWORD\",\"\
+    meta\":{\"display-name\":\"\xa73\xa7lENDERDRAGON\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DAMAGE_ALL\":6,\"FIRE_ASPECT\":4,\"KNOCKBACK\"\
+    :3}}}"
+  '36': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_PICKAXE\",\"\
+    meta\":{\"display-name\":\"\xa73\xa7lENDERDRAGON\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DIG_SPEED\":6,\"LOOT_BONUS_BLOCKS\":4}}}"
+  '37': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"BOW\",\"meta\":{\"\
+    display-name\":\"\xa73\xa7lENDERDRAGON\",\"==\":\"ItemMeta\",\"meta-type\":\"\
+    UNSPECIFIC\",\"enchants\":{\"ARROW_KNOCKBACK\":3,\"ARROW_DAMAGE\":6}}}"
+  '38': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_AXE\",\"meta\"\
+    :{\"display-name\":\"\xa73\xa7lENDERDRAGON\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DIG_SPEED\":6,\"LOOT_BONUS_BLOCKS\":4}}}"
+  '39': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_BOOTS\",\"\
+    meta\":{\"display-name\":\"\xa73\xa7lENDERDRAGON\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"PROTECTION_ENVIRONMENTAL\":6,\"DURABILITY\":6}}}"
+  '40': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_LEGGINGS\"\
+    ,\"meta\":{\"display-name\":\"\xa73\xa7lENDERDRAGON\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"PROTECTION_ENVIRONMENTAL\":6,\"DURABILITY\":6}}}"
+  '41': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_CHESTPLATE\"\
+    ,\"meta\":{\"display-name\":\"\xa73\xa7lENDERDRAGON\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"PROTECTION_ENVIRONMENTAL\":6,\"DURABILITY\":6}}}"
+  '42': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_HELMET\",\"\
+    meta\":{\"display-name\":\"\xa73\xa7lENDERDRAGON\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"PROTECTION_ENVIRONMENTAL\":6,\"DURABILITY\":6}}}"
+  '43': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_SWORD\",\"\
+    meta\":{\"display-name\":\"\xa73\xa7lENDERDRAGON\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DAMAGE_ALL\":6,\"FIRE_ASPECT\":4,\"KNOCKBACK\"\
+    :3}}}"
+  '45': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_PICKAXE\",\"\
+    meta\":{\"display-name\":\"\xa75\xa7lENDERMAN\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DIG_SPEED\":5,\"LOOT_BONUS_BLOCKS\":3}}}"
+  '47': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_AXE\",\"meta\"\
+    :{\"display-name\":\"\xa73\xa7lENDERDRAGON\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DIG_SPEED\":6,\"LOOT_BONUS_BLOCKS\":4}}}"
+  '48': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_BOOTS\",\"\
+    meta\":{\"display-name\":\"\xa73\xa7lENDERDRAGON\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"PROTECTION_ENVIRONMENTAL\":6,\"DURABILITY\":6}}}"
+  '49': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_LEGGINGS\"\
+    ,\"meta\":{\"display-name\":\"\xa73\xa7lENDERDRAGON\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"PROTECTION_ENVIRONMENTAL\":6,\"DURABILITY\":6}}}"
+  '50': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_CHESTPLATE\"\
+    ,\"meta\":{\"display-name\":\"\xa73\xa7lENDERDRAGON\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"PROTECTION_ENVIRONMENTAL\":6,\"DURABILITY\":6}}}"
+  '51': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_HELMET\",\"\
+    meta\":{\"display-name\":\"\xa73\xa7lENDERDRAGON\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"PROTECTION_ENVIRONMENTAL\":6,\"DURABILITY\":6}}}"
+  '52': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_SWORD\",\"\
+    meta\":{\"display-name\":\"\xa73\xa7lENDERDRAGON\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DAMAGE_ALL\":6,\"FIRE_ASPECT\":4,\"KNOCKBACK\"\
+    :3}}}"

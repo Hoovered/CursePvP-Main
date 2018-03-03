@@ -1,0 +1,21 @@
+enemy-radius: 32 #Flight will be disabled if an enemy is within this radius
+
+#For towny, this has no effect
+
+#Comment these permissions out (place a # before them) to disable them (and give access to everyone with ffly.fly)
+wilderness-perm: ffly.wilderness #With this permission, you will be allowed to fly in the wilderness
+safezone-perm: ffly.safezone #With this permission, you can fly in a safezone
+allied-perm: ffly.ally #With this permission, you can fly in allied lands
+yours-perm: ffly.yours #With this permission, you can fly in your faction's claims
+neutral-perm: ffly.neutral
+enemy-perm: ffly.enemy #With this permission, you can fly in enemy territory
+
+fly-height-perms: #All of this is circumvented by ffly.bypass
+  default: -1 #If you have no permission, this is the max height
+  #ffly.height.name, so if you give a player ffly.height.high they can go to 128
+  high: 128 #If you have one of these permissions, this is the highest you can fly
+  medium: 92
+  tiny: 64
+
+
+allow-ender-pearl-while-flying: false #If we should allow kids to pearl

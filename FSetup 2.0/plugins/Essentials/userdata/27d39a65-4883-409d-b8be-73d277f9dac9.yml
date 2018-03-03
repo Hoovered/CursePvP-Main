@@ -1,0 +1,22 @@
+lastAccountName: Loyally
+timestamps:
+  login: 1519793270498
+  lastteleport: 1519793298587
+  kits:
+    member: 1519793307383
+  logout: 1519793332186
+ipAddress: 75.69.136.242
+lastlocation:
+  world: world
+  x: -3301.455737570922
+  y: 66.0
+  z: 3982.9056529166023
+  yaw: -84.60449
+  pitch: 11.100024
+logoutlocation:
+  world: world
+  x: -3273.966514395723
+  y: 70.0
+  z: 4018.807068640968
+  yaw: -86.10446
+  pitch: 4.499979

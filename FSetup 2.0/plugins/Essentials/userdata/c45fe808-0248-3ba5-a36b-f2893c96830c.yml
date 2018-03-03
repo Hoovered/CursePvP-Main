@@ -1,0 +1,25 @@
+lastAccountName: Hoovered
+timestamps:
+  login: 1519520423385
+  lastteleport: 1519520064722
+  kits:
+    dragon2: 1519440098893
+    dragon: 1519440137865
+  logout: 1519520093936
+ipAddress: 107.2.106.156
+lastlocation:
+  world: world
+  x: 373.5
+  y: 71.0
+  z: -667.5
+  yaw: -270.19763
+  pitch: -2.3545702
+logoutlocation:
+  world: buildsextra
+  x: -7.126646497973917
+  y: 37.240992958423035
+  z: 217.82907312050688
+  yaw: -263.90674
+  pitch: 23.16954
+nickname: "\xa74Hoovered"
+socialspy: true

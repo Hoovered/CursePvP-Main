@@ -1,0 +1,31 @@
+lastAccountName: KingdomMaker
+timestamps:
+  login: 1519836182509
+  lastteleport: 1519835634733
+  logout: 1519836502839
+  kits:
+    food: 1519836037793
+ipAddress: 73.211.228.84
+lastlocation:
+  world: world
+  x: -3301.5986369182992
+  y: 65.0
+  z: 3983.6180414312003
+  yaw: -39.304405
+  pitch: 23.700022
+money: '2000.0'
+homes:
+  home:
+    world: world
+    x: 844.6079907187797
+    y: 71.0
+    z: 3767.7893927497926
+    yaw: -248.84981
+    pitch: 14.850016
+logoutlocation:
+  world: world
+  x: -3299.3055440616736
+  y: 63.0
+  z: 3986.487500011921
+  yaw: 105.44549
+  pitch: -5.249982

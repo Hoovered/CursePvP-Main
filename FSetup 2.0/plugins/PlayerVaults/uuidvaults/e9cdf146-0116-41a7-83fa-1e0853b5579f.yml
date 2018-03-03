@@ -1,0 +1,2 @@
+vault1:
+  '49': '{"amount":16,"==":"org.bukkit.inventory.ItemStack","type":"PUMPKIN_SEEDS"}'

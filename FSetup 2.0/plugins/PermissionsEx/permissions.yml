@@ -1,0 +1,633 @@
+groups:
+  Member:
+    permissions:
+    - essentials.delhome
+    - essentials.deletehome
+    - essentials.bal.top
+    - essentials.balance.top
+    - essentials.balancetop
+    - essentials.baltop
+    - essentials.balance
+    - essentials.bal
+    - cr.menu
+    - cr.crate
+    - essentials.spawnerconvert.*
+    - silkspawners.exploaddrop
+    - silkspawners.destroydrop.*
+    - silkspawners.silkdrop.*
+    - silkspawners.place.*
+    - playervaults.size.6
+    - playervaults.amount.1
+    - playervaults.size.2
+    - essentials.echest
+    - essentials.enderchest
+    - essentials.tpaccept
+    - essentials.tpa
+    - essentials.clearinventory
+    - essentials.clear
+    - spawnershop.use
+    - mycommand.cmd.website
+    - essentials.kits.food
+    - essentials.kit.food
+    - essentials.kit.member
+    - essentials.kits.member
+    - essentials.kits
+    - essentials.kit
+    - modifyworld.*
+    - essentials.rules
+    - essentials.help
+    - essentials.pay
+    - essentials.signs.use.sell
+    - essentials.signs.use.buy
+    - essentials.tell
+    - essentials.sell
+    - essentials.back
+    - essentials.back.ondeath
+    - essentials.who
+    - essentials.afk
+    - essentials.list
+    - essentials.msg
+    - essentials.warp.list
+    - lockette.user.create.*
+    - essentials.warp
+    - essentials.helpop
+    - essentials.motd
+    - essentials.spawn
+    - essentials.home
+    - essentials.tpahere
+    - essentials.home
+    - essentials.sethome
+    - arena.leave
+    - arena.join.spleef
+    - essentials.sethome
+    - iConomy.payment
+    - iConomy.holdings
+    - iConomy.holdings.others
+    - iConomy.sell
+    - factions.join
+    - factions.create
+    - factions.disband
+    - factions.leave
+    - factions.help
+    - factions.title
+    - factions.relation
+    - factions.who
+    - factions.admin
+    - factions.power
+    - factions.claim
+    - factions.unclaim
+    - factions.description
+    - factions.mod
+    - factions.list
+    - factions.home
+    - factions.sethome
+    - factions.unclaimall
+    - factions.kick
+    - factions.invite
+    - factions.map
+    - factions.show
+    - factions.disband
+    - factions.chat
+    - lwc.protect
+    - mcmmo.ability.*
+    - mcmmo.skills.*
+    - ChestShop.buy
+    - ChestShop.sell
+    - shop.use
+    - shop.buy
+    - shop.sell
+    options:
+      build: true
+      prefix: '&7(&8Member&7)'
+      default: true
+    worlds:
+      (true):
+        permissions:
+        - silkspawners.exploaddrop
+  Zombie:
+    permissions:
+    - shop.vip.vip2
+    - essentials.kits.zombie
+    - essentials.kits.zombie2
+    - essentials.kits
+    - essentials.kit
+    - essentials.feed
+    - playervaults.amount.2
+    inheritance:
+    - Member
+    options:
+      build: true
+      prefix: '&7(&9Zombie&7) '
+  Skelly:
+    permissions:
+    - shop.vip.vip2
+    - essentials.kits.zombie
+    - essentials.kits.zombie2
+    - essentials.kits
+    - essentials.kit
+    - essentials.kits.skelly
+    - essentials.kits.skelly2
+    - essentials.heal
+    - playervaults.amount.3
+    inheritance:
+    - Member
+    - Zombie
+    options:
+      build: true
+      prefix: '&7(&3Skellyt&7) '
+  Creeper:
+    permissions:
+    - shop.vip.vip2
+    - essentials.kits.zombie
+    - essentials.kits.zombie2
+    - essentials.kits
+    - essentials.kit
+    - essentials.kits.skelly
+    - essentials.kits.skelly2
+    - essentials.kits.creeper
+    - essentials.kits.creeper2
+    - ffly.fly
+    - ffly.yours
+    - ffly.ally
+    - playervaults.amount.4
+    inheritance:
+    - Member
+    - Zombie
+    - Skelly
+    options:
+      build: true
+      prefix: '&7(&2Creeper&7) '
+  Enderman:
+    permissions:
+    - shop.vip.premium
+    - shop.vip.vip1
+    - shop.vip.vip3
+    - shop.vip.vip2
+    - essentials.kits.zombie
+    - essentials.kits.zombie2
+    - essentials.kits
+    - essentials.kit
+    - essentials.kits.skelly
+    - essentials.kits.skelly2
+    - essentials.kits.creeper
+    - essentials.kits.creeper2
+    - essentials.kits.enderman
+    - essentials.kits.enderman2
+    - ffly.fly
+    - ffly.yours
+    - ffly.ally
+    - playervaults.amount.5
+    inheritance:
+    - Member
+    - Zombie
+    - Skelly
+    - Creeper
+    options:
+      build: true
+      prefix: '&7(&5Enderman&7) '
+  Dragon:
+    permissions:
+    - shop.vip.premium
+    - shop.vip.vip3
+    - shop.vip.vip1
+    - shop.vip.vip2
+    - shop.vip.vipmenu2
+    - shop.enchantments
+    - shop.tab.*
+    - shop.tab.403
+    - essentials.sethome.multiple.unlimited
+    - essentials.sethome
+    - essentials.sethome.multiple
+    - essentials.sethome.multiple.10
+    - essentials.kits.zombie
+    - essentials.kits.zombie2
+    - essentials.kits
+    - essentials.kit
+    - essentials.kits.skelly
+    - essentials.kits.skelly2
+    - essentials.kits.creeper
+    - essentials.kits.creeper2
+    - ffly.fly
+    - ffly.yours
+    - ffly.ally
+    - essentials.kits.dragon
+    - essentials.kits.dragon2
+    - playervaults.amount.6
+    inheritance:
+    - Member
+    - Zombie
+    - Skelly
+    - Creeper
+    - Enderman
+    options:
+      build: true
+      prefix: '&7(&4Dragon&7) '
+  YouTube:
+    permissions:
+    - playervaults.amount.5
+    - playervaults.multiple.5
+    - playervault.multiple.5
+    - essentials.kits.YouTube
+    - essentials.kit.YouTube
+    - essentials.fly
+    - ffly.yours
+    - ffly.ally
+    - ffly.fly
+    - essentials.heal
+    - essentials.feed
+    - essentials.kit.zombie
+    - essentials.kits.zombie
+    - essentials.kits.zombie2
+    - essentials.kit.zombie2
+    - essentials.repair
+    - essentials.repair.all
+    inheritance:
+    - Member
+    options:
+      build: true
+      prefix: '&7(&4You&fTube&7) '
+  Builder:
+    permissions:
+    - modifyworld.*
+    - essentials.rules
+    - essentials.help
+    - essentials.pay
+    - essentials.balance
+    - essentials.signs.use.sell
+    - mobarena.use.join
+    - mobarena.use.leave
+    - mobarena.use.spec
+    - mobarena.use.arenalist
+    - mobarena.use.playerlist
+    - mobarena.use.notready
+    - mobarena.use.class
+    - lockette.user.create.*
+    - essentials.signs.use.buy
+    - essentials.tell
+    - arena.leave
+    - arena.join.spleef
+    - essentials.sell
+    - essentials.back
+    - essentials.back.ondeath
+    - essentials.who
+    - essentials.afk
+    - essentials.list
+    - essentials.msg
+    - essentials.warp.list
+    - essentials.warp
+    - essentials.helpop
+    - essentials.motd
+    - essentials.spawn
+    - essentials.home
+    - essentials.tpa
+    - essentials.tpahere
+    - essentials.tpaccept
+    - essentials.home
+    - essentials.sethome
+    - essentials.sethome
+    - iConomy.payment
+    - iConomy.holdings
+    - iConomy.holdings.others
+    - iConomy.sell
+    - factions.join
+    - factions.create
+    - factions.disband
+    - factions.leave
+    - factions.help
+    - factions.title
+    - factions.relation
+    - factions.who
+    - factions.admin
+    - factions.power
+    - factions.claim
+    - factions.unclaim
+    - factions.description
+    - factions.mod
+    - factions.list
+    - factions.home
+    - factions.sethome
+    - factions.unclaimall
+    - factions.kick
+    - factions.invite
+    - factions.map
+    - factions.show
+    - factions.disband
+    - factions.chat
+    - lwc.protect
+    - mcmmo.ability.*
+    - mcmmo.skills.*
+    - ChestShop.buy
+    - ChestShop.sell
+    options:
+      build: true
+      prefix: '&7(&bBuilder&7) '
+      default: false
+  Moderator:
+    permissions:
+    - litebans.tempmute
+    - litebans.unmute
+    - litebans.mute
+    - litebans.tempban
+    - litebans.warn
+    - litebans.kick
+    - vanish.vanish.on
+    - vanish.vanish.off
+    - vanish.silentchests
+    - vanish.nopickup
+    - vanish.list
+    - vanish.vanish
+    - vanish.see
+    - vanish.standard
+    - liteban.vanish
+    - litebans.vanish
+    - essentials.tphere
+    - essentials.tp.others
+    - commandwatcher.cw
+    - commandwatch.cw
+    - commandwatch.watch
+    - commandwatch
+    - commandwatch.help
+    - ffly.*
+    - essentials.tp
+    - essentials.fly
+    - essentials.tempban
+    - essentials.heal
+    - essentials.feed
+    - essentials.ban.notify
+    - essentials.banip
+    - essentials.clearinventory
+    - essentials.eco.loan
+    - essentials.ext
+    - essentials.getpos
+    - essentials.helpop.recieve
+    - essentials.home.others
+    - essentials.invsee
+    - essentials.jails
+    - essentials.jump
+    - essentials.kick
+    - essentials.kick.notify
+    - essentials.mute
+    - essentials.realname
+    - essentials.signs.create.*
+    - essentials.signs.break.*
+    - essentials.time
+    - essentials.protect.alerts
+    - essentials.protect.admin
+    - essentials.protect.ownerinfo
+    - essentials.togglejail
+    - essentials.top
+    - essentials.unban
+    - essentials.unbanip
+    - essentials.whois
+    - essentials.world
+    - ffly.ally
+    - ffly.yours
+    - ffly.neutral
+    - ffly.safezone
+    - ffly.fly
+    inheritance:
+    - Member
+    - Trial-Mod
+    options:
+      build: true
+      prefix: '&7(&3Moderator&7)'
+  Trial-Mod:
+    permissions:
+    - litebans.kick
+    - litebans.warn
+    - litebans.tempmute
+    - litebans.unmute
+    - litebans.mute
+    - litebans.tempban
+    - essentials.tp
+    - essentials.fly
+    - essentials.tempban
+    - essentials.heal
+    - essentials.feed
+    - essentials.ban.notify
+    - essentials.clearinventory
+    - essentials.eco.loan
+    - essentials.ext
+    - essentials.getpos
+    - essentials.helpop.recieve
+    - essentials.home.others
+    - essentials.invsee
+    - essentials.jails
+    - essentials.jump
+    - essentials.kick
+    - essentials.kick.notify
+    - essentials.mute
+    - essentials.realname
+    - essentials.signs.create.*
+    - essentials.signs.break.*
+    - essentials.time
+    - essentials.protect.alerts
+    - essentials.protect.admin
+    - essentials.protect.ownerinfo
+    - essentials.togglejail
+    - essentials.top
+    - essentials.whois
+    - essentials.world
+    - ffly.ally
+    - ffly.yours
+    - ffly.neutral
+    - ffly.safezone
+    - ffly.fly
+    inheritance:
+    - Member
+    options:
+      build: true
+      prefix: '&7(&3Trial&7-&3Mod&7) '
+  Admin:
+    permissions:
+    - litebans.unban
+    - litebans.tempmute
+    - litebans.mute
+    - litebans.unmute
+    - litebans.warn
+    - litebans.kick
+    - litebans.ban
+    - litebans.tempban
+    - essentials.gamemode
+    - essentials.tp
+    - essentials.ban
+    - essentials.god
+    - essentials.invsee
+    inheritance:
+    - Member
+    - Moderator
+    options:
+      build: true
+      prefix: '&7(&aAdmin&7)'
+  Owner:
+    permissions:
+    - '*'
+    inheritance:
+    - admin
+    options:
+      build: true
+      prefix: '&7(&cOwner&7)'
+  Co-Owner:
+    permissions:
+    - '*'
+    inheritance:
+    - admin
+    options:
+      build: true
+      prefix: '&7(&cCo&7-&cOwner&7)'
+  Sr.Mod:
+    inheritance:
+    - Mod
+    options:
+      prefix: '&7(&3Sr. Mod&7)'
+    permissions:
+    - litebans.tempban
+    - litebans.ban
+    - litebans.kick
+    - litebans.warn
+    - litebans.unmute
+    - litebans.mute
+    - litebans.tempmute
+  Sr.Admin:
+    inheritance:
+    - Admin
+    options:
+      prefix: '&7(&aSr. Admin&7)'
+schema-version: 1
+users:
+  c45fe808-0248-3ba5-a36b-f2893c96830c:
+    group:
+    - Owner
+    options:
+      name: Hoovered
+    permissions:
+    - '*'
+  a105f7d6-7793-327c-82e7-f0848bfc4fe7:
+    group:
+    - Zombie
+    options:
+      name: Hotty264
+  c483da27-1b35-3d95-afb4-b8733bf044a7:
+    group:
+    - Admin
+    options:
+      name: christheGOD2017
+  ab92fc92-f17f-4e76-8dc3-ef13bab1ffb1:
+    group:
+    - Owner
+    options:
+      name: Hoovered
+  dabc9441-3acc-4c7a-bce9-b34f50f71b3d:
+    group:
+    - Moderator
+    options:
+      name: GucciGanged
+    permissions:
+    - playervaults.amount.10
+    - essentials.kit.zombie
+    - essentials.kit.zombie2
+    - essentials.kit.skelly
+    - essentials.kit.skelly2
+    - essentials.kit.creeper
+    - essentials.kit.creeper2
+    - essentials.kit.enderman
+    - essentials.kit.enderman2
+    - essentials.kit.dragon
+    - essentials.kit.dragon2
+    - essentials.kits.zombie
+    - essentials.kits.zombie2
+    - essentials.kits.skelly
+    - essentials.kits.skelly2
+    - essentials.kits.creeper
+    - essentials.kits.creeper2
+    - essentials.kits.enderman
+    - essentials.kits.enderman2
+    - essentials.kits.dragon
+    - essentials.kits.dragon2
+  6eb2cdf1-267f-4152-a4bb-56f468bec304:
+    group:
+    - Dragon
+    options:
+      name: Hotty264
+    permissions: []
+  a29a344a-7c9a-4e89-b7d4-692aa657fe34:
+    group:
+    - Trial-Mod
+    options:
+      name: MerlinMagician
+  243682b7-ba1f-4e9c-8216-273a65849574:
+    group:
+    - Moderator
+    options:
+      name: notyouaccount
+  a04e52ef-79e9-4d91-b74a-cb24ed264065:
+    group:
+    - YouTube
+    options:
+      name: MellowBroadcast
+    permissions:
+    - ffly.*
+  8516c76c-64a8-401f-9b22-e89f1430a695:
+    group:
+    - YouTube
+    options:
+      name: J_Rad20
+  0fcad380-b226-4ea2-acfc-1cc7cf6fe3f3:
+    group:
+    - Co-Owner
+    options:
+      name: SecurityCode
+    permissions:
+    - ffly.ally
+    - ffly.yours
+    - ffly.fly
+    - '*'
+  eb6d9aac-3305-45a3-b819-08111ea3c47c:
+    group:
+    - admin
+    options:
+      name: christheGOD2017
+  8b0827db-1bdc-41bb-b0eb-e89789a9847f:
+    options:
+      name: IFunnySunnyI
+  d8cbf736-1a71-4cfe-abfc-303638bcf8fd:
+    options:
+      name: antisocial_cat
+  a320564b-d6f3-4d38-aa87-9db7d8c72ab1:
+    options:
+      name: neko_sora
+  trial-mod:
+    permissions:
+    - litebans.warn
+    - litebans.tempban
+    - litebans.unmute
+    - litebans.mute
+    - litebans.kick
+  moderator:
+    permissions:
+    - litebans.tempban
+    - litebans.unmute
+    - litebans.mute
+    - litebans.kick
+    - litebans.warn
+  admin:
+    permissions:
+    - litebans.mute
+    - litebans.unmute
+    - litebans.kick
+    - litebans.warn
+    - litebans.ban
+    - litebans.tempban
+  0558706e-1622-4eed-9d77-0f4bf9702a38:
+    group:
+    - Sr.Admin
+    options:
+      name: thatgamerguy45
+  6a32bc5d-a969-42ab-bfe2-d37a31115cb3:
+    group:
+    - YouTube
+    options:
+      name: KingShocker69
+  5b653d71-1f9a-4667-8883-4682bdf29a5a:
+    group:
+    - developer

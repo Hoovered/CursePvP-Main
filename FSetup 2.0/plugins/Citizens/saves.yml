@@ -1,0 +1,60 @@
+# Citizens NPC Storage
+
+last-created-npc-id: 1
+npc:
+  '1':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjAwNTQ5NTIzNDMsInByb2ZpbGVJZCI6ImJkYTVkZTE3YjE5NTRkNTQ5OWQxOTM3ODRlNjQxYmU3IiwicHJvZmlsZU5hbWUiOiJ3YXJwcyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODc1ZGE2OTY5MTU3OTIyNjllNmE0ZWIwMjczNzlkMzZjZWU5NmJjNTZhMTQ3MjZmOWZmM2VkM2MyMmZlNCJ9fX0=
+      cached-skin-uuid-name: warps
+      cached-skin-uuid: bda5de17-b195-4d54-99d1-93784e641be7
+      player-skin-signature: dseznsF48dkczU0bMR91LxqPe3UeMiLUIcVogaWKiicvAMDyxpROpn9i3cZwbxB903cfNLhx8nQzXspqpSPJ48F2Eo+x+g3Nhk05iaGPvW4crCtc0gE3T78h4k4L+zQdEjKdNoK4dzP1EQbaxrRFAY+bM3ZMU63PbnLMlDlwGMWpfdHYBzP5hpammTOTMVWPnj9pEi1TS3w8WAHp51U0uZWQ1JswN2EBUMw3itM4xqA3IOT1HCY3oU5P3uTvxb42AHoPgYkgUGGayLkz7LxRyzWdDseyjOuRoP2AIIWSlGc5T4iv/k6CSTr0chNrrrfRLWuVJbys6WQGWJEtSSQs2h7tyJcsQL7UZOcGRDNtYQFrye7nrTcR46uzhh4Y40TJ+dXWPiM+4NggNplT6WJoVFPECkZ1JIF3fWrYa093OCzgsXotK01mrtnkkZsTBnheWUlCpFZ9zX1hibKcR0CGf/3NjToTb6W76P+tGk1Y0NOan++totEf+2VvBgM9DytTo6fo71hUmLMUb7oyOtU+MBAAxSWzXgTRIvyUGV2A0nUfzxM6VNTB60lS0BPUmbNhbuwvzh02BmGusniFYiq5ACkToPIwOvSVyXaNjF6NDXntW1eS84+7Kya/BRDwAGKZmiSxLSf/emyFwwfnsEHHE1mbueC52WZnvEOa1HT2yr8=
+    name: Warps
+    uuid: f25e842b-1980-4101-8af5-a450fe423a3f
+    traits:
+      inventory: {}
+      spawned: true
+      location:
+        world: world
+        x: '-31.604519866032152'
+        y: '79.0'
+        z: '-41.31601963073914'
+        yaw: '-317.21197509765625'
+        pitch: '2.146688461303711'
+      owner:
+        owner: VladoX_
+        uuid: 01082c20-8d71-3d17-9986-da9d9817b79b
+    traitnames: location,type,inventory,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '0':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjAwNTQ5NTIzNzUsInByb2ZpbGVJZCI6IjMzMTRhZDVjMDgzZTQzMGNiYWRkNTgxNTJlNDE4ZjEzIiwicHJvZmlsZU5hbWUiOiJTaG9wIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85NWNjOTFkMTQ0OWE1YWRjYWE3OWJkZjkzZmNlYmM1NmRlNGRiNDU3YTdhN2M3NGJlOGNjNzQ2ZDIxYThhMyJ9fX0=
+      cached-skin-uuid-name: shop
+      cached-skin-uuid: 3314ad5c-083e-430c-badd-58152e418f13
+      player-skin-signature: U9wk1A1SYNNkva2QgKWewieZ8Lc47HbtTVBWndrJeK73OXFYxlQliOSTp4tc8xSmtkRPLcsn/cHjaG1mZazsdbcMTS74thPKfmiquAl7zbRK1GP9WcCH0TJw+cbD7gX2sYKvYWa0Xq1fcpa5hhA+B2nHPn8HIExel9ySi2kuSLZq78k67AyBfl3cHfKXUKtqvazqAupjNbfyPxuS7/R95eWuLI/44tse/2GS/xZoDr4EXTQ0wvIc78tE1NzuEhf0bUvAMDIExXAv8EOfj5A43WI5oAYjJ13IQEfejAZJiz9ykrEUa+yn6cGzVrLHDzXJGXqfuEcP8eRo/DgBhFqBpjThGYG7asOHpu+4aZQclA3K010JMaH754w6OfYkGVEq4MqvNcfjVo3OcsYcW62YUSQzTlwzaiu1AJ+ZNkDiPjqMycVl2b1at9EOpEYGRnR3U2UDaB7x59WHHze+IfgNakO5e64m8HMrlJgf0IPRxGSi7dFU24ORX1C4/7sO0TU3O8Z/j346SiHP3ogPYZgrIC5+lK8bWVbpPozkEBabQFOZr7wFfOTpvqXAlcklgmMdLpLUIT7XIhD5PquG6w4BOxcwGAqXW5i9DQo6pNFeM0i6QgnlYLjLTTyeN+JHkBbzpwWjeOrzELQVJVmMDPBRwgxQEhjxUGDrmH+5SDcMr8c=
+    name: Shop
+    uuid: 33717f56-a1bc-4971-8e48-82915b939cb1
+    traits:
+      inventory: {}
+      spawned: true
+      location:
+        world: world
+        x: '-39.63520804574545'
+        y: '78.0'
+        z: '-41.53942907787552'
+        yaw: '-47.080352783203125'
+        pitch: '4.913737773895264'
+      owner:
+        owner: VladoX_
+        uuid: 01082c20-8d71-3d17-9986-da9d9817b79b
+    traitnames: location,type,spawned,inventory,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true

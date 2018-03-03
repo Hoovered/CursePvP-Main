@@ -1,0 +1,29 @@
+lastAccountName: RektGG05
+timestamps:
+  login: 1519690120082
+  logout: 1519690863495
+  lastteleport: 1519690534172
+ipAddress: 37.11.64.180
+lastlocation:
+  world: world
+  x: 819.5896976156621
+  y: 68.0
+  z: -671.5530239770305
+  yaw: 254.63281
+  pitch: 3.7686918
+money: '3080000'
+logoutlocation:
+  world: world
+  x: 361.30000001192093
+  y: 73.0
+  z: -652.3000000119209
+  yaw: 200.76318
+  pitch: 20.155851
+homes:
+  home:
+    world: world
+    x: 815.6686439285227
+    y: 67.0
+    z: -671.9638958144818
+    yaw: -91.12365
+    pitch: 23.914997

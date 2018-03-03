@@ -1,0 +1,77 @@
+vault1:
+  '0': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","lore":["§a53%
+    Success Rate","§c21% Destroy Rate","§eChance to deal double damage","§7Armor Enchant","§7Drop
+    onto item to enchant"],"display-name":"§6§l§nDeathbringer II"},"type":"BOOK"}'
+  '1': '{"==":"org.bukkit.inventory.ItemStack","damage":3,"amount":64,"type":"WOOL"}'
+  '2': '{"==":"org.bukkit.inventory.ItemStack","damage":1,"amount":14,"type":"GOLDEN_APPLE"}'
+  '3': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"GOLDEN_APPLE"}'
+  '4': '{"==":"org.bukkit.inventory.ItemStack","damage":9,"amount":64,"type":"WOOL"}'
+  '5': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","lore":["§a56%
+    Success Rate","§c50% Destroy Rate","§eHeals you whenever an enemy player","§eis
+    damaged by the Bleed enchantment","§7Armor Enchant","§7Drop onto item to enchant"],"display-name":"§6§l§nBlood
+    Lust III"},"type":"BOOK"}'
+  '6': '{"==":"org.bukkit.inventory.ItemStack","damage":13,"type":"WOOL"}'
+  '7': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"GOLDEN_APPLE"}'
+  '8': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","lore":["§a16%
+    Success Rate","§c3% Destroy Rate","§eHas a chance of removing a","§earmor piece
+    from your enemy","§7Sword Enchant","§7Drop onto item to enchant"],"display-name":"§6§l§nDisarmor
+    V"},"type":"BOOK"}'
+  '9': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":3,"PROTECTION_ENVIRONMENTAL":4,"THORNS":3}},"type":"DIAMOND_CHESTPLATE"}'
+  '10': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","lore":["§a97%
+    Success Rate","§c92% Destroy Rate","§eHeals you whenever an enemy player","§eis
+    damaged by the Bleed enchantment","§7Armor Enchant","§7Drop onto item to enchant"],"display-name":"§6§l§nBlood
+    Lust IV"},"type":"BOOK"}'
+  '11': '{"==":"org.bukkit.inventory.ItemStack","damage":30,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"KNOCKBACK":3,"DAMAGE_ALL":6,"FIRE_ASPECT":4},"display-name":"§3§lENDERDRAGON"},"type":"DIAMOND_SWORD"}'
+  '12': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","stored-enchants":{"LOOT_BONUS_BLOCKS":1}},"type":"ENCHANTED_BOOK"}'
+  '13': '{"==":"org.bukkit.inventory.ItemStack","damage":2,"amount":64,"type":"WOOL"}'
+  '14': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","lore":["§7Removes
+    a random enchantment","§7from an item and converts","§7it into a §f77% §7success
+    book.","§fPlace scroll on item to extract."],"display-name":"§f§lBlack Scroll"},"type":"INK_SACK"}'
+  '15': '{"==":"org.bukkit.inventory.ItemStack","damage":4,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":1},"display-name":"§8[§d§k!§8]
+    §7Starter §8[§d§k!§8]"},"type":"IRON_CHESTPLATE"}'
+  '16': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","lore":["§7Removes
+    a random enchantment","§7from an item and converts","§7it into a §f80% §7success
+    book.","§fPlace scroll on item to extract."],"display-name":"§f§lBlack Scroll"},"type":"INK_SACK"}'
+  '17': '{"==":"org.bukkit.inventory.ItemStack","amount":62,"type":"CHEST"}'
+  '18': '{"==":"org.bukkit.inventory.ItemStack","damage":4,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":1},"display-name":"§8[§d§k!§8]
+    §7Starter §8[§d§k!§8]"},"type":"IRON_HELMET"}'
+  '19': '{"==":"org.bukkit.inventory.ItemStack","damage":1,"amount":64,"type":"RED_ROSE"}'
+  '20': '{"==":"org.bukkit.inventory.ItemStack","amount":2,"type":"COOKED_MUTTON"}'
+  '21': '{"==":"org.bukkit.inventory.ItemStack","damage":7,"type":"WOOL"}'
+  '22': '{"==":"org.bukkit.inventory.ItemStack","damage":4,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":1},"display-name":"§8[§d§k!§8]
+    §7Starter §8[§d§k!§8]"},"type":"IRON_BOOTS"}'
+  '23': '{"==":"org.bukkit.inventory.ItemStack","damage":4,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":1},"display-name":"§8[§d§k!§8]
+    §7Starter §8[§d§k!§8]"},"type":"IRON_LEGGINGS"}'
+  '24': '{"==":"org.bukkit.inventory.ItemStack","damage":11,"amount":64,"type":"WOOL"}'
+  '25': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","lore":["§7Organizes
+    enchants by §e§nrarity§r §7on item","§7and adds the §blore §acount §7to name","
+    ","§e§oPlace scroll on item to apply."],"display-name":"§e§lTransmog Scroll"},"type":"PAPER"}'
+  '26': '{"==":"org.bukkit.inventory.ItemStack","type":"LEAVES"}'
+  '27': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","lore":["§a47%
+    Success Rate","§c52% Destroy Rate","§ePassive Soul Enchantment. While","§eSoul
+    Mode is not enabled, this","§eenchant will protect your gear''s","§edurability.
+    Cost 1 soul","§eper durability loss","§7Armor Enchant","§7Drop onto item to enchant"],"display-name":"§c§l§nImmortal
+    IV"},"type":"BOOK"}'
+  '28': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","lore":["§a62%
+    Success Rate","§c6% Destroy Rate","§eGives Strength 4 and Slowness 4","§7Armor
+    Enchant","§7Drop onto item to enchant"],"display-name":"§6§l§nDrunk IV"},"type":"BOOK"}'
+  '29': '{"==":"org.bukkit.inventory.ItemStack","amount":2,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","lore":["§7Examine
+    to recieve a random","§6legendary §7enchantment book."],"display-name":"§6§lLegendary
+    Enchantment Book §7(Right Click)"},"type":"BOOK"}'
+  '30': '{"==":"org.bukkit.inventory.ItemStack","damage":10,"type":"FLINT_AND_STEEL"}'
+  '31': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_SWORD"}'
+  '32': '{"==":"org.bukkit.inventory.ItemStack","type":"IRON_TRAPDOOR"}'
+  '33': '{"==":"org.bukkit.inventory.ItemStack","type":"NETHER_BRICK"}'
+  '34': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"LOOT_BONUS_BLOCKS":4,"DIG_SPEED":6},"display-name":"§3§lENDERDRAGON"},"type":"DIAMOND_AXE"}'
+  '35': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"LOOT_BONUS_BLOCKS":4,"DIG_SPEED":6},"display-name":"§3§lENDERDRAGON"},"type":"DIAMOND_PICKAXE"}'
+vault10:
+  '0': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","display-name":"§c§lSTEAK"},"type":"COOKED_BEEF"}'
+  '1': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","display-name":"§c§lSTEAK"},"type":"COOKED_BEEF"}'
+  '2': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","display-name":"§c§lSTEAK"},"type":"COOKED_BEEF"}'
+  '3': '{"==":"org.bukkit.inventory.ItemStack","amount":62,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","display-name":"§c§lSTEAK"},"type":"COOKED_BEEF"}'
+  '4': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DAMAGE_ALL":1},"display-name":"§a§lMEMBER"},"type":"DIAMOND_SWORD"}'
+  '5': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HOE"}'
+  '6': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DIG_SPEED":1}},"type":"DIAMOND_SPADE"}'
+  '7': '{"==":"org.bukkit.inventory.ItemStack","damage":1,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DIG_SPEED":1}},"type":"DIAMOND_PICKAXE"}'
+  '8': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DIG_SPEED":1}},"type":"DIAMOND_AXE"}'
+  '9': '{"==":"org.bukkit.inventory.ItemStack","type":"BROWN_MUSHROOM"}'

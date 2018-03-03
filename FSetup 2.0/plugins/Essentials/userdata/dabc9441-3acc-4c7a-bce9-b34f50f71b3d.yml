@@ -1,0 +1,32 @@
+lastAccountName: GucciGanged
+timestamps:
+  login: 1520045385219
+  lastteleport: 1520046922411
+  logout: 1520047502425
+  kits:
+    member: 1519592498794
+    creeper2: 1519622392592
+    dragon2: 1519622424041
+    zombie2: 1519622507627
+    zombie: 1519622565724
+    food: 1519695313117
+    dragon: 1519958636124
+    enderman: 1520046967225
+    skelly2: 1519622540837
+    enderman2: 1519621633942
+ipAddress: 67.247.248.163
+lastlocation:
+  world: world
+  x: -3964.2685634030013
+  y: 63.42728033122098
+  z: -3429.0386827845987
+  yaw: 5.343628
+  pitch: 27.416914
+logoutlocation:
+  world: world
+  x: 373.3907252107661
+  y: 71.0625
+  z: -667.497046187853
+  yaw: -270.46655
+  pitch: -8.695653
+money: '9.0'

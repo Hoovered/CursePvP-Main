@@ -1,0 +1,21 @@
+lastAccountName: Splash
+timestamps:
+  login: 1519735764100
+  logout: 1519735870654
+  kits:
+    member: 1519734419241
+ipAddress: 121.220.148.194
+lastlocation:
+  world: world
+  x: 2047.2648826258553
+  y: 71.0
+  z: 508.5559394927087
+  yaw: 277.49835
+  pitch: 70.35006
+logoutlocation:
+  world: world
+  x: 365.0594276133753
+  y: 71.0
+  z: -666.0328009697995
+  yaw: 129.2524
+  pitch: 23.295433

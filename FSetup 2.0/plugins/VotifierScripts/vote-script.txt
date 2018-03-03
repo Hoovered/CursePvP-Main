@@ -1,0 +1,6 @@
+broadcast("Thanks for voting, %target%!")
+command("give %target% 264 5")
+command("give %target% 384 16")
+command("eco give %target% 1000")
+command("crate givekey %target% vote 1")
+command("give %target% 49 32")

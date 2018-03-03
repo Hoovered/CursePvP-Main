@@ -1,0 +1,171 @@
+crate1:
+  location: Terrain1, 336.470, 73.000, 527.571
+  lines:
+  - '&b&lDONATION CRATE'
+  - You can win these from
+  - GLOBAL CRATE or
+  - With &c/buy
+crate3:
+  location: world1, 2.538, 92.000, 289.360
+  lines:
+  - '&8&m-----------------'
+  - '&9&lLegendnary Crate'
+  - '&8&m-----------------'
+crate4:
+  location: world1, 8.486, 92.000, 289.725
+  lines:
+  - '&8&m-----------------'
+  - '&5&lUltra Crate'
+  - '&8&m-----------------'
+portal:
+  location: world1, -3.480, 93.000, 272.511
+  lines:
+  - '&8&m----------------------------------'
+  - '&c&lRandom Teleportation'
+  - '&c&lPortal'
+  - '&8&m----------------------------------'
+netherportal:
+  location: world1, 14.597, 91.000, 225.519
+  lines:
+  - '&8&m------------------------'
+  - '&c&lNether Portal'
+  - '&8&m------------------------'
+endp:
+  location: world1, -2.435, 91.000, 223.296
+  lines:
+  - '&8&m------------------------'
+  - '&3&lEnd Portal'
+  - '&8&m------------------------'
+youtube:
+  location: spawn, 1469.572, 75.000, 26.526
+  lines:
+  - '&8&m-|--------------------------|-'
+  - '&7&oDo you want &4You&fTube &7&oRank?'
+  - '&7&oHave &4300+ &7&oSubs?'
+  - '&7&oApply at: &4www.MineBurst.net'
+  - '&8&m-|--------------------------|-'
+spawn:
+  location: spawn, 1469.563, 79.000, 56.552
+  lines:
+  - '&8&m-|--------------------------|-'
+  - '&7&oWelcome to &dMine&bBurst&7&o Factions!'
+  - '&7&oDo /kit &dMember &7&oto get started!'
+  - '&7&o Don''t forget to do &d/Rules&7&o!'
+  - '&7&oWebsite @ &dwww.MineBurst.net'
+  - '&7&oStore @ &dstore.MineBurst.net'
+  - '&8&m-|--------------------------|-'
+worldsize:
+  location: spawn, 1469.557, 78.000, 44.493
+  lines:
+  - '&8&m-------------------------'
+  - '&aOverworld&7: 10000x10000'
+  - '&cNether&7: 5000x5000'
+  - '&dEnd&7: 3000x3000'
+  - '&8&m-------------------------'
+'3':
+  location: Terrain1, 297.484, 74.000, 490.482
+  lines:
+  - '&7&m-------------'
+  - '&b&lENCHANTING'
+  - '&7Here you can get custom'
+  - '&7Enchants using your XP'
+  - '&7You can get XP by &b/Vote'
+  - '&7Or by using &b/buy'
+  - '&7&m-------------'
+'4':
+  location: terrain, -29.557, 101.000, 4.507
+  lines:
+  - '&7&m--------------------'
+  - '&c&lSERVER'
+  - '&7Welcome to SERVER Network'
+  - '&7To get started don''t forgot to read &c/help'
+  - '&7&m--------------------'
+  - '&cStore &8: &7www.buycraft.net'
+  - '&cWebsite &8: &7www.servername.com'
+  - '&7&m--------------------'
+'6':
+  location: Terrain1, 275.638, 74.000, 468.616
+  lines:
+  - '&7&m-------------'
+  - '&e&lAuction House'
+  - '&7You can buy/sell your items here!'
+  - '&7&m-------------'
+'7':
+  location: Terrain1, 297.464, 74.000, 468.486
+  lines:
+  - '&7&m-------------'
+  - '&3&lHelp'
+  - '&7Open the help menu here!'
+  - '&7&m-------------'
+shop:
+  location: Building, -23.537, 28.000, -48.186
+  lines:
+  - '&8&m-------------'
+  - '&c&lSHOP'
+  - '&7Welcome to the shop! You can buy using the signs below'
+  - '&7You can sell using the signs to your &cRight &7& &cLeft'
+  - '&8&m-------------'
+  - '&7You can buy spawners using &c/Spawners'
+crates:
+  location: Terrain1, -47.648, 98.819, 54.517
+  lines:
+  - '&7If you win a &aSpawner &7and do not'
+  - '&7get it please take a screenshot'
+  - '&7and post it on the forums or'
+  - '&7Contact a &c&lADMIN'
+voting:
+  location: Terrain1, 328.507, 73.000, 534.419
+  lines:
+  - '&6&lVOTING CRATE'
+  - You can get these by
+  - doing &c/vote
+  - and from the ENVOY
+global:
+  location: Terrain1, 333.445, 73.000, 532.445
+  lines:
+  - '&c&lGLOBAL CRATE'
+  - '&7All things won from this crate carry'
+  - '&7across every server!'
+  - '&7You can get these by doing &c/buy'
+s:
+  location: world, 365.529, 74.000, -667.556
+  lines:
+  - '&8&m-|--------------------------|-'
+  - '&7Welcome to &a&lSERVER &7!'
+  - '&7Get started by doing &2/kit'
+  - '&7Don''t forget to read &e/rules'
+  - '&7Want to get into the wilderness? &b/wild'
+  - '&7Check out our website &c/website'
+  - '&8&m-|--------------------------|-'
+c1:
+  location: world, 362.514, 76.000, -656.471
+  lines:
+  - '&8&m-|---------------|-'
+  - '&2&lCrates'
+  - '&7Obtain crate keys by doing'
+  - '&7&a/vote &7and &a/buy'
+  - '&8&m-|---------------|-'
+c2:
+  location: world, 362.566, 76.000, -678.431
+  lines:
+  - '&8&m-|---------------|-'
+  - '&2&lCrates'
+  - '&7Obtain crate keys by doing'
+  - '&7&a/vote &7and &a/buy'
+  - '&8&m-|---------------|-'
+c3:
+  location: world, 384.474, 76.000, -678.487
+  lines:
+  - '&8&m-|---------------|-'
+  - '&2&lCrates'
+  - '&7Obtain crate keys by doing'
+  - '&7&a/vote &7and &a/buy'
+  - '&8&m-|---------------|-'
+c4:
+  location: world, 384.458, 76.000, -656.529
+  lines:
+  - '&8&m-|---------------|-'
+  - '&2&lCrates'
+  - '&7Obtain crate keys by doing'
+  - '&7&a/vote &7and &a/buy'
+  - '&8&m-|---------------|-'

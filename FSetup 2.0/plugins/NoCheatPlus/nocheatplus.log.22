@@ -1,0 +1,474 @@
+16-03-08 01:51:50 [INFO] Logger started.
+16-03-08 01:51:50 [INFO] Logging system initialized.
+16-03-08 01:51:50 [INFO] Detected Minecraft version: 1.7.10
+16-03-08 01:51:56 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-08 01:51:56 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-08 01:51:56 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-08 01:51:56 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-08 01:51:56 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-08 01:51:56 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-08 01:51:56 [INFO] Packet level access: ProtocolLib is not available.
+16-03-08 01:51:56 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-08 01:51:59 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-08 01:51:59 [INFO] Post-enable running...
+16-03-08 01:51:59 [INFO] Post-enable finished.
+16-03-08 01:51:59 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-1.7.9-R0.2-208-ge0f2e95 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-08 01:56:31 [INFO] ChronosYT failed to use fly hacks. FLY.
+16-03-08 02:01:31 [INFO] ChronosYT failed to use speed hacks. SPEED.
+16-03-08 02:28:06 [INFO] Stargazermoon failed to use fly hacks. FLY.
+16-03-08 02:50:03 [INFO] ChronosYT failed to use fly hacks. FLY.
+16-03-08 02:53:18 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-08 02:53:18 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 18547 (18547/0) | event.player.move.handled.pos 10316 (10316/0) | event.player.move.handled.look 498 (498/0) | event.player.move.handled.pos_look 7722 (7722/0) |
+16-03-08 02:53:27 [INFO] Logger started.
+16-03-08 02:53:27 [INFO] Logging system initialized.
+16-03-08 02:53:27 [INFO] Detected Minecraft version: 1.7.10
+16-03-08 02:53:32 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-08 02:53:32 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-08 02:53:32 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-08 02:53:32 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-08 02:53:33 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-08 02:53:33 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-08 02:53:33 [INFO] Packet level access: ProtocolLib is not available.
+16-03-08 02:53:33 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-08 02:53:34 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-08 02:53:34 [INFO] Post-enable running...
+16-03-08 02:53:34 [INFO] Post-enable finished.
+16-03-08 02:53:34 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-1.7.9-R0.2-208-ge0f2e95 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-08 02:54:15 [INFO] ChronosYT failed to use fly hacks. FLY.
+16-03-08 02:56:22 [INFO] ChronosYT failed to use nofall hacks. NO FALL.
+16-03-08 02:59:22 [INFO] ChronosYT failed to use nofall hacks. NO FALL.
+16-03-08 03:06:19 [INFO] ChronosYT failed to use speed hacks. SPEED.
+16-03-08 03:22:26 [INFO] ChronosYT failed to use fly hacks. FLY.
+16-03-08 03:22:27 [INFO] ChronosYT failed to use speed hacks. SPEED.
+16-03-08 04:10:56 [INFO] Tman_45 failed to use fly hacks. FLY.
+16-03-08 04:16:39 [INFO] Tman_45 failed to use fly hacks. FLY.
+16-03-08 04:40:04 [INFO] Tman_45 failed to use speed hacks. SPEED.
+16-03-08 04:43:38 [INFO] Tman_45 failed to use fly hacks. FLY.
+16-03-08 04:43:38 [INFO] Tman_45 failed to use speed hacks. SPEED.
+16-03-08 04:43:39 [INFO] Tman_45 failed to use speed hacks. SPEED.
+16-03-08 04:43:39 [INFO] (CONSOLE) Kicked Tman_45 : Kicked for flying (or related)
+16-03-08 04:46:58 [INFO] Tman_45 failed to use fly hacks. FLY.
+16-03-08 05:25:11 [INFO] MitchelPlayzz failed to use fly hacks. FLY.
+16-03-08 05:31:59 [INFO] MitchelPlayzz failed to use fly hacks. FLY.
+16-03-08 05:36:11 [INFO] SilentMC failed Direction: tried to hit an entity out of line of sight. VL 7.
+16-03-08 05:36:16 [INFO] SilentMC failed Direction: tried to hit an entity out of line of sight. VL 9.
+16-03-08 05:36:21 [INFO] SilentMC failed Direction: tried to hit an entity out of line of sight. VL 9.
+16-03-08 05:36:30 [INFO] SilentMC failed Direction: tried to hit an entity out of line of sight. VL 5.
+16-03-08 05:36:43 [INFO] SilentMC failed Direction: tried to hit an entity out of line of sight. VL 6.
+16-03-08 05:36:52 [INFO] SilentMC failed Direction: tried to hit an entity out of line of sight. VL 7.
+16-03-08 05:37:01 [INFO] SilentMC failed Direction: tried to hit an entity out of line of sight. VL 6.
+16-03-08 05:37:37 [INFO] SilentMC failed Direction: tried to hit an entity out of line of sight. VL 6.
+16-03-08 05:37:48 [INFO] SilentMC failed Direction: tried to hit an entity out of line of sight. VL 6.
+16-03-08 05:38:04 [INFO] SilentMC failed Direction: tried to hit an entity out of line of sight. VL 7.
+16-03-08 05:38:18 [INFO] SilentMC failed Direction: tried to hit an entity out of line of sight. VL 7.
+16-03-08 05:38:22 [INFO] SilentMC failed Direction: tried to hit an entity out of line of sight. VL 10.
+16-03-08 05:38:27 [INFO] SilentMC failed Direction: tried to hit an entity out of line of sight. VL 14.
+16-03-08 05:38:43 [INFO] SilentMC failed Direction: tried to hit an entity out of line of sight. VL 7.
+16-03-08 05:38:47 [INFO] SilentMC failed Direction: tried to hit an entity out of line of sight. VL 6.
+16-03-08 05:38:54 [INFO] SilentMC failed Direction: tried to hit an entity out of line of sight. VL 10.
+16-03-08 05:39:04 [INFO] SilentMC failed Direction: tried to hit an entity out of line of sight. VL 6.
+16-03-08 05:52:09 [INFO] MitchelPlayzz failed to use fly hacks. FLY.
+16-03-08 05:56:47 [INFO] ZiggerTooShady failed to use fly hacks. FLY.
+16-03-08 06:09:30 [INFO] BRefuse failed to use speed hacks. SPEED.
+16-03-08 06:29:19 [INFO] Sricharan17MC failed to use fly hacks. FLY.
+16-03-08 06:29:53 [INFO] Sricharan17MC failed to use fly hacks. FLY.
+16-03-08 06:31:11 [INFO] Sricharan17MC failed to use fly hacks. FLY.
+16-03-08 06:47:21 [INFO] ZiggerTooShady failed to use fly hacks. FLY.
+16-03-08 06:51:16 [INFO] ZiggerTooShady failed Passable: moved into a block (1) from -458.70, 59.23, -768.47 to -458.72, 58.85, -768.47 distance 0.38 . VL 10.
+16-03-08 06:51:20 [INFO] ZiggerTooShady failed Passable: moved into a block (1) from -461.39, 57.00, -768.30 to -461.60, 56.92, -768.30 distance 0.23 . VL 12.
+16-03-08 06:51:43 [INFO] ZiggerTooShady failed Passable: moved into a block (1) from -461.70, 56.23, -768.30 to -461.70, 55.85, -768.30 distance 0.38 . VL 16.
+16-03-08 06:51:49 [INFO] ZiggerTooShady failed Passable: moved into a block (1) from -462.40, 54.23, -768.38 to -462.40, 53.85, -768.38 distance 0.38 . VL 17.
+16-03-08 06:51:50 [INFO] ZiggerTooShady failed to use fly hacks. FLY.
+16-03-08 06:51:51 [INFO] ZiggerTooShady failed to use speed hacks. SPEED.
+16-03-08 06:51:51 [INFO] ZiggerTooShady failed to use nofall hacks. NO FALL.
+16-03-08 06:52:07 [INFO] ZiggerTooShady failed Passable: moved into a block (1) from -462.30, 51.23, -768.65 to -462.30, 50.85, -768.67 distance 0.38 . VL 21.
+16-03-08 06:52:12 [INFO] ZiggerTooShady failed Passable: moved into a block (1) from -462.30, 50.23, -768.70 to -462.30, 49.85, -768.70 distance 0.38 . VL 23.
+16-03-08 06:52:54 [INFO] ZiggerTooShady failed Passable: moved into a block (1) from -433.50, 73.00, -496.50 to -433.50, 72.90, -496.50 distance 0.10 . VL 24.
+16-03-08 06:54:44 [INFO] ZiggerTooShady failed Passable: moved into a block (1) from -464.50, 42.00, -768.50 to -464.50, 41.90, -768.50 distance 0.10 . VL 21.
+16-03-08 06:55:26 [INFO] SharkPrimroseFTW failed to use fly hacks. FLY.
+16-03-08 06:55:28 [INFO] SharkPrimroseFTW failed to use speed hacks. SPEED.
+16-03-08 06:55:33 [INFO] SharkPrimroseFTW failed to use speed hacks. SPEED.
+16-03-08 07:00:49 [INFO] ZiggerTooShady failed Passable: moved into a block (1) from -499.55, 6.23, -769.30 to -499.55, 5.85, -769.30 distance 0.38 . VL 21.
+16-03-08 07:01:24 [INFO] GetGood failed to use fly hacks. FLY.
+16-03-08 07:01:47 [INFO] Iron_Cake failed to use speed hacks. SPEED.
+16-03-08 07:02:07 [INFO] PoolioHD failed to use fly hacks. FLY.
+16-03-08 07:06:04 [INFO] ZiggerTooShady failed Passable: moved into a block (159) from -418.50, 74.00, -483.50 to -418.50, 73.90, -483.50 distance 0.10 . VL 12.
+16-03-08 07:06:04 [INFO] GetGood failed to use speed hacks. SPEED.
+16-03-08 07:09:16 [INFO] ZiggerTooShady failed Passable: moved into a block (7) from -506.50, 5.00, -769.50 to -506.50, 4.90, -769.50 distance 0.10 . VL 11.
+16-03-08 07:09:27 [INFO] Iron_Cake failed to use speed hacks. SPEED.
+16-03-08 07:11:59 [INFO] ToxicGen failed to use fly hacks. FLY.
+16-03-08 07:14:00 [INFO] ZiggerTooShady failed to use speed hacks. SPEED.
+16-03-08 07:14:12 [INFO] ToxicGen failed to use fly hacks. FLY.
+16-03-08 07:17:18 [INFO] ToxicGen failed to use fly hacks. FLY.
+16-03-08 07:17:32 [INFO] ToxicGen failed to use fly hacks. FLY.
+16-03-08 07:17:44 [INFO] ToxicGen failed to use fly hacks. FLY.
+16-03-08 07:17:59 [INFO] ToxicGen failed to use fly hacks. FLY.
+16-03-08 07:20:31 [INFO] ToxicGen failed to use fly hacks. FLY.
+16-03-08 07:20:31 [INFO] ToxicGen failed to use fly hacks. FLY.
+16-03-08 07:20:32 [INFO] ToxicGen failed to use speed hacks. SPEED.
+16-03-08 07:20:35 [INFO] ToxicGen failed Passable: moved into a block (4) from 513.35, 60.00, -823.30 to 513.35, 59.92, -823.30 distance 0.08 . VL 11.
+16-03-08 07:20:43 [INFO] ToxicGen failed Passable: moved into a block (4) from 513.35, 60.00, -823.30 to 513.35, 59.92, -823.30 distance 0.08 . VL 14.
+16-03-08 07:22:26 [INFO] ToxicGen failed to use fly hacks. FLY.
+16-03-08 07:22:33 [INFO] ToxicGen failed Direction: tried to interact with a block out of their line of sight. VL 11.
+16-03-08 07:22:36 [INFO] ToxicGen failed to use fly hacks. FLY.
+16-03-08 07:22:46 [INFO] ToxicGen failed to use fly hacks. FLY.
+16-03-08 07:22:56 [INFO] ToxicGen failed to use fly hacks. FLY.
+16-03-08 07:22:59 [INFO] ToxicGen failed Direction: tried to interact with a block out of their line of sight. VL 15.
+16-03-08 07:23:08 [INFO] ToxicGen failed to use fly hacks. FLY.
+16-03-08 07:23:11 [INFO] ToxicGen failed to use fly hacks. FLY.
+16-03-08 07:29:31 [INFO] MitchelPlayzz failed Passable: moved into a block (49) from -1454.50, 236.00, -9977.50 to -1454.50, 235.90, -9977.50 distance 0.10 . VL 11.
+16-03-08 07:30:34 [INFO] ToxicGen failed Passable: moved into a block (1) from 487.30, 44.23, -869.70 to 487.30, 43.85, -869.70 distance 0.38 . VL 11.
+16-03-08 07:30:42 [INFO] ToxicGen failed Passable: moved into a block (1) from 487.30, 40.23, -869.70 to 487.30, 39.85, -869.70 distance 0.38 . VL 15.
+16-03-08 07:30:46 [INFO] ToxicGen failed to use fly hacks. FLY.
+16-03-08 07:30:47 [INFO] ToxicGen failed to use speed hacks. SPEED.
+16-03-08 07:30:49 [INFO] ToxicGen failed Passable: moved into a block (1) from 487.30, 37.23, -869.70 to 487.30, 36.85, -869.70 distance 0.38 . VL 19.
+16-03-08 07:30:52 [INFO] Sricharan17MC failed to use fly hacks. FLY.
+16-03-08 07:30:54 [INFO] ToxicGen failed Passable: moved into a block (1) from 487.30, 34.23, -869.70 to 487.30, 33.85, -869.70 distance 0.38 . VL 20.
+16-03-08 07:31:00 [INFO] ToxicGen failed Passable: moved into a block (1) from 487.30, 28.23, -869.70 to 487.30, 27.85, -869.70 distance 0.38 . VL 24.
+16-03-08 07:31:06 [INFO] ToxicGen failed Passable: moved into a block (1) from 487.30, 24.23, -869.70 to 487.30, 23.85, -869.70 distance 0.38 . VL 26.
+16-03-08 07:31:12 [INFO] ToxicGen failed Passable: moved into a block (1) from 487.30, 21.23, -869.70 to 487.30, 20.85, -869.70 distance 0.38 . VL 29.
+16-03-08 07:31:19 [INFO] ToxicGen failed Passable: moved into a block (1) from 487.30, 18.23, -869.70 to 487.30, 17.85, -869.70 distance 0.38 . VL 32.
+16-03-08 07:31:29 [INFO] ToxicGen failed Passable: moved into a block (1) from 487.30, 15.23, -869.70 to 487.30, 14.85, -869.70 distance 0.38 . VL 35.
+16-03-08 07:31:31 [INFO] ToxicGen failed to use fly hacks. FLY.
+16-03-08 07:31:31 [INFO] ToxicGen failed to use speed hacks. SPEED.
+16-03-08 07:31:32 [INFO] ToxicGen failed to use nofall hacks. NO FALL.
+16-03-08 07:31:32 [INFO] ToxicGen failed to use speed hacks. SPEED.
+16-03-08 07:31:32 [INFO] (CONSOLE) Kicked ToxicGen : Kicked for flying (or related)
+16-03-08 07:31:40 [INFO] ToxicGen failed Passable: moved into a block (1) from 487.30, 12.23, -869.70 to 487.30, 11.85, -869.70 distance 0.38 . VL 36.
+16-03-08 07:31:45 [INFO] ToxicGen failed Passable: moved into a block (1) from 487.30, 9.23, -869.70 to 487.30, 8.85, -869.70 distance 0.38 . VL 38.
+16-03-08 07:31:45 [INFO] ToxicGen failed to use fly hacks. FLY.
+16-03-08 07:31:45 [INFO] ToxicGen failed to use speed hacks. SPEED.
+16-03-08 07:31:54 [INFO] BRefuse failed to use fly hacks. FLY.
+16-03-08 07:32:08 [INFO] CSG4 failed to use nofall hacks. NO FALL.
+16-03-08 07:32:13 [INFO] ToxicGen failed Passable: moved into a block (1) from 487.30, 6.23, -869.70 to 487.30, 5.85, -869.70 distance 0.38 . VL 39.
+16-03-08 07:35:44 [INFO] ToxicGen failed Passable: moved into a block (5) from -398.50, 62.00, -503.50 to -398.50, 61.90, -503.50 distance 0.10 . VL 36.
+16-03-08 07:36:55 [INFO] ToxicGen failed Passable: moved into a block (1) from 489.50, 6.00, -870.50 to 489.50, 5.90, -870.50 distance 0.10 . VL 31.
+16-03-08 07:37:05 [INFO] GravityPlayz failed to use nofall hacks. NO FALL.
+16-03-08 07:37:12 [INFO] GravityPlayz failed Passable: moved into a block (12) from -1187.40, 226.65, -291.25 to -1187.40, 225.94, -291.26 distance 0.72 . VL 11.
+16-03-08 07:37:31 [INFO] GravityPlayz failed Passable: moved into a block (12) from -1187.51, 222.23, -291.69 to -1187.51, 221.85, -291.69 distance 0.38 . VL 14.
+16-03-08 07:38:03 [INFO] ToxicGen failed Passable: moved into a block (159) from -418.50, 74.00, -483.50 to -418.50, 73.90, -483.50 distance 0.10 . VL 31.
+16-03-08 07:41:44 [INFO] JosmarsdGaming failed to use nofall hacks. NO FALL.
+16-03-08 07:46:14 [INFO] MitchelPlayzz failed Passable: moved into a block (49) from -1451.50, 220.00, -9982.50 to -1451.50, 219.90, -9982.50 distance 0.10 . VL 10.
+16-03-08 07:54:54 [INFO] AquaticStrafes failed Commands: issued too many commands. VL 1.
+16-03-08 07:54:54 [INFO] (CONSOLE) Kicked AquaticStrafes for 1 minutes: You're not allowed to spam commands!
+16-03-08 07:58:39 [INFO] CSG4 failed to use nofall hacks. NO FALL.
+16-03-08 08:10:26 [INFO] GravityPlayz failed Text: acted like spamming (IP: 207.81.20.232). VL 2.
+16-03-08 08:10:26 [INFO] (CONSOLE) Kicked GravityPlayz : You're not allowed to spam in chat!
+16-03-08 08:25:51 [INFO] AshPlays123 failed to use fly hacks. FLY.
+16-03-08 08:29:38 [INFO] RedOfficial failed MorePackets: sent too many moves (10 epsacc). VL 10.
+16-03-08 08:29:38 [INFO] Sintheis failed MorePackets: sent too many moves (10 epsacc). VL 10.
+16-03-08 08:29:40 [INFO] RedOfficial failed MorePackets: sent too many moves (17 epsacc). VL 17.
+16-03-08 08:29:40 [INFO] Sintheis failed to use fly hacks. FLY.
+16-03-08 08:29:41 [INFO] Sintheis failed to use fly hacks. FLY.
+16-03-08 08:37:18 [INFO] RedOfficial failed Passable: moved into a block (4) from -9583.34, 58.06, -8687.76 to -9583.34, 58.00, -8687.76 distance 0.06 . VL 11.
+16-03-08 08:37:24 [INFO] RedOfficial failed Passable: moved into a block (4) from -9583.34, 58.00, -8687.76 to -9583.34, 57.94, -8687.76 distance 0.06 . VL 15.
+16-03-08 08:44:57 [INFO] Horunge failed to use speed hacks. SPEED.
+16-03-08 08:45:32 [INFO] Poopsi failed to use fly hacks. FLY.
+16-03-08 08:45:43 [INFO] Poopsi failed to use fly hacks. FLY.
+16-03-08 08:45:56 [INFO] Poopsi failed to use fly hacks. FLY.
+16-03-08 08:46:06 [INFO] Poopsi failed to use fly hacks. FLY.
+16-03-08 08:46:07 [INFO] Poopsi failed to use fly hacks. FLY.
+16-03-08 08:46:08 [INFO] Poopsi failed to use speed hacks. SPEED.
+16-03-08 08:46:11 [INFO] Poopsi failed to use speed hacks. SPEED.
+16-03-08 08:46:11 [INFO] (CONSOLE) Kicked Poopsi : Kicked for flying (or related)
+16-03-08 08:46:15 [INFO] Horunge failed to use fly hacks. FLY.
+16-03-08 08:46:20 [INFO] AshPlays123 failed to use fly hacks. FLY.
+16-03-08 08:46:26 [INFO] Poopsi failed to use fly hacks. FLY.
+16-03-08 08:46:36 [INFO] Horunge failed to use fly hacks. FLY.
+16-03-08 08:46:38 [INFO] MightyMurphy failed to use fly hacks. FLY.
+16-03-08 08:46:52 [INFO] Horunge failed Speed: tried to attack with too high a frequency. VL 55.
+16-03-08 08:47:23 [INFO] Poopsi failed to use fly hacks. FLY.
+16-03-08 08:47:35 [INFO] Poopsi failed to use fly hacks. FLY.
+16-03-08 08:48:54 [INFO] MightyMurphy failed to use fly hacks. FLY.
+16-03-08 08:55:18 [INFO] MightyMurphy failed to use fly hacks. FLY.
+16-03-08 08:55:18 [INFO] MightyMurphy failed to use speed hacks. SPEED.
+16-03-08 08:55:19 [INFO] MightyMurphy failed to use nofall hacks. NO FALL.
+16-03-08 08:55:20 [INFO] MightyMurphy failed to use speed hacks. SPEED.
+16-03-08 08:55:20 [INFO] (CONSOLE) Kicked MightyMurphy : Kicked for flying (or related)
+16-03-08 08:55:30 [INFO] Dryed failed to use fly hacks. FLY.
+16-03-08 08:57:47 [INFO] JosmarsdGaming failed Direction: tried to hit an entity out of line of sight. VL 6.
+16-03-08 08:58:39 [INFO] JosmarsdGaming failed Direction: tried to hit an entity out of line of sight. VL 11.
+16-03-08 09:06:43 [INFO] FactionsDave failed Speed: tried to attack with too high a frequency. VL 56.
+16-03-08 09:06:43 [INFO] FactionsDave failed Improbable: meets the improbable more than expected. VL 13.
+16-03-08 09:06:54 [INFO] FactionsDave failed Direction: tried to hit an entity out of line of sight. VL 23.
+16-03-08 09:06:54 [INFO] FactionsDave failed Speed: tried to attack with too high a frequency. VL 232.
+16-03-08 09:06:54 [INFO] FactionsDave failed to use reach hacks. REACH.
+16-03-08 09:06:54 [INFO] FactionsDave failed Direction: tried to hit an entity out of line of sight. VL 55.
+16-03-08 09:06:55 [INFO] FactionsDave failed Improbable: meets the improbable more than expected. VL 17.
+16-03-08 09:09:53 [INFO] PHILFC failed to use fly hacks. FLY.
+16-03-08 09:12:49 [INFO] PHILFC failed to use fly hacks. FLY.
+16-03-08 09:20:52 [INFO] BRefuse failed to use speed hacks. SPEED.
+16-03-08 09:25:11 [INFO] AshPlays123 failed to use nofall hacks. NO FALL.
+16-03-08 10:14:35 [INFO] JiimmaayyJr failed to use fly hacks. FLY.
+16-03-08 10:28:47 [INFO] MightyMurphy failed to use fly hacks. FLY.
+16-03-08 10:41:06 [INFO] ZiggerTooShady failed Text: acted like spamming (IP: 46.16.33.184). VL 2.
+16-03-08 10:41:06 [INFO] (CONSOLE) Kicked ZiggerTooShady : You're not allowed to spam in chat!
+16-03-08 10:44:15 [INFO] Ademacule failed to use nofall hacks. NO FALL.
+16-03-08 11:01:52 [INFO] ZoraxFX failed FastClick: tried to move items in their inventory too quickly. VL 67.
+16-03-08 11:10:28 [INFO] oFirePvP failed to use nofall hacks. NO FALL.
+16-03-08 11:19:30 [INFO] Iron_Cake failed to use speed hacks. SPEED.
+16-03-08 11:26:45 [INFO] ZoraxFX failed FastClick: tried to move items in their inventory too quickly. VL 83.
+16-03-08 11:26:48 [INFO] Sylphik failed to use fly hacks. FLY.
+16-03-08 11:27:54 [INFO] Sylphik failed Passable: moved into a block (1) from 1062.30, 4.23, 131.70 to 1062.30, 3.85, 131.70 distance 0.38 . VL 10.
+16-03-08 11:27:55 [INFO] Sylphik failed to use fly hacks. FLY.
+16-03-08 11:31:08 [INFO] Sylphik failed Passable: moved into a block (159) from -418.50, 74.00, -483.50 to -418.50, 73.90, -483.50 distance 0.10 . VL 11.
+16-03-08 11:32:03 [INFO] BRefuse failed FastClick: tried to move items in their inventory too quickly. VL 90.
+16-03-08 11:35:55 [INFO] BRefuse failed Direction: tried to hit an entity out of line of sight. VL 10.
+16-03-08 11:35:55 [INFO] Sylphik failed Passable: moved into a block (1) from 1056.50, 5.00, 130.50 to 1056.50, 4.90, 130.50 distance 0.10 . VL 11.
+16-03-08 11:43:21 [INFO] GamingRPX failed to use fly hacks. FLY.
+16-03-08 11:50:35 [INFO] GamingRPX failed Direction: tried to interact with a block out of their line of sight. VL 13.
+16-03-08 11:50:35 [INFO] GamingRPX failed Speed: interacts too fast. VL 200.
+16-03-08 11:50:36 [INFO] GamingRPX failed Speed: interacts too fast. VL 1000.
+16-03-08 11:50:36 [INFO] (CONSOLE) Kicked GamingRPX : You interacted too fast!
+16-03-08 11:50:38 [INFO] GamingRPX failed Direction: tried to interact with a block out of their line of sight. VL 33.
+16-03-08 11:50:38 [INFO] GamingRPX failed Speed: interacts too fast. VL 548.
+16-03-08 11:50:39 [INFO] GamingRPX failed Speed: interacts too fast. VL 1000.
+16-03-08 11:50:39 [INFO] (CONSOLE) Kicked GamingRPX : You interacted too fast!
+16-03-08 11:50:45 [INFO] GamingRPX failed Direction: tried to interact with a block out of their line of sight. VL 10.
+16-03-08 11:50:45 [INFO] GamingRPX failed Speed: interacts too fast. VL 548.
+16-03-08 11:50:45 [INFO] GamingRPX failed Speed: interacts too fast. VL 1000.
+16-03-08 11:50:45 [INFO] (CONSOLE) Kicked GamingRPX : You interacted too fast!
+16-03-08 11:58:02 [INFO] _FrostzPvp failed to use nofall hacks. NO FALL.
+16-03-08 12:00:59 [INFO] Ademacule failed to use fly hacks. FLY.
+16-03-08 12:04:59 [INFO] ZiggerTooShady failed MorePackets: sent too many moves (17 epsacc). VL 17.
+16-03-08 12:12:35 [INFO] xXMasterVimXx failed to use fly hacks. FLY.
+16-03-08 12:13:03 [INFO] JashPlayzz failed Text: acted like spamming (IP: 92.97.21.206). VL 5.
+16-03-08 12:13:03 [INFO] (CONSOLE) Kicked JashPlayzz : You're not allowed to spam in chat!
+16-03-08 12:18:35 [INFO] StormyCross failed to use fly hacks. FLY.
+16-03-08 12:18:35 [INFO] StormyCross failed to use speed hacks. SPEED.
+16-03-08 12:18:37 [INFO] StormyCross failed to use speed hacks. SPEED.
+16-03-08 12:18:37 [INFO] (CONSOLE) Kicked StormyCross : Kicked for flying (or related)
+16-03-08 12:26:18 [INFO] xXMasterVimXx failed to use fly hacks. FLY.
+16-03-08 12:31:50 [INFO] zBOOMz failed to use fly hacks. FLY.
+16-03-08 12:40:46 [INFO] StormyCross failed to use speed hacks. SPEED.
+16-03-08 12:42:05 [INFO] StormyCross failed to use fly hacks. FLY.
+16-03-08 12:42:05 [INFO] StormyCross failed to use fly hacks. FLY.
+16-03-08 12:43:34 [INFO] zBOOMz failed Passable: moved into a block (1) from 927.70, 6.23, -718.30 to 927.70, 5.85, -718.30 distance 0.38 . VL 10.
+16-03-08 12:53:56 [INFO] whodoesminecraft failed to use fly hacks. FLY.
+16-03-08 12:54:30 [INFO] FrenchyRaids failed Text: acted like spamming (IP: 50.43.201.129). VL 1.
+16-03-08 12:54:30 [INFO] (CONSOLE) Kicked FrenchyRaids : You're not allowed to spam in chat!
+16-03-08 12:56:41 [INFO] zBOOMz failed to use fly hacks. FLY.
+16-03-08 12:56:41 [INFO] zBOOMz failed to use speed hacks. SPEED.
+16-03-08 12:56:43 [INFO] zBOOMz failed to use speed hacks. SPEED.
+16-03-08 12:56:43 [INFO] (CONSOLE) Kicked zBOOMz : Kicked for flying (or related)
+16-03-08 12:56:59 [INFO] zBOOMz failed Passable: moved into a block (1) from 940.42, 10.23, -731.30 to 940.42, 9.85, -731.30 distance 0.38 . VL 10.
+16-03-08 12:59:21 [INFO] whodoesminecraft failed Direction: tried to interact with a block out of their line of sight. VL 12.
+16-03-08 12:59:22 [INFO] whodoesminecraft failed Speed: interacts too fast. VL 200.
+16-03-08 12:59:24 [INFO] whodoesminecraft failed Direction: tried to interact with a block out of their line of sight. VL 129.
+16-03-08 12:59:24 [INFO] whodoesminecraft failed Reach: exceeds block-interact distance (1). VL 5.
+16-03-08 12:59:24 [INFO] whodoesminecraft failed Speed: interacts too fast. VL 457.
+16-03-08 12:59:26 [INFO] whodoesminecraft failed Speed: interacts too fast. VL 520.
+16-03-08 12:59:27 [INFO] whodoesminecraft failed Speed: interacts too fast. VL 1001.
+16-03-08 12:59:27 [INFO] (CONSOLE) Kicked whodoesminecraft : You interacted too fast!
+16-03-08 13:01:26 [INFO] zBOOMz failed Passable: moved into a block (159) from -418.50, 74.00, -483.50 to -418.50, 73.90, -483.50 distance 0.10 . VL 11.
+16-03-08 13:03:02 [INFO] doublegames3 failed to use fly hacks. FLY.
+16-03-08 13:04:25 [INFO] whodoesminecraft failed Direction: tried to interact with a block out of their line of sight. VL 148.
+16-03-08 13:04:25 [INFO] whodoesminecraft failed Speed: interacts too fast. VL 549.
+16-03-08 13:04:26 [INFO] whodoesminecraft failed Speed: interacts too fast. VL 1001.
+16-03-08 13:04:26 [INFO] (CONSOLE) Kicked whodoesminecraft : You interacted too fast!
+16-03-08 13:07:04 [INFO] CrayonLogic failed to use fly hacks. FLY.
+16-03-08 13:08:34 [INFO] CrayonLogic failed to use fly hacks. FLY.
+16-03-08 13:08:46 [INFO] CrayonLogic failed to use fly hacks. FLY.
+16-03-08 13:08:51 [INFO] CrayonLogic failed to use fly hacks. FLY.
+16-03-08 13:09:05 [INFO] CrayonLogic failed to use fly hacks. FLY.
+16-03-08 13:11:39 [INFO] CrayonLogic failed to use fly hacks. FLY.
+16-03-08 13:11:48 [INFO] CrayonLogic failed to use fly hacks. FLY.
+16-03-08 13:11:52 [INFO] CrayonLogic failed to use fly hacks. FLY.
+16-03-08 13:11:59 [INFO] ryguy1103 failed to use fly hacks. FLY.
+16-03-08 13:12:00 [INFO] ryguy1103 failed to use fly hacks. FLY.
+16-03-08 13:12:01 [INFO] CrayonLogic failed to use fly hacks. FLY.
+16-03-08 13:12:01 [INFO] ryguy1103 failed to use speed hacks. SPEED.
+16-03-08 13:12:02 [INFO] CrayonLogic failed to use fly hacks. FLY.
+16-03-08 13:12:06 [INFO] ryguy1103 failed to use speed hacks. SPEED.
+16-03-08 13:12:08 [INFO] ryguy1103 failed to use speed hacks. SPEED.
+16-03-08 13:12:08 [INFO] (CONSOLE) Kicked ryguy1103 : Kicked for flying (or related)
+16-03-08 13:12:11 [INFO] CrayonLogic failed to use fly hacks. FLY.
+16-03-08 13:12:20 [INFO] CrayonLogic failed to use fly hacks. FLY.
+16-03-08 13:12:24 [INFO] CrayonLogic failed to use fly hacks. FLY.
+16-03-08 13:21:43 [INFO] DipperMC_ failed to use fly hacks. FLY.
+16-03-08 13:21:45 [INFO] DipperMC_ failed to use speed hacks. SPEED.
+16-03-08 13:25:39 [INFO] _FrostzPvp failed to use fly hacks. FLY.
+16-03-08 13:26:38 [INFO] _FrostzPvp failed to use nofall hacks. NO FALL.
+16-03-08 13:27:53 [INFO] _FrostzPvp failed to use speed hacks. SPEED.
+16-03-08 13:27:54 [INFO] _FrostzPvp failed to use speed hacks. SPEED.
+16-03-08 13:27:54 [INFO] _FrostzPvp failed to use nofall hacks. NO FALL.
+16-03-08 13:27:54 [INFO] (CONSOLE) Kicked _FrostzPvp : Kicked for flying (or related)
+16-03-08 13:28:01 [INFO] FrenchyRaids failed to use fly hacks. FLY.
+16-03-08 13:28:32 [INFO] FrenchyRaids failed to use fly hacks. FLY.
+16-03-08 13:28:49 [INFO] FrenchyRaids failed Passable: moved into a block (1) from 8761.54, 27.41, 9940.34 to 8761.54, 26.89, 9940.34 distance 0.52 . VL 11.
+16-03-08 13:29:12 [INFO] FrenchyRaids failed Passable: moved into a block (1) from 8761.54, 20.23, 9940.34 to 8761.54, 19.85, 9940.34 distance 0.38 . VL 13.
+16-03-08 13:29:26 [INFO] FrenchyRaids failed Passable: moved into a block (1) from 8761.70, 14.23, 9940.70 to 8761.70, 13.85, 9940.70 distance 0.38 . VL 14.
+16-03-08 13:29:41 [INFO] _FrostzPvp failed to use fly hacks. FLY.
+16-03-08 13:31:55 [INFO] FrenchyRaids failed Passable: moved into a block (7) from 8763.50, 4.00, 9941.50 to 8763.50, 3.90, 9941.50 distance 0.10 . VL 15.
+16-03-08 13:32:16 [INFO] ryguy1103 failed to use nofall hacks. NO FALL.
+16-03-08 13:33:32 [INFO] McPexo failed Passable: moved into a block (4) from 1252.31, 56.00, -510.50 to 1252.36, 55.98, -510.50 distance 0.06 . VL 10.
+16-03-08 13:33:37 [INFO] McPexo failed Passable: moved into a block (4) from 1252.53, 56.02, -510.32 to 1252.55, 55.92, -510.33 distance 0.10 . VL 13.
+16-03-08 13:34:33 [INFO] FrenchyRaids failed Text: acted like spamming (IP: 50.43.201.129). VL 1.
+16-03-08 13:34:33 [INFO] (CONSOLE) Kicked FrenchyRaids : You're not allowed to spam in chat!
+16-03-08 13:37:23 [INFO] oFirePvP failed to use fly hacks. FLY.
+16-03-08 13:37:42 [INFO] Sylphik failed to use speed hacks. SPEED.
+16-03-08 13:39:47 [INFO] FrenchyRaids failed Passable: moved into a block (5) from -398.50, 62.00, -503.50 to -398.50, 61.90, -503.50 distance 0.10 . VL 14.
+16-03-08 13:42:46 [INFO] dariuscraft8 failed to use fly hacks. FLY.
+16-03-08 13:42:47 [INFO] dariuscraft8 failed to use fly hacks. FLY.
+16-03-08 13:45:01 [INFO] oFirePvP failed to use speed hacks. SPEED.
+16-03-08 13:49:53 [INFO] marlonelloco failed Text: acted like spamming (IP: 99.115.36.13). VL 3.
+16-03-08 13:49:53 [INFO] (CONSOLE) Kicked marlonelloco : You're not allowed to spam in chat!
+16-03-08 13:49:53 [INFO] FrenchyRaids failed Passable: moved into a block (7) from 8761.50, 5.00, 9939.50 to 8761.50, 4.90, 9939.50 distance 0.10 . VL 14.
+16-03-08 13:51:47 [INFO] FrenchyRaids failed Passable: moved into a block (19) from 9985.50, 152.00, 9990.50 to 9985.50, 151.90, 9990.50 distance 0.10 . VL 13.
+16-03-08 13:52:30 [INFO] FrenchyRaids failed Passable: moved into a block (7) from 8761.50, 5.00, 9939.50 to 8761.50, 4.90, 9939.50 distance 0.10 . VL 14.
+16-03-08 13:54:46 [INFO] shadiesgrip failed to use fly hacks. FLY.
+16-03-08 13:54:56 [INFO] shadiesgrip failed to use fly hacks. FLY.
+16-03-08 13:56:59 [INFO] cpe25 failed FastClick: tried to move items in their inventory too quickly. VL 68.
+16-03-08 13:57:07 [INFO] cpe25 failed FastClick: tried to move items in their inventory too quickly. VL 93.
+16-03-08 13:57:53 [INFO] psy_awesome failed to use speed hacks. SPEED.
+16-03-08 14:01:07 [INFO] GamingRPX failed to use auto-heal hacks. AUTO-HEAL.
+16-03-08 14:02:10 [INFO] GamingRPX failed to use auto-heal hacks. AUTO-HEAL.
+16-03-08 14:03:24 [INFO] GamingRPX failed to use fly hacks. FLY.
+16-03-08 14:03:31 [INFO] GamingRPX failed to use fly hacks. FLY.
+16-03-08 14:04:36 [INFO] Tman_45 failed to use nofall hacks. NO FALL.
+16-03-08 14:04:50 [INFO] GamingRPX failed to use auto-heal hacks. AUTO-HEAL.
+16-03-08 14:05:27 [INFO] shadiesgrip failed to use fly hacks. FLY.
+16-03-08 14:05:31 [INFO] GamingRPX failed to use auto-heal hacks. AUTO-HEAL.
+16-03-08 14:06:24 [INFO] GamingRPX failed to use auto-heal hacks. AUTO-HEAL.
+16-03-08 14:06:34 [INFO] GamingRPX failed to use auto-heal hacks. AUTO-HEAL.
+16-03-08 14:06:34 [INFO] GamingRPX failed to use auto-feed hacks. AUTO-FEED.
+16-03-08 14:09:15 [INFO] FrenchyRaids failed Passable: moved into a block (128) from -214.50, 140.00, -797.50 to -214.50, 139.90, -797.50 distance 0.10 . VL 14.
+16-03-08 14:11:00 [INFO] ZoraxFX failed to use fly hacks. FLY.
+16-03-08 14:11:00 [INFO] ZoraxFX failed to use speed hacks. SPEED.
+16-03-08 14:11:02 [INFO] ZoraxFX failed to use speed hacks. SPEED.
+16-03-08 14:11:02 [INFO] (CONSOLE) Kicked ZoraxFX : Kicked for flying (or related)
+16-03-08 14:11:10 [INFO] ZoraxFX failed to use speed hacks. SPEED.
+16-03-08 14:11:39 [INFO] ZoraxFX failed to use fly hacks. FLY.
+16-03-08 14:11:49 [INFO] ZoraxFX failed to use fly hacks. FLY.
+16-03-08 14:12:47 [INFO] ryguy1103 failed to use fly hacks. FLY.
+16-03-08 14:15:06 [INFO] MCHeroPvP failed to use fly hacks. FLY.
+16-03-08 14:15:06 [INFO] MCHeroPvP failed to use fly hacks. FLY.
+16-03-08 14:15:06 [INFO] MCHeroPvP failed to use speed hacks. SPEED.
+16-03-08 14:15:40 [INFO] FrenchyRaids failed Passable: moved into a block (24) from -228.50, 140.00, -797.50 to -228.50, 139.90, -797.50 distance 0.10 . VL 13.
+16-03-08 14:19:18 [INFO] _FrostzPvp failed to use fly hacks. FLY.
+16-03-08 14:19:51 [INFO] FrenchyRaids failed Passable: moved into a block (87) from -224.79, 137.00, -796.34 to -226.41, 136.60, -796.30 distance 1.67 . VL 11.
+16-03-08 14:20:06 [INFO] FrenchyRaids failed Speed: tried to attack with too high a frequency. VL 57.
+16-03-08 14:20:06 [INFO] FrenchyRaids failed Improbable: meets the improbable more than expected. VL 14.
+16-03-08 14:20:46 [INFO] FrenchyRaids failed MorePackets: sent too many moves (10 epsacc). VL 10.
+16-03-08 14:20:46 [INFO] Sylphik failed MorePackets: sent too many moves (10 epsacc). VL 10.
+16-03-08 14:20:48 [INFO] Sylphik failed MorePackets: sent too many moves (26 epsacc). VL 26.
+16-03-08 14:20:48 [INFO] ryguy1103 failed MorePackets: sent too many moves (10 epsacc). VL 10.
+16-03-08 14:20:48 [INFO] cpe25 failed MorePackets: sent too many moves (10 epsacc). VL 10.
+16-03-08 14:20:48 [INFO] ZoraxFX failed MorePackets: sent too many moves (10 epsacc). VL 10.
+16-03-08 14:20:48 [INFO] Damiencraft7 failed MorePackets: sent too many moves (10 epsacc). VL 10.
+16-03-08 14:20:49 [INFO] CEOConnor10 failed MorePackets: sent too many moves (10 epsacc). VL 10.
+16-03-08 14:20:49 [INFO] zBOOMz failed MorePackets: sent too many moves (10 epsacc). VL 10.
+16-03-08 14:20:49 [INFO] FrenchyRaids failed Direction: tried to hit an entity out of line of sight. VL 6.
+16-03-08 14:20:50 [INFO] ZoraxFX failed MorePackets: sent too many moves (17 epsacc). VL 17.
+16-03-08 14:22:13 [INFO] DefiasterMC failed to use speed hacks. SPEED.
+16-03-08 14:24:14 [INFO] FrenchyRaids failed Speed: tried to attack with too high a frequency. VL 51.
+16-03-08 14:25:00 [INFO] shadiesgrip failed Passable: moved into a block (1) from 1020.27, 32.23, -38.67 to 1020.22, 31.85, -38.66 distance 0.38 . VL 10.
+16-03-08 14:25:06 [INFO] shadiesgrip failed Passable: moved into a block (1) from 1019.98, 32.00, -38.64 to 1020.08, 32.00, -38.64 distance 0.10 . VL 12.
+16-03-08 14:26:03 [INFO] shadiesgrip failed Passable: moved into a block (1) from 968.42, 12.23, -54.30 to 968.40, 11.85, -54.30 distance 0.38 . VL 13.
+16-03-08 14:26:53 [INFO] _FrostzPvp failed to use fly hacks. FLY.
+16-03-08 14:27:02 [INFO] Sylphik failed Direction: tried to hit an entity out of line of sight. VL 8.
+16-03-08 14:28:59 [INFO] shadiesgrip failed to use speed hacks. SPEED.
+16-03-08 14:29:26 [INFO] Sylphik failed to use speed hacks. SPEED.
+16-03-08 14:29:28 [INFO] Sylphik failed Direction: tried to hit an entity out of line of sight. VL 21.
+16-03-08 14:29:28 [INFO] Sylphik failed Direction: tried to hit an entity out of line of sight. VL 51.
+16-03-08 14:29:31 [INFO] Sylphik failed to use speed hacks. SPEED.
+16-03-08 14:29:43 [INFO] Sylphik failed Direction: tried to hit an entity out of line of sight. VL 69.
+16-03-08 14:31:40 [INFO] shadiesgrip failed Passable: moved into a block (5) from -398.50, 62.00, -503.50 to -398.50, 61.90, -503.50 distance 0.10 . VL 10.
+16-03-08 14:32:34 [INFO] _FrostzPvp failed to use fly hacks. FLY.
+16-03-08 14:33:06 [INFO] Sylphik failed Direction: tried to hit an entity out of line of sight. VL 6.
+16-03-08 14:33:11 [INFO] Sylphik failed Direction: tried to hit an entity out of line of sight. VL 5.
+16-03-08 14:33:23 [INFO] _FrostzPvp failed to use fly hacks. FLY.
+16-03-08 14:34:38 [INFO] _FrostzPvp failed to use fly hacks. FLY.
+16-03-08 14:34:39 [INFO] _FrostzPvp failed to use speed hacks. SPEED.
+16-03-08 14:34:53 [INFO] _FrostzPvp failed to use fly hacks. FLY.
+16-03-08 14:35:07 [INFO] _FrostzPvp failed to use fly hacks. FLY.
+16-03-08 14:36:16 [INFO] Sylphik failed to use fly hacks. FLY.
+16-03-08 14:36:16 [INFO] Sylphik failed to use speed hacks. SPEED.
+16-03-08 14:39:02 [INFO] ToxicGen failed Passable: moved into a block (1) from 484.50, 5.00, -872.50 to 484.50, 4.90, -872.50 distance 0.10 . VL 27.
+16-03-08 14:39:38 [INFO] ToxicGen failed Passable: moved into a block (159) from -418.50, 74.00, -483.50 to -418.50, 73.90, -483.50 distance 0.10 . VL 20.
+16-03-08 14:41:29 [INFO] TheOGDerp failed to use speed hacks. SPEED.
+16-03-08 14:44:16 [INFO] MCHeroPvP failed to use fly hacks. FLY.
+16-03-08 14:46:27 [INFO] ToxicGen failed Text: acted like spamming (IP: 73.12.178.3). VL 0.
+16-03-08 14:46:27 [INFO] (CONSOLE) Kicked ToxicGen : You're not allowed to spam in chat!
+16-03-08 14:46:33 [INFO] ToxicGen failed Passable: moved into a block (24) from -193.30, 147.00, -797.67 to -193.30, 146.90, -797.67 distance 0.10 . VL 14.
+16-03-08 14:47:54 [INFO] TheOGDerp failed to use fly hacks. FLY.
+16-03-08 14:48:04 [INFO] TheOGDerp failed to use fly hacks. FLY.
+16-03-08 14:48:11 [INFO] TheOGDerp failed to use speed hacks. SPEED.
+16-03-08 14:48:16 [INFO] TheOGDerp failed to use speed hacks. SPEED.
+16-03-08 14:51:47 [INFO] colinenderslime failed to use fly hacks. FLY.
+16-03-08 14:55:01 [INFO] MysticCombos failed to use fly hacks. FLY.
+16-03-08 14:56:05 [INFO] ToxicGen failed Improbable: meets the improbable more than expected. VL 382.
+16-03-08 14:56:15 [INFO] MysticCombos failed to use nofall hacks. NO FALL.
+16-03-08 14:56:29 [INFO] ToxicGen failed Improbable: meets the improbable more than expected. VL 472.
+16-03-08 14:58:51 [INFO] JohnnyPlayz_ failed to use nofall hacks. NO FALL.
+16-03-08 14:58:58 [INFO] JohnnyPlayz_ failed Passable: moved into a block (1) from 81.70, 26.63, 605.70 to 81.70, 25.85, 605.70 distance 0.78 . VL 11.
+16-03-08 14:59:04 [INFO] zBOOMz failed to use fly hacks. FLY.
+16-03-08 14:59:23 [INFO] JohnnyPlayz_ failed Passable: moved into a block (12) from -2891.50, 68.00, -1236.50 to -2891.50, 67.90, -1236.50 distance 0.10 . VL 16.
+16-03-08 14:59:33 [INFO] JohnnyPlayz_ failed Passable: moved into a block (1) from 74.50, 21.00, 602.50 to 74.50, 20.90, 602.50 distance 0.10 . VL 16.
+16-03-08 14:59:43 [INFO] JohnnyPlayz_ failed Passable: moved into a block (1) from 74.49, 5.23, 602.35 to 74.49, 4.85, 602.35 distance 0.38 . VL 17.
+16-03-08 15:00:21 [INFO] JohnnyPlayz_ failed Passable: moved into a block (4) from 74.30, 5.23, 602.45 to 74.30, 4.85, 602.50 distance 0.38 . VL 18.
+16-03-08 15:01:10 [INFO] psy_awesome failed to use fly hacks. FLY.
+16-03-08 15:01:51 [INFO] zBOOMz failed to use fly hacks. FLY.
+16-03-08 15:01:54 [INFO] zBOOMz failed to use fly hacks. FLY.
+16-03-08 15:02:55 [INFO] zBOOMz failed to use fly hacks. FLY.
+16-03-08 15:03:05 [INFO] zBOOMz failed to use fly hacks. FLY.
+16-03-08 15:03:30 [INFO] JohnnyPlayz_ failed Passable: moved into a block (4) from 72.48, 10.23, 590.30 to 72.48, 9.85, 590.30 distance 0.38 . VL 18.
+16-03-08 15:03:40 [INFO] zBOOMz failed to use fly hacks. FLY.
+16-03-08 15:05:45 [INFO] psy_awesome failed Direction: tried to interact with a block out of their line of sight. VL 12.
+16-03-08 15:05:51 [INFO] psy_awesome failed to use fly hacks. FLY.
+16-03-08 15:07:39 [INFO] DrNarwal1 failed to use fly hacks. FLY.
+16-03-08 15:09:21 [INFO] ItzBomber failed Passable: moved into a block (1) from -8653.68, 27.00, -2578.53 to -8653.68, 26.94, -2578.53 distance 0.06 . VL 10.
+16-03-08 15:09:40 [INFO] StrafeMyNan failed Angle: tried to hit multiple entities at the same time. VL 251.
+16-03-08 15:09:41 [INFO] ItzBomber failed Passable: moved into a block (1) from -8653.68, 14.23, -2578.53 to -8653.68, 13.85, -2578.53 distance 0.38 . VL 25.
+16-03-08 15:16:00 [INFO] BananaxFusion failed to use fly hacks. FLY.
+16-03-08 15:16:32 [INFO] ItzBomber failed Passable: moved into a block (5) from -398.50, 62.00, -503.50 to -398.50, 61.90, -503.50 distance 0.10 . VL 23.
+16-03-08 15:17:52 [INFO] Kevoe failed to use fly hacks. FLY.
+16-03-08 15:17:58 [INFO] Kevoe failed to use speed hacks. SPEED.
+16-03-08 15:17:58 [INFO] AegeonTheOnlyOG failed to use fly hacks. FLY.
+16-03-08 15:18:15 [INFO] Kevoe failed to use fly hacks. FLY.
+16-03-08 15:18:33 [INFO] JokerHD failed Angle: tried to hit multiple entities at the same time. VL 185.
+16-03-08 15:19:17 [INFO] AegeonTheOnlyOG failed Speed: tried to attack with too high a frequency. VL 58.
+16-03-08 15:19:44 [INFO] AegeonTheOnlyOG failed to use fly hacks. FLY.
+16-03-08 15:21:21 [INFO] Kevoe failed to use fly hacks. FLY.
+16-03-08 15:21:44 [INFO] Kevoe failed to use fly hacks. FLY.
+16-03-08 15:22:38 [INFO] Kevoe failed to use fly hacks. FLY.
+16-03-08 15:23:16 [INFO] Kevoe failed to use fly hacks. FLY.
+16-03-08 15:23:18 [INFO] ToxicGen failed to use fly hacks. FLY.
+16-03-08 15:23:19 [INFO] Kevoe failed to use fly hacks. FLY.
+16-03-08 15:23:59 [INFO] Kevoe failed to use fly hacks. FLY.
+16-03-08 15:24:10 [INFO] Butterking125 failed FastClick: tried to move items in their inventory too quickly. VL 91.
+16-03-08 15:24:18 [INFO] Kevoe failed to use fly hacks. FLY.
+16-03-08 15:24:38 [INFO] Kevoe failed to use fly hacks. FLY.
+16-03-08 15:25:13 [INFO] Kevoe failed to use fly hacks. FLY.
+16-03-08 15:26:39 [INFO] TheBlurHD failed to use nofall hacks. NO FALL.
+16-03-08 15:27:28 [INFO] AegeonTheOnlyOG failed to use fly hacks. FLY.
+16-03-08 15:28:07 [INFO] Kevoe failed MorePackets: sent too many moves (41 epsacc). VL 41.
+16-03-08 15:28:09 [INFO] TH3XRAY3R failed MorePackets: sent too many moves (10 epsacc). VL 10.
+16-03-08 15:28:09 [INFO] Kevoe failed MorePackets: sent too many moves (10 epsacc). VL 10.
+16-03-08 15:28:09 [INFO] Payto failed MorePackets: sent too many moves (10 epsacc). VL 10.
+16-03-08 15:28:09 [INFO] PopTartz_ failed MorePackets: sent too many moves (10 epsacc). VL 10.
+16-03-08 15:28:10 [INFO] Payto failed to use fly hacks. FLY.

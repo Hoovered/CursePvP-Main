@@ -1,0 +1,21 @@
+lastAccountName: BelleThePotato
+timestamps:
+  login: 1519828404223
+  lastteleport: 1519828481086
+  logout: 1519828533042
+ipAddress: 174.16.162.40
+lastlocation:
+  world: world
+  x: -3301.899758569766
+  y: 64.0
+  z: 3986.5895375855275
+  yaw: 72.996796
+  pitch: 13.515835
+money: '1000.0'
+logoutlocation:
+  world: buildsextra
+  x: -3.5
+  y: 38.0
+  z: 262.5
+  yaw: -179.85039
+  pitch: -0.44982973

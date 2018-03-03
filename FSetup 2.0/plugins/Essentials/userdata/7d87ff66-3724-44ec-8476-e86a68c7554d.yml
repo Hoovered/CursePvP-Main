@@ -1,0 +1,29 @@
+lastAccountName: 09k
+timestamps:
+  login: 1519696099391
+  logout: 1519696279648
+  lastteleport: 1519695715363
+ipAddress: 80.111.122.53
+lastlocation:
+  world: world
+  x: -3197.1510345647966
+  y: 72.0
+  z: 492.6390510746542
+  yaw: -355.18973
+  pitch: 33.187202
+logoutlocation:
+  world: world
+  x: -3189.2764537649327
+  y: 79.0
+  z: 483.30000001192093
+  yaw: -263.04462
+  pitch: 28.950037
+money: '1000.0'
+homes:
+  home:
+    world: world
+    x: -3194.8806306306697
+    y: 79.0
+    z: 482.6525419010327
+    yaw: 195.29996
+    pitch: 79.20006

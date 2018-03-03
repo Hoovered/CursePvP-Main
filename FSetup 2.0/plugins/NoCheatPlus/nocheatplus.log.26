@@ -1,0 +1,59 @@
+16-03-08 19:12:14 [INFO] Logger started.
+16-03-08 19:12:14 [INFO] Logging system initialized.
+16-03-08 19:12:14 [INFO] Detected Minecraft version: 1.7.10
+16-03-08 19:12:20 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-08 19:12:20 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-08 19:12:20 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-08 19:12:20 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-08 19:12:20 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-08 19:12:20 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-08 19:12:20 [INFO] Packet level access: ProtocolLib is not available.
+16-03-08 19:12:20 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-08 19:12:21 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-08 19:12:22 [INFO] Post-enable running...
+16-03-08 19:12:22 [INFO] Post-enable finished.
+16-03-08 19:12:22 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-1.7.9-R0.2-208-ge0f2e95 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-08 19:23:34 [INFO] SharkPrimroseFTW failed to use fly hacks. FLY.
+16-03-08 19:26:23 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-08 19:26:23 [FINE] | canceldead 10 (10/0) | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 18662 (18662/0) | event.player.move.handled.pos 10206 (10206/0) | event.player.move.handled.look 935 (935/0) | event.player.move.handled.pos_look 7507 (7507/0) |
+16-03-08 19:26:33 [INFO] Logger started.
+16-03-08 19:26:33 [INFO] Logging system initialized.
+16-03-08 19:26:33 [INFO] Detected Minecraft version: 1.7.10
+16-03-08 19:26:40 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-08 19:26:40 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-08 19:26:40 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-08 19:26:40 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-08 19:26:40 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-08 19:26:40 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-08 19:26:40 [INFO] Packet level access: ProtocolLib is not available.
+16-03-08 19:26:40 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-08 19:26:41 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-08 19:26:42 [INFO] Post-enable running...
+16-03-08 19:26:42 [INFO] Post-enable finished.
+16-03-08 19:26:42 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-1.7.9-R0.2-208-ge0f2e95 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-08 19:27:37 [INFO] GappleGirl failed to use fly hacks. FLY.
+16-03-08 19:27:37 [INFO] GappleGirl failed to use fly hacks. FLY.

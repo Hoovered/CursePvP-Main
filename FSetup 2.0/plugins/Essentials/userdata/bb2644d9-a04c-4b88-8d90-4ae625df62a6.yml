@@ -1,0 +1,23 @@
+lastAccountName: LarryWashington
+timestamps:
+  login: 1519964443227
+  logout: 1519964743422
+  kits:
+    member: 1519964740114
+    food: 1519964470827
+ipAddress: 98.159.143.22
+lastlocation:
+  world: world
+  x: -220.5
+  y: 68.0
+  z: 244.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: 43.62424824289896
+  y: 63.0
+  z: -648.5959242443406
+  yaw: 220.29956
+  pitch: 26.480207
+money: '1000.0'

@@ -1,0 +1,26 @@
+# Banknotes by SainttX
+# WARNING: If your users have notes and you modify this,
+#          their notes will be invalid and not registered by the plugin anymore
+note:
+  material: PAPER
+  data: 0
+  name: "&a&lBANKNOTE"
+  lore:
+  - "&7$[money]"
+  - "&7Withdrawn by [player]"
+
+messages:
+  insufficient-funds: "&7You do not have enough money to withdraw this amount"
+  insufficient-permissions: "&7You do not have enough permissions"
+  inventory-full: "&7Please have a space open in your inventory to create a banknote"
+  invalid-note: "&7This banknote is invalid! It has been removed from your inventory"
+  invalid-number: "&7You provided an invalid number"
+  note-created: "&7You created a note for $[money]"
+  note-redeemed: "&7Banknote for $[money] has been redeemed"
+  nothing-in-hand: "&7There is nothing in your hand for you to redeem"
+  less-than-minimum: "&7The amount you entered is less than the minimum allowed amount of $[money]"
+  more-than-maximum: "&7The amount you entered is more than the maximum allowed amount of $[money]"
+  
+settings:
+  minimum-withdraw-amount: 10.0
+  maximum-withdraw-amount: 50000000000000000000000000000.0

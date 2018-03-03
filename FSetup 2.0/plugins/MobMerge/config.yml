@@ -1,0 +1,16 @@
+radius: 8
+period: 3
+limit: 1000
+mobs:
+- ZOMBIE
+- SKELETON
+- BLAZE
+- COW
+- SPIDER
+- PIG
+- SHEEP
+- CHICKEN
+- CREEPER
+color: DARK_RED
+excluded:
+- world_nether

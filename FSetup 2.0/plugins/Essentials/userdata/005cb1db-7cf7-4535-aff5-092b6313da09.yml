@@ -1,0 +1,22 @@
+lastAccountName: zEnterYourName_
+timestamps:
+  login: 1519791285219
+  kits:
+    food: 1519791151910
+  logout: 1519791387887
+ipAddress: 130.25.6.162
+lastlocation:
+  world: world
+  x: -220.5
+  y: 68.0
+  z: 244.5
+  yaw: 0.0
+  pitch: 0.0
+money: '2000'
+logoutlocation:
+  world: world
+  x: -3342.3139019755763
+  y: 86.12606361620975
+  z: 3961.487500011921
+  yaw: -185.70462
+  pitch: 71.399956

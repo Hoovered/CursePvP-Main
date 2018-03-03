@@ -1,0 +1,55 @@
+vault1:
+  '0': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_HELMET\",\"\
+    meta\":{\"display-name\":\"\xa7a\xa7lMEMBER\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"PROTECTION_ENVIRONMENTAL\":1}}}"
+  '1': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_BOOTS\",\"meta\"\
+    :{\"display-name\":\"\xa7a\xa7lMEMBER\",\"==\":\"ItemMeta\",\"meta-type\":\"UNSPECIFIC\"\
+    ,\"enchants\":{\"PROTECTION_ENVIRONMENTAL\":1}}}"
+  '2': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_LEGGINGS\",\"\
+    meta\":{\"display-name\":\"\xa7a\xa7lMEMBER\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"PROTECTION_ENVIRONMENTAL\":1}}}"
+  '3': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_CHESTPLATE\"\
+    ,\"meta\":{\"display-name\":\"\xa7a\xa7lMEMBER\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"PROTECTION_ENVIRONMENTAL\":1}}}"
+  '4': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_SWORD\",\"meta\"\
+    :{\"display-name\":\"\xa7a\xa7lMEMBER\",\"==\":\"ItemMeta\",\"meta-type\":\"UNSPECIFIC\"\
+    ,\"enchants\":{\"DAMAGE_ALL\":1}}}"
+  '5': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_SPADE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DIG_SPEED":1}}}'
+  '6': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_SPADE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DIG_SPEED":1}}}'
+  '7': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_AXE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DIG_SPEED":1}}}'
+  '8': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_PICKAXE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DIG_SPEED":1}}}'
+  '9': '{"==":"org.bukkit.inventory.ItemStack","damage":34,"type":"POTION","meta":{"==":"ItemMeta","meta-type":"POTION","custom-effects":[{"duration":1800,"effect":1,"==":"PotionEffect","has-particles":true,"ambient":true,"amplifier":0}]}}'
+  '10': '{"==":"org.bukkit.inventory.ItemStack","damage":34,"type":"POTION","meta":{"==":"ItemMeta","meta-type":"POTION","custom-effects":[{"duration":1800,"effect":1,"==":"PotionEffect","has-particles":true,"ambient":true,"amplifier":0}]}}'
+  '11': '{"==":"org.bukkit.inventory.ItemStack","damage":34,"type":"POTION","meta":{"==":"ItemMeta","meta-type":"POTION","custom-effects":[{"duration":1800,"effect":1,"==":"PotionEffect","has-particles":true,"ambient":true,"amplifier":0}]}}'
+  '12': '{"==":"org.bukkit.inventory.ItemStack","damage":34,"type":"POTION","meta":{"==":"ItemMeta","meta-type":"POTION","custom-effects":[{"duration":1800,"effect":1,"==":"PotionEffect","has-particles":true,"ambient":true,"amplifier":0}]}}'
+  '13': '{"==":"org.bukkit.inventory.ItemStack","damage":41,"type":"POTION","meta":{"==":"ItemMeta","meta-type":"POTION","custom-effects":[{"duration":1800,"effect":5,"==":"PotionEffect","has-particles":true,"ambient":true,"amplifier":0}]}}'
+  '14': '{"==":"org.bukkit.inventory.ItemStack","damage":41,"type":"POTION","meta":{"==":"ItemMeta","meta-type":"POTION","custom-effects":[{"duration":1800,"effect":5,"==":"PotionEffect","has-particles":true,"ambient":true,"amplifier":0}]}}'
+  '15': '{"==":"org.bukkit.inventory.ItemStack","damage":41,"type":"POTION","meta":{"==":"ItemMeta","meta-type":"POTION","custom-effects":[{"duration":1800,"effect":5,"==":"PotionEffect","has-particles":true,"ambient":true,"amplifier":0}]}}'
+  '16': '{"amount":32,"==":"org.bukkit.inventory.ItemStack","type":"SUGAR_CANE"}'
+  '17': '{"amount":16,"==":"org.bukkit.inventory.ItemStack","type":"CACTUS"}'
+  '19': '{"amount":32,"==":"org.bukkit.inventory.ItemStack","type":"MELON_SEEDS"}'
+  '20': '{"amount":8,"==":"org.bukkit.inventory.ItemStack","type":"GOLDEN_APPLE"}'
+  '21': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"COOKED_BEEF"}'
+  '22': '{"amount":8,"==":"org.bukkit.inventory.ItemStack","type":"ENDER_PEARL"}'
+  '23': '{"amount":32,"==":"org.bukkit.inventory.ItemStack","type":"PUMPKIN_SEEDS"}'
+  '24': '{"==":"org.bukkit.inventory.ItemStack","damage":41,"type":"POTION","meta":{"==":"ItemMeta","meta-type":"POTION","custom-effects":[{"duration":1800,"effect":5,"==":"PotionEffect","has-particles":true,"ambient":true,"amplifier":0}]}}'
+  '25': '{"amount":32,"==":"org.bukkit.inventory.ItemStack","type":"COOKED_BEEF"}'
+  '26': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"COOKED_BEEF\"\
+    ,\"meta\":{\"display-name\":\"\xc2\xa7c\xc2\xa7lSTEAK\",\"==\":\"ItemMeta\",\"\
+    meta-type\":\"UNSPECIFIC\"}}"
+  '27': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"COOKED_BEEF\"\
+    ,\"meta\":{\"display-name\":\"\xc2\xa7c\xc2\xa7lSTEAK\",\"==\":\"ItemMeta\",\"\
+    meta-type\":\"UNSPECIFIC\"}}"
+  '28': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"COOKED_BEEF\"\
+    ,\"meta\":{\"display-name\":\"\xc2\xa7c\xc2\xa7lSTEAK\",\"==\":\"ItemMeta\",\"\
+    meta-type\":\"UNSPECIFIC\"}}"
+  '29': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"COOKED_BEEF\"\
+    ,\"meta\":{\"display-name\":\"\xc2\xa7c\xc2\xa7lSTEAK\",\"==\":\"ItemMeta\",\"\
+    meta-type\":\"UNSPECIFIC\"}}"
+  '49': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\",\"\
+    meta\":{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\":\"\
+    UNSPECIFIC\",\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at /warp\
+    \ crates!\"]}}"
+  '50': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"PAPER\",\"meta\":{\"\
+    display-name\":\"\xa7a\xa7lBANKNOTE\",\"==\":\"ItemMeta\",\"meta-type\":\"UNSPECIFIC\"\
+    ,\"lore\":[\"\xa77$2,000\",\"\xa77Withdrawn by xAntiCliimax\"]}}"

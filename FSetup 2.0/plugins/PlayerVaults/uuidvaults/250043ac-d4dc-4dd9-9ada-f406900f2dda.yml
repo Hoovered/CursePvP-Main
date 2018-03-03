@@ -1,0 +1,157 @@
+vault1:
+  '0': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_SWORD\",\"meta\"\
+    :{\"display-name\":\"\xa73\xa7lENDERDRAGON\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DAMAGE_ALL\":6,\"FIRE_ASPECT\":4,\"KNOCKBACK\"\
+    :3}}}"
+  '1': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","damage":1,"type":"GOLDEN_APPLE"}'
+  '2': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","damage":1,"type":"GOLDEN_APPLE"}'
+  '3': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","damage":1,"type":"GOLDEN_APPLE"}'
+  '4': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","damage":1,"type":"GOLDEN_APPLE"}'
+  '5': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","damage":1,"type":"GOLDEN_APPLE"}'
+  '6': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","damage":1,"type":"GOLDEN_APPLE"}'
+  '7': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","damage":1,"type":"GOLDEN_APPLE"}'
+  '8': '{"amount":36,"==":"org.bukkit.inventory.ItemStack","damage":1,"type":"GOLDEN_APPLE"}'
+  '18': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\"\
+    ,\"meta\":{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at\
+    \ /warp crates!\"]}}"
+  '19': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\"\
+    ,\"meta\":{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at\
+    \ /warp crates!\"]}}"
+  '20': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\"\
+    ,\"meta\":{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at\
+    \ /warp crates!\"]}}"
+  '21': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\"\
+    ,\"meta\":{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at\
+    \ /warp crates!\"]}}"
+  '22': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\"\
+    ,\"meta\":{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at\
+    \ /warp crates!\"]}}"
+  '23': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\"\
+    ,\"meta\":{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at\
+    \ /warp crates!\"]}}"
+  '24': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\"\
+    ,\"meta\":{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at\
+    \ /warp crates!\"]}}"
+  '25': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\"\
+    ,\"meta\":{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at\
+    \ /warp crates!\"]}}"
+  '26': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\"\
+    ,\"meta\":{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at\
+    \ /warp crates!\"]}}"
+  '27': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\"\
+    ,\"meta\":{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at\
+    \ /warp crates!\"]}}"
+  '28': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\"\
+    ,\"meta\":{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at\
+    \ /warp crates!\"]}}"
+  '29': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\"\
+    ,\"meta\":{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at\
+    \ /warp crates!\"]}}"
+  '30': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\"\
+    ,\"meta\":{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at\
+    \ /warp crates!\"]}}"
+  '31': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\"\
+    ,\"meta\":{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at\
+    \ /warp crates!\"]}}"
+  '32': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\"\
+    ,\"meta\":{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at\
+    \ /warp crates!\"]}}"
+  '33': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\"\
+    ,\"meta\":{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at\
+    \ /warp crates!\"]}}"
+  '34': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\"\
+    ,\"meta\":{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at\
+    \ /warp crates!\"]}}"
+  '35': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\"\
+    ,\"meta\":{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at\
+    \ /warp crates!\"]}}"
+  '36': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\"\
+    ,\"meta\":{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at\
+    \ /warp crates!\"]}}"
+  '37': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\"\
+    ,\"meta\":{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at\
+    \ /warp crates!\"]}}"
+  '38': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\"\
+    ,\"meta\":{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at\
+    \ /warp crates!\"]}}"
+  '39': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\"\
+    ,\"meta\":{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at\
+    \ /warp crates!\"]}}"
+  '40': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\"\
+    ,\"meta\":{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at\
+    \ /warp crates!\"]}}"
+  '41': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\"\
+    ,\"meta\":{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at\
+    \ /warp crates!\"]}}"
+  '42': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\"\
+    ,\"meta\":{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at\
+    \ /warp crates!\"]}}"
+  '43': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\"\
+    ,\"meta\":{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at\
+    \ /warp crates!\"]}}"
+  '44': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\"\
+    ,\"meta\":{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at\
+    \ /warp crates!\"]}}"
+  '45': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\"\
+    ,\"meta\":{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at\
+    \ /warp crates!\"]}}"
+  '46': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\"\
+    ,\"meta\":{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at\
+    \ /warp crates!\"]}}"
+  '47': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\"\
+    ,\"meta\":{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at\
+    \ /warp crates!\"]}}"
+  '48': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\"\
+    ,\"meta\":{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at\
+    \ /warp crates!\"]}}"
+  '49': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\"\
+    ,\"meta\":{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at\
+    \ /warp crates!\"]}}"
+  '50': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\"\
+    ,\"meta\":{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at\
+    \ /warp crates!\"]}}"
+  '51': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\"\
+    ,\"meta\":{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at\
+    \ /warp crates!\"]}}"
+  '52': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\"\
+    ,\"meta\":{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at\
+    \ /warp crates!\"]}}"
+  '53': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\"\
+    ,\"meta\":{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at\
+    \ /warp crates!\"]}}"

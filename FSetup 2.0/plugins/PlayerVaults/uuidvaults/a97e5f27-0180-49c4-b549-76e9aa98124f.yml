@@ -1,0 +1,15 @@
+vault1:
+  '50': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"COOKED_BEEF\"\
+    ,\"meta\":{\"display-name\":\"\xc2\xa7c\xc2\xa7lSTEAK\",\"==\":\"ItemMeta\",\"\
+    meta-type\":\"UNSPECIFIC\"}}"
+  '51': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"COOKED_BEEF\"\
+    ,\"meta\":{\"display-name\":\"\xc2\xa7c\xc2\xa7lSTEAK\",\"==\":\"ItemMeta\",\"\
+    meta-type\":\"UNSPECIFIC\"}}"
+  '52': "{\"amount\":40,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\"\
+    ,\"meta\":{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at\
+    \ /warp crates!\"]}}"
+  '53': "{\"amount\":7,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"PAPER\"\
+    ,\"meta\":{\"display-name\":\"\xa7a\xa7lBANKNOTE\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"lore\":[\"\xa77$40,000\",\"\xa77Withdrawn by KingdomMaker\"\
+    ]}}"

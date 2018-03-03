@@ -1,0 +1,8 @@
+vault1:
+  '0': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"OBSIDIAN"}'
+  '1': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\",\"meta\"\
+    :{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\":\"UNSPECIFIC\"\
+    ,\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at /warp crates!\"\
+    ]}}"
+  '2': '{"amount":16,"==":"org.bukkit.inventory.ItemStack","type":"EXP_BOTTLE"}'
+  '3': '{"amount":10,"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND"}'

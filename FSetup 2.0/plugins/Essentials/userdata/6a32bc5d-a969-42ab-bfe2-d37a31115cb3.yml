@@ -1,0 +1,32 @@
+lastAccountName: KingShocker69
+timestamps:
+  login: 1520052343011
+  logout: 1520052364259
+  lastteleport: 1519963872699
+  kits:
+    member: 1519880044822
+    zombie2: 1519879891390
+ipAddress: 67.255.241.197
+lastlocation:
+  world: buildsextra
+  x: 316.31750668016923
+  y: 10.0
+  z: 246.23943208473028
+  yaw: -242.84952
+  pitch: 37.19999
+logoutlocation:
+  world: world
+  x: 475.51525076303477
+  y: 61.0
+  z: -2341.222710375325
+  yaw: 90.90072
+  pitch: 13.950016
+money: '300280.0'
+homes:
+  home:
+    world: world
+    x: 470.23750001192093
+    y: 62.0
+    z: -2336.300000011921
+    yaw: -178.64943
+    pitch: 33.30001

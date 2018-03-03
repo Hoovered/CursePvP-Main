@@ -1,0 +1,68 @@
+############################################
+# +---------------------------------------+#
+# |         Config Revision 15            |#
+# +---------------------------------------+#
+############################################
+
+Vote:
+    type: KEYCRATE
+    preview:
+        enabled: true
+    buy:
+        enabled: false
+        cost: 0
+    message:
+        onOpen: ''
+        broadcast: ''
+    key:
+        item: 'Tripwire_Hook'
+        enchantment: '34:10'
+        name:  '&aVote Key'
+        lore: 
+            - '%gray%Use this at /warp crates!'  
+    effect:
+        onOpenEffects: 'firework'
+        dormantEffects: ''
+    reward:
+        minimumRewards: 1
+        maximumRewards: 1
+        rewards:
+            - 'cmd:(/eco give %player% 40000), chance:(14), display:(paper 1 &e$20.000 &6Percent:_&e14% 0:1)'
+            - 'cmd:(/eco give %player% 30000), chance:(16), display:(paper 1 &e$15.000 &6Percent:_&e16% 0:1)'
+            - 'cmd:(/eco give %player% 20000), chance:(18), display:(paper 1 &e$10.000 &6Percent:_&e18% 0:1)'
+            - 'cmd:(/eco give %player% 15000), chance:(20), display:(paper 1 &e$5.000 &6Percent:_&e20% 0:1)'
+            - 'cmd:(/kit zombie %player%), chance:(18), display:(315 1 &eKit_Zombie &6Percent:_&e18% 0:1)'
+            - 'cmd:(/kit skelly %player%), chance:(16), display:(303 1 &eKit_Skelly &6Percent:_&e16% 0:1)'
+            - 'cmd:(/kit Creeper %player%), chance:(14), display:(311 1 &eKit_creeper &6Percent:_&e14% 0:1)'
+            - 'cmd:(/kit enderman %player%), chance:(12), display:(311 1 &eKit_enderman &6Percent:_&e12% 0:1)'
+            - 'cmd:(/kit dragon %player%), chance:(10), display:(311 1 &eKit_dragon &6Percent:_&e10% 0:1)'
+            - 'cmd:(/crate givekey %player% Vote 3), chance:(9), display:(131 1 &e3_Vote_keys &6Percent:_&e9% 0:1)'
+            - 'cmd:(/give %player% 401 16)), chance:(25), display:(401 16 &eFireworks &6Percent:_&e25% 0:1)'
+Rank:
+    type: KEYCRATE
+    preview:
+        enabled: true
+    buy:
+        enabled: false
+        cost: 0
+    message:
+        onOpen: ''
+        broadcast: ''
+    key:
+        item: 'Tripwire_Hook'
+        enchantment: '34:10'
+        name:  '%aqua%%bold%Rank Key'
+        lore: 
+            - '%gray%Use this at /warp crates!'  
+    effect:
+        onOpenEffects: 'firework'
+        dormantEffects: ''
+    reward:
+        minimumRewards: 1
+        maximumRewards: 1
+        rewards:
+            - 'cmd:(/pex user %player% group add zombie), chance:(70), display:(399 1 &eZombie_Rank)'
+            - 'cmd:(/pex user %player% group add skelly), chance:(50), display:(399 1 &eSkelly_Rank)'
+            - 'cmd:(/pex user %player% group add creeper), chance:(30), display:(399 1 &eCreeper_Rank)'
+            - 'cmd:(/pex user %player% group add enderman), chance:(15), display:(399 1 &eEnderman_Rank)'
+            - 'cmd:(/pex user %player% group add dragon), chance:(5), display:(399 1 &eDragon_Rank)'

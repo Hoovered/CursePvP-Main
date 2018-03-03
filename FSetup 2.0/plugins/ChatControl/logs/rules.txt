@@ -1,0 +1,49 @@
+[05.05.2016 20:08:27] ImVexy: Rule {ID=/gm,Match='^/(gm|gamemode)'} caught message: /gm 1
+[07.05.2016 14:50:58] Shoving: Rule {ID=/gm,Match='^/(gm|gamemode)'} caught message: /gm 1
+[07.05.2016 14:52:53] Shoving: Rule {ID=/gm,Match='^/(gm|gamemode)'} caught message: /gm 1
+[08.05.2016 14:09:03] PlayerVault: Rule {ID=/gm,Match='^/(gm|gamemode)'} caught message: /gm 1
+[08.05.2016 14:14:54] PlayerVault: Rule {ID=/gm,Match='^/(gm|gamemode)'} caught message: /gm 1
+[08.05.2016 14:24:37] PlayerVault: Rule {ID=/gm,Match='^/(gm|gamemode)'} caught message: /gm 1
+[08.05.2016 14:37:11] PlayerVault: Rule {ID=/gm,Match='^/(gm|gamemode)'} caught message: /gm 1
+[08.05.2016 14:50:46] LuskiGames_: Rule {ID=/gm,Match='^/(gm|gamemode)'} caught message: /gamemode 3
+[09.05.2016 17:43:34] GenerikDuck: Rule {ID=/gm,Match='^/(gm|gamemode)'} caught message: /gm
+[09.05.2016 19:06:05] GenerikDuck: Rule {ID=/gm,Match='^/(gm|gamemode)'} caught message: /gm
+[09.05.2016 20:46:37] GenerikDuck: Rule {ID=/gm,Match='^/(gm|gamemode)'} caught message: /gm
+[09.05.2016 20:50:13] PlayerVault: Rule {ID=/gm,Match='^/(gm|gamemode)'} caught message: /gm 1
+[10.05.2016 16:27:19] Shoving: Rule {ID=/gm,Match='^/(gm|gamemode)'} caught message: /GM 1
+[10.05.2016 16:28:33] Shoving: Rule {ID=/gm,Match='^/(gm|gamemode)'} caught message: /gamemode 1
+[19.05.2016 13:23:35] GenerikDuck: Rule {ID=/gm,Match='^/(gm|gamemode)'} caught message: /gm 1
+[20.05.2016 18:47:55] GenerikDuck: Rule {ID=/gm,Match='^/(gm|gamemode)'} caught message: /gm 1
+[23.05.2016 17:01:06] GenerikDuck: Rule {ID=/gm,Match='^/(gm|gamemode)'} caught message: /gm 1
+[25.05.2016 20:51:34] GenerikDuck: Rule {ID=/gm,Match='^/(gm|gamemode)'} caught message: /gm 1
+[27.05.2016 17:15:38] ImVexy: Rule {ID=/gm,Match='^/(gm|gamemode)'} caught message: /gm 1
+[30.05.2016 15:47:58] Shoving: Rule {ID=/gm,Match='^/(gm|gamemode)'} caught message: /GM 1
+[30.05.2016 15:52:07] Shoving: Rule {ID=/op,Match='^/op\b'} caught message: /op shoing
+[04.06.2016 14:34:30] VexyIsSmexy: Rule {ID=/gm,Match='^/(gm|gamemode)'} caught message: /gm 1
+[23.02.2018 20:36:49] christheGOD2017: Rule {ID=/gm,Match='^/(gm|gamemode)'} caught message: /gamemode 1
+[24.02.2018 15:26:47] Hotty264: Rule {ID=/gm,Match='^/(gm|gamemode)'} caught message: /gmc
+[24.02.2018 17:16:37] christheGOD2017: Rule {ID=/gm,Match='^/(gm|gamemode)'} caught message: /gmc
+[25.02.2018 13:43:48] Zakhar1209: Rule {ID=/op,Match='^/op\b'} caught message: /op
+[25.02.2018 16:58:10] notyouaccount: Rule {ID=/op,Match='^/op\b'} caught message: /op
+[25.02.2018 20:42:49] Clwolf_Studios: Rule {ID=/gm,Match='^/(gm|gamemode)'} caught message: /gamemode
+[27.02.2018 19:09:55] Herahzz: Rule {ID=/op,Match='^/op\b'} caught message: /op
+[27.02.2018 20:11:11] zEnterYourName_: Rule {ID=/op,Match='^/op\b'} caught message: /op
+[27.02.2018 20:11:22] zEnterYourName_: Rule {ID=/gm,Match='^/(gm|gamemode)'} caught message: /gm 1
+[27.02.2018 20:48:08] Loyally: Rule {ID=/op,Match='^/op\b'} caught message: /op
+[27.02.2018 20:48:11] Loyally: Rule {ID=/gm,Match='^/(gm|gamemode)'} caught message: /gamemode c
+[28.02.2018 02:09:35] ThatRandomRobin: Rule {ID=/op,Match='^/op\b'} caught message: /op
+[28.02.2018 02:11:34] ThatRandomRobin: Rule {ID=/op,Match='^/op\b'} caught message: /op
+[28.02.2018 11:22:40] chermy: Rule {ID=/gm,Match='^/(gm|gamemode)'} caught message: /gamemode 1
+[28.02.2018 16:01:56] neko_sora: Rule {ID=/gm,Match='^/(gm|gamemode)'} caught message: /gmc
+[28.02.2018 16:02:01] neko_sora: Rule {ID=/op,Match='^/op\b'} caught message: /op
+[01.03.2018 08:09:20] Hotty264: Rule {ID=/op,Match='^/op\b'} caught message: /op
+[01.03.2018 19:19:09] Ninjalongspy_YT_: Rule {ID=/op,Match='^/op\b'} caught message: /op
+[01.03.2018 19:19:16] Ninjalongspy_YT_: Rule {ID=/gm,Match='^/(gm|gamemode)'} caught message: /gamemode 1
+[01.03.2018 21:06:28] Ninjalongspy_YT_: Rule {ID=/op,Match='^/op\b'} caught message: /op
+[01.03.2018 21:32:42] Hotty264: Rule {ID=/op,Match='^/op\b'} caught message: /op
+[01.03.2018 21:39:39] Hotty264: Rule {ID=/gm,Match='^/(gm|gamemode)'} caught message: /gm 0
+[02.03.2018 04:43:30] MellowBroadcast: Rule {ID=/gm,Match='^/(gm|gamemode)'} caught message: /gmc
+[02.03.2018 14:23:12] Ninjalongspy_YT_: Rule {ID=/op,Match='^/op\b'} caught message: /op
+[02.03.2018 14:38:06] Ninjalongspy_YT_: Rule {ID=/gm,Match='^/(gm|gamemode)'} caught message: /gamemode 1
+[02.03.2018 16:31:36] Rapid2314: Rule {ID=/gm,Match='^/(gm|gamemode)'} caught message: /gamemode 3
+[02.03.2018 19:07:09] notyouaccount: Rule {ID=/gm,Match='^/(gm|gamemode)'} caught message: /gamemode 1

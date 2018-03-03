@@ -1,0 +1,30 @@
+lastAccountName: notyouaccount
+timestamps:
+  login: 1519508054580
+  lastheal: 1519466578493
+  kits:
+    member: 1519467474245
+    ki: 1519467835139
+    kitwither: 1519467879788
+    food: 1519468517175
+    dragon: 1519467486768
+    skelly: 1519468748748
+    skelly2: 1519468734492
+  lastteleport: 1519502692014
+  logout: 1519508138155
+ipAddress: 162.207.134.94
+lastlocation:
+  world: world
+  x: 374.81628023294644
+  y: 72.0
+  z: -653.839617326976
+  yaw: 186.70586
+  pitch: -6.104586
+money: '42.0'
+logoutlocation:
+  world: buildsextra
+  x: -3.936029763803784
+  y: 41.99264819814946
+  z: 250.2102413592406
+  yaw: 7.5896606
+  pitch: 13.200007

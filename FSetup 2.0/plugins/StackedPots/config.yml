@@ -1,0 +1,13 @@
+drop-potions-if-inventory-is-full: true
+This is how to register potions: ' ez right'
+Use this format: POTIONDATA:STACKSIZE:PERMISSION
+pots:
+- 8233:32:getmycombos.stackablepotions.strenght2
+- 8226:32:getmycombos.stackablepotions.speed2
+This is to check if pots are stackable: ' ez right'
+stackablepotions:
+- 8226
+- 8233
+stackpot-permission: getmycombos.stackpots
+msg-no-permission: '&cI''m sorry but you don''t have permission for this command'
+msg-stackedpots: '&6You have stacked your potions you had in your inventory'

@@ -1,0 +1,39 @@
+# Use & for color codes.
+# %p is where the player name will get inserted.
+# %v is where the vault number will get inserted.
+# %price is the price.
+# %number is the vault number
+# %converted is the number of vaults converted (where applicable)
+# Made with love :)
+title-name: '&a&lVAULT &8|&7'
+open-vault: '&7Opening vault &d%v'
+open-other-vault: '&7Opening vault &d%v &7of &d%p'
+open-workbench: '&7Opening workbench'
+delete-vault: '&7Deleted vault &d%v'
+delete-other-vault: '&7Deleted vault &d%v &7of &d%p'
+player-only: '&cSorry but that can only be run by a player!'
+must-be-number: '&cYou need to specify a number between 1-99'
+invalid-args: '&cInvalid args!'
+delete-vault-error: '&cError deleting vault :('
+no-permissions: '&cYou don''t have permission for that!'
+insufficient-funds: '&cYou don''t have enough money for that!'
+refund-amount: '&7You were refunded &d%price &7for deleting that vault.'
+cost-to-create: '&7You were charged &c%price &7for creating that vault.'
+cost-to-open: '&7You were charged &c%price &7for opening that vault.'
+vault-number: '&4Vault #%number'
+existing-vaults: '&7%p has vaults: &d%v'
+no-player-found: '&cCannot find player &d%p'
+plugin-not-found: '&cNo converter found for that plugin'
+conversion-complete: '&dConverted %converted players to Vault'
+conversion-background: '&7Conversion has been forked to the background. See console
+  for updates.'
+vaults-locked: '&cVaults are currently locked while conversion occurs. Please try
+  again in a moment!'
+help: /vault <number>
+blocked-item: '&6%m &cis blocked from vaults.'
+vault-does-not-exist: '&cThat vault does not exist!'
+click-a-sign: '&7Now click a sign!'
+not-a-sign: '&cYou must click a sign!'
+set-sign-success: '&7You have successfully set a Vault access sign!'
+vault-title: '&dVault #%number'
+open-with-sign: '&7Opening vault &d%v &7of &d%p'

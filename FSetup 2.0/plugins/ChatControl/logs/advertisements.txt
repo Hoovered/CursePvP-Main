@@ -1,0 +1,18 @@
+[07.05.2016 12:50:37] idkaname2use: [Handler=advertisement, Rule ID=2] go to puremc.me
+[07.05.2016 12:50:42] idkaname2use: [Handler=advertisement, Rule ID=2] puremc(dot)me
+[08.05.2016 20:35:07] GenerikDuck: [Handler=advertisement, Rule ID=2] you gonna use https://xenforo.com/ for your website
+[27.05.2016 17:31:30] PureYT: [Handler=advertisement, Rule ID=2] my ip to my server is play.puremc.net
+[27.05.2016 17:31:52] PureYT: [Handler=advertisement, Rule ID=2] play(dot)puremc(dot)net
+[25.02.2018 13:07:57] JurassicYato: [Handler=advertisement, Rule ID=1] Join today! 192.223.24.192 Needs staff, the whole thing, owned by Hoovered!
+[25.02.2018 13:08:14] JurassicYato: [Handler=advertisement, Rule ID=2] server.com
+[25.02.2018 13:08:30] JurassicYato: [Handler=advertisement, Rule ID=2] server.com
+[25.02.2018 13:09:04] JurassicYato: [Handler=advertisement, Rule ID=2] server.com:12345
+[25.02.2018 13:10:38] JurassicYato: [Handler=advertisement, Rule ID=2] you know how there are .me servers
+[25.02.2018 13:11:31] JurassicYato: [Handler=advertisement, Rule ID=2] play(dot)yourself(dot)dont(dot)play(dot)me
+[25.02.2018 13:12:15] JurassicYato: [Handler=advertisement, Rule ID=2] play dot yourself dot dont dot play dot me
+[25.02.2018 13:45:54] JurassicYato: [Handler=advertisement, Rule ID=2] minecraftservers.org
+[25.02.2018 13:57:00] JurassicYato: [Handler=advertisement, Rule ID=1] 0FJ# 9 0 8 4
+[25.02.2018 15:36:07] PalmtopTaiga: [Handler=advertisement, Rule ID=2] http://Botnik.org/
+[01.03.2018 06:48:36] MerlinMagician: [Handler=advertisement, Rule ID=2] Only admins, co-owners, and owner can mod others
+[01.03.2018 06:48:53] MerlinMagician: [Handler=advertisement, Rule ID=2] Only adm!ns, co-own3rs, and own3r can mod others
+[02.03.2018 04:49:59] xXDRA60NSLAYERXx: [Handler=advertisement, Rule ID=2] okay its up SavageCraftFactions.aternos.me

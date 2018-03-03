@@ -1,0 +1,22 @@
+lastAccountName: Bsing
+timestamps:
+  login: 1520005279578
+  kits:
+    food: 1520005305112
+  logout: 1520005629121
+ipAddress: 109.124.169.49
+lastlocation:
+  world: world
+  x: -220.5
+  y: 68.0
+  z: 244.5
+  yaw: 0.0
+  pitch: 0.0
+money: '2000'
+logoutlocation:
+  world: world
+  x: -1514.699999988079
+  y: 69.01070664449374
+  z: 2890.512499988079
+  yaw: -353.41702
+  pitch: 61.403507

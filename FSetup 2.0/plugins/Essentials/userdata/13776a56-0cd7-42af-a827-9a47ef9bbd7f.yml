@@ -1,0 +1,21 @@
+lastAccountName: ZaynGaming
+timestamps:
+  login: 1519994774573
+  logout: 1519995086920
+  lastteleport: 1519910065956
+ipAddress: 117.199.88.142
+lastlocation:
+  world: world
+  x: -1563.6120756960947
+  y: 66.0
+  z: 4163.836889703329
+  yaw: 227.70001
+  pitch: 30.299988
+logoutlocation:
+  world: buildsextra
+  x: -5.818724897333764
+  y: 35.0625
+  z: 224.32746776684536
+  yaw: -183.15047
+  pitch: 25.350023
+money: '0.0'

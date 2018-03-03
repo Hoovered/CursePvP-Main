@@ -1,0 +1,23 @@
+lastAccountName: ThatRandomRobin
+timestamps:
+  login: 1519967526112
+  lastteleport: 1519968917920
+  logout: 1519969164050
+  kits:
+    member: 1519967972800
+ipAddress: 186.190.186.73
+lastlocation:
+  world: world
+  x: 150.6023493505163
+  y: 64.0
+  z: -1945.5920946797942
+  yaw: -138.45117
+  pitch: 18.599998
+money: '2000'
+logoutlocation:
+  world: world
+  x: 395.69999998807907
+  y: 64.34735905190462
+  z: -1123.574999988079
+  yaw: -21.316177
+  pitch: 57.450035

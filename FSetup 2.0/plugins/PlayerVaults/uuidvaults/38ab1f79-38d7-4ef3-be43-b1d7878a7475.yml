@@ -1,0 +1,16 @@
+vault1:
+  '0': '{"==":"org.bukkit.inventory.ItemStack","type":"BOAT"}'
+  '1': '{"==":"org.bukkit.inventory.ItemStack","type":"BOAT"}'
+  '2': '{"==":"org.bukkit.inventory.ItemStack","damage":34,"type":"POTION","meta":{"==":"ItemMeta","meta-type":"POTION","custom-effects":[{"duration":1800,"effect":1,"==":"PotionEffect","has-particles":true,"ambient":true,"amplifier":0}]}}'
+  '3': '{"==":"org.bukkit.inventory.ItemStack","damage":34,"type":"POTION","meta":{"==":"ItemMeta","meta-type":"POTION","custom-effects":[{"duration":1800,"effect":1,"==":"PotionEffect","has-particles":true,"ambient":true,"amplifier":0}]}}'
+  '4': '{"==":"org.bukkit.inventory.ItemStack","damage":41,"type":"POTION","meta":{"==":"ItemMeta","meta-type":"POTION","custom-effects":[{"duration":1800,"effect":5,"==":"PotionEffect","has-particles":true,"ambient":true,"amplifier":0}]}}'
+  '6': '{"amount":4,"==":"org.bukkit.inventory.ItemStack","type":"GOLDEN_APPLE"}'
+  '7': '{"amount":4,"==":"org.bukkit.inventory.ItemStack","type":"ENDER_PEARL"}'
+  '8': '{"amount":16,"==":"org.bukkit.inventory.ItemStack","type":"MELON_SEEDS"}'
+  '9': '{"amount":16,"==":"org.bukkit.inventory.ItemStack","type":"PUMPKIN_SEEDS"}'
+  '10': '{"amount":8,"==":"org.bukkit.inventory.ItemStack","type":"CACTUS"}'
+  '11': '{"amount":16,"==":"org.bukkit.inventory.ItemStack","type":"SUGAR_CANE"}'
+  '12': '{"==":"org.bukkit.inventory.ItemStack","damage":41,"type":"POTION","meta":{"==":"ItemMeta","meta-type":"POTION","custom-effects":[{"duration":1800,"effect":5,"==":"PotionEffect","has-particles":true,"ambient":true,"amplifier":0}]}}'
+  '47': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"PAPER\",\"meta\":{\"\
+    display-name\":\"\xa7a\xa7lBANKNOTE\",\"==\":\"ItemMeta\",\"meta-type\":\"UNSPECIFIC\"\
+    ,\"lore\":[\"\xa77$1,000\",\"\xa77Withdrawn by dull3478\"]}}"

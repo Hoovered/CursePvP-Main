@@ -1,0 +1,9 @@
+vault1:
+  '0': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\",\"meta\"\
+    :{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\":\"UNSPECIFIC\"\
+    ,\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at /warp crates!\"\
+    ]}}"
+  '1': '{"amount":2,"==":"org.bukkit.inventory.ItemStack","type":"BONE"}'
+  '2': '{"amount":4,"==":"org.bukkit.inventory.ItemStack","type":"SULPHUR"}'
+  '3': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"WOOD"}'
+  '4': '{"amount":52,"==":"org.bukkit.inventory.ItemStack","type":"WOOD"}'

@@ -1,0 +1,39 @@
+lastAccountName: Hotty264
+timestamps:
+  login: 1520024343544
+  logout: 1520019397081
+  lastteleport: 1519969200762
+  lastheal: 1519957618529
+  kits:
+    zombie: 1519946670074
+ipAddress: 107.2.106.156
+money: '953007.0'
+logoutlocation:
+  world: world
+  x: 338.6175606354333
+  y: 72.0
+  z: -667.7624984840804
+  yaw: 88.93344
+  pitch: -5.4894423
+lastlocation:
+  world: world
+  x: 337.980618800725
+  y: 72.0
+  z: -667.7575941920222
+  yaw: 89.045944
+  pitch: -5.26444
+homes:
+  home:
+    world: world
+    x: 5350.808197970768
+    y: 13.5
+    z: 4309.5920655665495
+    yaw: 269.6412
+    pitch: 54.98361
+  base1:
+    world: world
+    x: 5364.916555198693
+    y: 215.0
+    z: 4316.673725440857
+    yaw: 48.95787
+    pitch: 30.111338

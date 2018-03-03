@@ -1,0 +1,55 @@
+blocks:
+    hopper: 15000
+spawners:
+    pig: 10000
+    villagergolem: 1000000
+    Blaze: 750000
+    Creeper: 500000
+    skeleton: 50000
+maxFactionsOnTop: 10
+resyncIntMins: 360
+ftopMessage: '&e%NUMBER%. %FACTION% &f%ONLINE%/&a%OFFLINE% &b$%VALUE%'
+ftopTitle: '&6_______________.[ &2Factions Top %PAGE%/%MAXPAGE% &6]._______________'
+resyncMessage: '&4&lRunning resynchronization of Factions Top expect some lag!'
+resyncDoneMessage: '&3&lFactions Top has been resynchronized wait %time% seconds for Factions Top to be updated!'
+formattedFtop: true
+ftopColorRelationship: true
+hoverColors:
+    blockName: '&3'
+    amount: '&b'
+friendlyNames:
+    creeper: 'Creeper Spawner'
+    skeleton: 'Skeleton Spawner'
+    spider: 'Spider Spawner'
+    giant: 'Giant Spawner'
+    zombie: 'Zombie Spawner'
+    slime: 'Slime Spawner'
+    ghast: 'Ghast Spawner'
+    pig_zombie: 'Zombie Pigman Spawner'
+    enderman: 'Enderman Spawner'
+    cave_spider: 'Cave Spider Spawner'
+    silverfish: 'SilverFish Spawner'
+    blaze: 'Blaze Spawner'
+    magma_cube: 'Magma Cube Spawner'
+    ender_dragon: 'EnderDragon Spawner'
+    pig: 'Pig Spawner'
+    sheep: 'Sheep Spawner'
+    cow: 'Cow Spawner'
+    chicken: 'Chicken Spawner'
+    squid: 'Squid Spawner'
+    wolf: 'Wolf Spawner'
+    mushroom_cow: 'Mushroom Cow Spawner'
+    snowman: 'Snowman Spawner'
+    villager: 'Villager Spawner'
+    guardian: 'Guardian Spawner'
+    rabbit: 'Rabbit Spawner'
+    villagergolem: 'Iron Golem Spawner'
+hoverEventTitle: '&3Blocks: &b$%BLOCKVALUE% &3Money: &b$%MONEYVALUE%'
+hoverEvent: '&3%BLOCK%: &b%AMOUNT%'
+useVaultForPlayersMoney: true
+maxPages: 0
+broadcastMessages: true
+exludedFactionsNames:
+    - safezone
+    - warzone
+    - wilderness

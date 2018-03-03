@@ -1,0 +1,30 @@
+lastAccountName: xX_Snipebat_Xx
+timestamps:
+  login: 1520037940041
+  lastteleport: 1520037966983
+  logout: 1520038093395
+  kits:
+    member: 1520038005108
+ipAddress: 172.97.233.194
+lastlocation:
+  world: world
+  x: 373.3907252107661
+  y: 71.0625
+  z: -667.497046187853
+  yaw: -316.96643
+  pitch: 38.854347
+homes:
+  home:
+    world: world
+    x: -932.6999999880791
+    y: 5.0
+    z: -1205.300000011921
+    yaw: 240.6994
+    pitch: 15.919616
+logoutlocation:
+  world: world
+  x: -930.7049698350131
+  y: 7.0
+  z: -1205.364284352865
+  yaw: 275.34952
+  pitch: 16.34998

@@ -1,0 +1,13 @@
+vault1:
+  '0': '{"amount":16,"==":"org.bukkit.inventory.ItemStack","type":"SUGAR_CANE"}'
+  '1': '{"amount":16,"==":"org.bukkit.inventory.ItemStack","type":"CACTUS"}'
+  '2': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_AXE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DIG_SPEED":1}}}'
+  '3': '{"==":"org.bukkit.inventory.ItemStack","type":"SAND"}'
+  '4': '{"==":"org.bukkit.inventory.ItemStack","type":"YELLOW_FLOWER"}'
+  '5': '{"amount":32,"==":"org.bukkit.inventory.ItemStack","type":"LOG"}'
+  '6': '{"==":"org.bukkit.inventory.ItemStack","type":"BOAT"}'
+  '7': '{"amount":2,"==":"org.bukkit.inventory.ItemStack","type":"FEATHER"}'
+  '8': '{"==":"org.bukkit.inventory.ItemStack","type":"BOAT"}'
+  '9': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_SPADE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DIG_SPEED":1}}}'
+  '10': '{"amount":13,"==":"org.bukkit.inventory.ItemStack","type":"SEEDS"}'
+  '11': '{"amount":14,"==":"org.bukkit.inventory.ItemStack","type":"ROTTEN_FLESH"}'

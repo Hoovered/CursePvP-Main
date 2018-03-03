@@ -1,0 +1,29 @@
+lastAccountName: Liiion
+timestamps:
+  login: 1519918353547
+  logout: 1519919140511
+  lastteleport: 1519918753899
+ipAddress: 141.0.247.50
+lastlocation:
+  world: buildsextra
+  x: -4.517165151756177
+  y: 38.0
+  z: 260.4459993865994
+  yaw: 73.49788
+  pitch: 7.650172
+logoutlocation:
+  world: world
+  x: 61.4612338827917
+  y: 65.0
+  z: -655.5503227788124
+  yaw: -2.4157002
+  pitch: 43.05432
+homes:
+  home:
+    world: world
+    x: 828.0430686248603
+    y: 37.0
+    z: 2884.5868692114855
+    yaw: -138.81557
+    pitch: -2.1356297
+money: '1000.0'

@@ -1,0 +1,8 @@
+vault1:
+  '0': '{"==":"org.bukkit.inventory.ItemStack","damage":41,"type":"POTION","meta":{"==":"ItemMeta","meta-type":"POTION","custom-effects":[{"duration":1800,"effect":5,"==":"PotionEffect","has-particles":true,"ambient":true,"amplifier":0}]}}'
+  '1': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HOE"}'
+  '2': '{"==":"org.bukkit.inventory.ItemStack","type":"TRAP_DOOR"}'
+  '3': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_SWORD\",\"meta\"\
+    :{\"display-name\":\"\xa7a\xa7lMEMBER\",\"==\":\"ItemMeta\",\"meta-type\":\"UNSPECIFIC\"\
+    ,\"enchants\":{\"DAMAGE_ALL\":1}}}"
+  '4': '{"amount":58,"==":"org.bukkit.inventory.ItemStack","type":"WOOD"}'

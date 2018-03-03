@@ -1,0 +1,206 @@
+## --------------------------------------- ##
+## Basic World placeholders Placeholders
+## About: This configuration allows you to
+##        configure what certain placeholders return.
+## --------------------------------------- ##
+
+# DO NOT EDIT THE CONFIG VERSION
+config: 1
+
+# Enable/Disable the placeholder group
+# Placeholder groups will not be loaded into the memory
+# when not used.
+enabled: true
+
+# Define what the boolean placeholder {ss_haspvp_raw} returns
+ss_haspvp_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {mineous_haspvp_raw} returns
+mineous_haspvp_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {ss_allowmonsters_raw} returns
+ss_allowmonsters_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {mineous_allowanimals_raw} returns
+mineous_allowanimals_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {spawn2_allowanimals_raw} returns
+spawn2_allowanimals_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {world_the_end_haspvp_raw} returns
+world_the_end_haspvp_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {mineous_allowmonsters_raw} returns
+mineous_allowmonsters_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {world_allowanimals_raw} returns
+world_allowanimals_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {flatroom_allowmonsters_raw} returns
+flatroom_allowmonsters_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {skyf_allowanimals_raw} returns
+skyf_allowanimals_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {world_nether_allowmonsters_raw} returns
+world_nether_allowmonsters_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {world_nether_allowanimals_raw} returns
+world_nether_allowanimals_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {world_haspvp_raw} returns
+world_haspvp_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {skyf_haspvp_raw} returns
+skyf_haspvp_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {spawn2_haspvp_raw} returns
+spawn2_haspvp_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {ss_allowanimals_raw} returns
+ss_allowanimals_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {world_the_end_allowmonsters_raw} returns
+world_the_end_allowmonsters_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {flatroom_allowanimals_raw} returns
+flatroom_allowanimals_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {flatroom_haspvp_raw} returns
+flatroom_haspvp_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {world_the_end_allowanimals_raw} returns
+world_the_end_allowanimals_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {skyf_allowmonsters_raw} returns
+skyf_allowmonsters_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {world_allowmonsters_raw} returns
+world_allowmonsters_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {spawn2_allowmonsters_raw} returns
+spawn2_allowmonsters_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {world_nether_haspvp_raw} returns
+world_nether_haspvp_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+

@@ -1,0 +1,7 @@
+vault1:
+  '40': '{"amount":4,"==":"org.bukkit.inventory.ItemStack","type":"ENDER_PEARL"}'
+  '48': '{"amount":4,"==":"org.bukkit.inventory.ItemStack","type":"GOLDEN_APPLE"}'
+  '49': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\",\"\
+    meta\":{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\":\"\
+    UNSPECIFIC\",\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at /warp\
+    \ crates!\"]}}"

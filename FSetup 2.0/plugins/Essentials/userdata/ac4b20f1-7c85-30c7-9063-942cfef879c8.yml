@@ -1,0 +1,21 @@
+lastAccountName: SecurityCode
+timestamps:
+  login: 1519502549467
+  logout: 1519502646770
+  lastteleport: 1519461438861
+ipAddress: 86.16.136.71
+lastlocation:
+  world: buildsextra
+  x: -5.9715407917651255
+  y: 41.70942732179248
+  z: 206.07446606126456
+  yaw: 334.0693
+  pitch: 6.890185
+money: '8372.0'
+logoutlocation:
+  world: world
+  x: 376.0332214348495
+  y: 79.37300387060026
+  z: -672.6156548636222
+  yaw: 350.5153
+  pitch: 41.364944

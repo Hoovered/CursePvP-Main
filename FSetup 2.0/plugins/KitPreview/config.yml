@@ -1,0 +1,50 @@
+EnableSound: true
+Sound: ENDERMAN_TELEPORT
+Lock-KP-Commands: false
+All-Kits-Icon: DIAMOND_HELMET
+Sale-Kits-Icon: DOUBLE_PLANT
+Unlocked-Kits-Icon: IRON_HELMET
+Yes-no-gui: true
+data:
+  kit:
+    coal:
+      commands:
+      - /kit coal <player>
+      eco: 25000.0
+    iron:
+      eco: 50000.0
+      commands:
+      - /kit iron <player>
+    diamond:
+      eco: 250000.0
+      commands:
+      - /kit diamond <player>
+    emerald:
+      eco: 500000.0
+      commands:
+      - /kit emerald <player>
+    obsidian:
+      eco: 750000.0
+      commands:
+      - /kit obsidian <player>
+    special:
+      eco: 1000000.0
+      commands:
+      - /kit special <player>
+    gold:
+      eco: 100000.0
+      commands:
+      - /kit gold <player>
+  block:
+    w:worldx:19y:81z:3: coal
+    w:worldx:22y:81z:2: iron
+    w:worldx:25y:81z:3: gold
+    w:worldx:25y:81z:9: diamond
+    w:worldx:22y:81z:10: emerald
+    w:worldx:19y:81z:9: obsidian
+  displayitems: {}
+  holo: {}
+  particles: {}
+  particlesettings:
+    ammount: 25
+    type: WITCH_MAGIC

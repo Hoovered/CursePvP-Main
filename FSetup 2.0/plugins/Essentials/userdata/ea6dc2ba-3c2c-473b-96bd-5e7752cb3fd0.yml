@@ -1,0 +1,21 @@
+lastAccountName: llunchbox
+timestamps:
+  login: 1519957137959
+  logout: 1519957272504
+  lastteleport: 1519957260028
+ipAddress: 50.51.216.152
+lastlocation:
+  world: world
+  x: 2328.5529981977083
+  y: 72.0
+  z: -2476.300000011921
+  yaw: 177.44989
+  pitch: 56.100006
+money: '2000'
+logoutlocation:
+  world: world
+  x: 373.7710845187523
+  y: 71.0
+  z: -661.8993269794967
+  yaw: -121.64866
+  pitch: 12.932374

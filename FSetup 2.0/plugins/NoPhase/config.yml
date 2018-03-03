@@ -1,0 +1,8 @@
+messages:
+  NOTIFY: "&c[AntiPhase]&c&l{player} &cMight be trying to phase. Violation Level: {violation_level}"
+  PUNISH_DELAY_NOTIFY_HACKER: "&cYou have been caught hacking. This incident has been notified and will autoban you in 10 second"
+violation:
+  notify-vl: 7
+  auto-punish-vl: 17
+  punish-delay: 10
+  punish-command: kick {player} you have been caught trying to phase.

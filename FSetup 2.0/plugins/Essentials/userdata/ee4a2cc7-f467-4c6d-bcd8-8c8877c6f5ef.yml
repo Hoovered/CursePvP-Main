@@ -1,0 +1,23 @@
+lastAccountName: MirageShuriken
+timestamps:
+  login: 1519729413122
+  kits:
+    member: 1519685592390
+  lastteleport: 1519685742255
+  logout: 1519729428569
+ipAddress: 86.155.62.156
+lastlocation:
+  world: world
+  x: 373.96823080708384
+  y: 71.0
+  z: -662.4888288657854
+  yaw: 1.3022577
+  pitch: -16.304575
+money: '2000'
+logoutlocation:
+  world: world
+  x: 1306.5860254811623
+  y: 66.0
+  z: 4154.631184862332
+  yaw: -69.003265
+  pitch: 27.150023

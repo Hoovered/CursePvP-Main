@@ -1,0 +1,95 @@
+# SuperbVote configuration
+# A superb vote plugin made by Tux.
+#
+# https://minecraft.minimum.io/wiki/SuperbVote
+
+# Database configuration.
+# Currently supported: "json".
+storage:
+  database: json
+  json:
+    file: votes.json
+  mysql:
+    host: 127.0.0.1
+    username: root
+    password: topsecret
+    database: superbvote
+    table: votes
+    read-only: false
+
+# General vote configuration.
+votes:
+  # At least this many seconds need to pass before allowing another vote (per-service). This will apply per service.
+  # Default: 3600 seconds (1 hour)
+  cooldown-per-service: 3600
+
+  # Whether or not to treat the server as online-mode. This is mostly required for BungeeCord setups.
+  force-online-mode: false
+
+# Rewards. This is the main section you will need to edit. Ordering is important.
+rewards:
+  # Example of matchers.
+  - if:
+      permission: superbvote.test
+      chance: 100
+      service: SpecialService
+    commands:
+    - give %player% diamond 4
+    player-message: ""
+    broadcast-message: "&a%player% got really lucky and was rewarded with 4 diamonds and $1000!"
+  # Default rewards are defined by having no preconditions. Place it at the bottom of the config.
+  - if: {}
+    commands:
+    - eco give %player% 10000
+    player-message: ""
+    broadcast-message: "&a%player% &7has voted for us on &a%service% &7and was rewarded with $10000!"
+
+# Whether or not players need to be online to vote. If set, offline player votes are queued for when the player next logs in.
+require-online: false
+
+# Broadcast settings:
+broadcast:
+  # Should we broadcast votes at all?
+  enabled: true
+
+  # Should we tell players if they voted?
+  message-player: true
+
+  # Should we broadcast queued votes?
+  queued: true
+
+# Vote command.
+vote-command:
+  enabled: false
+  text: |-
+    You could vote for us, but the owner forgot to add the list of websites to vote at!
+
+# Vote reminder.
+vote-reminder:
+  message: "&a&l(!) &7Don't forget to vote for us! You currently have &a%votes%&7 votes."
+  on-join: true
+  repeat: 180
+
+# Controls the /sv <top/leaderboard> command.
+leaderboard:
+  # Supported: text, scoreboard
+  display: text
+
+  # The text format supports pagination.
+  text:
+    per-page: 10
+    header: "&c&m         &r&b Top Voters &r&c&m         &r"
+    entry: "&e%num%. &7%player% (&e%votes%&7 votes)"
+
+  # Control the scoreboard.
+  scoreboard:
+    title: Top voters
+    max: 10
+
+# Control top player signs.
+top-player-signs:
+  format:
+  - "#%num%"
+  - ""
+  - "%player%"
+  - "&l%votes% &rvotes"

@@ -1,0 +1,40 @@
+Settings:
+  Tag Time: 25
+  Allowed Commands:
+  - combat
+  - ct
+  Must Stop Running For Time To Countdown: false
+  Disable:
+    Worlds: []
+    Potions:
+    - INVISIBILITY
+    Materials:
+    - ENDER_PEARL
+    Teleport: true
+    Gamemode: true
+    Fly: true
+  Punishment:
+    Death: true
+    Fine:
+      Enabled: false
+      Amount: 100.0
+    Drop:
+      Inventory: true
+      Armor: true
+      Exp: true
+    Ban:
+      Enabled: false
+      Duration: 60
+  Optimize:
+    Enabled: true
+    Radius: 5
+    Decay: 4000
+    Wipe:
+    - LONG_GRASS
+    - SUGAR_CANE_BLOCK
+    - DOUBLE_PLANT
+    - SAPLING
+    - YELLOW_FLOWER
+    - RED_ROSE
+    - BROWN_MUSHROOM
+    - RED_MUSHROOM

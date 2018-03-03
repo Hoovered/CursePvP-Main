@@ -1,0 +1,21 @@
+lastAccountName: Vegas_superdog
+timestamps:
+  login: 1519682995810
+  logout: 1519683033620
+  lastteleport: 1519592155513
+ipAddress: 31.48.215.76
+lastlocation:
+  world: world
+  x: 180.546048194333
+  y: 63.0
+  z: -623.0430370882715
+  yaw: -80.68888
+  pitch: 5.456044
+money: '17000'
+logoutlocation:
+  world: world
+  x: 385.99204513580577
+  y: 72.0
+  z: -678.0349599329176
+  yaw: 339.60773
+  pitch: 29.091068

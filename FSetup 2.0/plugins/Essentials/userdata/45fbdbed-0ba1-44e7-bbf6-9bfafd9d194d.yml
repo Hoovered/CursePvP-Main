@@ -1,0 +1,32 @@
+lastAccountName: PalmtopTaiga
+timestamps:
+  login: 1519959787856
+  lastteleport: 1519623193679
+  logout: 1519959876283
+  kits:
+    food: 1519622383982
+ipAddress: 24.250.57.137
+lastlocation:
+  world: world
+  x: 5365.300000011921
+  y: 6.0
+  z: 4278.300000011921
+  yaw: -0.89682007
+  pitch: 1.3500652
+money: '0.0'
+logoutlocation:
+  world: world
+  x: 830.3885593843324
+  y: 52.0
+  z: 2895.39867214662
+  yaw: 97.338684
+  pitch: 23.24998
+afk: false
+homes:
+  home:
+    world: world
+    x: 829.1553842446873
+    y: 52.0
+    z: 2894.911694738303
+    yaw: 327.32117
+    pitch: 45.00003

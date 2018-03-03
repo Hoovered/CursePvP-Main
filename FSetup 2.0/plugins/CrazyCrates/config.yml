@@ -1,0 +1,45 @@
+#=========Enchantments=========#
+#PROTECTION_ENVIRONMENTAL
+#PROTECTION_FIRE
+#PROTECTION_FALL
+#PROTECTION_EXPLOSIONS
+#PROTECTION_PROJECTILE
+#OXYGEN
+#WATER_WORKER
+#DAMAGE_ALL
+#DAMAGE_UNDEAD
+#DAMAGE_ARTHROPODS
+#KNOCKBACK
+#FIRE_ASPECT
+#LOOT_BONUS_MOBS
+#DIG_SPEED
+#SILK_TOUCH
+#DURABILITY
+#LOOT_BONUS_BLOCKS
+#ARROW_DAMAGE
+#ARROW_KNOCKBACK
+#ARROW_FIRE
+#ARROW_INFINITE
+Settings:
+  Prefix: '&8[&bCrazyCrates&8]: '
+  InventoryName: '&b&lCrazy &4&lCrates'
+  InventorySize: 27
+  No-Teleporting-Msg: '&cYou may not teleport away while opening a crate.'
+  NoCMDsWhileCrateOpened: '&cYou are not allowed to use commands while opening Crates.'
+  NoKeyMsg: '&cYou must have a %Key% &cin your hand to use that Crate.'
+  NoVirtualKeyMsg: '&cYou need a key to open that Crate.'
+  AlreadyOpeningCrateMsg: '&cYou are already opening a crate.'
+  QuickCrateInUse: '&cThat crate is already in use. Please wait for crate to open up.'
+  WorldDisabledMsg: '&cI am sorry but crates are disabled in %World%.'
+  Reload: '&3You have just reloaded the Config and Data Files.'
+  Not-Online: '&cThat player is not online at this time.'
+  No-Permission: '&cYou do not have permission to use that command!'
+  Crate-Already-Opened: '&cYou are already opening a crate.'
+  Cant-Be-Virtual-Crate: '&cPlease tell an admin that CrateOnTheGo can not be a Virtual Crate.'
+  QuadCrate:
+    ToCloseToAnotherPlayer: '&cYou are to close to a player that is opening their Crate.'
+    NeedsMoreRoom: '&cThere is not enough space to open that here.'
+    Timer: 300
+    Out-Of-Time: '&cYou took 5 Minutes to open the crate so it closed.'
+  DisabledWorlds:
+    - 'world_nether'

@@ -1,0 +1,22 @@
+lastAccountName: Amblerjam
+timestamps:
+  login: 1519913510485
+  kits:
+    member: 1519913595976
+    food: 1519913548090
+  logout: 1519913826017
+ipAddress: 46.99.14.85
+lastlocation:
+  world: world
+  x: -220.5
+  y: 68.0
+  z: 244.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: 376.6476669702166
+  y: 71.0
+  z: -665.8128636679206
+  yaw: 38.983734
+  pitch: 17.85

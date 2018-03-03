@@ -1,0 +1,7 @@
+vault1:
+  '0': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_SWORD\",\"meta\"\
+    :{\"display-name\":\"\xa7a\xa7lMEMBER\",\"==\":\"ItemMeta\",\"meta-type\":\"UNSPECIFIC\"\
+    ,\"enchants\":{\"DAMAGE_ALL\":1}}}"
+  '1': '{"==":"org.bukkit.inventory.ItemStack","damage":34,"type":"POTION","meta":{"==":"ItemMeta","meta-type":"POTION","custom-effects":[{"duration":1800,"effect":1,"==":"PotionEffect","has-particles":true,"ambient":true,"amplifier":0}]}}'
+  '2': '{"amount":4,"==":"org.bukkit.inventory.ItemStack","type":"ENDER_PEARL"}'
+  '3': '{"amount":4,"==":"org.bukkit.inventory.ItemStack","type":"GOLDEN_APPLE"}'

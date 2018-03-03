@@ -1,0 +1,23 @@
+lastAccountName: TheGreekGoat
+timestamps:
+  login: 1519765726737
+  kits:
+    member: 1519765760515
+    food: 1519765755785
+  logout: 1519766227952
+ipAddress: 85.75.71.221
+lastlocation:
+  world: world
+  x: -220.5
+  y: 68.0
+  z: 244.5
+  yaw: 0.0
+  pitch: 0.0
+money: '10250.0'
+logoutlocation:
+  world: world
+  x: 332.8368651395789
+  y: 72.0
+  z: -666.2003613297222
+  yaw: 91.75237
+  pitch: 31.395382

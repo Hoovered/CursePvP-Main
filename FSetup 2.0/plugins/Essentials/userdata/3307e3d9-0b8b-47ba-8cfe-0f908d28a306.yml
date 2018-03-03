@@ -1,0 +1,21 @@
+lastAccountName: bromull
+timestamps:
+  login: 1519613135864
+  kits:
+    food: 1519613172594
+  logout: 1519613186225
+ipAddress: 75.190.212.196
+lastlocation:
+  world: world
+  x: -220.5
+  y: 68.0
+  z: 244.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: 362.99798177584034
+  y: 71.0
+  z: -668.400559631051
+  yaw: 257.4568
+  pitch: 11.689768

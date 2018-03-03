@@ -1,0 +1,5 @@
+vault1:
+  '0': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"BEDROCK"}'
+  '1': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"BEDROCK"}'
+  '2': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"OBSIDIAN"}'
+  '4': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"OBSIDIAN"}'

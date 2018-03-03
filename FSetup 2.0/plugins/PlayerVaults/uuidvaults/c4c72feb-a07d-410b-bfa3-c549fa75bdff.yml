@@ -1,0 +1,2 @@
+vault1:
+  '10': '{"amount":4,"==":"org.bukkit.inventory.ItemStack","type":"GOLDEN_APPLE"}'

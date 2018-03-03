@@ -1,0 +1,6 @@
+[26.02.2018 17:32:50] Regex check timed out (bad regex?) (plugin ver. 5.3.2)!
+[26.02.2018 17:32:50] String checked: Infringes my rights
+[26.02.2018 17:32:50] Regex: \b(n+(\W|\d|_)*i+(\W|\d|_)*g+(\W|\d|_)*g+(\W|\d|_)*a+(\W|\d|_)*)
+[26.02.2018 17:32:58] Regex check timed out (bad regex?) (plugin ver. 5.3.2)!
+[26.02.2018 17:32:58] String checked: Infringes my rights
+[26.02.2018 17:32:58] Regex: \b(n+(\W|\d|_)*i+(\W|\d|_)*g+(\W|\d|_)*g+(\W|\d|_)*e+(\W|\d|_)*r+(\W|\d|_)*)

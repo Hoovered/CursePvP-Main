@@ -1,0 +1,31 @@
+lastAccountName: CheeseIsMine
+timestamps:
+  login: 1519716200657
+  kits:
+    member: 1519613108914
+  lastteleport: 1519698362765
+  logout: 1519716205675
+ipAddress: 47.41.232.90
+lastlocation:
+  world: world
+  x: 154.5
+  y: 63.0
+  z: -682.5
+  yaw: -285.34766
+  pitch: 39.04542
+money: '120.0'
+homes:
+  home:
+    world: world
+    x: 154.74277253774167
+    y: 63.015625
+    z: -682.4793786296113
+    yaw: -285.34766
+    pitch: 43.095425
+logoutlocation:
+  world: world
+  x: 280.5890513817371
+  y: 70.0
+  z: -673.3066262491681
+  yaw: 319.15244
+  pitch: 53.14542

@@ -1,0 +1,29 @@
+lastAccountName: TheJohanV2
+timestamps:
+  login: 1519754685575
+  lastteleport: 1519755054054
+  logout: 1519755366006
+ipAddress: 31.47.10.13
+lastlocation:
+  world: world
+  x: 363.0652500447698
+  y: 72.0
+  z: -674.5124436849787
+  yaw: -267.19757
+  pitch: -1.3499982
+money: '2000'
+homes:
+  home:
+    world: world
+    x: -1342.8228285852942
+    y: 72.0
+    z: -3775.7165606990457
+    yaw: -49.80014
+    pitch: 12.749918
+logoutlocation:
+  world: world
+  x: -1345.512499988079
+  y: 72.98227973465903
+  z: -3775.300000011921
+  yaw: 79.94989
+  pitch: 69.89989

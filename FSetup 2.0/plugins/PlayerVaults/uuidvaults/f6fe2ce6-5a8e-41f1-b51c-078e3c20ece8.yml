@@ -1,0 +1,2 @@
+vault1:
+  '0': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DAMAGE_ALL":1000}},"type":"STICK"}'

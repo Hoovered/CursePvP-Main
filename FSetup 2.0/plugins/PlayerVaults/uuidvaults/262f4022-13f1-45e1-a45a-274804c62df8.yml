@@ -1,0 +1,24 @@
+vault1:
+  '0': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\",\"meta\"\
+    :{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\":\"UNSPECIFIC\"\
+    ,\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at /warp crates!\"\
+    ]}}"
+  '1': '{"amount":16,"==":"org.bukkit.inventory.ItemStack","type":"EXP_BOTTLE"}'
+  '2': '{"amount":16,"==":"org.bukkit.inventory.ItemStack","type":"PUMPKIN_SEEDS"}'
+  '3': '{"amount":16,"==":"org.bukkit.inventory.ItemStack","type":"MELON_SEEDS"}'
+  '4': '{"==":"org.bukkit.inventory.ItemStack","type":"BOAT"}'
+  '5': '{"==":"org.bukkit.inventory.ItemStack","type":"BOAT"}'
+  '6': '{"==":"org.bukkit.inventory.ItemStack","damage":34,"type":"POTION","meta":{"==":"ItemMeta","meta-type":"POTION","custom-effects":[{"duration":1800,"effect":1,"==":"PotionEffect","has-particles":true,"ambient":true,"amplifier":0}]}}'
+  '7': '{"==":"org.bukkit.inventory.ItemStack","damage":34,"type":"POTION","meta":{"==":"ItemMeta","meta-type":"POTION","custom-effects":[{"duration":1800,"effect":1,"==":"PotionEffect","has-particles":true,"ambient":true,"amplifier":0}]}}'
+  '8': '{"==":"org.bukkit.inventory.ItemStack","damage":41,"type":"POTION","meta":{"==":"ItemMeta","meta-type":"POTION","custom-effects":[{"duration":1800,"effect":5,"==":"PotionEffect","has-particles":true,"ambient":true,"amplifier":0}]}}'
+  '11': '{"amount":4,"==":"org.bukkit.inventory.ItemStack","type":"ENDER_PEARL"}'
+  '13': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HOE"}'
+  '14': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_SPADE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DIG_SPEED":1}}}'
+  '16': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"OBSIDIAN"}'
+  '17': '{"amount":8,"==":"org.bukkit.inventory.ItemStack","type":"CACTUS"}'
+  '18': '{"amount":16,"==":"org.bukkit.inventory.ItemStack","type":"SUGAR_CANE"}'
+  '19': '{"==":"org.bukkit.inventory.ItemStack","damage":41,"type":"POTION","meta":{"==":"ItemMeta","meta-type":"POTION","custom-effects":[{"duration":1800,"effect":5,"==":"PotionEffect","has-particles":true,"ambient":true,"amplifier":0}]}}'
+  '20': '{"==":"org.bukkit.inventory.ItemStack","type":"STICK"}'
+  '21': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"WOOD"}'
+  '22': '{"amount":32,"==":"org.bukkit.inventory.ItemStack","type":"WOOD"}'
+  '23': '{"amount":10,"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND"}'

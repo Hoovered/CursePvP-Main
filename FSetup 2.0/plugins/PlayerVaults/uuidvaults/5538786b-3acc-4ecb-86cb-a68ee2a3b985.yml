@@ -1,0 +1,64 @@
+vault1:
+  '0': '{"amount":54,"==":"org.bukkit.inventory.ItemStack","type":"LOG"}'
+  '1': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"TRIPWIRE_HOOK\",\"meta\"\
+    :{\"display-name\":\"\xa7aVote Key\",\"==\":\"ItemMeta\",\"meta-type\":\"UNSPECIFIC\"\
+    ,\"enchants\":{\"DURABILITY\":10},\"lore\":[\"\xa77Use this at /warp crates!\"\
+    ]}}"
+  '2': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"SUGAR_CANE"}'
+  '3': '{"==":"org.bukkit.inventory.ItemStack","damage":41,"type":"POTION","meta":{"==":"ItemMeta","meta-type":"POTION","custom-effects":[{"duration":1800,"effect":5,"==":"PotionEffect","has-particles":true,"ambient":true,"amplifier":0}]}}'
+  '4': '{"==":"org.bukkit.inventory.ItemStack","damage":34,"type":"POTION","meta":{"==":"ItemMeta","meta-type":"POTION","custom-effects":[{"duration":1800,"effect":1,"==":"PotionEffect","has-particles":true,"ambient":true,"amplifier":0}]}}'
+  '5': '{"==":"org.bukkit.inventory.ItemStack","damage":34,"type":"POTION","meta":{"==":"ItemMeta","meta-type":"POTION","custom-effects":[{"duration":1800,"effect":1,"==":"PotionEffect","has-particles":true,"ambient":true,"amplifier":0}]}}'
+  '6': '{"==":"org.bukkit.inventory.ItemStack","damage":41,"type":"POTION","meta":{"==":"ItemMeta","meta-type":"POTION","custom-effects":[{"duration":1800,"effect":5,"==":"PotionEffect","has-particles":true,"ambient":true,"amplifier":0}]}}'
+  '7': '{"==":"org.bukkit.inventory.ItemStack","type":"BOAT"}'
+  '8': '{"==":"org.bukkit.inventory.ItemStack","type":"BOAT"}'
+  '9': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND"}'
+  '10': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"OBSIDIAN"}'
+  '11': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"GOLDEN_APPLE"}'
+  '12': '{"==":"org.bukkit.inventory.ItemStack","damage":34,"type":"POTION","meta":{"==":"ItemMeta","meta-type":"POTION","custom-effects":[{"duration":1800,"effect":1,"==":"PotionEffect","has-particles":true,"ambient":true,"amplifier":0}]}}'
+  '13': '{"==":"org.bukkit.inventory.ItemStack","damage":34,"type":"POTION","meta":{"==":"ItemMeta","meta-type":"POTION","custom-effects":[{"duration":1800,"effect":1,"==":"PotionEffect","has-particles":true,"ambient":true,"amplifier":0}]}}'
+  '14': '{"==":"org.bukkit.inventory.ItemStack","damage":41,"type":"POTION","meta":{"==":"ItemMeta","meta-type":"POTION","custom-effects":[{"duration":1800,"effect":5,"==":"PotionEffect","has-particles":true,"ambient":true,"amplifier":0}]}}'
+  '15': '{"==":"org.bukkit.inventory.ItemStack","damage":41,"type":"POTION","meta":{"==":"ItemMeta","meta-type":"POTION","custom-effects":[{"duration":1800,"effect":5,"==":"PotionEffect","has-particles":true,"ambient":true,"amplifier":0}]}}'
+  '16': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"OBSIDIAN"}'
+  '17': '{"==":"org.bukkit.inventory.ItemStack","type":"BOAT"}'
+  '18': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"OBSIDIAN"}'
+  '19': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"OBSIDIAN"}'
+  '20': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"OBSIDIAN"}'
+  '21': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"GOLDEN_APPLE"}'
+  '22': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"OBSIDIAN"}'
+  '23': '{"amount":16,"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND"}'
+  '24': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"OBSIDIAN"}'
+  '25': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"SUGAR_CANE"}'
+  '26': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"CACTUS"}'
+  '27': '{"amount":62,"==":"org.bukkit.inventory.ItemStack","type":"COOKED_BEEF"}'
+  '28': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"OBSIDIAN"}'
+  '29': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"SUGAR_CANE"}'
+  '30': '{"amount":16,"==":"org.bukkit.inventory.ItemStack","type":"ENDER_PEARL"}'
+  '31': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"OBSIDIAN"}'
+  '32': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"OBSIDIAN"}'
+  '33': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"OBSIDIAN"}'
+  '34': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_SWORD\",\"\
+    meta\":{\"display-name\":\"\xa7c\xa7lZOMBIE\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DAMAGE_ALL\":2}}}"
+  '35': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"BOW\",\"meta\":{\"\
+    display-name\":\"\xa7c\xa7lZOMBIE\",\"==\":\"ItemMeta\",\"meta-type\":\"UNSPECIFIC\"\
+    ,\"enchants\":{\"ARROW_DAMAGE\":1}}}"
+  '36': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_HELMET\",\"\
+    meta\":{\"display-name\":\"\xa7c\xa7lZOMBIE\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"PROTECTION_ENVIRONMENTAL\":1}}}"
+  '37': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"SUGAR_CANE"}'
+  '38': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"OBSIDIAN"}'
+  '39': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"OBSIDIAN"}'
+  '40': '{"amount":32,"==":"org.bukkit.inventory.ItemStack","type":"SUGAR_CANE"}'
+  '41': '{"amount":16,"==":"org.bukkit.inventory.ItemStack","type":"EXP_BOTTLE"}'
+  '42': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"CACTUS"}'
+  '43': '{"==":"org.bukkit.inventory.ItemStack","type":"WORKBENCH"}'
+  '44': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"GOLDEN_APPLE"}'
+  '45': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"GOLDEN_APPLE"}'
+  '46': '{"amount":16,"==":"org.bukkit.inventory.ItemStack","type":"ENDER_PEARL"}'
+  '47': '{"amount":23,"==":"org.bukkit.inventory.ItemStack","damage":1,"type":"GOLDEN_APPLE"}'
+  '48': '{"==":"org.bukkit.inventory.ItemStack","type":"ARROW"}'
+  '49': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"OBSIDIAN"}'
+  '50': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"OBSIDIAN"}'
+  '51': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"TRAPPED_CHEST"}'
+  '52': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"OBSIDIAN"}'
+  '53': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"OBSIDIAN"}'

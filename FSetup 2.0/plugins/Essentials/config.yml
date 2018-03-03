@@ -1,0 +1,513 @@
+# 
+# +------------------------------------------------------+ #
+# |                       Notes                          | #
+# +------------------------------------------------------+ #
+ops-name-color: none
+nickname-prefix: ''
+max-nick-length: 15
+change-displayname: true
+teleport-safety: true
+teleport-cooldown: 2
+teleport-delay: 5
+teleport-invulnerability: 4
+heal-cooldown: 900
+permission-based-item-spawn: false
+spawnmob-limit: 10
+warn-on-smite: true
+socialspy-commands:
+- msg
+- w
+- r
+- mail
+- m
+- t
+- whisper
+- emsg
+- tell
+- er
+- reply
+- ereply
+- email
+- action
+- describe
+- eme
+- eaction
+- edescribe
+- etell
+- ewhisper
+- pm
+player-commands:
+- afk
+- afk.auto
+- back
+- back.ondeath
+- balance
+- balance.others
+- balancetop
+- build
+- chat.color
+- chat.format
+- chat.shout
+- chat.question
+- clearinventory
+- compass
+- depth
+- delhome
+- getpos
+- geoip.show
+- help
+- helpop
+- home
+- home.others
+- ignore
+- info
+- itemdb
+- kit
+- kits.tools
+- list
+- mail
+- mail.send
+- me
+- motd
+- msg
+- msg.color
+- nick
+- near
+- pay
+- ping
+- protect
+- r
+- rules
+- realname
+- seen
+- sell
+- sethome
+- setxmpp
+- signs.create.protection
+- signs.create.trade
+- signs.break.protection
+- signs.break.trade
+- signs.use.balance
+- signs.use.buy
+- signs.use.disposal
+- signs.use.enchant
+- signs.use.free
+- signs.use.gamemode
+- signs.use.heal
+- signs.use.info
+- signs.use.kit
+- signs.use.mail
+- signs.use.protection
+- signs.use.repair
+- signs.use.sell
+- signs.use.time
+- signs.use.trade
+- signs.use.warp
+- signs.use.weather
+- spawn
+- suicide
+- time
+- tpa
+- tpaccept
+- tpahere
+- tpdeny
+- warp
+- warp.list
+- world
+- worth
+- xmpp
+enabledSigns:
+- color
+- balance
+- buy
+- sell
+- trade
+- free
+- disposal
+- warp
+- kit
+- mail
+- enchant
+- gamemode
+- heal
+- info
+- spawnmob
+- repair
+- time
+- weather
+sign-use-per-second: 4
+backup:
+  interval: 30
+per-warp-permission: false
+list:
+  Admins: admin
+  Owners: owner
+  Members: default
+debug: false
+remove-god-on-disconnect: false
+auto-afk: -1
+auto-afk-kick: 900
+freeze-afk-players: false
+disable-item-pickup-while-afk: false
+cancel-afk-on-interact: true
+cancel-afk-on-move: true
+death-messages: false
+allow-silent-join-quit: false
+world-teleport-permissions: false
+default-stack-size: -1
+oversized-stacksize: 64
+repair-enchanted: true
+unsafe-enchantments: true
+register-back-in-listener: false
+login-attack-delay: 5
+max-fly-speed: 0.8
+max-walk-speed: 0.8
+mails-per-minute: 1000
+max-tempban-time: -1
+update-bed-at-daytime: true
+world-home-permissions: false
+sethome-multiple:
+  Member: 1
+  Zombie: 6
+  Skelly: 8
+  Creeper: 12
+  Enderman: 16
+  Dragon: 20
+tpa-accept-cancellation: 120
+starting-balance: 1000
+currency-symbol: $
+max-money: 10000000000000
+min-money: 0
+economy-log-enabled: false
+non-ess-in-help: true
+hide-permissionless-help: true
+chat:
+  radius: 0
+  format: '&sA'
+protect:
+  prevent:
+    lava-flow: false
+    water-flow: false
+    water-bucket-flow: false
+    fire-spread: false
+    lava-fire-spread: false
+    flint-fire: false
+    lightning-fire-spread: true
+    portal-creation: true
+    tnt-explosion: false
+    tnt-playerdamage: false
+    tnt-minecart-explosion: false
+    tnt-minecart-playerdamage: false
+    fireball-explosion: false
+    fireball-fire: false
+    fireball-playerdamage: false
+    witherskull-explosion: fasle
+    witherskull-playerdamage: false
+    wither-spawnexplosion: false
+    wither-blockreplace: false
+    creeper-explosion: false
+    creeper-playerdamage: false
+    creeper-blockdamage: false
+    enderdragon-blockdamage: false
+    enderman-pickup: false
+    villager-death: false
+    entitytarget: false
+    spawn:
+      creeper: false
+      skeleton: false
+      spider: false
+      giant: true
+      zombie: false
+      slime: false
+      ghast: false
+      pig_zombie: false
+      enderman: false
+      cave_spider: false
+      silverfish: false
+      blaze: false
+      magma_cube: false
+      ender_dragon: true
+      pig: false
+      sheep: false
+      cow: false
+      chicken: false
+      squid: false
+      wolf: false
+      mushroom_cow: false
+      snowman: false
+      ocelot: false
+      iron_golem: true
+      villager: false
+      wither: true
+      bat: false
+      witch: false
+      horse: true
+  creeper:
+    max-height: -1
+  disable:
+    fall: false
+    pvp: false
+    drown: false
+    suffocate: false
+    lavadmg: false
+    projectiles: false
+    contactdmg: false
+    firedmg: false
+    lightning: false
+    wither: false
+    weather:
+      storm: false
+      thunder: false
+      lightning: false
+    build: true
+    use: true
+    warn-on-build-disallow: true
+  alert:
+    on-placement: 10,11,46,327
+    on-use: 327
+  blacklist: {}
+newbies:
+  announce-format: ''
+  spawnpoint: default
+  kit: member
+respawn-listener-priority: high
+respawn-at-home: false
+kits:
+  Member:
+    delay: 86400
+    items:
+    - DIAMOND_PICKAXE 1 dig_speed:1
+    - DIAMOND_AXE 1 dig_speed:1
+    - DIAMOND_SPADE 1 dig_speed:1
+    - DIAMOND_HOE 1
+    - DIAMOND_SWORD 1 name:&a&lMEMBER damage_all:1
+    - DIAMOND_HELMET 1 name:&a&lMEMBER protection_environmental:1
+    - DIAMOND_CHESTPLATE 1 name:&a&lMEMBER protection_environmental:1
+    - DIAMOND_LEGGINGS 1 name:&a&lMEMBER protection_environmental:1
+    - DIAMOND_BOOTS 1 name:&a&lMEMBER protection_environmental:1
+    - COOKED_BEEF 64
+    - GOLDEN_APPLE 4
+    - ENDER_PEARL 4
+    - MELON_SEEDS 16
+    - PUMPKIN_SEEDS 16
+    - LOG 32
+    - CACTUS 8
+    - SUGAR_CANE 16
+    - POTION:41 2 effect:increase_damage power:1 duration:90
+    - POTION:34 2 effect:speed power:1 duration:90
+    - BOAT 1
+    - BOAT 1
+  Zombie:
+    delay: 86400
+    items:
+    - DIAMOND_SWORD 1 name:&c&lZOMBIE damage_all:2
+    - DIAMOND_PICKAXE 1 name:&c&lZOMBIE dig_speed:2
+    - DIAMOND_AXE 1 name:&c&lZOMBIE dig_speed:2
+    - BOW 1 name:&c&lZOMBIE arrow_damage:1
+    - DIAMOND_HELMET 1 name:&c&lZOMBIE protection_environmental:1
+    - DIAMOND_CHESTPLATE 1 name:&c&lZOMBIE protection_environmental:1
+    - DIAMOND_LEGGINGS 1 name:&c&lZOMBIE protection_environmental:1
+    - DIAMOND_BOOTS 1 name:&c&lZOMBIE protection_environmental:1
+    - GOLDEN_APPLE:1 1
+    - GOLDEN_APPLE 12
+    - ARROW 64
+  Skelly:
+    delay: 86400
+    items:
+    - DIAMOND_SWORD 1 name:&f&lSKELLY damage_all:3
+    - DIAMOND_PICKAXE 1 name:&f&lSKELLY dig_speed:3 loot_bonus_blocks:1
+    - DIAMOND_AXE 1 name:&f&lSKELLY dig_speed:3 loot_bonus_blocks:1
+    - BOW 1 name:&f&lSKELLY arrow_damage:2
+    - DIAMOND_HELMET 1 name:&f&lSKELLY protection_environmental:2
+    - DIAMOND_CHESTPLATE 1 name:&f&lSKELLY protection_environmental:2
+    - DIAMOND_LEGGINGS 1 name:&f&lSKELLY protection_environmental:2
+    - DIAMOND_BOOTS 1 name:&f&lSKELLY protection_environmental:2
+    - GOLDEN_APPLE:1 2
+    - GOLDEN_APPLE 16
+    - ARROW 64
+  Creeper:
+    delay: 86400
+    items:
+    - DIAMOND_SWORD 1 name:&2&lCREEPER damage_all:3 fire_aspect:1
+    - DIAMOND_PICKAXE 1 name:&2&lCREEPER dig_speed:4 loot_bonus_blocks:2
+    - DIAMOND_AXE 1 name:&2&lCREEPER dig_speed:4 loot_bonus_blocks:2
+    - BOW 1 name:&2&lCREEPER arrow_damage:3 arrow_knockback:2
+    - DIAMOND_HELMET 1 name:&2&lCREEPER protection_environmental:3 durability:3
+    - DIAMOND_CHESTPLATE 1 name:&2&lCREEPER protection_environmental:3 durability:3
+    - DIAMOND_LEGGINGS 1 name:&2&lCREEPER protection_environmental:3 durability:3
+    - DIAMOND_BOOTS 1 name:&2&lCREEPER protection_environmental:3 durability:3
+    - GOLDEN_APPLE:1 4
+    - GOLDEN_APPLE 64
+    - ARROW 64
+  Enderman:
+    delay: 86400
+    items:
+    - DIAMOND_SWORD 1 name:&5&lENDERMAN damage_all:4 fire_aspect:2
+    - DIAMOND_PICKAXE 1 name:&5&lENDERMAN dig_speed:5 loot_bonus_blocks:3
+    - DIAMOND_AXE 1 name:&5&lENDERMAN dig_speed:5 loot_bonus_blocks:3
+    - BOW 1 name:&5&lENDERMAN arrow_damage:4
+    - DIAMOND_HELMET 1 name:&5&lENDERMAN protection_environmental:4 durability:4
+    - DIAMOND_CHESTPLATE 1 name:&5&lENDERMAN protection_environmental:4 durability:4
+    - DIAMOND_LEGGINGS 1 name:&5&lENDERMAN protection_environmental:4 durability:4
+    - DIAMOND_BOOTS 1 name:&5&lENDERMAN protection_environmental:4 durability:4
+    - GOLDEN_APPLE:1 6
+    - GOLDEN_APPLE 64
+    - ARROW 64
+    - GOLDEN_APPLE 64
+  Dragon:
+    delay: 86400
+    items:
+    - DIAMOND_SWORD 1 name:&3&lENDERDRAGON damage_all:6 fire_aspect:4
+    - DIAMOND_PICKAXE 1 name:&3&lENDERDRAGON dig_speed:6 loot_bonus_blocks:4
+    - DIAMOND_AXE 1 name:&3&lENDERDRAGON dig_speed:6 loot_bonus_blocks:4
+    - BOW 1 name:&3&lENDERDRAGON arrow_damage:6
+    - DIAMOND_HELMET 1 name:&3&lENDERDRAGON protection_environmental:6 durability:6
+    - DIAMOND_CHESTPLATE 1 name:&3&lENDERDRAGON protection_environmental:6 durability:6
+    - DIAMOND_LEGGINGS 1 name:&3&lENDERDRAGON protection_environmental:6 durability:6
+    - DIAMOND_BOOTS 1 name:&3&lENDERDRAGON protection_environmental:6 durability:6
+    - GOLDEN_APPLE:1 16
+    - GOLDEN_APPLE 64
+    - GOLDEN_APPLE 64
+    - ARROW 64
+  YouTube:
+    delay: 86400
+    items:
+    - DIAMOND_SWORD 1 name:&c&lYouTube damage_all:3
+    - DIAMOND_PICKAXE 1 name:&c&lYouTube dig_speed:3 loot_bonus_blocks:1
+    - DIAMOND_AXE 1 name:&c&lYouTube dig_speed:3 loot_bonus_blocks:1
+    - BOW 1 name:&c&lYouTube arrow_damage:2
+    - DIAMOND_HELMET 1 name:&c&lYouTube protection_environmental:2
+    - DIAMOND_CHESTPLATE 1 name:&c&lYouTube protection_environmental:2
+    - DIAMOND_LEGGINGS 1 name:&c&lYouTube protection_environmental:2
+    - DIAMOND_BOOTS 1 name:&c&lYouTube protection_environmental:2
+    - GOLDEN_APPLE:1 2
+    - GOLDEN_APPLE 16
+    - ARROW 64
+  Food:
+    delay: 86400
+    items:
+    - "364:0 64 name:\xc2\xa7c\xc2\xa7lSTEAK"
+    - "364:0 64 name:\xc2\xa7c\xc2\xa7lSTEAK"
+    - "364:0 64 name:\xc2\xa7c\xc2\xa7lSTEAK"
+    - "364:0 64 name:\xc2\xa7c\xc2\xa7lSTEAK"
+  Zombie2:
+    delay: 172800
+    items:
+    - 49:0 64
+    - 49:0 64
+    - 49:0 64
+    - 49:0 64
+  Skelly2:
+    delay: 172800
+    items:
+    - 49:0 64
+    - 49:0 64
+    - 49:0 64
+    - 49:0 64
+    - 49:0 64
+    - 49:0 64
+    - 49:0 64
+    - 49:0 64
+  Creeper2:
+    delay: 172800
+    items:
+    - 49:0 64
+    - 49:0 64
+    - 49:0 64
+    - 49:0 64
+    - 49:0 64
+    - 49:0 64
+    - 49:0 64
+    - 49:0 64
+    - 49:0 64
+    - 49:0 64
+    - 49:0 64
+    - 49:0 64
+    - 49:0 64
+    - 49:0 64
+  Enderman2:
+    delay: 172800
+    items:
+    - 49:0 64
+    - 49:0 64
+    - 49:0 64
+    - 49:0 64
+    - 49:0 64
+    - 49:0 64
+    - 49:0 64
+    - 49:0 64
+    - 49:0 64
+    - 49:0 64
+    - 49:0 64
+    - 49:0 64
+    - 49:0 64
+    - 49:0 64
+    - 7:0 4
+  Dragon2:
+    delay: 172800
+    items:
+    - 49:0 64
+    - 49:0 64
+    - 49:0 64
+    - 49:0 64
+    - 49:0 64
+    - 49:0 64
+    - 49:0 64
+    - 49:0 64
+    - 49:0 64
+    - 49:0 64
+    - 49:0 64
+    - 49:0 64
+    - 49:0 64
+    - 49:0 64
+    - 7:0 12
+  ki:
+    delay: 6000
+    items:
+    - 373:16420 1
+    - 373:16420 1
+    - 373:16420 1
+    - 279:0 1
+    - 278:0 1
+    - 293:0 1
+    - 397:1 3
+    - 327:0 1
+    - 397:1 1
+    - 397:1 1
+    - 397:1 1
+    - 311:0 1
+    - 88:0 1
+    - 88:0 1
+    - 88:0 1
+    - 276:0 1
+    - 312:0 1
+    - 310:0 1
+    - 88:0 1
+    - 313:0 1
+  kitwither:
+    delay: 6000
+    items:
+    - 373:16420 1
+    - 373:16420 1
+    - 373:16420 1
+    - 279:0 1
+    - 278:0 1
+    - 293:0 1
+    - 397:1 3
+    - 327:0 1
+    - 397:1 1
+    - 397:1 1
+    - 397:1 1
+    - 311:0 1
+    - 88:0 1
+    - 88:0 1
+    - 88:0 1
+    - 276:0 1
+    - 312:0 1
+    - 310:0 1
+    - 88:0 1
+    - 313:0 1
+    
+chat:
+  radius: 0
+  format: '&8[&c{factions_name|rp}&8] &f{DISPLAYNAME}&7: &r{MESSAGE}'

@@ -1,0 +1,50 @@
+error-flight-denied:
+- "\xc2\xa7bCombat \xc2\xa78\xc2\xbb \xc2\xa77You \xc2\xa7caren't \xc2\xa77allowed\
+  \ to fly while in combat."
+error-teleport-denied:
+- "\xc2\xa7bCombat \xc2\xa78\xc2\xbb \xc2\xa77You \xc2\xa7caren't \xc2\xa77allowed\
+  \ to teleport while in combat."
+error-action-denied:
+- "\xc2\xa7bCombat \xc2\xa78\xc2\xbb \xc2\xa77You \xc2\xa7caren't \xc2\xa77allowed\
+  \ to use that during combat."
+error-command-denied:
+- "\xc2\xa7bCombat \xc2\xa78\xc2\xbb \xc2\xa77This command is \xc2\xa7cnot \xc2\xa7\
+  7allowed during combat."
+error-world-denied:
+- "\xc2\xa7bCombat \xc2\xa78\xc2\xbb \xc2\xa77This world has been \xc2\xa7cexempt\
+  \ \xc2\xa77from combat tag."
+error-material-denied:
+- "\xc2\xa7bCombat \xc2\xa78\xc2\xbb \xc2\xa77This material is \xc2\xa7cblocked \xc2\
+  \xa77while in combat."
+potion-effects-removed:
+- "\xc2\xa7bCombat \xc2\xa78\xc2\xbb \xc2\xa77Some of your potion effects have been\
+  \ \xc2\xa7cremoved\xc2\xa77!"
+gamemode-changed:
+- "\xc2\xa7bCombat \xc2\xa78\xc2\xbb \xc2\xa77Your gamemode has been changed."
+error-death-banned:
+- "\xc2\xa7bCombat \xc2\xa78\xc2\xbb \xc2\xa77You are death banned for\xc2\xa7c%time%!"
+death-message:
+- "\xc2\xa7bCombat \xc2\xa78\xc2\xbb \xc2\xa77You have \xc2\xa7ckilled \xc2\xa7e%victim%"
+death-fined:
+- "\xc2\xa7bCombat \xc2\xa78\xc2\xbb \xc2\xa77You have been fined \xc2\xa7a$%amount%\
+  \ for your death"
+error-not-player:
+- "\xc2\xa7bCombat \xc2\xa78\xc2\xbb \xc2\xa77This command \xc2\xa7ccan only \xc2\xa7\
+  7be executed by players."
+error-not-in-combat:
+- "\xc2\xa7bCombat \xc2\xa78\xc2\xbb \xc2\xa77You \xc2\xa7caren't \xc2\xa77in combat."
+combat-tag-removed:
+- "\xc2\xa7bCombat \xc2\xa78\xc2\xbb \xc2\xa77You have been \xc2\xa7cforcefully removed\
+  \ \xc2\xa77from combat."
+combat-duration:
+- "\xc2\xa7bCombat \xc2\xa78\xc2\xbb \xc2\xa77Tag will expire in \xc2\xa7c%time%\xc2\
+  \xa77 seconds."
+combat-tag-expired:
+- "\xc2\xa7bCombat \xc2\xa78\xc2\xbb \xc2\xa77Tag has \xc2\xa7cexpired\xc2\xa77."
+combat-taggee:
+- "\xc2\xa7bCombat \xc2\xa78\xc2\xbb \xc2\xa77You have tagged \xc2\xa7c%victim%\xc2\
+  \xa77! you are now in combat for \xc2\xa7e%time%\xc2\xa77 seconds!"
+combat-tagged:
+- "\xc2\xa7bCombat \xc2\xa78\xc2\xbb \xc2\xa77You have been tagged by \xc2\xa7e%attacker%\xc2\
+  \xa77! your tag will expire in \xc2\xa7e%time%\xc2\xa77 seconds. You can use /ct\
+  \ to check your current tag time."

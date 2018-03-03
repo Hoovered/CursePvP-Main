@@ -1,0 +1,60 @@
+vault1:
+  '0': '{"amount":16,"==":"org.bukkit.inventory.ItemStack","type":"CACTUS"}'
+  '1': '{"amount":32,"==":"org.bukkit.inventory.ItemStack","type":"PUMPKIN_SEEDS"}'
+  '2': '{"amount":32,"==":"org.bukkit.inventory.ItemStack","type":"MELON_SEEDS"}'
+  '3': '{"amount":8,"==":"org.bukkit.inventory.ItemStack","type":"ENDER_PEARL"}'
+  '4': '{"amount":8,"==":"org.bukkit.inventory.ItemStack","type":"GOLDEN_APPLE"}'
+  '5': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"COOKED_BEEF"}'
+  '6': '{"==":"org.bukkit.inventory.ItemStack","damage":41,"type":"POTION","meta":{"==":"ItemMeta","meta-type":"POTION","custom-effects":[{"duration":1800,"effect":5,"==":"PotionEffect","has-particles":true,"ambient":true,"amplifier":0}]}}'
+  '7': '{"==":"org.bukkit.inventory.ItemStack","damage":34,"type":"POTION","meta":{"==":"ItemMeta","meta-type":"POTION","custom-effects":[{"duration":1800,"effect":1,"==":"PotionEffect","has-particles":true,"ambient":true,"amplifier":0}]}}'
+  '8': '{"==":"org.bukkit.inventory.ItemStack","type":"BOAT"}'
+  '9': '{"==":"org.bukkit.inventory.ItemStack","type":"BOAT"}'
+  '10': '{"==":"org.bukkit.inventory.ItemStack","type":"BOAT"}'
+  '11': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_CHESTPLATE\"\
+    ,\"meta\":{\"display-name\":\"\xa7a\xa7lMEMBER\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"PROTECTION_ENVIRONMENTAL\":1}}}"
+  '12': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_HELMET\",\"\
+    meta\":{\"display-name\":\"\xa7a\xa7lMEMBER\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"PROTECTION_ENVIRONMENTAL\":1}}}"
+  '13': '{"==":"org.bukkit.inventory.ItemStack","damage":34,"type":"POTION","meta":{"==":"ItemMeta","meta-type":"POTION","custom-effects":[{"duration":1800,"effect":1,"==":"PotionEffect","has-particles":true,"ambient":true,"amplifier":0}]}}'
+  '14': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_LEGGINGS\"\
+    ,\"meta\":{\"display-name\":\"\xa7a\xa7lMEMBER\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"PROTECTION_ENVIRONMENTAL\":1}}}"
+  '15': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_BOOTS\",\"\
+    meta\":{\"display-name\":\"\xa7a\xa7lMEMBER\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"PROTECTION_ENVIRONMENTAL\":1}}}"
+  '16': '{"==":"org.bukkit.inventory.ItemStack","type":"BOAT"}'
+  '17': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"COOKED_BEEF"}'
+  '18': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_AXE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DIG_SPEED":1}}}'
+  '19': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"LOG"}'
+  '20': '{"==":"org.bukkit.inventory.ItemStack","damage":34,"type":"POTION","meta":{"==":"ItemMeta","meta-type":"POTION","custom-effects":[{"duration":1800,"effect":1,"==":"PotionEffect","has-particles":true,"ambient":true,"amplifier":0}]}}'
+  '21': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_PICKAXE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DIG_SPEED":1}}}'
+  '22': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_SPADE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DIG_SPEED":1}}}'
+  '23': '{"==":"org.bukkit.inventory.ItemStack","damage":41,"type":"POTION","meta":{"==":"ItemMeta","meta-type":"POTION","custom-effects":[{"duration":1800,"effect":5,"==":"PotionEffect","has-particles":true,"ambient":true,"amplifier":0}]}}'
+  '24': '{"==":"org.bukkit.inventory.ItemStack","damage":41,"type":"POTION","meta":{"==":"ItemMeta","meta-type":"POTION","custom-effects":[{"duration":1800,"effect":5,"==":"PotionEffect","has-particles":true,"ambient":true,"amplifier":0}]}}'
+  '25': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HOE"}'
+  '26': '{"amount":32,"==":"org.bukkit.inventory.ItemStack","type":"SUGAR_CANE"}'
+  '27': '{"==":"org.bukkit.inventory.ItemStack","damage":41,"type":"POTION","meta":{"==":"ItemMeta","meta-type":"POTION","custom-effects":[{"duration":1800,"effect":5,"==":"PotionEffect","has-particles":true,"ambient":true,"amplifier":0}]}}'
+  '28': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_SWORD\",\"\
+    meta\":{\"display-name\":\"\xa7a\xa7lMEMBER\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DAMAGE_ALL\":1}}}"
+  '29': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"COOKED_BEEF\"\
+    ,\"meta\":{\"display-name\":\"\xc2\xa7c\xc2\xa7lSTEAK\",\"==\":\"ItemMeta\",\"\
+    meta-type\":\"UNSPECIFIC\"}}"
+  '30': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"COOKED_BEEF\"\
+    ,\"meta\":{\"display-name\":\"\xc2\xa7c\xc2\xa7lSTEAK\",\"==\":\"ItemMeta\",\"\
+    meta-type\":\"UNSPECIFIC\"}}"
+  '31': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"COOKED_BEEF\"\
+    ,\"meta\":{\"display-name\":\"\xc2\xa7c\xc2\xa7lSTEAK\",\"==\":\"ItemMeta\",\"\
+    meta-type\":\"UNSPECIFIC\"}}"
+  '32': "{\"amount\":64,\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"COOKED_BEEF\"\
+    ,\"meta\":{\"display-name\":\"\xc2\xa7c\xc2\xa7lSTEAK\",\"==\":\"ItemMeta\",\"\
+    meta-type\":\"UNSPECIFIC\"}}"
+  '33': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_SWORD\",\"\
+    meta\":{\"display-name\":\"\xa7a\xa7lMEMBER\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"DAMAGE_ALL\":1}}}"
+  '34': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HOE"}'
+  '35': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_SPADE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DIG_SPEED":1}}}'
+  '36': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_AXE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DIG_SPEED":1}}}'
+  '37': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_PICKAXE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DIG_SPEED":1}}}'
+  '38': '{"==":"org.bukkit.inventory.ItemStack","damage":34,"type":"POTION","meta":{"==":"ItemMeta","meta-type":"POTION","custom-effects":[{"duration":1800,"effect":1,"==":"PotionEffect","has-particles":true,"ambient":true,"amplifier":0}]}}'

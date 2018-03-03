@@ -1,0 +1,29 @@
+lastAccountName: D3zam
+timestamps:
+  login: 1519976840844
+  logout: 1519976884756
+  lastteleport: 1519976863327
+ipAddress: 86.99.4.75
+lastlocation:
+  world: world
+  x: 904.8916086435348
+  y: 73.0
+  z: -1502.2897989678909
+  yaw: 17.999786
+  pitch: 70.19994
+money: '17000'
+homes:
+  home:
+    world: world
+    x: 905.6188929360391
+    y: 72.0
+    z: -1502.1882149148746
+    yaw: 3.9
+    pitch: 24.9
+logoutlocation:
+  world: world
+  x: 367.5661067511606
+  y: 71.0
+  z: -660.0204211642234
+  yaw: 150.58344
+  pitch: 15.754347

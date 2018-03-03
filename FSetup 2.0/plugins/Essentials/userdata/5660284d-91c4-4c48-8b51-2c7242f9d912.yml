@@ -1,0 +1,24 @@
+lastAccountName: xAntiCliimax
+timestamps:
+  login: 1519791664982
+  logout: 1519792064287
+  lastteleport: 1519791964218
+  kits:
+    member: 1519791770416
+    food: 1519791792148
+ipAddress: 71.72.210.226
+lastlocation:
+  world: world
+  x: 373.82135726537746
+  y: 71.0
+  z: -670.764529848793
+  yaw: 4.6478405
+  pitch: 8.209079
+logoutlocation:
+  world: world
+  x: -3302.5460440130714
+  y: 74.0
+  z: 3962.154608917736
+  yaw: 282.62473
+  pitch: 16.95357
+money: '0.0'

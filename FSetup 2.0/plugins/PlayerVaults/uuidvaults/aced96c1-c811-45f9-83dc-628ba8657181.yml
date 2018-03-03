@@ -1,0 +1,2 @@
+vault1:
+  '49': '{"amount":4,"==":"org.bukkit.inventory.ItemStack","type":"ENDER_PEARL"}'

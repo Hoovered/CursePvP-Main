@@ -1,0 +1,15 @@
+vault1:
+  '0': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"OBSIDIAN"}'
+  '1': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"ARROW"}'
+  '2': '{"==":"org.bukkit.inventory.ItemStack","type":"SKULL_ITEM"}'
+  '3': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"OBSIDIAN"}'
+  '8': '{"==":"org.bukkit.inventory.ItemStack","type":"WATER_BUCKET"}'
+  '9': '{"==":"org.bukkit.inventory.ItemStack","amount":2,"type":"ARROW"}'
+  '11': '{"==":"org.bukkit.inventory.ItemStack","damage":2,"type":"SKULL_ITEM"}'
+  '19': '{"==":"org.bukkit.inventory.ItemStack","damage":4,"type":"SKULL_ITEM"}'
+  '20': '{"==":"org.bukkit.inventory.ItemStack","type":"DARK_OAK_STAIRS"}'
+  '21': '{"==":"org.bukkit.inventory.ItemStack","damage":3,"meta":{"skull-owner":"MHF_Spider","==":"ItemMeta","meta-type":"SKULL","internal":"H4sIAAAAAAAAAEWSya6zRhSE+X8l0s1VHiM764qp4ZpFFsbYpjGDmaE3EbMZGjCDMTxTHjJONlmcTZ2vpHNK9UkQn8Tvdj03zW3o8rLJPoifMCX+4KKU43IWfAE65r9AnDJfQsIyX/Re2LMJz3ICy38Sn29Tnw1TmY2/ER9T9prmIRs/CYL48UH8ZpdFG/2r/Pw77gR168oTvSyNvhf8MwMtsITdIeLBlT26isZlbH1W8FmolGxL5zHahVR2zW/Blj6OUBvc17R5Hnd2nzwFLlYTFcbQtQ7zImWQQ8uPR4zS5Zks7XJqEnZKPPq6pkMqck59sycpccQywtDmt9FXw/1dyvkxY7Pa3DvWQK7bsYiufQdaFxoarnck/Rw0P6YYSj3BfjIMabhrAhU+0pHnkvycIYvaTe5raSyciIgC6UiuVSvNAK0hqJE4i1TE+wtHtoKMJ1AXa1qwlTU1pugenqKhJuouXFjKUMNMBr2IaBo7aTi/4zFzY3HYAezMRjUdj3t18vgUzQXKlbwti0Jb0Glzhdl72UwlGpJIue8GbxCP2qQt24OUEopJVZzq0MsrIISjkj0ZT+ui4yug73QYjr7owcDEImvZxzsnUEkmJJDf809GyrKUHx/ldZE8/M1SZHue65IqdsEW3R4VHp+5svT7Azk3wNJmRW4Pr1uL1EnglyEIV47uLr0B2MFfAEjMoIcbwrJ43fyae1yF8RAI+WDrU50Ip7lo4Pcpzc2LAPMg2htmb9edfPf2nJSSsolZm5z9ofbB7ahQ7QM392J2LHWUQGDbd2GDQ79JvA6GJBm+QYh0kOlnWzueFObiDor2utVY6PQuvO3WpXcD8ngID4vjZtTe7grSHLuh3cJYZymX2jkCXbSX058fxK9e1MzZjyBbFSry6XedrHscHEqjOlG6BIG+wVWrXE53ihG24hozqI8vnoKOkIeVd0eSS6NKe7PnUq+sEkmQCzdt1ZyCMyS90iuNNhyNgeVSJrLyRLgZkcvdY98tjVLR7RPKXVbs0cVb/2OYpo3xmUoDpXGx90r9ZkW+WRqttaa++77BajLZohPsbbDqv2Gjq7YL3vuxfHtGWHVlJFtUInVPlf2fVTHdx9irEnzG6ZGbUWA+04sHUtlbkS1U7z8ozXmPb91DH2HdOQDDQW8d0sZFqUNs1fpFx4YkVhqj3A3pxOibRr/zYTQpASFGjbbVm+FAFjkui6pTmQe0QBAfxC96hDPiU5PPf9l9mWYDQfwDNfnAqo0EAAA=","display-name":"§rSpider
+    Head"},"type":"SKULL_ITEM"}'
+  '24': '{"==":"org.bukkit.inventory.ItemStack","type":"WATER_BUCKET"}'
+  '26': '{"==":"org.bukkit.inventory.ItemStack","type":"WATER_BUCKET"}'
+  '29': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"OBSIDIAN"}'

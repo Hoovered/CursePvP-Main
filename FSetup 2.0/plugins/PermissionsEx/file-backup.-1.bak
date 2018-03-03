@@ -1,0 +1,211 @@
+groups:
+  Member:
+    default: true
+    permissions:
+    - modifyworld.*
+    - essentials.rules
+    - essentials.help
+    - essentials.pay
+    - essentials.balance
+    - essentials.signs.use.sell
+    - essentials.signs.use.buy
+    - essentials.tell
+    - essentials.sell
+    - essentials.back
+    - essentials.back.ondeath
+    - essentials.who
+    - essentials.afk
+    - essentials.list
+    - essentials.msg
+    - essentials.warp.list
+    - lockette.user.create.*
+    - essentials.warp
+    - essentials.helpop
+    - essentials.motd
+    - essentials.spawn
+    - essentials.home
+    - essentials.tpa
+    - essentials.tpahere
+    - essentials.tpaccept
+    - essentials.home
+    - essentials.sethome
+    - arena.leave
+    - arena.join.spleef
+    - essentials.sethome
+    - iConomy.payment
+    - iConomy.holdings
+    - iConomy.holdings.others
+    - iConomy.sell
+    - factions.join
+    - factions.create
+    - factions.disband
+    - factions.leave
+    - factions.help
+    - factions.title
+    - factions.relation
+    - factions.who
+    - factions.admin
+    - factions.power
+    - factions.claim
+    - factions.unclaim
+    - factions.description
+    - factions.mod
+    - factions.list
+    - factions.home
+    - factions.sethome
+    - factions.unclaimall
+    - factions.kick
+    - factions.invite
+    - factions.map
+    - factions.show
+    - factions.disband
+    - factions.chat
+    - lwc.protect
+    - mcmmo.ability.*
+    - mcmmo.skills.*
+    - ChestShop.buy
+    - ChestShop.sell
+    prefix: '&7|&8 Member&7 |&7 '
+    options:
+      build: true
+  Builder:
+    default: false
+    permissions:
+    - modifyworld.*
+    - essentials.rules
+    - essentials.help
+    - essentials.pay
+    - essentials.balance
+    - essentials.signs.use.sell
+    - mobarena.use.join
+    - mobarena.use.leave
+    - mobarena.use.spec
+    - mobarena.use.arenalist
+    - mobarena.use.playerlist
+    - mobarena.use.notready
+    - mobarena.use.class
+    - lockette.user.create.*
+    - essentials.signs.use.buy
+    - essentials.tell
+    - arena.leave
+    - arena.join.spleef
+    - essentials.sell
+    - essentials.back
+    - essentials.back.ondeath
+    - essentials.who
+    - essentials.afk
+    - essentials.list
+    - essentials.msg
+    - essentials.warp.list
+    - essentials.warp
+    - essentials.helpop
+    - essentials.motd
+    - essentials.spawn
+    - essentials.home
+    - essentials.tpa
+    - essentials.tpahere
+    - essentials.tpaccept
+    - essentials.home
+    - essentials.sethome
+    - essentials.sethome
+    - iConomy.payment
+    - iConomy.holdings
+    - iConomy.holdings.others
+    - iConomy.sell
+    - factions.join
+    - factions.create
+    - factions.disband
+    - factions.leave
+    - factions.help
+    - factions.title
+    - factions.relation
+    - factions.who
+    - factions.admin
+    - factions.power
+    - factions.claim
+    - factions.unclaim
+    - factions.description
+    - factions.mod
+    - factions.list
+    - factions.home
+    - factions.sethome
+    - factions.unclaimall
+    - factions.kick
+    - factions.invite
+    - factions.map
+    - factions.show
+    - factions.disband
+    - factions.chat
+    - lwc.protect
+    - mcmmo.ability.*
+    - mcmmo.skills.*
+    - ChestShop.buy
+    - ChestShop.sell
+    prefix: '&7|&b Builder&7 |&8 '
+    options:
+      build: true
+  Moderator:
+    permissions:
+    - essentials.tempban
+    - essentials.heal
+    - essentials.feed
+    - essentials.ban.notify
+    - essentials.banip
+    - essentials.clearinventory
+    - essentials.eco.loan
+    - essentials.ext
+    - essentials.getpos
+    - essentials.helpop.recieve
+    - essentials.home.others
+    - essentials.invsee - essentials.jails
+    - essentials.jump
+    - essentials.kick
+    - essentials.kick.notify
+    - essentials.mute
+    - essentials.realname
+    - essentials.signs.create.*
+    - essentials.signs.break.*
+    - essentials.time
+    - essentials.protect.alerts
+    - essentials.protect.admin
+    - essentials.protect.ownerinfo
+    - essentials.togglejail
+    - essentials.top
+    - essentials.unban
+    - essentials.unbanip
+    - essentials.whois
+    - essentials.world
+    inheritance:
+    - Member
+    prefix: '&7|&3 Mod&7 | '
+    options:
+      build: true
+  Admin:
+    permissions:
+    - essentials.gamemode
+    - essentials.tp
+    - essentials.ban
+    - essentials.god
+    - essentials.invsee
+    inheritance:
+    - Member
+    - Moderator
+    prefix: '&7|&a Admin&7 | '
+    options:
+      build: true
+  Owner:
+    permissions:
+    - '*'
+    inheritance:
+    - admin
+    prefix: '&7|&6 Owner&7 | '
+    options:
+      build: true
+  Co-Owner:
+    permissions:
+    - '*'
+    inheritance:
+    - admin
+    prefix: '&7|&6 Co-Owner&7 | '
+    options:
+      build: true

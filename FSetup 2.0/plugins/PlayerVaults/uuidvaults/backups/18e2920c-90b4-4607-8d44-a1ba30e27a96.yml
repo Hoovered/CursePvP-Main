@@ -1,0 +1,97 @@
+vault1:
+  '0': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"meta\":{\"==\":\"ItemMeta\",\"\
+    meta-type\":\"UNSPECIFIC\",\"lore\":[\"\xa7a53% Success Rate\",\"\xa7c21% Destroy\
+    \ Rate\",\"\xa7eChance to deal double damage\",\"\xa77Armor Enchant\",\"\xa77Drop\
+    \ onto item to enchant\"],\"display-name\":\"\xa76\xa7l\xa7nDeathbringer II\"\
+    },\"type\":\"BOOK\"}"
+  '1': '{"==":"org.bukkit.inventory.ItemStack","damage":3,"amount":64,"type":"WOOL"}'
+  '2': '{"==":"org.bukkit.inventory.ItemStack","damage":1,"amount":14,"type":"GOLDEN_APPLE"}'
+  '3': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"GOLDEN_APPLE"}'
+  '4': '{"==":"org.bukkit.inventory.ItemStack","damage":9,"amount":64,"type":"WOOL"}'
+  '5': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"meta\":{\"==\":\"ItemMeta\",\"\
+    meta-type\":\"UNSPECIFIC\",\"lore\":[\"\xa7a56% Success Rate\",\"\xa7c50% Destroy\
+    \ Rate\",\"\xa7eHeals you whenever an enemy player\",\"\xa7eis damaged by the\
+    \ Bleed enchantment\",\"\xa77Armor Enchant\",\"\xa77Drop onto item to enchant\"\
+    ],\"display-name\":\"\xa76\xa7l\xa7nBlood Lust III\"},\"type\":\"BOOK\"}"
+  '6': '{"==":"org.bukkit.inventory.ItemStack","damage":13,"type":"WOOL"}'
+  '7': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"GOLDEN_APPLE"}'
+  '8': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"meta\":{\"==\":\"ItemMeta\",\"\
+    meta-type\":\"UNSPECIFIC\",\"lore\":[\"\xa7a16% Success Rate\",\"\xa7c3% Destroy\
+    \ Rate\",\"\xa7eHas a chance of removing a\",\"\xa7earmor piece from your enemy\"\
+    ,\"\xa77Sword Enchant\",\"\xa77Drop onto item to enchant\"],\"display-name\":\"\
+    \xa76\xa7l\xa7nDisarmor V\"},\"type\":\"BOOK\"}"
+  '9': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DURABILITY":3,"PROTECTION_ENVIRONMENTAL":4,"THORNS":3}},"type":"DIAMOND_CHESTPLATE"}'
+  '10': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"meta\":{\"==\":\"ItemMeta\"\
+    ,\"meta-type\":\"UNSPECIFIC\",\"lore\":[\"\xa7a97% Success Rate\",\"\xa7c92% Destroy\
+    \ Rate\",\"\xa7eHeals you whenever an enemy player\",\"\xa7eis damaged by the\
+    \ Bleed enchantment\",\"\xa77Armor Enchant\",\"\xa77Drop onto item to enchant\"\
+    ],\"display-name\":\"\xa76\xa7l\xa7nBlood Lust IV\"},\"type\":\"BOOK\"}"
+  '11': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"damage\":30,\"meta\":{\"==\"\
+    :\"ItemMeta\",\"meta-type\":\"UNSPECIFIC\",\"enchants\":{\"KNOCKBACK\":3,\"DAMAGE_ALL\"\
+    :6,\"FIRE_ASPECT\":4},\"display-name\":\"\xa73\xa7lENDERDRAGON\"},\"type\":\"\
+    DIAMOND_SWORD\"}"
+  '12': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"ENCHANTED","stored-enchants":{"LOOT_BONUS_BLOCKS":1}},"type":"ENCHANTED_BOOK"}'
+  '13': '{"==":"org.bukkit.inventory.ItemStack","damage":2,"amount":64,"type":"WOOL"}'
+  '14': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"meta\":{\"==\":\"ItemMeta\"\
+    ,\"meta-type\":\"UNSPECIFIC\",\"lore\":[\"\xa77Removes a random enchantment\"\
+    ,\"\xa77from an item and converts\",\"\xa77it into a \xa7f77% \xa77success book.\"\
+    ,\"\xa7fPlace scroll on item to extract.\"],\"display-name\":\"\xa7f\xa7lBlack\
+    \ Scroll\"},\"type\":\"INK_SACK\"}"
+  '15': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"damage\":4,\"meta\":{\"==\"\
+    :\"ItemMeta\",\"meta-type\":\"UNSPECIFIC\",\"enchants\":{\"PROTECTION_ENVIRONMENTAL\"\
+    :1},\"display-name\":\"\xa78[\xa7d\xa7k!\xa78] \xa77Starter \xa78[\xa7d\xa7k!\xa7\
+    8]\"},\"type\":\"IRON_CHESTPLATE\"}"
+  '16': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"meta\":{\"==\":\"ItemMeta\"\
+    ,\"meta-type\":\"UNSPECIFIC\",\"lore\":[\"\xa77Removes a random enchantment\"\
+    ,\"\xa77from an item and converts\",\"\xa77it into a \xa7f80% \xa77success book.\"\
+    ,\"\xa7fPlace scroll on item to extract.\"],\"display-name\":\"\xa7f\xa7lBlack\
+    \ Scroll\"},\"type\":\"INK_SACK\"}"
+  '17': '{"==":"org.bukkit.inventory.ItemStack","amount":62,"type":"CHEST"}'
+  '18': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"damage\":4,\"meta\":{\"==\"\
+    :\"ItemMeta\",\"meta-type\":\"UNSPECIFIC\",\"enchants\":{\"PROTECTION_ENVIRONMENTAL\"\
+    :1},\"display-name\":\"\xa78[\xa7d\xa7k!\xa78] \xa77Starter \xa78[\xa7d\xa7k!\xa7\
+    8]\"},\"type\":\"IRON_HELMET\"}"
+  '19': '{"==":"org.bukkit.inventory.ItemStack","damage":1,"amount":64,"type":"RED_ROSE"}'
+  '20': '{"==":"org.bukkit.inventory.ItemStack","amount":2,"type":"COOKED_MUTTON"}'
+  '21': '{"==":"org.bukkit.inventory.ItemStack","damage":7,"type":"WOOL"}'
+  '22': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"damage\":4,\"meta\":{\"==\"\
+    :\"ItemMeta\",\"meta-type\":\"UNSPECIFIC\",\"enchants\":{\"PROTECTION_ENVIRONMENTAL\"\
+    :1},\"display-name\":\"\xa78[\xa7d\xa7k!\xa78] \xa77Starter \xa78[\xa7d\xa7k!\xa7\
+    8]\"},\"type\":\"IRON_BOOTS\"}"
+  '23': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"damage\":4,\"meta\":{\"==\"\
+    :\"ItemMeta\",\"meta-type\":\"UNSPECIFIC\",\"enchants\":{\"PROTECTION_ENVIRONMENTAL\"\
+    :1},\"display-name\":\"\xa78[\xa7d\xa7k!\xa78] \xa77Starter \xa78[\xa7d\xa7k!\xa7\
+    8]\"},\"type\":\"IRON_LEGGINGS\"}"
+  '24': '{"==":"org.bukkit.inventory.ItemStack","damage":11,"amount":64,"type":"WOOL"}'
+  '25': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"meta\":{\"==\":\"ItemMeta\"\
+    ,\"meta-type\":\"UNSPECIFIC\",\"lore\":[\"\xa77Organizes enchants by \xa7e\xa7\
+    nrarity\xa7r \xa77on item\",\"\xa77and adds the \xa7blore \xa7acount \xa77to name\"\
+    ,\" \",\"\xa7e\xa7oPlace scroll on item to apply.\"],\"display-name\":\"\xa7e\xa7\
+    lTransmog Scroll\"},\"type\":\"PAPER\"}"
+  '26': '{"==":"org.bukkit.inventory.ItemStack","type":"LEAVES"}'
+  '27': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"meta\":{\"==\":\"ItemMeta\"\
+    ,\"meta-type\":\"UNSPECIFIC\",\"lore\":[\"\xa7a47% Success Rate\",\"\xa7c52% Destroy\
+    \ Rate\",\"\xa7ePassive Soul Enchantment. While\",\"\xa7eSoul Mode is not enabled,\
+    \ this\",\"\xa7eenchant will protect your gear's\",\"\xa7edurability. Cost 1 soul\"\
+    ,\"\xa7eper durability loss\",\"\xa77Armor Enchant\",\"\xa77Drop onto item to\
+    \ enchant\"],\"display-name\":\"\xa7c\xa7l\xa7nImmortal IV\"},\"type\":\"BOOK\"\
+    }"
+  '28': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"meta\":{\"==\":\"ItemMeta\"\
+    ,\"meta-type\":\"UNSPECIFIC\",\"lore\":[\"\xa7a62% Success Rate\",\"\xa7c6% Destroy\
+    \ Rate\",\"\xa7eGives Strength 4 and Slowness 4\",\"\xa77Armor Enchant\",\"\xa7\
+    7Drop onto item to enchant\"],\"display-name\":\"\xa76\xa7l\xa7nDrunk IV\"},\"\
+    type\":\"BOOK\"}"
+  '29': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"amount\":2,\"meta\":{\"==\"\
+    :\"ItemMeta\",\"meta-type\":\"UNSPECIFIC\",\"lore\":[\"\xa77Examine to recieve\
+    \ a random\",\"\xa76legendary \xa77enchantment book.\"],\"display-name\":\"\xa7\
+    6\xa7lLegendary Enchantment Book \xa77(Right Click)\"},\"type\":\"BOOK\"}"
+  '30': '{"==":"org.bukkit.inventory.ItemStack","damage":10,"type":"FLINT_AND_STEEL"}'
+  '31': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_SWORD"}'
+  '32': '{"==":"org.bukkit.inventory.ItemStack","type":"IRON_TRAPDOOR"}'
+  '33': '{"==":"org.bukkit.inventory.ItemStack","type":"NETHER_BRICK"}'
+  '34': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"meta\":{\"==\":\"ItemMeta\"\
+    ,\"meta-type\":\"UNSPECIFIC\",\"enchants\":{\"LOOT_BONUS_BLOCKS\":4,\"DIG_SPEED\"\
+    :6},\"display-name\":\"\xa73\xa7lENDERDRAGON\"},\"type\":\"DIAMOND_AXE\"}"
+  '35': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"meta\":{\"==\":\"ItemMeta\"\
+    ,\"meta-type\":\"UNSPECIFIC\",\"enchants\":{\"LOOT_BONUS_BLOCKS\":4,\"DIG_SPEED\"\
+    :6},\"display-name\":\"\xa73\xa7lENDERDRAGON\"},\"type\":\"DIAMOND_PICKAXE\"}"

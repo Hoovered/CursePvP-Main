@@ -1,0 +1,29 @@
+lastAccountName: FactionCreeperYT
+timestamps:
+  login: 1520003861632
+  logout: 1520003899860
+  lastteleport: 1519757705655
+ipAddress: 81.230.72.121
+lastlocation:
+  world: world
+  x: 1622.3569910815058
+  y: 70.0
+  z: -1623.556501228757
+  yaw: -45.450703
+  pitch: 30.90007
+homes:
+  home:
+    world: world
+    x: 1625.5801341823353
+    y: 70.0
+    z: -1625.311273717321
+    yaw: 0.29934692
+    pitch: 16.950018
+money: '2000'
+logoutlocation:
+  world: world
+  x: 373.58434671837193
+  y: 71.0625
+  z: -666.9327158619656
+  yaw: 54.88364
+  pitch: 13.875574

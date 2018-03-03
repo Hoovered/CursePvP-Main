@@ -1,0 +1,22 @@
+lastAccountName: sossniper
+timestamps:
+  login: 1520021903623
+  logout: 1520021985031
+  lastteleport: 1520021971813
+  kits:
+    member: 1519691139948
+ipAddress: 68.59.98.99
+lastlocation:
+  world: world
+  x: -3293.5
+  y: 83.0
+  z: 3903.5
+  yaw: 194.36377
+  pitch: 53.44912
+logoutlocation:
+  world: world
+  x: 369.692672153898
+  y: 72.0
+  z: -653.449045866055
+  yaw: 73.88703
+  pitch: 43.0112

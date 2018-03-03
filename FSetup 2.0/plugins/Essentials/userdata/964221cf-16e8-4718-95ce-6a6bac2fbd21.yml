@@ -1,0 +1,21 @@
+lastAccountName: SynexMC
+timestamps:
+  login: 1519689958663
+  logout: 1519690053867
+  lastteleport: 1519690002786
+ipAddress: 213.207.135.35
+lastlocation:
+  world: world_the_end
+  x: 1.3772763875472913
+  y: 62.0
+  z: 17.461172506196505
+  yaw: 137.95941
+  pitch: -11.518985
+logoutlocation:
+  world: world
+  x: 363.71000392889266
+  y: 72.0
+  z: -677.9349345208526
+  yaw: -38.809265
+  pitch: -0.6131708
+money: '1000.0'

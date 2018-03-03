@@ -1,0 +1,28 @@
+lastAccountName: iStrafinqNL
+timestamps:
+  login: 1519858379888
+  lastteleport: 1519858571858
+  logout: 1519858847099
+ipAddress: 84.107.42.80
+lastlocation:
+  world: world
+  x: -3342.4660653610435
+  y: 86.0
+  z: 3968.8174695348434
+  yaw: 52.35852
+  pitch: 15.444547
+homes:
+  home:
+    world: world
+    x: -3286.0367041754585
+    y: 63.0
+    z: 3989.929643698299
+    yaw: 342.6133
+    pitch: 19.54917
+logoutlocation:
+  world: world
+  x: -3375.522101633386
+  y: 61.0
+  z: 4035.6918493189237
+  yaw: 200.5522
+  pitch: 21.141054

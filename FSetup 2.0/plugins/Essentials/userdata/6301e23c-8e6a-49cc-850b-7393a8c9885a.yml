@@ -1,0 +1,31 @@
+lastAccountName: SwitchingIowa37
+timestamps:
+  login: 1519873768329
+  kits:
+    member: 1519591930914
+  lastteleport: 1519592632988
+  logout: 1519873787525
+ipAddress: 68.13.5.57
+lastlocation:
+  world: buildsextra
+  x: -9.990223725875424
+  y: 35.0
+  z: 207.51452383118507
+  yaw: 149.09343
+  pitch: 9.169366
+logoutlocation:
+  world: world
+  x: 388.3712307603741
+  y: 96.0
+  z: -1213.300000011921
+  yaw: -26.796371
+  pitch: 80.97603
+money: '4600.0'
+homes:
+  home:
+    world: world
+    x: 372.60090141393925
+    y: 69.0
+    z: -1190.430479137803
+    yaw: 46.153553
+    pitch: 15.749143

@@ -1,0 +1,57 @@
+spawns: 
+  default: 
+    world: world
+    x: 373.3907252107661
+    y: 71.0625
+    z: -667.497046187853
+    yaw: -268.81656
+    pitch: -1.0456529
+  admin: 
+    world: world
+    x: 373.5
+    y: 71.0
+    z: -667.5
+    yaw: -268.81656
+    pitch: -1.0456529
+  "sr.admin": 
+    world: world
+    x: 373.5
+    y: 71.0
+    z: -667.5
+    yaw: -268.81656
+    pitch: -1.0456529
+  "sr.mod": 
+    world: world
+    x: 373.5
+    y: 71.0
+    z: -667.5
+    yaw: -268.81656
+    pitch: -1.0456529
+  mod: 
+    world: world
+    x: 373.5
+    y: 71.0
+    z: -667.5
+    yaw: -268.81656
+    pitch: -1.0456529
+  "trial-mod": 
+    world: world
+    x: 373.5
+    y: 71.0
+    z: -667.5
+    yaw: -268.81656
+    pitch: -1.0456529
+  owner: 
+    world: world
+    x: 373.5
+    y: 71.0
+    z: -667.5
+    yaw: -268.81656
+    pitch: -1.0456529
+  "co-owner": 
+    world: world
+    x: 373.5
+    y: 71.0
+    z: -667.5
+    yaw: -268.81656
+    pitch: -1.0456529

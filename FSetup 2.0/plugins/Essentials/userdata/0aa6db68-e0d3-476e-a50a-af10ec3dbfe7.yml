@@ -1,0 +1,28 @@
+lastAccountName: BekoGaming06
+timestamps:
+  login: 1519759908303
+  lastteleport: 1519760047698
+  logout: 1519760642630
+ipAddress: 77.78.16.127
+lastlocation:
+  world: world
+  x: 157.4507920295
+  y: 63.0
+  z: -669.440505717881
+  yaw: 210.25954
+  pitch: 60.233246
+homes:
+  home:
+    world: world
+    x: 50.52189858606212
+    y: 65.0
+    z: -736.9385003492029
+    yaw: -0.8182373
+    pitch: 59.156723
+logoutlocation:
+  world: world
+  x: 50.51959931836179
+  y: 64.92159999847412
+  z: -736.4875000119209
+  yaw: 4.8243566
+  pitch: 61.52135

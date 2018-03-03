@@ -1,0 +1,29 @@
+lastAccountName: antisocial_cat
+timestamps:
+  login: 1519693873927
+  logout: 1519693054978
+  lastteleport: 1519693790019
+ipAddress: 67.204.195.41
+lastlocation:
+  world: world
+  x: 400.48750001192093
+  y: 64.0
+  z: -988.6999999880791
+  yaw: 348.19055
+  pitch: -35.42929
+money: '67000'
+logoutlocation:
+  world: world
+  x: 370.1397288624735
+  y: 71.0
+  z: -676.6564397876875
+  yaw: 258.30945
+  pitch: 3.608465
+homes:
+  home:
+    world: world
+    x: 402.6888842295511
+    y: 63.015625
+    z: -981.3891119512414
+    yaw: -174.84926
+    pitch: 81.26092

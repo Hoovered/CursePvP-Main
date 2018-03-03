@@ -1,0 +1,21 @@
+lastAccountName: o00kan
+timestamps:
+  login: 1519863514026
+  logout: 1519863324651
+  lastteleport: 1519863756070
+ipAddress: 86.84.142.90
+lastlocation:
+  world: world
+  x: -3299.557889229324
+  y: 58.0
+  z: 3967.300000011921
+  yaw: 308.99582
+  pitch: 6.4499617
+logoutlocation:
+  world: world
+  x: 365.1192508769327
+  y: 72.0
+  z: -656.2972793284819
+  yaw: 107.53343
+  pitch: 4.3543487
+money: '23000'

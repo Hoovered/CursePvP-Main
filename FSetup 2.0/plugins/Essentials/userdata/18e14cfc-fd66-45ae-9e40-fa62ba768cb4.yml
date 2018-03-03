@@ -1,0 +1,23 @@
+lastAccountName: JurassicYato
+timestamps:
+  login: 1519910027058
+  logout: 1519910036194
+  lastteleport: 1519599256449
+  kits:
+    member: 1519599128890
+ipAddress: 69.39.105.176
+lastlocation:
+  world: buildsextra
+  x: 341.5032733310173
+  y: 5.0
+  z: 195.5235493762805
+  yaw: 90.3324
+  pitch: 13.403228
+logoutlocation:
+  world: world
+  x: 282.7714531352311
+  y: 72.0
+  z: -669.1189881710903
+  yaw: 207.55235
+  pitch: 39.645435
+money: '1000.0'

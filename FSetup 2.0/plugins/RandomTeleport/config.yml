@@ -1,0 +1,8 @@
+Sign:
+  Line1: '&4[Teleport]'
+  Line2: '&2Random'
+  Line3: '&2Teleport'
+  Line4: '&8Click Here'
+Coords:
+  Min: -5000
+  Max: 5000

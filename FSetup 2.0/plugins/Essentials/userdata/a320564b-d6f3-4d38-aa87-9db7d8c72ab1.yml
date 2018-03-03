@@ -1,0 +1,32 @@
+lastAccountName: neko_sora
+timestamps:
+  login: 1519915052884
+  kits:
+    member: 1519862248698
+    food: 1519692636652
+  lastteleport: 1519915892927
+  logout: 1519916024583
+ipAddress: 160.177.30.220
+lastlocation:
+  world: world
+  x: 834.974187479119
+  y: 37.0
+  z: 2882.904053557259
+  yaw: 187.63312
+  pitch: 89.85
+money: '238562.0'
+homes:
+  home:
+    world: world
+    x: -930.5
+    y: 5.0
+    z: -1205.5
+    yaw: 176.39647
+    pitch: 10.200007
+logoutlocation:
+  world: world
+  x: -928.1149080223239
+  y: 5.0
+  z: -1205.300000011921
+  yaw: 96.44651
+  pitch: 30.300018

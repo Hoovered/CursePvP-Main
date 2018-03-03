@@ -1,0 +1,7 @@
+&7&m--------------------------------------------
+    &a&lCursePvP
+
+ &a&l(!) &7Don't forget to &a/vote &7for the server!
+ &a&l(!) &7If you need any help use &a/help & &a/staff
+ &a&l(!) &7We have updated &a/rules &7Read them!
+&7&m--------------------------------------------

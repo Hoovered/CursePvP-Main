@@ -1,0 +1,125 @@
+16-07-20 09:17:02 [INFO] Logger started.
+16-07-20 09:17:02 [INFO] Logging system initialized.
+16-07-20 09:17:02 [INFO] Detected Minecraft version: 1.7.10
+16-07-20 09:17:06 [INFO] McAccess set to: 1.7.10 / CB3100
+16-07-20 09:17:06 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-07-20 09:17:06 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-07-20 09:17:06 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-07-20 09:17:06 [WARNING] Bad block id (compatibility.blocks.ignorepassable): IRON_TRAPDOOR
+16-07-20 09:17:06 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-07-20 09:17:06 [WARNING] NoCheatPlus supports ProtocolLib 3.6.4 on Minecraft 1.7.10 and earlier, ProtocolLib 3.6.4 or 3.6.5 on Minecraft 1.8, ProtocolLib 3.7 on Minecraft 1.9, ProtocolLib 4.0.0 or later on Minecraft 1.9 [EXPERIMENTAL].
+16-07-20 09:17:06 [INFO] Packet level access: ProtocolLib is not available.
+16-07-20 09:17:06 [INFO] Version 3.14.0-SNAPSHOT-sMD5NET-b968 is enabled.
+16-07-20 09:17:08 [INFO] Registered for fr.neatmonster.nocheatplus.components.location.IEntityAccessLastPositionAndLook: fr.neatmonster.nocheatplus.compat.cbreflect.reflect.ReflectEntityLastPositionAndLook
+16-07-20 09:17:08 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-07-20 09:17:08 [INFO] Post-enable running...
+16-07-20 09:17:09 [INFO] Post-enable finished.
+16-07-20 09:17:09 [INFO] ---- Version information ----
+#### Server ####
+git-PaperSpigot-43 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.14.0-SNAPSHOT-sMD5NET-b968
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.0-SNAPSHOT
+16-07-20 09:58:23 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-07-20 09:58:23 [FINE] | canceldead 11 (11/0) | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 96105 (96105/0) | event.player.move.handled.pos 57362 (57362/0) | event.player.move.handled.look 2460 (2460/0) | event.player.move.handled.pos_look 36206 (36206/0) |
+16-07-20 09:58:24 [INFO] Logger started.
+16-07-20 09:58:24 [INFO] Logging system initialized.
+16-07-20 09:58:24 [INFO] Detected Minecraft version: 1.7.10
+16-07-20 09:58:27 [INFO] McAccess set to: 1.7.10 / CB3100
+16-07-20 09:58:27 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-07-20 09:58:27 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-07-20 09:58:27 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-07-20 09:58:27 [WARNING] Bad block id (compatibility.blocks.ignorepassable): IRON_TRAPDOOR
+16-07-20 09:58:27 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-07-20 09:58:27 [WARNING] NoCheatPlus supports ProtocolLib 3.6.4 on Minecraft 1.7.10 and earlier, ProtocolLib 3.6.4 or 3.6.5 on Minecraft 1.8, ProtocolLib 3.7 on Minecraft 1.9, ProtocolLib 4.0.0 or later on Minecraft 1.9 [EXPERIMENTAL].
+16-07-20 09:58:27 [INFO] Packet level access: ProtocolLib is not available.
+16-07-20 09:58:27 [INFO] Version 3.14.0-SNAPSHOT-sMD5NET-b968 is enabled.
+16-07-20 09:58:30 [INFO] Registered for fr.neatmonster.nocheatplus.components.location.IEntityAccessLastPositionAndLook: fr.neatmonster.nocheatplus.compat.cbreflect.reflect.ReflectEntityLastPositionAndLook
+16-07-20 09:58:30 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-07-20 09:58:30 [INFO] Post-enable running...
+16-07-20 09:58:31 [INFO] Updated data for 6 players (post-enable).
+16-07-20 09:58:31 [INFO] Post-enable finished.
+16-07-20 09:58:31 [INFO] ---- Version information ----
+#### Server ####
+git-PaperSpigot-43 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.14.0-SNAPSHOT-sMD5NET-b968
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.0-SNAPSHOT
+16-07-20 09:58:53 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-07-20 09:58:53 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 875 (875/0) | event.player.move.handled.pos 646 (646/0) | event.player.move.handled.look 26 (26/0) | event.player.move.handled.pos_look 203 (203/0) |
+16-07-20 09:58:54 [INFO] Logger started.
+16-07-20 09:58:54 [INFO] Logging system initialized.
+16-07-20 09:58:54 [INFO] Detected Minecraft version: 1.7.10
+16-07-20 09:58:56 [INFO] McAccess set to: 1.7.10 / CB3100
+16-07-20 09:58:56 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-07-20 09:58:56 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-07-20 09:58:56 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-07-20 09:58:56 [WARNING] Bad block id (compatibility.blocks.ignorepassable): IRON_TRAPDOOR
+16-07-20 09:58:56 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-07-20 09:58:56 [WARNING] NoCheatPlus supports ProtocolLib 3.6.4 on Minecraft 1.7.10 and earlier, ProtocolLib 3.6.4 or 3.6.5 on Minecraft 1.8, ProtocolLib 3.7 on Minecraft 1.9, ProtocolLib 4.0.0 or later on Minecraft 1.9 [EXPERIMENTAL].
+16-07-20 09:58:56 [INFO] Packet level access: ProtocolLib is not available.
+16-07-20 09:58:56 [INFO] Version 3.14.0-SNAPSHOT-sMD5NET-b968 is enabled.
+16-07-20 09:58:59 [INFO] Registered for fr.neatmonster.nocheatplus.components.location.IEntityAccessLastPositionAndLook: fr.neatmonster.nocheatplus.compat.cbreflect.reflect.ReflectEntityLastPositionAndLook
+16-07-20 09:58:59 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-07-20 09:58:59 [INFO] Post-enable running...
+16-07-20 09:58:59 [INFO] Updated data for 1 players (post-enable).
+16-07-20 09:58:59 [INFO] Post-enable finished.
+16-07-20 09:58:59 [INFO] ---- Version information ----
+#### Server ####
+git-PaperSpigot-43 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.14.0-SNAPSHOT-sMD5NET-b968
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.0-SNAPSHOT
+16-07-20 09:59:09 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-07-20 09:59:09 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 7 (7/0) | event.player.move.handled.pos 1 (1/0) | event.player.move.handled.look 6 (6/0) | event.player.move.handled.pos_look 0 |
+16-07-20 09:59:10 [INFO] Logger started.
+16-07-20 09:59:10 [INFO] Logging system initialized.
+16-07-20 09:59:10 [INFO] Detected Minecraft version: 1.7.10
+16-07-20 09:59:12 [INFO] McAccess set to: 1.7.10 / CB3100
+16-07-20 09:59:12 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-07-20 09:59:12 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-07-20 09:59:12 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-07-20 09:59:12 [WARNING] Bad block id (compatibility.blocks.ignorepassable): IRON_TRAPDOOR
+16-07-20 09:59:12 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-07-20 09:59:12 [WARNING] NoCheatPlus supports ProtocolLib 3.6.4 on Minecraft 1.7.10 and earlier, ProtocolLib 3.6.4 or 3.6.5 on Minecraft 1.8, ProtocolLib 3.7 on Minecraft 1.9, ProtocolLib 4.0.0 or later on Minecraft 1.9 [EXPERIMENTAL].
+16-07-20 09:59:12 [INFO] Packet level access: ProtocolLib is not available.
+16-07-20 09:59:12 [INFO] Version 3.14.0-SNAPSHOT-sMD5NET-b968 is enabled.
+16-07-20 09:59:16 [INFO] Registered for fr.neatmonster.nocheatplus.components.location.IEntityAccessLastPositionAndLook: fr.neatmonster.nocheatplus.compat.cbreflect.reflect.ReflectEntityLastPositionAndLook
+16-07-20 09:59:16 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-07-20 09:59:16 [INFO] Post-enable running...
+16-07-20 09:59:16 [INFO] Updated data for 1 players (post-enable).
+16-07-20 09:59:16 [INFO] Post-enable finished.
+16-07-20 09:59:16 [INFO] ---- Version information ----
+#### Server ####
+git-PaperSpigot-43 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.14.0-SNAPSHOT-sMD5NET-b968
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.0-SNAPSHOT

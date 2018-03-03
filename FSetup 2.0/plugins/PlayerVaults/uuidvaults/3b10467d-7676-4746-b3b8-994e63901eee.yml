@@ -1,0 +1,8 @@
+vault1:
+  '0': '{"amount":4,"==":"org.bukkit.inventory.ItemStack","type":"ENDER_PEARL"}'
+  '1': '{"amount":4,"==":"org.bukkit.inventory.ItemStack","type":"GOLDEN_APPLE"}'
+  '2': '{"amount":16,"==":"org.bukkit.inventory.ItemStack","type":"MELON_SEEDS"}'
+  '3': '{"amount":16,"==":"org.bukkit.inventory.ItemStack","type":"PUMPKIN_SEEDS"}'
+  '4': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"PAPER\",\"meta\":{\"\
+    display-name\":\"\xa7a\xa7lBANKNOTE\",\"==\":\"ItemMeta\",\"meta-type\":\"UNSPECIFIC\"\
+    ,\"lore\":[\"\xa77$900\",\"\xa77Withdrawn by Tanis1007\"]}}"

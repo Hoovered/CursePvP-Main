@@ -1,0 +1,21 @@
+lastAccountName: brayan2407
+timestamps:
+  login: 1519758007867
+  lastteleport: 1519758141951
+  logout: 1519757993867
+ipAddress: 74.140.109.148
+lastlocation:
+  world: world
+  x: 420.4526099883817
+  y: 69.0
+  z: -690.739030695813
+  yaw: 323.85123
+  pitch: 74.69999
+logoutlocation:
+  world: world
+  x: 367.5
+  y: 71.0
+  z: -661.5
+  yaw: -113.39868
+  pitch: 13.082369
+money: '2000.0'

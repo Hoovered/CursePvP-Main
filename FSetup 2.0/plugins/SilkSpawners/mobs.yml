@@ -1,0 +1,327 @@
+# creatures: key is official creature type name (mobID), case-sensitive, from http://jd.bukkit.org/apidocs/org/bukkit/entity/CreatureType.html
+creatures:
+ 
+   # Vanilla mobs, from http://www.minecraftwiki.net/wiki/Data_values#Entity_IDs
+  Creeper:
+    aliases:
+    - c
+    - creep
+    - cataclysm
+    enable: true
+    enableCraftingSpawner: false
+    enableSpawnEggOverride: true
+  Skeleton:
+    aliases:
+    - s
+    - sk
+    - skelly
+    - skellington
+    enable: true
+    enableCraftingSpawner: false
+    enableSpawnEggOverride: true
+  Spider:
+    aliases:
+    - sp
+    - bug
+    enable: true
+    enableCraftingSpawner: false
+    enableSpawnEggOverride: true
+  Giant:
+    aliases:
+    - giantzombie
+    enable: true
+    enableCraftingSpawner: false
+    enableSpawnEggOverride: true
+  Zombie:
+    aliases:
+    - z
+    - zed
+    enable: true
+    enableCraftingSpawner: false
+    enableSpawnEggOverride: true
+  Slime:
+    aliases:
+    - sl
+    enable: true
+    enableCraftingSpawner: false
+    enableSpawnEggOverride: true
+  Ghast:
+    aliases:
+    - g
+    - ghost
+    enable: true
+    enableCraftingSpawner: false
+    enableSpawnEggOverride: true
+  PigZombie:
+    aliases:
+    - pigman
+    - zombiepigman
+    - pg
+    - zp
+    displayName: Zombie Pigman
+    enable: true
+    enableCraftingSpawner: false
+    enableSpawnEggOverride: true
+  Enderman:
+    aliases:
+    - e
+    - ender
+    - endermen
+    - slenderman
+    - slender
+    enable: true
+    enableCraftingSpawner: false
+    enableSpawnEggOverride: true
+  CaveSpider:
+    aliases:
+    - cspider
+    - cs
+    - bluespider
+    displayName: Cave Spider
+    enable: true
+    enableCraftingSpawner: false
+    enableSpawnEggOverride: true
+  Silverfish:
+    aliases:
+    - sf
+    - sfish
+    enable: true
+    enableCraftingSpawner: false
+    enableSpawnEggOverride: true
+  Blaze:
+    aliases:
+    - bl
+    - b
+    enable: true
+    enableCraftingSpawner: false
+    enableSpawnEggOverride: true
+  LavaSlime:
+    aliases:
+    - magmacube
+    - mcube
+    - magma
+    - m
+    - mc
+    displayName: Magma Cube
+    enable: true
+    enableCraftingSpawner: false
+    enableSpawnEggOverride: true
+  EnderDragon:
+    aliases:
+    - dragon
+    - raqreqentba
+    displayName: Ender Dragon
+    enable: true
+    enableCraftingSpawner: false
+    enableSpawnEggOverride: true
+  Pig:
+    aliases:
+    - p
+    enable: true
+    enableCraftingSpawner: false
+    enableSpawnEggOverride: true
+  Sheep:
+    aliases:
+    - sh
+    enable: true
+    enableCraftingSpawner: false
+    enableSpawnEggOverride: true
+  Cow:
+    aliases:
+    - bovine
+    enable: true
+    enableCraftingSpawner: false
+    enableSpawnEggOverride: true
+  Chicken:
+    aliases:
+    - ch
+    - chick
+    - bird
+    enable: true
+    enableCraftingSpawner: false
+    enableSpawnEggOverride: true
+  Squid:
+    aliases:
+    - sq
+    - octopus
+    enable: true
+    enableCraftingSpawner: false
+    enableSpawnEggOverride: true
+  Wolf:
+    aliases:
+    - w
+    - dog
+    enable: true
+    enableCraftingSpawner: false
+    enableSpawnEggOverride: true
+  MushroomCow:
+    aliases:
+    - mc
+    - mcow
+    displayName: Mooshroom
+    enable: true
+    enableCraftingSpawner: false
+    enableSpawnEggOverride: true
+  SnowMan:
+    aliases:
+    - golem
+    - sgolem
+    - sg
+    - sm
+    - snowmen
+    displayName: Snow Golem
+    enable: true
+    enableCraftingSpawner: false
+    enableSpawnEggOverride: true
+  Ozelot:
+    aliases:
+    - ocelot
+    - oce
+    - o
+    - cat
+    - kitty
+    displayName: Ocelot
+    enable: true
+    enableCraftingSpawner: false
+    enableSpawnEggOverride: true
+  VillagerGolem:
+    aliases:
+    - igolem
+    - ironman
+    - iron
+    - ig
+    displayName: Iron Golem
+    enable: true
+    enableCraftingSpawner: false
+    enableSpawnEggOverride: true
+  Villager:
+    aliases:
+    - v
+    - npc
+    enable: true
+    enableCraftingSpawner: false
+    enableSpawnEggOverride: true
+  Witch:
+    aliases:
+    - hag
+    - sibly
+    - sorceress
+    enable: true
+    enableCraftingSpawner: false
+    enableSpawnEggOverride: true
+  Bat:
+    aliases:
+    - batman
+    enable: true
+    enableCraftingSpawner: false
+    enableSpawnEggOverride: true
+  WitherBoss:
+    aliases:
+    - wboss
+    displayName: Wither
+    enable: true
+    enableCraftingSpawner: false
+    enableSpawnEggOverride: true
+  EntityHorse:
+    aliases:
+    - horse
+    - h
+    - bronco
+    - donkey
+    - pony
+    - mule
+    displayName: Horse
+    enable: true
+    enableCraftingSpawner: false
+    enableSpawnEggOverride: true
+  Rabbit:
+    aliases:
+    - r
+    - rab
+    - bunny
+    - hare
+    - cony
+    - coney
+    enable: true
+    enableCraftingSpawner: false
+    enableSpawnEggOverride: true
+  Endermite:
+    aliases:
+    - mite
+    - acarid
+    - acarian
+    - acarine
+    enable: true
+    enableCraftingSpawner: false
+    enableSpawnEggOverride: true
+  Guardian:
+    aliases:
+    - keeper
+    - guard
+    - watcher
+    enable: true
+    enableCraftingSpawner: false
+    enableSpawnEggOverride: true
+ 
+  # Non-mob vanilla entities
+  # Enable on your own risk, some might work, some not!
+  Item:
+    enable: false
+  XPOrb:
+    enable: false
+  Painting:
+    enable: false
+  Arrow:
+    enable: false
+  Snowball:
+    enable: false
+  Fireball:
+    enable: false
+  SmallFireball:
+    enable: false
+  ThrownEnderpearl:
+    enable: false
+  EyeOfEnderSignal:
+    enable: false
+  ThrownPotion:
+    enable: false
+  ThrownExpBottle:
+    enable: false
+  PrimedTnt:
+    enable: false
+  FallingSand:
+    enable: false
+  Boat:
+    enable: false
+  Mob:
+    enable: false
+  Monster:
+    enable: false
+  EnderCrystal:
+    enable: false
+  ItemFrame:
+    enable: false
+  WitherSkull:
+    enable: false
+  FireworksRocketEntity:
+    enable: false
+  MinecartRideable:
+    enable: false
+  MinecartChest:
+    enable: false
+  MinecartFurnace:
+    enable: false
+  MinecartTNT:
+    enable: false
+  MinecartHopper:
+    enable: false
+  MinecartSpawner:
+    enable: false
+  LeashKnot:
+    enable: false
+  MinecartCommandBlock:
+    enable: false
+  ArmorStand:
+    enable: false
+  ThrownEgg:
+    enable: false

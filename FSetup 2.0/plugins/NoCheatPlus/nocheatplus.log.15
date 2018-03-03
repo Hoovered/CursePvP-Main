@@ -1,0 +1,901 @@
+16-03-04 19:23:25 [INFO] Logger started.
+16-03-04 19:23:25 [INFO] Logging system initialized.
+16-03-04 19:23:25 [INFO] Detected Minecraft version: 1.7.10
+16-03-04 19:23:29 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-04 19:23:29 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-04 19:23:29 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-04 19:23:29 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-04 19:23:29 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-04 19:23:29 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-04 19:23:29 [INFO] Packet level access: ProtocolLib is not available.
+16-03-04 19:23:29 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-04 19:23:35 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-04 19:23:35 [INFO] Post-enable running...
+16-03-04 19:23:35 [INFO] Post-enable finished.
+16-03-04 19:23:35 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-1.7.9-R0.2-208-ge0f2e95 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-04 19:23:35 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-04 19:23:35 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 0 | event.player.move.handled.pos 0 | event.player.move.handled.look 0 | event.player.move.handled.pos_look 0 |
+16-03-04 19:25:43 [INFO] Logger started.
+16-03-04 19:25:43 [INFO] Logging system initialized.
+16-03-04 19:25:43 [INFO] Detected Minecraft version: 1.7.10
+16-03-04 19:25:46 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-04 19:25:46 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-04 19:25:46 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-04 19:25:46 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-04 19:25:47 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-04 19:25:47 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-04 19:25:47 [INFO] Packet level access: ProtocolLib is not available.
+16-03-04 19:25:47 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-04 19:25:52 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-04 19:25:52 [INFO] Post-enable running...
+16-03-04 19:25:52 [INFO] Post-enable finished.
+16-03-04 19:25:52 [INFO] ---- Version information ----
+#### Server ####
+git-PaperSpigot-1f7d532 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-04 19:28:04 [INFO] killerendermen67 failed to use speed hacks. SPEED.
+16-03-04 19:28:36 [INFO] Want_Fanatic failed to use fly hacks. FLY.
+16-03-04 19:28:41 [INFO] Want_Fanatic failed to use speed hacks. SPEED.
+16-03-04 19:32:57 [INFO] ZahidQasim failed to use nofall hacks. NO FALL.
+16-03-04 19:33:07 [INFO] Want_Fanatic failed to use fly hacks. FLY.
+16-03-04 19:33:17 [INFO] Want_Fanatic failed to use fly hacks. FLY.
+16-03-04 19:33:27 [INFO] Want_Fanatic failed to use fly hacks. FLY.
+16-03-04 19:33:28 [INFO] marlonelloco failed to use nofall hacks. NO FALL.
+16-03-04 19:33:37 [INFO] Want_Fanatic failed to use fly hacks. FLY.
+16-03-04 19:33:38 [INFO] Want_Fanatic failed to use fly hacks. FLY.
+16-03-04 19:33:48 [INFO] Want_Fanatic failed to use fly hacks. FLY.
+16-03-04 19:33:53 [INFO] Want_Fanatic failed to use speed hacks. SPEED.
+16-03-04 19:33:58 [INFO] Want_Fanatic failed to use speed hacks. SPEED.
+16-03-04 19:34:03 [INFO] Want_Fanatic failed to use speed hacks. SPEED.
+16-03-04 19:34:08 [INFO] Want_Fanatic failed to use speed hacks. SPEED.
+16-03-04 19:34:13 [INFO] Want_Fanatic failed to use speed hacks. SPEED.
+16-03-04 19:34:18 [INFO] Want_Fanatic failed to use speed hacks. SPEED.
+16-03-04 19:34:25 [INFO] Want_Fanatic failed to use fly hacks. FLY.
+16-03-04 19:34:28 [INFO] marlonelloco failed Passable: moved into a block (1) from -704.70, 50.65, 1.58 to -704.70, 49.94, 1.63 distance 0.72 . VL 10.
+16-03-04 19:36:15 [INFO] xAbstract failed to use fly hacks. FLY.
+16-03-04 19:40:59 [INFO] VipFTW failed to use fly hacks. FLY.
+16-03-04 19:41:06 [INFO] VipFTW failed to use speed hacks. SPEED.
+16-03-04 19:41:08 [INFO] VipFTW failed to use nofall hacks. NO FALL.
+16-03-04 19:41:09 [INFO] VipFTW failed to use speed hacks. SPEED.
+16-03-04 19:41:09 [INFO] (CONSOLE) Kicked VipFTW : Kicked for flying (or related)
+16-03-04 19:41:23 [INFO] VipFTW failed to use speed hacks. SPEED.
+16-03-04 19:41:23 [INFO] VipFTW failed to use nofall hacks. NO FALL.
+16-03-04 19:46:31 [INFO] marlonelloco failed Passable: moved into a block (4) from -725.70, 5.23, 17.70 to -725.70, 4.85, 17.70 distance 0.38 . VL 12.
+16-03-04 19:46:51 [INFO] marlonelloco failed Passable: moved into a block (44) from 284.50, 63.51, -106.50 to 284.50, 63.41, -106.50 distance 0.10 . VL 12.
+16-03-04 19:47:01 [INFO] SparkzPlays failed Text: acted like spamming (IP: 45.46.228.170). VL 0.
+16-03-04 19:47:01 [INFO] (CONSOLE) Kicked SparkzPlays : You're not allowed to spam in chat!
+16-03-04 19:48:32 [INFO] EnderBird15 failed to use fly hacks. FLY.
+16-03-04 19:50:01 [INFO] ZoraxFX failed Text: acted like spamming (IP: 67.177.72.245). VL 0.
+16-03-04 19:50:01 [INFO] (CONSOLE) Kicked ZoraxFX : You're not allowed to spam in chat!
+16-03-04 19:50:07 [INFO] Want_Fanatic failed to use fly hacks. FLY.
+16-03-04 19:50:44 [INFO] marlonelloco failed Passable: moved into a block (4) from -725.50, 12.00, 15.50 to -725.50, 11.90, 15.50 distance 0.10 . VL 11.
+16-03-04 19:50:57 [INFO] CrayonLogic failed to use nofall hacks. NO FALL.
+16-03-04 19:51:20 [INFO] EnderBird15 failed to use fly hacks. FLY.
+16-03-04 19:51:36 [INFO] EnderBird15 failed to use fly hacks. FLY.
+16-03-04 19:52:13 [INFO] FrozenPie failed to use speed hacks. SPEED.
+16-03-04 19:52:37 [INFO] EnderBird15 failed to use nofall hacks. NO FALL.
+16-03-04 19:54:51 [INFO] marlonelloco failed Passable: moved into a block (124) from 262.50, 76.00, -85.50 to 262.50, 75.90, -85.50 distance 0.10 . VL 11.
+16-03-04 19:55:39 [INFO] ChronosYT failed to use fly hacks. FLY.
+16-03-04 19:56:33 [INFO] marlonelloco failed Passable: moved into a block (1) from -2084.54, 60.23, 162.55 to -2084.54, 59.85, 162.55 distance 0.38 . VL 10.
+16-03-04 19:56:34 [INFO] Want_Fanatic failed Passable: moved into a block (1) from -808.50, 47.41, -1416.50 to -808.50, 46.89, -1416.50 distance 0.52 . VL 11.
+16-03-04 19:56:36 [INFO] marlonelloco failed to use fly hacks. FLY.
+16-03-04 19:56:38 [INFO] marlonelloco failed Passable: moved into a block (1) from -2084.54, 57.23, 162.55 to -2084.54, 56.85, 162.55 distance 0.38 . VL 14.
+16-03-04 19:56:44 [INFO] marlonelloco failed Passable: moved into a block (1) from -2084.54, 54.23, 162.55 to -2084.54, 53.85, 162.55 distance 0.38 . VL 22.
+16-03-04 19:56:46 [INFO] Want_Fanatic failed Passable: moved into a block (1) from -808.50, 30.23, -1416.50 to -808.50, 29.85, -1416.50 distance 0.38 . VL 13.
+16-03-04 19:56:55 [INFO] Want_Fanatic failed Passable: moved into a block (1) from -808.70, 23.23, -1416.70 to -808.70, 22.85, -1416.70 distance 0.38 . VL 18.
+16-03-04 19:56:56 [INFO] marlonelloco failed Passable: moved into a block (1) from -2084.70, 53.14, 162.30 to -2084.70, 52.55, 162.30 distance 0.59 . VL 26.
+16-03-04 19:57:00 [INFO] Want_Fanatic failed Passable: moved into a block (3) from -808.70, 18.23, -1416.70 to -808.70, 17.85, -1416.70 distance 0.38 . VL 20.
+16-03-04 19:57:01 [INFO] marlonelloco failed Passable: moved into a block (1) from -2084.30, 53.00, 162.30 to -2084.30, 52.92, 162.30 distance 0.08 . VL 33.
+16-03-04 19:57:09 [INFO] Want_Fanatic failed Passable: moved into a block (1) from -808.70, 13.23, -1416.70 to -808.70, 12.85, -1416.70 distance 0.38 . VL 21.
+16-03-04 19:57:15 [INFO] Want_Fanatic failed Passable: moved into a block (1) from -808.70, 6.23, -1416.70 to -808.70, 5.85, -1416.70 distance 0.38 . VL 22.
+16-03-04 19:57:20 [INFO] CrayonLogic failed Passable: moved into a block (4) from 362.50, 40.00, 617.50 to 362.50, 39.90, 617.50 distance 0.10 . VL 11.
+16-03-04 19:58:01 [INFO] CrayonLogic failed Passable: moved into a block (124) from 262.50, 76.00, -85.50 to 262.50, 75.90, -85.50 distance 0.10 . VL 12.
+16-03-04 19:58:05 [INFO] FrozenPie failed Passable: moved into a block (1) from 3779.70, 51.05, -303.70 to 3779.70, 50.27, -303.70 distance 0.78 . VL 10.
+16-03-04 19:58:19 [INFO] ZoraxFX failed to use nofall hacks. NO FALL.
+16-03-04 19:58:28 [INFO] FrozenPie failed Passable: moved into a block (1) from 3779.70, 50.23, -303.70 to 3779.70, 49.85, -303.70 distance 0.38 . VL 19.
+16-03-04 19:58:29 [INFO] ZoraxFX failed to use fly hacks. FLY.
+16-03-04 19:58:33 [INFO] AbusiveMango failed to use fly hacks. FLY.
+16-03-04 19:58:34 [INFO] AbusiveMango failed to use speed hacks. SPEED.
+16-03-04 19:58:34 [INFO] FrozenPie failed Passable: moved into a block (1) from 3779.70, 44.23, -303.70 to 3779.70, 43.85, -303.70 distance 0.38 . VL 21.
+16-03-04 19:58:38 [INFO] marlonelloco failed Passable: moved into a block (1) from -2084.70, 52.57, 162.70 to -2084.70, 51.40, 162.70 distance 1.17 . VL 34.
+16-03-04 19:58:50 [INFO] FrozenPie failed Passable: moved into a block (1) from 3779.61, 36.23, -303.70 to 3779.61, 35.85, -303.70 distance 0.38 . VL 23.
+16-03-04 19:59:01 [INFO] marlonelloco failed Passable: moved into a block (4) from -725.50, 12.00, 15.50 to -725.50, 11.90, 15.50 distance 0.10 . VL 40.
+16-03-04 19:59:54 [INFO] lGapplesPvP failed to use fly hacks. FLY.
+16-03-04 19:59:54 [INFO] lGapplesPvP failed to use fly hacks. FLY.
+16-03-04 19:59:54 [INFO] lGapplesPvP failed MorePackets: sent too many moves (10 epsacc). VL 10.
+16-03-04 19:59:54 [INFO] FrozenPie failed Direction: tried to interact with a block out of their line of sight. VL 12.
+16-03-04 19:59:54 [INFO] AdoxeMC failed Text: acted like spamming (IP: 73.19.226.17). VL 3.
+16-03-04 19:59:54 [INFO] (CONSOLE) Kicked AdoxeMC : You're not allowed to spam in chat!
+16-03-04 19:59:55 [INFO] marlonelloco failed Direction: tried to interact with a block out of their line of sight. VL 11.
+16-03-04 19:59:55 [INFO] lGapplesPvP failed MorePackets: sent too many moves (11 epsacc). VL 11.
+16-03-04 19:59:57 [INFO] lGapplesPvP failed MorePackets: sent too many moves (11 epsacc). VL 11.
+16-03-04 19:59:57 [INFO] marlonelloco failed MorePackets: sent too many moves (10 epsacc). VL 10.
+16-03-04 19:59:57 [INFO] DnellyOP failed MorePackets: sent too many moves (10 epsacc). VL 10.
+16-03-04 19:59:57 [INFO] lGapplesPvP failed to use speed hacks. SPEED.
+16-03-04 19:59:57 [INFO] killerendermen67 failed MorePackets: sent too many moves (10 epsacc). VL 10.
+16-03-04 19:59:57 [INFO] EnderBird15 failed MorePackets: sent too many moves (10 epsacc). VL 10.
+16-03-04 19:59:57 [INFO] ChronosYT failed to use speed hacks. SPEED.
+16-03-04 20:00:02 [INFO] Sudss failed to use fly hacks. FLY.
+16-03-04 20:00:08 [INFO] Sudss failed to use fly hacks. FLY.
+16-03-04 20:00:11 [INFO] lGapplesPvP failed to use fly hacks. FLY.
+16-03-04 20:00:31 [INFO] marlonelloco failed to use fly hacks. FLY.
+16-03-04 20:00:31 [INFO] marlonelloco failed to use fly hacks. FLY.
+16-03-04 20:00:36 [INFO] marlonelloco failed to use speed hacks. SPEED.
+16-03-04 20:00:43 [INFO] marlonelloco failed to use fly hacks. FLY.
+16-03-04 20:00:57 [INFO] JuniorTheNoob failed to use fly hacks. FLY.
+16-03-04 20:01:10 [INFO] JuniorTheNoob failed to use fly hacks. FLY.
+16-03-04 20:01:33 [INFO] ZoraxFX failed to use fly hacks. FLY.
+16-03-04 20:01:41 [INFO] fkf failed to use fly hacks. FLY.
+16-03-04 20:01:52 [INFO] ZahidQasim failed Passable: moved into a block (1) from 239.30, 65.23, -577.30 to 239.30, 64.85, -577.30 distance 0.38 . VL 11.
+16-03-04 20:01:52 [INFO] ZahidQasim failed to use fly hacks. FLY.
+16-03-04 20:02:00 [INFO] ZahidQasim failed Passable: moved into a block (1) from 239.30, 63.41, -585.70 to 239.30, 62.89, -585.70 distance 0.52 . VL 12.
+16-03-04 20:02:16 [INFO] ZahidQasim failed Passable: moved into a block (1) from 239.46, 56.23, -583.30 to 239.46, 55.85, -583.30 distance 0.38 . VL 13.
+16-03-04 20:02:21 [INFO] ZahidQasim failed Passable: moved into a block (1) from 239.30, 53.41, -583.30 to 239.30, 52.89, -583.30 distance 0.52 . VL 18.
+16-03-04 20:02:26 [INFO] ZahidQasim failed Passable: moved into a block (1) from 239.30, 53.23, -583.30 to 239.30, 52.85, -583.30 distance 0.38 . VL 21.
+16-03-04 20:02:45 [INFO] ZahidQasim failed Passable: moved into a block (1) from 249.30, 40.23, -583.30 to 249.30, 39.85, -583.30 distance 0.38 . VL 30.
+16-03-04 20:03:16 [INFO] marlonelloco failed Passable: moved into a block (4) from -726.67, 9.14, 16.58 to -726.71, 8.47, 16.59 distance 0.67 . VL 38.
+16-03-04 20:03:23 [INFO] AdoxeMC failed to use nofall hacks. NO FALL.
+16-03-04 20:03:45 [INFO] FrozenPie failed Passable: moved into a block (1) from 3777.50, 33.00, -301.50 to 3777.50, 32.90, -301.50 distance 0.10 . VL 20.
+16-03-04 20:04:31 [INFO] NinjaPeanut05 failed Text: acted like spamming (IP: 50.167.55.158). VL 1.
+16-03-04 20:04:31 [INFO] (CONSOLE) Kicked NinjaPeanut05 : You're not allowed to spam in chat!
+16-03-04 20:04:48 [INFO] Want_Fanatic failed Passable: moved into a block (7) from -808.50, 2.00, -1416.50 to -808.50, 1.90, -1416.50 distance 0.10 . VL 15.
+16-03-04 20:05:42 [INFO] marlonelloco failed Passable: moved into a block (4) from -725.50, 6.00, 15.50 to -725.50, 5.90, 15.50 distance 0.10 . VL 28.
+16-03-04 20:05:56 [INFO] FrozenPie failed Passable: moved into a block (1) from 3777.50, 33.00, -301.50 to 3777.50, 32.90, -301.50 distance 0.10 . VL 11.
+16-03-04 20:06:47 [INFO] AdoxeMC failed Text: acted like spamming (IP: 73.19.226.17). VL 0.
+16-03-04 20:06:47 [INFO] (CONSOLE) Kicked AdoxeMC : You're not allowed to spam in chat!
+16-03-04 20:07:02 [INFO] marlonelloco failed Text: acted like spamming (IP: 99.115.36.13). VL 0.
+16-03-04 20:07:02 [INFO] (CONSOLE) Kicked marlonelloco : You're not allowed to spam in chat!
+16-03-04 20:07:25 [INFO] OrangeGotHigh failed Text: acted like spamming (IP: 50.165.189.186). VL 2.
+16-03-04 20:07:25 [INFO] (CONSOLE) Kicked OrangeGotHigh : You're not allowed to spam in chat!
+16-03-04 20:07:39 [INFO] marlonelloco failed to use fly hacks. FLY.
+16-03-04 20:09:05 [INFO] FrozenPie failed Passable: moved into a block (1) from 3777.50, 33.00, -301.50 to 3777.50, 32.90, -301.50 distance 0.10 . VL 13.
+16-03-04 20:09:25 [INFO] marlonelloco failed Passable: moved into a block (124) from 262.50, 76.00, -85.50 to 262.50, 75.90, -85.50 distance 0.10 . VL 28.
+16-03-04 20:09:49 [INFO] FrozenPie failed Passable: moved into a block (1) from 3777.50, 33.00, -301.50 to 3777.50, 32.90, -301.50 distance 0.10 . VL 12.
+16-03-04 20:10:05 [INFO] killerendermen67 failed to use fly hacks. FLY.
+16-03-04 20:10:15 [INFO] marlonelloco failed Passable: moved into a block (4) from -725.50, 6.00, 15.50 to -725.50, 5.90, 15.50 distance 0.10 . VL 19.
+16-03-04 20:11:35 [INFO] OrangeGotHigh failed Text: acted like spamming (IP: 50.165.189.186). VL 2.
+16-03-04 20:11:35 [INFO] (CONSOLE) Kicked OrangeGotHigh : You're not allowed to spam in chat!
+16-03-04 20:11:42 [INFO] _iGlow failed to use nofall hacks. NO FALL.
+16-03-04 20:12:04 [INFO] OrangeGotHigh failed Relog: relogs too fast. VL 1.
+16-03-04 20:12:22 [INFO] marlonelloco failed Passable: moved into a block (124) from 262.50, 76.00, -85.50 to 262.50, 75.90, -85.50 distance 0.10 . VL 21.
+16-03-04 20:12:41 [INFO] FrozenPie failed Passable: moved into a block (4) from 3778.63, 36.23, -302.79 to 3778.63, 35.85, -302.79 distance 0.38 . VL 12.
+16-03-04 20:12:41 [INFO] FrozenPie failed to use fly hacks. FLY.
+16-03-04 20:12:48 [INFO] marlonelloco failed Passable: moved into a block (49) from -725.50, 12.00, 15.50 to -725.50, 11.90, 15.50 distance 0.10 . VL 18.
+16-03-04 20:12:56 [INFO] marlonelloco failed to use fly hacks. FLY.
+16-03-04 20:12:58 [INFO] marlonelloco failed to use fly hacks. FLY.
+16-03-04 20:14:05 [INFO] NinjaPeanut05 failed to use fly hacks. FLY.
+16-03-04 20:14:07 [INFO] CrayonLogic failed to use fly hacks. FLY.
+16-03-04 20:14:09 [INFO] FrozenPie failed Passable: moved into a block (1) from 3777.50, 33.00, -301.50 to 3777.50, 32.90, -301.50 distance 0.10 . VL 13.
+16-03-04 20:14:26 [INFO] FrozenPie failed Passable: moved into a block (4) from 3780.28, 37.23, -303.70 to 3780.28, 36.85, -303.70 distance 0.38 . VL 13.
+16-03-04 20:14:47 [INFO] CrayonLogic failed to use fly hacks. FLY.
+16-03-04 20:15:48 [INFO] TH3XRAY3R failed to use fly hacks. FLY.
+16-03-04 20:16:08 [INFO] marlonelloco failed Passable: moved into a block (124) from 262.50, 76.00, -85.50 to 262.50, 75.90, -85.50 distance 0.10 . VL 19.
+16-03-04 20:16:47 [INFO] RyanAmbrose failed to use speed hacks. SPEED.
+16-03-04 20:16:48 [INFO] DnellyOP failed MorePackets: sent too many moves (10 epsacc). VL 10.
+16-03-04 20:16:48 [INFO] JuniorTheNoob failed MorePackets: sent too many moves (10 epsacc). VL 10.
+16-03-04 20:16:50 [INFO] DnellyOP failed MorePackets: sent too many moves (11 epsacc). VL 11.
+16-03-04 20:16:50 [INFO] JuniorTheNoob failed to use fly hacks. FLY.
+16-03-04 20:16:52 [INFO] marlonelloco failed Passable: moved into a block (49) from -725.50, 12.00, 15.50 to -725.48, 11.90, 15.50 distance 0.10 . VL 16.
+16-03-04 20:17:41 [INFO] FrozenPie failed Passable: moved into a block (1) from 3777.50, 33.00, -301.50 to 3777.50, 32.90, -301.50 distance 0.10 . VL 14.
+16-03-04 20:18:03 [INFO] NinjaPeanut05 failed to use speed hacks. SPEED.
+16-03-04 20:18:08 [INFO] NinjaPeanut05 failed to use speed hacks. SPEED.
+16-03-04 20:18:12 [INFO] NinjaPeanut05 failed to use speed hacks. SPEED.
+16-03-04 20:18:12 [INFO] (CONSOLE) Kicked NinjaPeanut05 : Kicked for flying (or related)
+16-03-04 20:18:40 [INFO] FrozenPie failed Passable: moved into a block (1) from 3777.50, 33.00, -301.50 to 3777.50, 32.90, -301.50 distance 0.10 . VL 14.
+16-03-04 20:19:11 [INFO] Versaatile failed to use fly hacks. FLY.
+16-03-04 20:19:13 [INFO] Versaatile failed to use fly hacks. FLY.
+16-03-04 20:19:23 [INFO] Versaatile failed to use fly hacks. FLY.
+16-03-04 20:19:23 [INFO] Versaatile failed to use fly hacks. FLY.
+16-03-04 20:19:25 [INFO] Versaatile failed to use speed hacks. SPEED.
+16-03-04 20:19:28 [INFO] Versaatile failed to use speed hacks. SPEED.
+16-03-04 20:19:28 [INFO] (CONSOLE) Kicked Versaatile : Kicked for flying (or related)
+16-03-04 20:19:57 [INFO] Versaatile failed Passable: moved into a block (1) from 1068.30, 50.23, -469.30 to 1068.30, 49.85, -469.30 distance 0.38 . VL 10.
+16-03-04 20:20:37 [INFO] Versaatile failed Passable: moved into a block (4) from 1068.30, 39.41, -469.42 to 1068.30, 38.89, -469.42 distance 0.52 . VL 11.
+16-03-04 20:21:09 [INFO] Versaatile failed Passable: moved into a block (1) from 1068.30, 30.23, -469.54 to 1068.30, 29.85, -469.54 distance 0.38 . VL 14.
+16-03-04 20:21:43 [INFO] Versaatile failed Passable: moved into a block (4) from 1068.30, 17.23, -469.54 to 1068.30, 16.85, -469.54 distance 0.38 . VL 16.
+16-03-04 20:21:45 [INFO] SockMonkey4Lyfe failed to use fly hacks. FLY.
+16-03-04 20:21:50 [INFO] Versaatile failed Passable: moved into a block (4) from 1068.70, 14.41, -469.30 to 1068.70, 13.89, -469.30 distance 0.52 . VL 18.
+16-03-04 20:21:54 [INFO] BestBeybeyblader failed to use nofall hacks. NO FALL.
+16-03-04 20:22:02 [INFO] SockMonkey4Lyfe failed to use fly hacks. FLY.
+16-03-04 20:22:19 [INFO] TH3XRAY3R failed to use fly hacks. FLY.
+16-03-04 20:22:39 [INFO] MitchelPlayzz failed to use fly hacks. FLY.
+16-03-04 20:23:05 [INFO] JWI failed to use nofall hacks. NO FALL.
+16-03-04 20:23:16 [INFO] marlonelloco failed Passable: moved into a block (49) from -728.30, 10.20, 7.93 to -728.30, 10.20, 8.01 distance 0.08 . VL 12.
+16-03-04 20:23:29 [INFO] killerendermen67 failed to use fly hacks. FLY.
+16-03-04 20:23:30 [INFO] killerendermen67 failed to use speed hacks. SPEED.
+16-03-04 20:23:35 [INFO] killerendermen67 failed to use speed hacks. SPEED.
+16-03-04 20:23:35 [INFO] killerendermen67 failed to use speed hacks. SPEED.
+16-03-04 20:23:35 [INFO] (CONSOLE) Kicked killerendermen67 : Kicked for flying (or related)
+16-03-04 20:23:37 [INFO] Versaatile failed Passable: moved into a block (124) from 262.50, 76.00, -85.50 to 262.50, 75.90, -85.50 distance 0.10 . VL 19.
+16-03-04 20:25:04 [INFO] marlonelloco failed Passable: moved into a block (124) from 262.50, 76.00, -85.50 to 262.50, 75.90, -85.50 distance 0.10 . VL 13.
+16-03-04 20:25:34 [INFO] cia14 failed to use speed hacks. SPEED.
+16-03-04 20:25:34 [INFO] Versaatile failed Passable: moved into a block (7) from 1070.50, 3.00, -470.50 to 1070.50, 2.90, -470.50 distance 0.10 . VL 16.
+16-03-04 20:25:39 [INFO] _ThatAssassin_ failed Text: acted like spamming (IP: 108.6.212.94). VL 1.
+16-03-04 20:25:39 [INFO] (CONSOLE) Kicked _ThatAssassin_ : You're not allowed to spam in chat!
+16-03-04 20:26:55 [INFO] FrozenPie failed Passable: moved into a block (1) from 3777.50, 33.00, -301.50 to 3777.50, 32.90, -301.50 distance 0.10 . VL 12.
+16-03-04 20:28:23 [INFO] Removed hook: AllViolations(NCP) [1.0].
+16-03-04 20:28:23 [FINE] | canceldead 2 (2/0) | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 55 (55/0) | eggonentity 1 (1/0) | event.player.move.handled 853901 (853901/0) | event.player.move.handled.pos 461056 (461056/0) | event.player.move.handled.look 42708 (42708/0) | event.player.move.handled.pos_look 349297 (349297/0) |
+16-03-04 20:28:23 [INFO] Logger started.
+16-03-04 20:28:23 [INFO] Logging system initialized.
+16-03-04 20:28:23 [INFO] Detected Minecraft version: 1.7.10
+16-03-04 20:28:24 [INFO] McAccess set to: 1.7.10 / CB3100
+16-03-04 20:28:24 [INFO] Added block-info for Minecraft 1.5 blocks.
+16-03-04 20:28:24 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+16-03-04 20:28:24 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+16-03-04 20:28:25 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+16-03-04 20:28:25 [WARNING] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+16-03-04 20:28:25 [INFO] Packet level access: ProtocolLib is not available.
+16-03-04 20:28:25 [INFO] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+16-03-04 20:28:27 [INFO] Added hook: AllViolations(NCP) [1.0].
+16-03-04 20:28:27 [INFO] Post-enable running...
+16-03-04 20:28:27 [INFO] Updated data for 45 players (post-enable).
+16-03-04 20:28:27 [INFO] Post-enable finished.
+16-03-04 20:28:27 [INFO] ---- Version information ----
+#### Server ####
+git-PaperSpigot-1f7d532 ~MC: 1.7.10~
+  detected: 1.7.10
+#### NoCheatPlus ####
+Plugin: 3.13.7-RC-sMD5NET-b925
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v3.6.5
+16-03-04 20:28:37 [INFO] FrozenPie failed to use fly hacks. FLY.
+16-03-04 20:28:41 [INFO] SparkzPlays failed Text: acted like spamming (IP: 45.46.228.170). VL 1.
+16-03-04 20:28:41 [INFO] (CONSOLE) Kicked SparkzPlays : You're not allowed to spam in chat!
+16-03-04 20:28:53 [INFO] BestBeybeyblader failed Text: acted like spamming (IP: 24.146.209.184). VL 1.
+16-03-04 20:28:53 [INFO] (CONSOLE) Kicked BestBeybeyblader : You're not allowed to spam in chat!
+16-03-04 20:29:01 [INFO] _ThatAssassin_ failed Commands: issued too many commands. VL 1.
+16-03-04 20:29:01 [INFO] (CONSOLE) Kicked _ThatAssassin_ for 1 minutes: You're not allowed to spam commands!
+16-03-04 20:29:18 [INFO] FrozenPie failed to use fly hacks. FLY.
+16-03-04 20:29:18 [INFO] FrozenPie failed to use fly hacks. FLY.
+16-03-04 20:30:03 [INFO] ZoraxFX failed Passable: moved into a block (1) from 1298.70, 9.23, 976.70 to 1298.70, 8.85, 976.70 distance 0.38 . VL 10.
+16-03-04 20:30:04 [INFO] StrafeMyNan failed to use fly hacks. FLY.
+16-03-04 20:30:06 [INFO] killerendermen67 failed to use fly hacks. FLY.
+16-03-04 20:31:30 [INFO] TH3XRAY3R failed to use fly hacks. FLY.
+16-03-04 20:31:35 [INFO] ZoraxFX failed Passable: moved into a block (1) from 1298.47, 9.23, 975.70 to 1298.47, 8.85, 975.70 distance 0.38 . VL 11.
+16-03-04 20:31:40 [INFO] TH3XRAY3R failed to use fly hacks. FLY.
+16-03-04 20:32:00 [INFO] Soldier_of_Fate failed MorePackets: sent too many moves (28 epsacc). VL 28.
+16-03-04 20:32:04 [INFO] Soldier_of_Fate failed MorePackets: sent too many moves (10 epsacc). VL 10.
+16-03-04 20:32:04 [INFO] Soldier_of_Fate failed to use fly hacks. FLY.
+16-03-04 20:32:06 [INFO] Soldier_of_Fate failed to use fly hacks. FLY.
+16-03-04 20:32:28 [INFO] TH3XRAY3R failed to use fly hacks. FLY.
+16-03-04 20:32:33 [INFO] Soldier_of_Fate failed to use fly hacks. FLY.
+16-03-04 20:32:58 [INFO] FrozenPie failed Passable: moved into a block (1) from 3774.41, 34.02, -312.04 to 3774.39, 33.94, -312.00 distance 0.09 . VL 11.
+16-03-04 20:33:29 [INFO] iGamingPyro failed MorePackets: sent too many moves (10 epsacc). VL 10.
+16-03-04 20:33:29 [INFO] FrozenPie failed MorePackets: sent too many moves (10 epsacc). VL 10.
+16-03-04 20:33:29 [INFO] Jardun failed MorePackets: sent too many moves (10 epsacc). VL 10.
+16-03-04 20:33:29 [INFO] nabster02 failed MorePackets: sent too many moves (10 epsacc). VL 10.
+16-03-04 20:33:29 [INFO] Sp00kay_ failed MorePackets: sent too many moves (10 epsacc). VL 10.
+16-03-04 20:33:31 [INFO] Sp00kay_ failed MorePackets: sent too many moves (14 epsacc). VL 14.
+16-03-04 20:33:31 [INFO] Jardun failed MorePackets: sent too many moves (15 epsacc). VL 15.
+16-03-04 20:33:59 [INFO] killerendermen67 failed to use fly hacks. FLY.
+16-03-04 20:34:00 [INFO] killerendermen67 failed to use fly hacks. FLY.
+16-03-04 20:34:00 [INFO] killerendermen67 failed to use speed hacks. SPEED.
+16-03-04 20:34:34 [INFO] FrozenPie failed to use fly hacks. FLY.
+16-03-04 20:34:35 [INFO] FrozenPie failed to use speed hacks. SPEED.
+16-03-04 20:34:40 [INFO] FrozenPie failed to use speed hacks. SPEED.
+16-03-04 20:35:25 [INFO] Soldier_of_Fate failed to use fly hacks. FLY.
+16-03-04 20:37:07 [INFO] Soldier_of_Fate failed to use nofall hacks. NO FALL.
+16-03-04 20:37:41 [INFO] killerendermen67 failed to use nofall hacks. NO FALL.
+16-03-04 20:38:12 [INFO] killerendermen67 failed Passable: moved into a block (46) from -17.14, 201.10, -3703.86 to -17.14, 200.87, -3703.86 distance 0.23 . VL 10.
+16-03-04 20:38:17 [INFO] killerendermen67 failed Passable: moved into a block (46) from -17.24, 201.10, -3703.81 to -17.30, 200.87, -3703.78 distance 0.24 . VL 24.
+16-03-04 20:38:18 [INFO] killerendermen67 failed to use fly hacks. FLY.
+16-03-04 20:38:22 [INFO] killerendermen67 failed Passable: moved into a block (46) from -17.14, 201.10, -3703.86 to -17.14, 200.87, -3703.86 distance 0.23 . VL 39.
+16-03-04 20:38:32 [INFO] killerendermen67 failed Passable: moved into a block (46) from -17.48, 195.41, -3703.54 to -17.48, 194.89, -3703.54 distance 0.52 . VL 44.
+16-03-04 20:38:38 [INFO] killerendermen67 failed to use nofall hacks. NO FALL.
+16-03-04 20:38:44 [INFO] killerendermen67 failed to use nofall hacks. NO FALL.
+16-03-04 20:38:50 [INFO] killerendermen67 failed Passable: moved into a block (46) from -17.46, 82.19, -3703.54 to -17.46, 81.00, -3703.54 distance 1.20 . VL 43.
+16-03-04 20:38:50 [INFO] killerendermen67 failed to use nofall hacks. NO FALL.
+16-03-04 20:39:28 [INFO] Soldier_of_Fate failed to use fly hacks. FLY.
+16-03-04 20:40:08 [INFO] Soldier_of_Fate failed to use fly hacks. FLY.
+16-03-04 20:40:25 [INFO] Soldier_of_Fate failed to use fly hacks. FLY.
+16-03-04 20:45:49 [INFO] lGapplesPvP failed Passable: moved into a block (2) from 235.50, 74.00, -99.50 to 235.50, 73.90, -99.50 distance 0.10 . VL 11.
+16-03-04 20:45:54 [INFO] Want_Fanatic failed to use fly hacks. FLY.
+16-03-04 20:46:01 [INFO] ItsSpaceOG failed Text: acted like spamming (IP: 173.245.65.143). VL 3.
+16-03-04 20:46:01 [INFO] (CONSOLE) Kicked ItsSpaceOG : You're not allowed to spam in chat!
+16-03-04 20:46:14 [INFO] ItsSpaceOG failed Text: acted like spamming (IP: 173.245.65.143). VL 2.
+16-03-04 20:46:14 [INFO] (CONSOLE) Kicked ItsSpaceOG : You're not allowed to spam in chat!
+16-03-04 20:46:18 [INFO] ItsSpaceOG failed Relog: relogs too fast. VL 1.
+16-03-04 20:46:54 [INFO] Want_Fanatic failed to use fly hacks. FLY.
+16-03-04 20:47:19 [INFO] lGapplesPvP failed Passable: moved into a block (58) from -1060.50, 13.00, 1132.50 to -1060.50, 12.90, 1132.50 distance 0.10 . VL 12.
+16-03-04 20:47:44 [INFO] lGapplesPvP failed Passable: moved into a block (35) from 245.50, 75.00, -112.50 to 245.50, 74.90, -112.50 distance 0.10 . VL 13.
+16-03-04 20:47:54 [INFO] FrozenPie failed to use fly hacks. FLY.
+16-03-04 20:48:24 [INFO] lGapplesPvP failed Passable: moved into a block (58) from -1061.50, 13.00, 1132.50 to -1061.50, 12.90, 1132.50 distance 0.10 . VL 13.
+16-03-04 20:48:46 [INFO] lGapplesPvP failed Passable: moved into a block (2) from 239.50, 75.00, -112.50 to 239.50, 74.90, -112.50 distance 0.10 . VL 14.
+16-03-04 20:48:53 [INFO] Want_Fanatic failed to use fly hacks. FLY.
+16-03-04 20:49:08 [INFO] ImKyotoPvP failed to use fly hacks. FLY.
+16-03-04 20:49:14 [INFO] _ThatAssassin_ failed to use fly hacks. FLY.
+16-03-04 20:49:24 [INFO] StarMarineGaming failed to use fly hacks. FLY.
+16-03-04 20:49:28 [INFO] _ThatAssassin_ failed to use fly hacks. FLY.
+16-03-04 20:49:38 [INFO] _ThatAssassin_ failed to use fly hacks. FLY.
+16-03-04 20:49:40 [INFO] lGapplesPvP failed Passable: moved into a block (58) from -1061.50, 13.00, 1132.50 to -1061.50, 12.90, 1132.50 distance 0.10 . VL 15.
+16-03-04 20:49:49 [INFO] ImKyotoPvP failed to use fly hacks. FLY.
+16-03-04 20:49:57 [INFO] _ThatAssassin_ failed to use fly hacks. FLY.
+16-03-04 20:49:58 [INFO] lGapplesPvP failed Passable: moved into a block (35) from 246.50, 74.00, -113.50 to 246.50, 73.90, -113.50 distance 0.10 . VL 16.
+16-03-04 20:50:15 [INFO] _ThatAssassin_ failed to use fly hacks. FLY.
+16-03-04 20:50:21 [INFO] lGapplesPvP failed Passable: moved into a block (58) from -1061.50, 13.00, 1132.50 to -1061.50, 12.90, 1132.50 distance 0.10 . VL 17.
+16-03-04 20:50:22 [INFO] ImKyotoPvP failed to use fly hacks. FLY.
+16-03-04 20:50:23 [INFO] 230NukeUrMum failed to use fly hacks. FLY.
+16-03-04 20:50:25 [INFO] _ThatAssassin_ failed to use fly hacks. FLY.
+16-03-04 20:50:36 [INFO] _ThatAssassin_ failed to use fly hacks. FLY.
+16-03-04 20:50:44 [INFO] lGapplesPvP failed Passable: moved into a block (3) from 247.50, 75.00, -110.50 to 247.50, 74.90, -110.50 distance 0.10 . VL 18.
+16-03-04 20:51:06 [INFO] _ThatAssassin_ failed to use auto-heal hacks. AUTO-HEAL.
+16-03-04 20:51:21 [INFO] _ThatAssassin_ failed to use auto-heal hacks. AUTO-HEAL.
+16-03-04 20:51:24 [INFO] _ThatAssassin_ failed Direction: tried to hit an entity out of line of sight. VL 9.
+16-03-04 20:51:33 [INFO] Soldier_of_Fate failed to use fly hacks. FLY.
+16-03-04 20:51:33 [INFO] Soldier_of_Fate failed to use fly hacks. FLY.
+16-03-04 20:52:17 [INFO] ImKyotoPvP failed to use fly hacks. FLY.
+16-03-04 20:52:23 [INFO] lGapplesPvP failed Passable: moved into a block (58) from -1061.50, 13.00, 1132.50 to -1061.50, 12.90, 1132.50 distance 0.10 . VL 18.
+16-03-04 20:52:38 [INFO] lGapplesPvP failed Passable: moved into a block (35) from 252.50, 74.00, -107.50 to 252.50, 73.90, -107.50 distance 0.10 . VL 19.
+16-03-04 20:52:40 [INFO] Soldier_of_Fate failed to use fly hacks. FLY.
+16-03-04 20:52:40 [INFO] Soldier_of_Fate failed to use speed hacks. SPEED.
+16-03-04 20:52:42 [INFO] Soldier_of_Fate failed to use nofall hacks. NO FALL.
+16-03-04 20:52:42 [INFO] Soldier_of_Fate failed to use speed hacks. SPEED.
+16-03-04 20:52:42 [INFO] (CONSOLE) Kicked Soldier_of_Fate : Kicked for flying (or related)
+16-03-04 20:53:02 [INFO] SynergyPvPz failed Direction: tried to hit an entity out of line of sight. VL 11.
+16-03-04 20:53:17 [INFO] Soldier_of_Fate failed to use fly hacks. FLY.
+16-03-04 20:53:19 [INFO] Soldier_of_Fate failed to use fly hacks. FLY.
+16-03-04 20:53:21 [INFO] Soldier_of_Fate failed Passable: moved into a block (24) from 65.70, 110.87, 60.30 to 65.83, 111.00, 60.20 distance 0.21 . VL 10.
+16-03-04 20:53:26 [INFO] Soldier_of_Fate failed Passable: moved into a block (24) from 65.70, 110.79, 60.30 to 65.81, 111.10, 60.19 distance 0.35 . VL 27.
+16-03-04 20:53:29 [INFO] _ThatAssassin_ failed Direction: tried to hit an entity out of line of sight. VL 7.
+16-03-04 20:53:48 [INFO] lGapplesPvP failed Passable: moved into a block (58) from -1061.50, 13.00, 1132.50 to -1061.50, 12.90, 1132.50 distance 0.10 . VL 19.
+16-03-04 20:53:57 [INFO] _ThatAssassin_ failed to use auto-heal hacks. AUTO-HEAL.
+16-03-04 20:54:01 [INFO] _ThatAssassin_ failed Direction: tried to hit an entity out of line of sight. VL 7.
+16-03-04 20:54:06 [INFO] _ThatAssassin_ failed Direction: tried to hit an entity out of line of sight. VL 8.
+16-03-04 20:54:07 [INFO] killerendermen67 failed to use fly hacks. FLY.
+16-03-04 20:54:07 [INFO] killerendermen67 failed to use fly hacks. FLY.
+16-03-04 20:54:07 [INFO] _ThatAssassin_ failed to use auto-heal hacks. AUTO-HEAL.
+16-03-04 20:54:18 [INFO] Want_Fanatic failed to use speed hacks. SPEED.
+16-03-04 20:54:26 [INFO] Want_Fanatic failed to use fly hacks. FLY.
+16-03-04 20:54:52 [INFO] lGapplesPvP failed Passable: moved into a block (44) from 284.50, 63.51, -106.50 to 284.50, 63.41, -106.50 distance 0.10 . VL 20.
+16-03-04 20:54:59 [INFO] _ThatAssassin_ failed to use auto-heal hacks. AUTO-HEAL.
+16-03-04 20:55:05 [INFO] _ThatAssassin_ failed to use fly hacks. FLY.
+16-03-04 20:58:46 [INFO] Want_Fanatic failed MorePackets: sent too many moves (31 epsacc). VL 31.
+16-03-04 20:59:50 [INFO] AquaticStrafes failed to use fly hacks. FLY.
+16-03-04 21:00:06 [INFO] killerendermen67 failed to use fly hacks. FLY.
+16-03-04 21:00:50 [INFO] JuniorTheNoob failed to use speed hacks. SPEED.
+16-03-04 21:00:54 [INFO] 230NukeUrMum failed to use nofall hacks. NO FALL.
+16-03-04 21:01:01 [INFO] killerendermen67 failed to use fly hacks. FLY.
+16-03-04 21:02:05 [INFO] JohnnyPlayz_ failed to use fly hacks. FLY.
+16-03-04 21:02:07 [INFO] Versaatile failed to use fly hacks. FLY.
+16-03-04 21:02:07 [INFO] Versaatile failed to use speed hacks. SPEED.
+16-03-04 21:02:16 [INFO] JohnnyPlayz_ failed to use fly hacks. FLY.
+16-03-04 21:02:50 [INFO] JohnnyPlayz_ failed to use fly hacks. FLY.
+16-03-04 21:04:11 [INFO] JohnnyPlayz_ failed to use fly hacks. FLY.
+16-03-04 21:04:20 [INFO] TH3XRAY3R failed to use fly hacks. FLY.
+16-03-04 21:04:30 [INFO] JohnnyPlayz_ failed to use fly hacks. FLY.
+16-03-04 21:04:34 [INFO] FireGryffyn failed to use fly hacks. FLY.
+16-03-04 21:05:03 [INFO] DnellyOP failed to use fly hacks. FLY.
+16-03-04 21:05:32 [INFO] Dryed failed Direction: tried to interact with a block out of their line of sight. VL 10.
+16-03-04 21:05:38 [INFO] DnellyOP failed to use fly hacks. FLY.
+16-03-04 21:05:38 [INFO] Dryed failed to use fly hacks. FLY.
+16-03-04 21:05:38 [INFO] Dryed failed to use speed hacks. SPEED.
+16-03-04 21:05:39 [INFO] Dryed failed to use nofall hacks. NO FALL.
+16-03-04 21:05:39 [INFO] Dryed failed to use speed hacks. SPEED.
+16-03-04 21:05:39 [INFO] (CONSOLE) Kicked Dryed : Kicked for flying (or related)
+16-03-04 21:06:57 [INFO] Tyguhh failed to use fly hacks. FLY.
+16-03-04 21:07:20 [INFO] Tyguhh failed to use fly hacks. FLY.
+16-03-04 21:08:04 [INFO] Want_Fanatic failed to use speed hacks. SPEED.
+16-03-04 21:08:30 [INFO] DnellyOP failed to use fly hacks. FLY.
+16-03-04 21:08:40 [INFO] DnellyOP failed to use fly hacks. FLY.
+16-03-04 21:09:03 [INFO] DnellyOP failed to use fly hacks. FLY.
+16-03-04 21:09:06 [INFO] 230NukeUrMum failed to use fly hacks. FLY.
+16-03-04 21:09:33 [INFO] DnellyOP failed to use fly hacks. FLY.
+16-03-04 21:10:03 [INFO] Tyguhh failed MorePackets: sent too many moves (14 epsacc). VL 14.
+16-03-04 21:10:04 [INFO] JustThat failed to use fly hacks. FLY.
+16-03-04 21:10:04 [INFO] JustThat failed to use speed hacks. SPEED.
+16-03-04 21:10:05 [INFO] JustThat failed to use nofall hacks. NO FALL.
+16-03-04 21:10:10 [INFO] JustThat failed Passable: moved into a block (159) from 2302.74, 150.16, -808.53 to 2302.74, 149.31, -808.53 distance 0.84 . VL 10.
+16-03-04 21:10:12 [INFO] DnellyOP failed to use fly hacks. FLY.
+16-03-04 21:10:20 [INFO] JustThat failed Passable: moved into a block (159) from 2302.74, 147.40, -808.53 to 2302.74, 146.56, -808.53 distance 0.84 . VL 18.
+16-03-04 21:12:29 [INFO] JustThat failed Passable: moved into a block (159) from 2302.50, 94.00, -808.50 to 2302.50, 93.90, -808.50 distance 0.10 . VL 19.
+16-03-04 21:12:40 [INFO] JustThat failed to use nofall hacks. NO FALL.
+16-03-04 21:12:43 [INFO] JustThat failed Passable: moved into a block (2) from 1810.50, 78.00, -611.50 to 1810.50, 77.90, -611.50 distance 0.10 . VL 16.
+16-03-04 21:12:47 [INFO] DnellyOP failed to use fly hacks. FLY.
+16-03-04 21:12:55 [INFO] DnellyOP failed to use speed hacks. SPEED.
+16-03-04 21:13:15 [INFO] DnellyOP failed to use fly hacks. FLY.
+16-03-04 21:13:45 [INFO] killerendermen67 failed to use fly hacks. FLY.
+16-03-04 21:13:45 [INFO] killerendermen67 failed to use speed hacks. SPEED.
+16-03-04 21:14:29 [INFO] JustThat failed to use fly hacks. FLY.
+16-03-04 21:14:34 [INFO] 230NukeUrMum failed to use fly hacks. FLY.
+16-03-04 21:15:12 [INFO] Tyguhh failed Direction: tried to hit an entity out of line of sight. VL 5.
+16-03-04 21:15:37 [INFO] Tyguhh failed to use fly hacks. FLY.
+16-03-04 21:15:37 [INFO] Tyguhh failed to use speed hacks. SPEED.
+16-03-04 21:15:40 [INFO] Tyguhh failed Direction: tried to hit an entity out of line of sight. VL 5.
+16-03-04 21:15:43 [INFO] SilentMC failed to use fly hacks. FLY.
+16-03-04 21:17:39 [INFO] JohnnyPlayz_ failed to use fly hacks. FLY.
+16-03-04 21:18:48 [INFO] FireGryffyn failed to use speed hacks. SPEED.
+16-03-04 21:19:31 [INFO] AquaticStrafes failed to use fly hacks. FLY.
+16-03-04 21:20:47 [INFO] ImKyotoPvP failed to use fly hacks. FLY.
+16-03-04 21:21:24 [INFO] SparkzPlays failed to use fly hacks. FLY.
+16-03-04 21:21:43 [INFO] SilentMC failed to use fly hacks. FLY.
+16-03-04 21:21:53 [INFO] SparkzPlays failed to use fly hacks. FLY.
+16-03-04 21:22:11 [INFO] SynergyPvPz failed to use speed hacks. SPEED.
+16-03-04 21:22:18 [INFO] DnellyOP failed to use fly hacks. FLY.
+16-03-04 21:22:18 [INFO] DnellyOP failed to use speed hacks. SPEED.
+16-03-04 21:23:00 [INFO] TH3XRAY3R failed to use fly hacks. FLY.
+16-03-04 21:23:01 [INFO] TH3XRAY3R failed to use speed hacks. SPEED.
+16-03-04 21:23:12 [INFO] AegeonTheOnlyOG failed to use speed hacks. SPEED.
+16-03-04 21:23:14 [INFO] ImKyotoPvP failed to use fly hacks. FLY.
+16-03-04 21:23:15 [INFO] Dryed failed to use fly hacks. FLY.
+16-03-04 21:23:17 [INFO] SilentMC failed to use fly hacks. FLY.
+16-03-04 21:23:39 [INFO] TH3XRAY3R failed to use fly hacks. FLY.
+16-03-04 21:23:50 [INFO] Calypso12 failed to use fly hacks. FLY.
+16-03-04 21:24:29 [INFO] TH3XRAY3R failed to use fly hacks. FLY.
+16-03-04 21:24:54 [INFO] Dryed failed to use fly hacks. FLY.
+16-03-04 21:25:02 [INFO] Tyguhh failed Direction: tried to hit an entity out of line of sight. VL 8.
+16-03-04 21:25:46 [INFO] Tyguhh failed to use speed hacks. SPEED.
+16-03-04 21:25:54 [INFO] Tyguhh failed Direction: tried to hit an entity out of line of sight. VL 5.
+16-03-04 21:25:59 [INFO] Tyguhh failed Direction: tried to hit an entity out of line of sight. VL 6.
+16-03-04 21:26:17 [INFO] 230NukeUrMum failed to use speed hacks. SPEED.
+16-03-04 21:31:13 [INFO] JuniorTheNoob failed to use fly hacks. FLY.
+16-03-04 21:31:18 [INFO] _YouSaidIHack_ failed Speed: tried to attack with too high a frequency. VL 60.
+16-03-04 21:31:18 [INFO] _YouSaidIHack_ failed Improbable: meets the improbable more than expected. VL 15.
+16-03-04 21:31:30 [INFO] Dryed failed to use speed hacks. SPEED.
+16-03-04 21:31:41 [INFO] _YouSaidIHack_ failed Speed: tried to attack with too high a frequency. VL 58.
+16-03-04 21:31:42 [INFO] _YouSaidIHack_ failed Improbable: meets the improbable more than expected. VL 13.
+16-03-04 21:32:26 [INFO] _YouSaidIHack_ failed Speed: tried to attack with too high a frequency. VL 91.
+16-03-04 21:32:34 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:32:38 [INFO] _YouSaidIHack_ failed Speed: tried to attack with too high a frequency. VL 55.
+16-03-04 21:32:40 [INFO] _YouSaidIHack_ failed Improbable: meets the improbable more than expected. VL 9.
+16-03-04 21:32:43 [INFO] _YouSaidIHack_ failed Speed: tried to attack with too high a frequency. VL 1032.
+16-03-04 21:32:44 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:32:47 [INFO] SilentMC failed to use fly hacks. FLY.
+16-03-04 21:32:54 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:32:56 [INFO] _YouSaidIHack_ failed Speed: tried to attack with too high a frequency. VL 659.
+16-03-04 21:32:58 [INFO] SparkzPlays failed to use selfhit hacks. SELFHIT.
+16-03-04 21:32:59 [INFO] SparkzPlays failed to use fly hacks. FLY.
+16-03-04 21:33:02 [INFO] _YouSaidIHack_ failed Speed: tried to attack with too high a frequency. VL 364.
+16-03-04 21:33:03 [INFO] _YouSaidIHack_ failed Improbable: meets the improbable more than expected. VL 362.
+16-03-04 21:33:04 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:33:15 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (43 instead of 44)
+16-03-04 21:33:23 [INFO] SparkzPlays failed to use selfhit hacks. SELFHIT.
+16-03-04 21:33:25 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (43 instead of 44)
+16-03-04 21:33:26 [INFO] SparkzPlays failed to use fly hacks. FLY.
+16-03-04 21:33:29 [INFO] xMrSquishyx failed to use fly hacks. FLY.
+16-03-04 21:33:29 [INFO] Dryed failed to use fly hacks. FLY.
+16-03-04 21:33:35 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (43 instead of 44)
+16-03-04 21:33:45 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (43 instead of 44)
+16-03-04 21:33:54 [INFO] ZoraxFX failed to use fly hacks. FLY.
+16-03-04 21:33:55 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (43 instead of 44)
+16-03-04 21:33:56 [INFO] Dryed failed to use fly hacks. FLY.
+16-03-04 21:33:56 [INFO] Dryed failed to use fly hacks. FLY.
+16-03-04 21:34:05 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (43 instead of 44)
+16-03-04 21:34:15 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:34:16 [INFO] Dryed failed to use fly hacks. FLY.
+16-03-04 21:34:26 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:34:36 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:34:46 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:34:56 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:34:57 [INFO] NRGEVenom failed to use fly hacks. FLY.
+16-03-04 21:34:57 [INFO] NRGEVenom failed to use fly hacks. FLY.
+16-03-04 21:35:01 [INFO] Dryed failed to use fly hacks. FLY.
+16-03-04 21:35:06 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:35:07 [INFO] AdoxeMC failed Text: acted like spamming (IP: 73.19.226.17). VL 1.
+16-03-04 21:35:07 [INFO] (CONSOLE) Kicked AdoxeMC : You're not allowed to spam in chat!
+16-03-04 21:35:16 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:35:26 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:35:36 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:35:46 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:35:57 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:36:07 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:36:17 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:36:19 [INFO] FireGryffyn failed to use fly hacks. FLY.
+16-03-04 21:36:27 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:36:37 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:36:47 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:36:52 [INFO] TH3XRAY3R failed Visible: interacts with a block out of sight. VL 101.
+16-03-04 21:36:58 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:37:08 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (40 instead of 41)
+16-03-04 21:37:18 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (40 instead of 41)
+16-03-04 21:37:28 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (39 instead of 40)
+16-03-04 21:37:38 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (39 instead of 40)
+16-03-04 21:37:48 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (39 instead of 40)
+16-03-04 21:37:55 [INFO] TH3XRAY3R failed Visible: interacts with a block out of sight. VL 119.
+16-03-04 21:37:58 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (38 instead of 39)
+16-03-04 21:38:08 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (40 instead of 41)
+16-03-04 21:38:10 [INFO] RedOfficial failed to use fly hacks. FLY.
+16-03-04 21:38:18 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (40 instead of 41)
+16-03-04 21:38:29 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (40 instead of 41)
+16-03-04 21:38:39 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:38:45 [INFO] FireGryffyn failed Relog: relogs too fast. VL 1.
+16-03-04 21:38:49 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (40 instead of 41)
+16-03-04 21:38:59 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:39:09 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:39:19 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:39:29 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:39:39 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:39:49 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:39:59 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:40:09 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:40:20 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:40:30 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (43 instead of 44)
+16-03-04 21:40:40 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:40:50 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:41:01 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:41:11 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:41:20 [INFO] nabster02 failed to use fly hacks. FLY.
+16-03-04 21:41:20 [INFO] nabster02 failed to use fly hacks. FLY.
+16-03-04 21:41:21 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:41:31 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:41:41 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:41:47 [INFO] _YouSaidIHack_ failed FastClick: tried to move items in their inventory too quickly. VL 137.
+16-03-04 21:41:48 [INFO] nabster02 failed to use fly hacks. FLY.
+16-03-04 21:41:48 [INFO] nabster02 failed to use fly hacks. FLY.
+16-03-04 21:41:51 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (43 instead of 44)
+16-03-04 21:42:02 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (43 instead of 44)
+16-03-04 21:42:12 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (44 instead of 45)
+16-03-04 21:42:22 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (44 instead of 45)
+16-03-04 21:42:32 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (43 instead of 44)
+16-03-04 21:42:42 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:42:47 [INFO] 230NukeUrMum failed to use fly hacks. FLY.
+16-03-04 21:42:52 [INFO] RedOfficial failed to use fly hacks. FLY.
+16-03-04 21:42:52 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:43:03 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:43:10 [INFO] RedOfficial failed to use fly hacks. FLY.
+16-03-04 21:43:12 [INFO] RedOfficial failed to use speed hacks. SPEED.
+16-03-04 21:43:13 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:43:23 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:43:33 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:43:35 [INFO] nabster02 failed to use fly hacks. FLY.
+16-03-04 21:43:36 [INFO] Want_Fanatic failed to use fly hacks. FLY.
+16-03-04 21:43:39 [INFO] Want_Fanatic failed to use fly hacks. FLY.
+16-03-04 21:43:40 [INFO] Want_Fanatic failed to use speed hacks. SPEED.
+16-03-04 21:43:43 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:43:44 [INFO] StrafeMyNan failed to use speed hacks. SPEED.
+16-03-04 21:43:45 [INFO] Want_Fanatic failed to use speed hacks. SPEED.
+16-03-04 21:43:46 [INFO] Want_Fanatic failed to use speed hacks. SPEED.
+16-03-04 21:43:46 [INFO] (CONSOLE) Kicked Want_Fanatic : Kicked for flying (or related)
+16-03-04 21:43:49 [INFO] nabster02 failed to use fly hacks. FLY.
+16-03-04 21:43:51 [INFO] Want_Fanatic failed to use speed hacks. SPEED.
+16-03-04 21:43:52 [INFO] Want_Fanatic failed to use speed hacks. SPEED.
+16-03-04 21:43:52 [INFO] (CONSOLE) Kicked Want_Fanatic : Kicked for flying (or related)
+16-03-04 21:43:54 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (40 instead of 41)
+16-03-04 21:44:04 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:44:05 [INFO] Want_Fanatic failed to use speed hacks. SPEED.
+16-03-04 21:44:11 [INFO] Calypso12 failed to use fly hacks. FLY.
+16-03-04 21:44:14 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:44:24 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:44:34 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:44:44 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (40 instead of 41)
+16-03-04 21:44:53 [INFO] TH3XRAY3R failed to use fly hacks. FLY.
+16-03-04 21:44:54 [INFO] TH3XRAY3R failed to use fly hacks. FLY.
+16-03-04 21:44:54 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (40 instead of 41)
+16-03-04 21:45:04 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:45:15 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:45:15 [INFO] ImKyotoPvP failed Text: acted like spamming (IP: 86.14.97.230). VL 2.
+16-03-04 21:45:15 [INFO] (CONSOLE) Kicked ImKyotoPvP : You're not allowed to spam in chat!
+16-03-04 21:45:25 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:45:35 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:45:45 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:45:55 [INFO] OG_Reckless failed Text: acted like spamming (IP: 24.241.92.87). VL 5.
+16-03-04 21:45:55 [INFO] (CONSOLE) Kicked OG_Reckless : You're not allowed to spam in chat!
+16-03-04 21:45:56 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (40 instead of 41)
+16-03-04 21:46:06 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:46:16 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:46:26 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:46:37 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:46:47 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:46:57 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:47:07 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:47:17 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:47:27 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:47:37 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:47:48 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:47:51 [INFO] 230NukeUrMum failed to use speed hacks. SPEED.
+16-03-04 21:47:58 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:48:08 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:48:18 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:48:28 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:48:38 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:48:48 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:48:59 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (43 instead of 44)
+16-03-04 21:49:09 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:49:19 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:49:27 [INFO] IDropTh3Face failed Direction: tried to hit an entity out of line of sight. VL 20.
+16-03-04 21:49:27 [INFO] IDropTh3Face failed Direction: tried to hit an entity out of line of sight. VL 21.
+16-03-04 21:49:27 [INFO] IDropTh3Face failed Direction: tried to hit an entity out of line of sight. VL 51.
+16-03-04 21:49:27 [INFO] IDropTh3Face failed Improbable: meets the improbable more than expected. VL 10.
+16-03-04 21:49:29 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (43 instead of 44)
+16-03-04 21:49:39 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (43 instead of 44)
+16-03-04 21:49:49 [INFO] 230NukeUrMum failed to use speed hacks. SPEED.
+16-03-04 21:49:50 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (43 instead of 44)
+16-03-04 21:50:00 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:50:08 [INFO] IDropTh3Face failed Direction: tried to hit an entity out of line of sight. VL 24.
+16-03-04 21:50:09 [INFO] IDropTh3Face failed Direction: tried to hit an entity out of line of sight. VL 20.
+16-03-04 21:50:09 [INFO] IDropTh3Face failed Speed: tried to attack with too high a frequency. VL 61.
+16-03-04 21:50:09 [INFO] IDropTh3Face failed Improbable: meets the improbable more than expected. VL 15.
+16-03-04 21:50:10 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:50:20 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:50:31 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:50:41 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:50:51 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (43 instead of 44)
+16-03-04 21:51:02 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (43 instead of 44)
+16-03-04 21:51:12 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (43 instead of 44)
+16-03-04 21:51:22 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (43 instead of 44)
+16-03-04 21:51:32 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (43 instead of 44)
+16-03-04 21:51:43 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (43 instead of 44)
+16-03-04 21:51:53 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (43 instead of 44)
+16-03-04 21:51:55 [INFO] IDropTh3Face failed Direction: tried to hit an entity out of line of sight. VL 7.
+16-03-04 21:51:56 [INFO] IDropTh3Face failed Improbable: meets the improbable more than expected. VL 63.
+16-03-04 21:51:56 [INFO] IDropTh3Face failed Speed: tried to attack with too high a frequency. VL 55.
+16-03-04 21:51:58 [INFO] IDropTh3Face failed to use auto-heal hacks. AUTO-HEAL.
+16-03-04 21:52:02 [INFO] IDropTh3Face failed Direction: tried to hit an entity out of line of sight. VL 13.
+16-03-04 21:52:03 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (43 instead of 44)
+16-03-04 21:52:14 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (43 instead of 44)
+16-03-04 21:52:24 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (43 instead of 44)
+16-03-04 21:52:34 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (43 instead of 44)
+16-03-04 21:52:45 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:52:47 [INFO] _YouSaidIHack_ failed Speed: tried to attack with too high a frequency. VL 215.
+16-03-04 21:52:52 [INFO] _YouSaidIHack_ failed Speed: tried to attack with too high a frequency. VL 109.
+16-03-04 21:52:53 [INFO] LiquidSoap failed Passable: moved into a block (5) from 1166.42, 188.00, 2734.65 to 1166.42, 187.92, 2734.65 distance 0.08 . VL 11.
+16-03-04 21:52:55 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:52:58 [INFO] LiquidSoap failed Passable: moved into a block (5) from 1166.42, 181.00, 2734.65 to 1166.42, 180.92, 2734.65 distance 0.08 . VL 13.
+16-03-04 21:53:00 [INFO] _YouSaidIHack_ failed Speed: tried to attack with too high a frequency. VL 52.
+16-03-04 21:53:05 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:53:16 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (43 instead of 44)
+16-03-04 21:53:17 [INFO] LiquidSoap failed Passable: moved into a block (5) from 1166.42, 176.00, 2734.65 to 1166.42, 175.92, 2734.65 distance 0.08 . VL 14.
+16-03-04 21:53:22 [INFO] LiquidSoap failed Passable: moved into a block (5) from 1166.42, 169.00, 2734.65 to 1166.42, 168.92, 2734.65 distance 0.08 . VL 16.
+16-03-04 21:53:26 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:53:29 [INFO] LiquidSoap failed Passable: moved into a block (5) from 1166.42, 160.00, 2734.65 to 1166.42, 159.92, 2734.65 distance 0.08 . VL 18.
+16-03-04 21:53:36 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:53:37 [INFO] TH3XRAY3R failed Visible: interacts with a block out of sight. VL 115.
+16-03-04 21:53:40 [INFO] LiquidSoap failed Passable: moved into a block (5) from 1166.42, 159.00, 2734.65 to 1166.42, 158.92, 2734.65 distance 0.08 . VL 19.
+16-03-04 21:53:47 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:53:47 [INFO] TH3XRAY3R failed Passable: moved into a block (1) from 9976.70, 28.16, 9935.55 to 9976.70, 27.79, 9935.55 distance 0.38 . VL 10.
+16-03-04 21:53:57 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:53:59 [INFO] LiquidSoap failed to use fastbreak hacks. FASTBREAK.
+16-03-04 21:53:59 [INFO] LiquidSoap failed Passable: moved into a block (5) from 1166.42, 140.00, 2734.65 to 1166.42, 139.92, 2734.65 distance 0.08 . VL 22.
+16-03-04 21:54:07 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:54:14 [INFO] TH3XRAY3R failed Passable: moved into a block (1) from 9976.30, 27.23, 9935.70 to 9976.30, 26.85, 9935.70 distance 0.38 . VL 14.
+16-03-04 21:54:15 [INFO] Asuna_PlaysMc failed to use fly hacks. FLY.
+16-03-04 21:54:15 [INFO] TH3XRAY3R failed to use nofall hacks. NO FALL.
+16-03-04 21:54:18 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (43 instead of 44)
+16-03-04 21:54:25 [INFO] LiquidSoap failed Passable: moved into a block (5) from 1166.42, 111.00, 2734.65 to 1166.42, 110.92, 2734.65 distance 0.08 . VL 24.
+16-03-04 21:54:28 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (43 instead of 44)
+16-03-04 21:54:38 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (43 instead of 44)
+16-03-04 21:54:40 [INFO] LiquidSoap failed Passable: moved into a block (5) from 1166.36, 91.00, 2734.60 to 1166.36, 90.92, 2734.60 distance 0.08 . VL 26.
+16-03-04 21:54:49 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (43 instead of 44)
+16-03-04 21:54:59 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (43 instead of 44)
+16-03-04 21:55:03 [INFO] SirDippinDots failed Speed: tried to attack with too high a frequency. VL 53.
+16-03-04 21:55:09 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (43 instead of 44)
+16-03-04 21:55:19 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (44 instead of 45)
+16-03-04 21:55:29 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (44 instead of 45)
+16-03-04 21:55:40 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (43 instead of 44)
+16-03-04 21:55:43 [INFO] SilentMC failed to use fly hacks. FLY.
+16-03-04 21:55:50 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:56:00 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (43 instead of 44)
+16-03-04 21:56:10 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (43 instead of 44)
+16-03-04 21:56:20 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:56:26 [INFO] xMrSquishyx failed Text: acted like spamming (IP: 107.215.229.89). VL 1.
+16-03-04 21:56:26 [INFO] (CONSOLE) Kicked xMrSquishyx : You're not allowed to spam in chat!
+16-03-04 21:56:30 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (40 instead of 41)
+16-03-04 21:56:40 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:56:50 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:57:00 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:57:10 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 21:57:21 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:57:31 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:57:41 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:57:51 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:58:02 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:58:02 [INFO] FrozenPie failed to use fly hacks. FLY.
+16-03-04 21:58:12 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:58:22 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:58:31 [INFO] SilentMC failed to use fly hacks. FLY.
+16-03-04 21:58:32 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:58:43 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:58:53 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:59:03 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:59:13 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:59:24 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:59:34 [INFO] LiquidSoap failed to use fastbreak hacks. FASTBREAK.
+16-03-04 21:59:34 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (43 instead of 44)
+16-03-04 21:59:44 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 21:59:54 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 22:00:05 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 22:00:11 [INFO] LiquidSoap failed to use fastbreak hacks. FASTBREAK.
+16-03-04 22:00:15 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (44 instead of 45)
+16-03-04 22:00:25 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (44 instead of 45)
+16-03-04 22:00:35 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (43 instead of 44)
+16-03-04 22:00:45 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (43 instead of 44)
+16-03-04 22:00:56 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (43 instead of 44)
+16-03-04 22:01:06 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (43 instead of 44)
+16-03-04 22:01:16 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (42 instead of 43)
+16-03-04 22:01:26 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 22:01:36 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 22:01:46 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (40 instead of 41)
+16-03-04 22:01:56 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 22:02:07 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 22:02:17 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 22:02:18 [INFO] dumptrucklover failed to use nofall hacks. NO FALL.
+16-03-04 22:02:22 [INFO] SirDippinDots failed to use nofall hacks. NO FALL.
+16-03-04 22:02:23 [INFO] SirDippinDots failed to use fly hacks. FLY.
+16-03-04 22:02:27 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (40 instead of 41)
+16-03-04 22:02:38 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (39 instead of 40)
+16-03-04 22:02:48 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (40 instead of 41)
+16-03-04 22:02:58 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (40 instead of 41)
+16-03-04 22:03:09 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (38 instead of 39)
+16-03-04 22:03:27 [INFO] iiScrub failed to use speed hacks. SPEED.
+16-03-04 22:03:28 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (38 instead of 39)
+16-03-04 22:03:37 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (38 instead of 39)
+16-03-04 22:03:45 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (39 instead of 40)
+16-03-04 22:03:49 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (39 instead of 40)
+16-03-04 22:03:59 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (40 instead of 41)
+16-03-04 22:04:09 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (40 instead of 41)
+16-03-04 22:04:32 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 22:04:40 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 22:04:42 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 22:04:49 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (39 instead of 40)
+16-03-04 22:04:59 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (39 instead of 40)
+16-03-04 22:05:21 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (40 instead of 41)
+16-03-04 22:05:27 [INFO] Want_Fanatic failed to use fly hacks. FLY.
+16-03-04 22:05:28 [INFO] killerendermen67 failed to use fly hacks. FLY.
+16-03-04 22:05:30 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 22:05:34 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 22:05:40 [INFO] Want_Fanatic failed to use fly hacks. FLY.
+16-03-04 22:05:40 [INFO] Want_Fanatic failed to use speed hacks. SPEED.
+16-03-04 22:05:40 [INFO] Want_Fanatic failed to use speed hacks. SPEED.
+16-03-04 22:05:40 [INFO] (CONSOLE) Kicked Want_Fanatic : Kicked for flying (or related)
+16-03-04 22:05:41 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (40 instead of 41)
+16-03-04 22:05:50 [WARNING] DataMan inconsistencies: missing online players (1) | wrong number of online players (41 instead of 42)
+16-03-04 22:07:12 [INFO] ImKyotoPvP failed Text: acted like spamming (IP: 86.14.97.230). VL 1.
+16-03-04 22:07:12 [INFO] (CONSOLE) Kicked ImKyotoPvP : You're not allowed to spam in chat!
+16-03-04 22:07:25 [INFO] ImKyotoPvP failed Relog: relogs too fast. VL 1.
+16-03-04 22:08:10 [INFO] Want_Fanatic failed to use fly hacks. FLY.
+16-03-04 22:11:43 [INFO] LiquidSoap failed Passable: moved into a block (4) from 1219.46, 166.00, 2727.63 to 1219.46, 165.92, 2727.63 distance 0.08 . VL 10.
+16-03-04 22:11:52 [INFO] LiquidSoap failed Passable: moved into a block (4) from 1219.46, 156.00, 2727.63 to 1219.46, 155.92, 2727.63 distance 0.08 . VL 11.
+16-03-04 22:12:36 [INFO] LiquidSoap failed Passable: moved into a block (4) from 1219.46, 111.00, 2727.63 to 1219.46, 110.92, 2727.63 distance 0.08 . VL 13.
+16-03-04 22:12:44 [INFO] LiquidSoap failed Passable: moved into a block (4) from 1219.46, 103.00, 2727.63 to 1219.46, 102.92, 2727.63 distance 0.08 . VL 14.
+16-03-04 22:12:50 [INFO] A7F4R failed Text: acted like spamming (IP: 151.224.140.209). VL 1.
+16-03-04 22:12:50 [INFO] (CONSOLE) Kicked A7F4R : You're not allowed to spam in chat!
+16-03-04 22:13:20 [INFO] LiquidSoap failed Passable: moved into a block (4) from 1219.46, 77.00, 2727.63 to 1219.46, 76.92, 2727.63 distance 0.08 . VL 15.
+16-03-04 22:14:46 [INFO] StarMarineGaming failed to use fly hacks. FLY.
+16-03-04 22:16:15 [INFO] riverpdog failed to use fly hacks. FLY.
+16-03-04 22:17:16 [INFO] StarMarineGaming failed to use fly hacks. FLY.
+16-03-04 22:18:25 [INFO] GAP_iMadStrafe failed Text: acted like spamming (IP: 24.98.33.189). VL 0.
+16-03-04 22:18:25 [INFO] (CONSOLE) Kicked GAP_iMadStrafe : You're not allowed to spam in chat!
+16-03-04 22:19:09 [INFO] SkullPla7z failed Reach: exceeds block-interact distance (8). VL 8.
+16-03-04 22:19:09 [INFO] JokerHD failed MorePackets: sent too many moves (10 epsacc). VL 10.
+16-03-04 22:19:09 [INFO] JuniorTheNoob failed MorePackets: sent too many moves (10 epsacc). VL 10.
+16-03-04 22:19:10 [INFO] ItsSpaceOG failed MorePackets: sent too many moves (10 epsacc). VL 10.
+16-03-04 22:19:10 [INFO] nabster02 failed MorePackets: sent too many moves (10 epsacc). VL 10.
+16-03-04 22:19:10 [INFO] SparkzPlays failed MorePackets: sent too many moves (10 epsacc). VL 10.
+16-03-04 22:19:10 [INFO] DnellyOP failed MorePackets: sent too many moves (10 epsacc). VL 10.
+16-03-04 22:19:10 [INFO] MichaelPlayzz failed MorePackets: sent too many moves (10 epsacc). VL 10.
+16-03-04 22:19:11 [INFO] JokerHD failed MorePackets: sent too many moves (21 epsacc). VL 21.
+16-03-04 22:19:11 [INFO] RedOfficial failed MorePackets: sent too many moves (10 epsacc). VL 10.
+16-03-04 22:19:11 [INFO] JuniorTheNoob failed MorePackets: sent too many moves (16 epsacc). VL 16.
+16-03-04 22:19:20 [INFO] StrafeMyNan failed Direction: tried to interact with a block out of their line of sight. VL 13.
+16-03-04 22:19:23 [INFO] StrafeMyNan failed Direction: tried to interact with a block out of their line of sight. VL 12.
+16-03-04 22:19:49 [INFO] nabster02 failed to use fly hacks. FLY.
+16-03-04 22:20:13 [INFO] nabster02 failed to use fly hacks. FLY.
+16-03-04 22:21:04 [INFO] 230NukeUrMum failed to use fly hacks. FLY.
+16-03-04 22:22:22 [INFO] StarMarineGaming failed to use fly hacks. FLY.
+16-03-04 22:22:22 [INFO] StarMarineGaming failed to use fly hacks. FLY.
+16-03-04 22:22:58 [INFO] SirDippinDots failed to use fly hacks. FLY.
+16-03-04 22:22:58 [INFO] SirDippinDots failed to use speed hacks. SPEED.
+16-03-04 22:23:41 [INFO] SirDippinDots failed to use speed hacks. SPEED.
+16-03-04 22:25:23 [INFO] Asuna_PlaysMc failed to use fly hacks. FLY.
+16-03-04 22:25:24 [INFO] Asuna_PlaysMc failed to use speed hacks. SPEED.
+16-03-04 22:25:24 [INFO] Asuna_PlaysMc failed to use nofall hacks. NO FALL.
+16-03-04 22:25:30 [INFO] Asuna_PlaysMc failed Passable: moved into a block (1) from 806.70, 48.23, 920.44 to 806.70, 47.85, 920.36 distance 0.38 . VL 11.
+16-03-04 22:25:35 [INFO] Asuna_PlaysMc failed Passable: moved into a block (1) from 806.70, 48.23, 920.30 to 806.70, 47.85, 920.30 distance 0.38 . VL 16.
+16-03-04 22:25:39 [INFO] merock1 failed Text: acted like spamming (IP: 124.148.93.135). VL 1.
+16-03-04 22:25:39 [INFO] (CONSOLE) Kicked merock1 : You're not allowed to spam in chat!
+16-03-04 22:25:40 [INFO] Asuna_PlaysMc failed Passable: moved into a block (1) from 806.70, 45.23, 920.30 to 806.70, 44.85, 920.30 distance 0.38 . VL 18.
+16-03-04 22:25:44 [INFO] Asuna_PlaysMc failed to use fly hacks. FLY.
+16-03-04 22:25:49 [INFO] Asuna_PlaysMc failed Passable: moved into a block (1) from 806.31, 44.23, 920.31 to 806.30, 43.85, 920.31 distance 0.38 . VL 26.
+16-03-04 22:25:56 [INFO] Asuna_PlaysMc failed Passable: moved into a block (1) from 806.30, 41.23, 920.69 to 806.30, 40.85, 920.69 distance 0.38 . VL 27.
+16-03-04 22:26:01 [INFO] Asuna_PlaysMc failed Passable: moved into a block (1) from 806.30, 37.23, 920.70 to 806.30, 36.85, 920.70 distance 0.38 . VL 30.
+16-03-04 22:26:07 [INFO] Asuna_PlaysMc failed Passable: moved into a block (1) from 806.67, 31.23, 920.70 to 806.67, 30.85, 920.70 distance 0.38 . VL 33.
+16-03-04 22:26:10 [INFO] haloterminator failed Commands: issued too many commands. VL 1.
+16-03-04 22:26:10 [INFO] (CONSOLE) Kicked haloterminator for 1 minutes: You're not allowed to spam commands!
+16-03-04 22:26:16 [INFO] Asuna_PlaysMc failed Passable: moved into a block (1) from 806.30, 27.23, 920.34 to 806.30, 26.85, 920.34 distance 0.38 . VL 35.
+16-03-04 22:26:21 [INFO] Asuna_PlaysMc failed Passable: moved into a block (1) from 806.30, 26.23, 920.53 to 806.30, 25.86, 920.53 distance 0.38 . VL 42.
+16-03-04 22:26:25 [INFO] Asuna_PlaysMc failed Passable: moved into a block (1) from 806.30, 26.23, 920.53 to 806.30, 25.85, 920.53 distance 0.38 . VL 51.
+16-03-04 22:26:25 [INFO] Asuna_PlaysMc failed to use fly hacks. FLY.
+16-03-04 22:26:34 [INFO] Asuna_PlaysMc failed Passable: moved into a block (1) from 806.30, 25.23, 920.53 to 806.30, 24.85, 920.53 distance 0.38 . VL 60.
+16-03-04 22:26:39 [INFO] Asuna_PlaysMc failed Passable: moved into a block (1) from 806.30, 25.31, 920.53 to 806.30, 24.93, 920.53 distance 0.38 . VL 72.
+16-03-04 22:26:39 [INFO] Asuna_PlaysMc failed to use fly hacks. FLY.
+16-03-04 22:26:40 [INFO] Asuna_PlaysMc failed to use fly hacks. FLY.
+16-03-04 22:26:41 [INFO] Asuna_PlaysMc failed to use speed hacks. SPEED.
+16-03-04 22:26:44 [INFO] Asuna_PlaysMc failed to use speed hacks. SPEED.
+16-03-04 22:26:44 [INFO] (CONSOLE) Kicked Asuna_PlaysMc : Kicked for flying (or related)
+16-03-04 22:27:11 [INFO] Asuna_PlaysMc failed Passable: moved into a block (1) from 806.70, 24.23, 920.55 to 806.70, 23.85, 920.55 distance 0.38 . VL 75.
+16-03-04 22:27:16 [INFO] Asuna_PlaysMc failed Passable: moved into a block (1) from 806.30, 21.23, 920.30 to 806.30, 20.85, 920.30 distance 0.38 . VL 76.
+16-03-04 22:27:17 [INFO] PvPMaestro failed Text: acted like spamming (IP: 151.224.140.209). VL 0.
+16-03-04 22:27:17 [INFO] (CONSOLE) Kicked PvPMaestro : You're not allowed to spam in chat!
+16-03-04 22:27:23 [INFO] Asuna_PlaysMc failed Passable: moved into a block (1) from 806.37, 17.23, 920.30 to 806.37, 16.85, 920.30 distance 0.38 . VL 79.
+16-03-04 22:27:28 [INFO] Asuna_PlaysMc failed Passable: moved into a block (1) from 806.30, 14.23, 920.70 to 806.30, 13.85, 920.70 distance 0.38 . VL 80.
+16-03-04 22:27:38 [INFO] MichaelPlayzz failed to use fly hacks. FLY.
+16-03-04 22:27:38 [INFO] MichaelPlayzz failed to use speed hacks. SPEED.
+16-03-04 22:27:43 [INFO] MichaelPlayzz failed to use speed hacks. SPEED.
+16-03-04 22:27:43 [INFO] MichaelPlayzz failed to use speed hacks. SPEED.
+16-03-04 22:27:43 [INFO] (CONSOLE) Kicked MichaelPlayzz : Kicked for flying (or related)
+16-03-04 22:27:49 [INFO] MichaelPlayzz failed to use speed hacks. SPEED.
+16-03-04 22:28:29 [INFO] Want_Fanatic failed FastClick: tried to move items in their inventory too quickly. VL 89.
+16-03-04 22:29:11 [INFO] ItsSpaceOG failed Text: acted like spamming (IP: 76.114.155.234). VL 1.
+16-03-04 22:29:11 [INFO] (CONSOLE) Kicked ItsSpaceOG : You're not allowed to spam in chat!
+16-03-04 22:29:26 [INFO] SkullPla7z failed to use nofall hacks. NO FALL.
+16-03-04 22:29:33 [INFO] ItsSpaceOG failed Commands: issued too many commands. VL 1.
+16-03-04 22:29:33 [INFO] (CONSOLE) Kicked ItsSpaceOG for 1 minutes: You're not allowed to spam commands!
+16-03-04 22:31:27 [INFO] 230NukeUrMum failed MorePackets: sent too many moves (27 epsacc). VL 27.
+16-03-04 22:32:07 [INFO] Asuna_PlaysMc failed Passable: moved into a block (1) from 812.50, 14.00, 944.50 to 812.50, 13.90, 944.50 distance 0.10 . VL 66.
+16-03-04 22:32:15 [INFO] ClassyBB failed to use fly hacks. FLY.
+16-03-04 22:32:25 [INFO] ClassyBB failed to use fly hacks. FLY.
+16-03-04 22:32:35 [INFO] ClassyBB failed to use fly hacks. FLY.
+16-03-04 22:32:45 [INFO] ClassyBB failed to use fly hacks. FLY.
+16-03-04 22:37:46 [INFO] xMrSquishyx failed MorePackets: sent too many moves (14 epsacc). VL 14.
+16-03-04 22:39:00 [INFO] riverpdog failed to use nofall hacks. NO FALL.
+16-03-04 22:40:57 [INFO] riverpdog failed to use nofall hacks. NO FALL.
+16-03-04 22:45:59 [INFO] DnellyOP failed Direction: tried to hit an entity out of line of sight. VL 15.
+16-03-04 22:45:59 [INFO] DnellyOP failed Direction: tried to hit an entity out of line of sight. VL 21.
+16-03-04 22:46:18 [INFO] DnellyOP failed to use speed hacks. SPEED.
+16-03-04 22:46:28 [INFO] dumptrucklover failed to use fly hacks. FLY.
+16-03-04 22:51:33 [INFO] Asuna_PlaysMc failed Passable: moved into a block (1) from 807.50, 6.00, 948.50 to 807.50, 5.90, 948.50 distance 0.10 . VL 14.
+16-03-04 22:53:03 [INFO] Tyguhh failed Speed: tried to attack with too high a frequency. VL 56.
+16-03-04 22:53:08 [INFO] Asuna_PlaysMc failed Passable: moved into a block (1) from 809.50, 6.00, 947.50 to 809.50, 5.90, 947.50 distance 0.10 . VL 13.
+16-03-04 22:55:06 [INFO] xNdog831x failed Relog: relogs too fast. VL 1.
+16-03-04 22:55:18 [INFO] Asuna_PlaysMc failed Passable: moved into a block (4) from 808.50, 10.00, 947.50 to 808.50, 9.90, 947.50 distance 0.10 . VL 11.
+16-03-04 22:55:31 [INFO] Asuna_PlaysMc failed Passable: moved into a block (1) from 807.75, 8.23, 930.46 to 807.75, 7.85, 930.46 distance 0.38 . VL 12.
+16-03-04 22:55:59 [INFO] Tyguhh failed Direction: tried to hit an entity out of line of sight. VL 11.
+16-03-04 22:55:59 [INFO] Tyguhh failed Direction: tried to hit an entity out of line of sight. VL 21.
+16-03-04 22:56:12 [INFO] Asuna_PlaysMc failed Passable: moved into a block (1) from 825.62, 10.23, 930.98 to 825.62, 9.85, 930.98 distance 0.38 . VL 12.
+16-03-04 22:56:43 [INFO] sarfighter89 failed to use fly hacks. FLY.
+16-03-04 22:56:44 [INFO] sarfighter89 failed to use speed hacks. SPEED.
+16-03-04 22:56:44 [INFO] sarfighter89 failed Direction: tried to hit an entity out of line of sight. VL 18.
+16-03-04 22:56:44 [INFO] sarfighter89 failed Direction: tried to hit an entity out of line of sight. VL 22.
+16-03-04 22:56:44 [INFO] sarfighter89 failed to use speed hacks. SPEED.
+16-03-04 22:56:44 [INFO] (CONSOLE) Kicked sarfighter89 : Kicked for flying (or related)
+16-03-04 22:56:53 [INFO] sarfighter89 failed Direction: tried to hit an entity out of line of sight. VL 21.
+16-03-04 22:56:53 [INFO] sarfighter89 failed to use speed hacks. SPEED.
+16-03-04 22:56:54 [INFO] (CONSOLE) Kicked sarfighter89 : Kicked for flying (or related)
+16-03-04 22:56:55 [INFO] Asuna_PlaysMc failed Passable: moved into a block (1) from 826.40, 7.23, 936.65 to 826.40, 6.85, 936.65 distance 0.38 . VL 13.
+16-03-04 22:56:57 [INFO] sarfighter89 failed Direction: tried to hit an entity out of line of sight. VL 16.
+16-03-04 22:56:57 [INFO] (CONSOLE) Kicked sarfighter89 : Kicked for flying (or related)
+16-03-04 22:57:00 [INFO] sarfighter89 failed Relog: relogs too fast. VL 1.
+16-03-04 22:57:06 [INFO] GlueCZ failed to use fly hacks. FLY.
+16-03-04 22:57:07 [INFO] sarfighter89 failed Direction: tried to hit an entity out of line of sight. VL 16.
+16-03-04 22:57:07 [INFO] sarfighter89 failed to use speed hacks. SPEED.
+16-03-04 22:57:07 [INFO] (CONSOLE) Kicked sarfighter89 : Kicked for flying (or related)
+16-03-04 22:57:14 [INFO] sarfighter89 failed Direction: tried to hit an entity out of line of sight. VL 19.
+16-03-04 22:57:15 [INFO] sarfighter89 failed Direction: tried to hit an entity out of line of sight. VL 22.
+16-03-04 22:57:15 [INFO] sarfighter89 failed to use speed hacks. SPEED.
+16-03-04 22:57:15 [INFO] (CONSOLE) Kicked sarfighter89 : Kicked for flying (or related)
+16-03-04 22:57:20 [INFO] sarfighter89 failed Direction: tried to hit an entity out of line of sight. VL 27.
+16-03-04 22:57:21 [INFO] sarfighter89 failed to use speed hacks. SPEED.
+16-03-04 22:57:21 [INFO] (CONSOLE) Kicked sarfighter89 : Kicked for flying (or related)
+16-03-04 22:57:25 [INFO] Asuna_PlaysMc failed Passable: moved into a block (1) from 826.58, 7.23, 945.71 to 826.58, 6.85, 945.71 distance 0.38 . VL 14.
+16-03-04 22:57:25 [INFO] Asuna_PlaysMc failed to use fly hacks. FLY.
+16-03-04 22:57:55 [INFO] xNdog831x failed FastClick: tried to move items in their inventory too quickly. VL 61.
+16-03-04 22:58:13 [INFO] dumptrucklover failed Text: acted like spamming (IP: 107.202.118.94). VL 1.
+16-03-04 22:58:13 [INFO] (CONSOLE) Kicked dumptrucklover : You're not allowed to spam in chat!
+16-03-04 23:02:17 [INFO] SkullPla7z failed to use nofall hacks. NO FALL.
+16-03-04 23:02:25 [INFO] Asuna_PlaysMc failed Passable: moved into a block (1) from 824.50, 6.00, 949.50 to 824.50, 5.90, 949.50 distance 0.10 . VL 11.
+16-03-04 23:03:11 [INFO] SkullPla7z failed to use nofall hacks. NO FALL.

@@ -1,0 +1,2 @@
+vault1:
+  '0': '{"amount":8,"==":"org.bukkit.inventory.ItemStack","type":"CACTUS"}'

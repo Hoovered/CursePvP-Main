@@ -1,0 +1,13 @@
+Messages:
+  timeleftofcombat: AntiCombatLog You have %time% seconds left of Combat!
+  notincombat: AntiCombatLog You are not in Combat!
+  nowincombat: AntiCombatLog You are now in Combat, DONT LOGOUT!! To check your remaining time left in Combat type /ct
+  outofcombat: AntiCombatLog You are now out of Combat, you may logout now!
+  canttpincombat: AntiCombatLog &cYou can't teleport in Combat.
+  oncombatlog: AntiCombatLog %player% &clogged out in Combat!
+  canttypecommand: AntiCombatLog You can't type that command in Combat.
+combattime: 25
+disableFly: true
+disableCreative: true
+canTPincombat: false
+blocked-cmds: []

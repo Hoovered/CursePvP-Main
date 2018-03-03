@@ -14,10 +14,8 @@ options:
   score board: true
   self combat: true
   mobs:
-    combat: true
+    combat: false
     blacklist:
-    - PIG
-    - COW
   remove combat on enemy death: true
   bypass:
     enable: false

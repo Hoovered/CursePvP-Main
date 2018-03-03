@@ -310,7 +310,7 @@ kits:
     - DIAMOND_BOOTS 1 name:&c&lZOMBIE protection_environmental:1
     - GOLDEN_APPLE:1 1
     - GOLDEN_APPLE 12
-    - ARROW 64
+    - ARROW 1
   Skelly:
     delay: 86400
     items:
@@ -324,7 +324,7 @@ kits:
     - DIAMOND_BOOTS 1 name:&f&lSKELLY protection_environmental:2
     - GOLDEN_APPLE:1 2
     - GOLDEN_APPLE 16
-    - ARROW 64
+    - ARROW 1
   Creeper:
     delay: 86400
     items:
@@ -338,7 +338,7 @@ kits:
     - DIAMOND_BOOTS 1 name:&2&lCREEPER protection_environmental:3 durability:3
     - GOLDEN_APPLE:1 4
     - GOLDEN_APPLE 64
-    - ARROW 64
+    - ARROW 1
   Enderman:
     delay: 86400
     items:
@@ -352,7 +352,7 @@ kits:
     - DIAMOND_BOOTS 1 name:&5&lENDERMAN protection_environmental:4 durability:4
     - GOLDEN_APPLE:1 6
     - GOLDEN_APPLE 64
-    - ARROW 64
+    - ARROW 1
     - GOLDEN_APPLE 64
   Dragon:
     delay: 86400
@@ -368,21 +368,7 @@ kits:
     - GOLDEN_APPLE:1 16
     - GOLDEN_APPLE 64
     - GOLDEN_APPLE 64
-    - ARROW 64
-  YouTube:
-    delay: 86400
-    items:
-    - DIAMOND_SWORD 1 name:&c&lYouTube damage_all:3
-    - DIAMOND_PICKAXE 1 name:&c&lYouTube dig_speed:3 loot_bonus_blocks:1
-    - DIAMOND_AXE 1 name:&c&lYouTube dig_speed:3 loot_bonus_blocks:1
-    - BOW 1 name:&c&lYouTube arrow_damage:2
-    - DIAMOND_HELMET 1 name:&c&lYouTube protection_environmental:2
-    - DIAMOND_CHESTPLATE 1 name:&c&lYouTube protection_environmental:2
-    - DIAMOND_LEGGINGS 1 name:&c&lYouTube protection_environmental:2
-    - DIAMOND_BOOTS 1 name:&c&lYouTube protection_environmental:2
-    - GOLDEN_APPLE:1 2
-    - GOLDEN_APPLE 16
-    - ARROW 64
+    - ARROW 1
   Food:
     delay: 86400
     items:

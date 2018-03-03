@@ -4,17 +4,10 @@ last-created-npc-id: 1
 npc:
   '1':
     metadata:
-<<<<<<< HEAD
-      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjAwNjAyNjA0ODUsInByb2ZpbGVJZCI6ImJkYTVkZTE3YjE5NTRkNTQ5OWQxOTM3ODRlNjQxYmU3IiwicHJvZmlsZU5hbWUiOiJ3YXJwcyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODc1ZGE2OTY5MTU3OTIyNjllNmE0ZWIwMjczNzlkMzZjZWU5NmJjNTZhMTQ3MjZmOWZmM2VkM2MyMmZlNCJ9fX0=
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjAwNjc1ODQ4NDQsInByb2ZpbGVJZCI6ImJkYTVkZTE3YjE5NTRkNTQ5OWQxOTM3ODRlNjQxYmU3IiwicHJvZmlsZU5hbWUiOiJ3YXJwcyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODc1ZGE2OTY5MTU3OTIyNjllNmE0ZWIwMjczNzlkMzZjZWU5NmJjNTZhMTQ3MjZmOWZmM2VkM2MyMmZlNCJ9fX0=
       cached-skin-uuid-name: warps
       cached-skin-uuid: bda5de17-b195-4d54-99d1-93784e641be7
-      player-skin-signature: V61CQfrnW/1WEpArunFFbUINOf8aJK1KT/G7ihBqjdDFOEHQ+9glCEEb+8doHeb56H52OIZ5efqL5ktUnsdBlYdtfNbytBLpuhV7WU2H49ul3lLSSOSYpFMQPuYjZ8IWcC5fVYn5uaz0zCHZRcxBC95KfSv/MbK/fOaVvoPNIg7SW/4UC3wD8m4iP5FvDYuwuExWXKxWXXHviFWo0yJhJpxUm9wVXstgqqxgSQFUJoFt10C1wJfoQj83vNVPeZhEGrK3j1SShfDP+yWxDN3BZIKLyfKh12t9KfA9HWDe7HZ4U2YvRcnA7NZgKYcLINDDxufc6CBJXr67IT8wojO8wLKEPAbVEl0BBU1mGKQvToudXModOZxhN+/9l9rbMRDOsB1Ww60yQlJdQ/6JvWIcP1NtPO2PDX9su/gbUv3TkVSRDD6PnO8+4PKSWnshiIw+Lqb7dwXd7ymQ5LV66dvcZFFI+659Su4k2VwW9UO+XD/JAtXa/mw74ph2vf46jqO/1chS4uZhrue+CQUWUwl95uTLFsYi0540orDNbhZ9w+R/8oJ1pmyLs+60BjxVjx4zzztwVpvH5+8o8oGZUCzLOuNTaBOqxD4WQXAeiGv/YCxgpKKtda7N+kROD1/ZrEAPvkyVdrySOxvDdne9K7DjkOAx7+TfvN8bXqU9FD7NYts=
-=======
-      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjAwNTgxMzc0OTQsInByb2ZpbGVJZCI6ImJkYTVkZTE3YjE5NTRkNTQ5OWQxOTM3ODRlNjQxYmU3IiwicHJvZmlsZU5hbWUiOiJ3YXJwcyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODc1ZGE2OTY5MTU3OTIyNjllNmE0ZWIwMjczNzlkMzZjZWU5NmJjNTZhMTQ3MjZmOWZmM2VkM2MyMmZlNCJ9fX0=
-      cached-skin-uuid-name: warps
-      cached-skin-uuid: bda5de17-b195-4d54-99d1-93784e641be7
-      player-skin-signature: crP96v4t/Iht5LRJ7MsUYiqgvWdw7JEb/3pS2mGes3qSp9xIVE2iC9uD9nC7o4zMHgzYH8QuppjnGpSAtUNN6cazTZV9Eh8jWi9m1Hj6+xEED6XIjfdWxJ8f0g+53XEHx9E8p8TgEmon/+mYoVYaaFKw55zRQltKRFGxK+gVQtFHVaMT8obPXBcAzteoswUm/V9k2cHhrqiL8yYgvL/B9Y44c8Wns0yDPXUfIfekUk/Kzao0GR8YC/VhwwX6nnKAUXZKp9ye21Gs961y7ULl/l0GI2+LdOFlF0kG+K1gwoTEGbO2SirHhPdNPodbXrlzdSvcezDBWY1BjAWxpE0qrmHQf+GOJFiwOacIv/lEA9yFeku8smMNE1vW0hpCaTUIi0CvFn5zS+joaainUSdLB9ickppEU6tDL2U3QdSZeG36AsfdJczDyr5dzcx/JjmGMdd5JnTdwEHUqUrv+kLj/hO08m5PZ4Beps694tqR733IqbexWLzv1r0ogGcIb1eLHBWN/lAgWjkWrpp+Gfz7FEN26B5FfQC+AKouI9DZfdI8cY51YxK196lB9tGBOw5aPeT+t/59nTvlb6xcLG4WbgGoGF1IyZPrEQitxiDoeVYQZwZcBujjshsUKxtOhvhyZSzVr0xFvCnnzllcMogxZbulhZpI/8rJxdx7JdSt4uY=
->>>>>>> 5682967f55b411c7f1b6bc15bc212457838d1c14
+      player-skin-signature: WFTtVTsotAYWaxAqYjGO/FaJvvdQv+ZAwnn2i9LmCJgK0syL/LPMGyaZmh6SBbqb+wiy9fCNrRFdj+YKiruPl+vQEO+OOUQQHnluJSKXcJnVFtvBekZHMC3MDZ5zjvYUHVBq7wnJYcXGh30iv/l1tjjEE+Ac/zX4ZegSFMf+VuwodtP1N2f387JAyILhdueGKGbRV9d6uF1pVkfM19kJn1RtyvvGsd0fxBEbOUlvcGXhtx3HWK327oI52FrRCsXopHKfG78Z7FTfGTNH/rvPmeDj8LZJLJsCsaExismZG9HbZEDTwnKXH/98mxcjZnZVzW1KzS0x8l0hKADx377ZkargmJXwCOI/hYH6iIyzqg2bVxrXa9zDqLCHv3DwFk3yMgbaP8GJvNP5c6GvJ7cfb8KecDfy615d6i5ADqQDBWFyyc0paor6BsRTx1a+aFKB/eYt0PBik6hRqf/CPCxBdXik6peP0B+P6X3dDn0Aoma+kzY5U+eR7tWShl4H+aidd6sMtFUFN+jFPeqMkHcV+TCu2ifaB2lNjZF+BsMv87qGStlSRaPizLmh7SM0i2bqLJhnGTA6hYryT0XXge+6iauGlhYMq1aaZ+JnD8OnU7UZS4HsvaM8JrEWFN2wo4m1DfBkcb7JXK1UJTlRHZPQ2Surua5bSAElfuDHRWuYT38=
     name: Warps
     uuid: f25e842b-1980-4101-8af5-a450fe423a3f
     traits:
@@ -30,11 +23,7 @@ npc:
       owner:
         owner: VladoX_
         uuid: 01082c20-8d71-3d17-9986-da9d9817b79b
-<<<<<<< HEAD
-    traitnames: type,inventory,owner,spawned,location
-=======
-    traitnames: owner,inventory,type,spawned,location
->>>>>>> 5682967f55b411c7f1b6bc15bc212457838d1c14
+    traitnames: inventory,location,type,spawned,owner
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -43,17 +32,10 @@ npc:
       usedefaultstuckaction: true
   '0':
     metadata:
-<<<<<<< HEAD
-      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjAwNjAyNjA1NzIsInByb2ZpbGVJZCI6IjMzMTRhZDVjMDgzZTQzMGNiYWRkNTgxNTJlNDE4ZjEzIiwicHJvZmlsZU5hbWUiOiJTaG9wIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85NWNjOTFkMTQ0OWE1YWRjYWE3OWJkZjkzZmNlYmM1NmRlNGRiNDU3YTdhN2M3NGJlOGNjNzQ2ZDIxYThhMyJ9fX0=
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjAwNjc1ODQ4ODQsInByb2ZpbGVJZCI6IjMzMTRhZDVjMDgzZTQzMGNiYWRkNTgxNTJlNDE4ZjEzIiwicHJvZmlsZU5hbWUiOiJTaG9wIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85NWNjOTFkMTQ0OWE1YWRjYWE3OWJkZjkzZmNlYmM1NmRlNGRiNDU3YTdhN2M3NGJlOGNjNzQ2ZDIxYThhMyJ9fX0=
       cached-skin-uuid-name: shop
       cached-skin-uuid: 3314ad5c-083e-430c-badd-58152e418f13
-      player-skin-signature: yTVktdzu0qxR4w1BfQ9U8c63j0I6aL8Gqh0Bu4u6w4R1qMgYDUporFksBZdvb1p8N/TDFsY8ym+lDkEfqgcE6M3C+Fzq26Pt1mTlELv5RP9AvA3d5GOHV7gxfOL2o6tAJUWVYNFlGaImGHQ+ZRO6YzT9vqJNcsd/JZVK/oJ+27ALgmVLsuZ3WHOoRoddco8I6pMnT/gTFXkV7U4QaSDu254q60VKtbC/EEGrPBiyrpgiqbB5p83pEX186z2vIfxebg7w9ZP8Sr7d1qXkYdoAnqVunwrnhnAFnOeyseOx+73o9QXnJEkCx3FjE2sb7yKCavkD4E7skEJL2QyKfBNGbhVucwUATpr0OXeBWaq4VYix4rSsVa2QENp+9CFTFcoBHxKthoeQ8c1GmB7PKtbxJHy2DO8KP2pfN/8Ndef5l0LEWF6daQcleE6d1Q0MOAUu3+srMIuzk+ZnqEkzQo0nH9uNvp5+xNKL/4PbLGIRnsmHPBUXKEE1NNY7ljrGQnwJ94Zf0QYCajx6yXiHVQf0pA46IdHhiToK4wcykdf9q6m3vHzPtArJSdN31eO4tvpNmr9pCp1QXe7wpk2aRGKh5G/eCB9devqpzG0gTrYM1LczYua57fkHSbTyK7j/s2s/RNolEI0tU4AeUrfcaCt1sGXCihdaydq0T951d05R0wQ=
-=======
-      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjAwNTgxMzc1NDEsInByb2ZpbGVJZCI6IjMzMTRhZDVjMDgzZTQzMGNiYWRkNTgxNTJlNDE4ZjEzIiwicHJvZmlsZU5hbWUiOiJTaG9wIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85NWNjOTFkMTQ0OWE1YWRjYWE3OWJkZjkzZmNlYmM1NmRlNGRiNDU3YTdhN2M3NGJlOGNjNzQ2ZDIxYThhMyJ9fX0=
-      cached-skin-uuid-name: shop
-      cached-skin-uuid: 3314ad5c-083e-430c-badd-58152e418f13
-      player-skin-signature: BhH48qWgox7qLxhOVtQiKyaMr+jepAXaDa8tIANafwcRBfZbQyagJo8heqMvWsc1OlBhQHe7JFXMFv1cvyB/YguTaXmhK1ExLTZwWebVIRblwVljiIEifpzYQLOwhOJMD2i+8kGpcziS5asSPN6itndQzB2cGkmM3IeAWsq7fDnD/ovlWtabKaWAqwQe5i5HvnYfY7qToWE6NVneS7CsclsMnvpNBLpFodu4OTzQCF52KHGaKk2eRgy0WgxQM4Fdh3CjSCT9M1D/WcXu/9ZL3T0iZh6W5QtAwSzTKRsSBaLQUfgd59X8CFDvDx67AFE5ClwGKT5KrMbbyoTdyZ+gpj4JC9cfGqpRLxodQvnXM1hkpQw3rJTYRzaeiKelwfDUmuXeryA+9ssPjpHT13QTg96Lv/RZHdP1ib3xPWrdwF0nsoj9ZxcKDV/rxz3mKxjdmcYz4sk4nHZOmSk+aC4hiL8vyN1n0GAf3K8t56ghTYSDUapLV0BL0Gk5Qj5NBT0UIvrC5guLQF7Tq256mxwODnqF44jN3kJ2Mo2kh9vqy7C4CAI6piOTRZzqsTOUN/uFYyumuPf54bXDXjgCKVKVqyosLkBB5g+ORswy9Ofp7rdtDQDcSMNlkGF/bAMT4rmBYX50NbvdGMtWSsCvw86jqdKIAgJh7YtwijkWSi3DKLo=
->>>>>>> 5682967f55b411c7f1b6bc15bc212457838d1c14
+      player-skin-signature: UhL+GXQi0J3ZAfP0bkbYwx7F7Wpb2ZztJjdkOKavTQEdV+R45uuO7XX8LozDFBgxc6ZY9r7Waq70cC4XrSSXn2w517YHJmwjRutkp+ucGPyKwcotMM1xuD37ozNqRZJ+NRrzOwNcr7WDXOG/WslPoP6JcfooWhnPMy4csSN2RPvRFdWR3RcjOpNswsUTHlX0UOW0OEN67HM+f7SGcdVbrmW0PW8CApm0d7zvpKIYVpJs1R+vbv6S5i92ct6bmq0lqSXcvw4g8yqPQX8nqlkXAvIVHcTJcDItViz0KB5rNxGX4is7Q1uZZewWyvwdrB4i4JXGBXcmHvFt0YazK+BiEjBhJTiMWUNeZZzXvOWLW19rggwJx/8H37vtq6S65PKSbfki037rJE0eknlAq5ONLyhW/tfU2h8cZvxF5caML8CPic8nb4kyKt/jFVlGERHpNafy7HYD2gmrbXsFyvtmGrjXUW9GfoN6EATSYWTgNleDfWZp9PZI/AydjEDH011cftLkYXvAbawCJkWMHfxT278ziw3G9hsEPmgzNiK7fGZyk0n6P/L/vEGnYfvFFNAmAOGg5yuEG2OTTqftGX93agkUQEij8Ik4LkS30GG7AD3jDPCsgWw4t0+1M2BZegQE8t2Y92XTjOfoZP8aFgxn8c3p6Ck4rKhdN8G6EECBOFI=
     name: Shop
     uuid: 33717f56-a1bc-4971-8e48-82915b939cb1
     traits:
@@ -69,11 +51,7 @@ npc:
       owner:
         owner: VladoX_
         uuid: 01082c20-8d71-3d17-9986-da9d9817b79b
-<<<<<<< HEAD
-    traitnames: type,inventory,owner,spawned,location
-=======
-    traitnames: owner,inventory,type,location,spawned
->>>>>>> 5682967f55b411c7f1b6bc15bc212457838d1c14
+    traitnames: inventory,location,type,owner,spawned
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1

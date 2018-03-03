@@ -1,7 +1,7 @@
 lastAccountName: KingShocker69
 timestamps:
-  login: 1520052343011
-  logout: 1520052364259
+  login: 1519969991032
+  logout: 1519969999011
   lastteleport: 1519963872699
   kits:
     member: 1519880044822
@@ -16,11 +16,11 @@ lastlocation:
   pitch: 37.19999
 logoutlocation:
   world: world
-  x: 475.51525076303477
+  x: 473.2840184712841
   y: 61.0
-  z: -2341.222710375325
-  yaw: 90.90072
-  pitch: 13.950016
+  z: -2341.328119129702
+  yaw: 258.15063
+  pitch: 18.60002
 money: '300280.0'
 homes:
   home:

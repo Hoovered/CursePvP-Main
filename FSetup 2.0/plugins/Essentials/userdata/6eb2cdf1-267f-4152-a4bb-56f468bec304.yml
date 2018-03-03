@@ -1,7 +1,7 @@
 lastAccountName: Hotty264
 timestamps:
-  login: 1520024343544
-  logout: 1520019397081
+  login: 1520070833349
+  logout: 1520070840273
   lastteleport: 1519969200762
   lastheal: 1519957618529
   kits:
@@ -10,11 +10,11 @@ ipAddress: 107.2.106.156
 money: '953007.0'
 logoutlocation:
   world: world
-  x: 338.6175606354333
-  y: 72.0
-  z: -667.7624984840804
-  yaw: 88.93344
-  pitch: -5.4894423
+  x: 5363.630155867325
+  y: 213.0
+  z: 4327.699999988079
+  yaw: 44.973145
+  pitch: 30.25824
 lastlocation:
   world: world
   x: 337.980618800725

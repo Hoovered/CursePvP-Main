@@ -1,31 +1,22 @@
 lastAccountName: Ninjalongspy_YT_
 timestamps:
-  login: 1520043148083
-  logout: 1520044583699
-  lastteleport: 1520035839854
+  login: 1519970275576
+  logout: 1519971324222
+  lastteleport: 1519964684390
   kits:
     member: 1519954561848
-    food: 1520036174995
 ipAddress: 98.222.39.38
 lastlocation:
   world: world
-  x: 328.2969581738939
-  y: 72.0
-  z: -665.4395356027263
-  yaw: -275.55832
-  pitch: 6.686682
+  x: 373.3907252107661
+  y: 71.0625
+  z: -667.497046187853
+  yaw: -268.81656
+  pitch: -1.0456529
 logoutlocation:
   world: world
-  x: -4618.305832391501
-  y: 6.0
-  z: -1788.459417972494
-  yaw: -110.62638
-  pitch: 15.7458935
-homes:
-  home:
-    world: world
-    x: -4621.095599435489
-    y: 6.0
-    z: -1789.42005163229
-    yaw: 2.6464372
-    pitch: 10.749196
+  x: 29.842226988239673
+  y: 63.0
+  z: -640.0012188220179
+  yaw: -91.672035
+  pitch: 37.3432

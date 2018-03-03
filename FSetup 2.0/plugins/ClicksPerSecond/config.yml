@@ -1,4 +1,4 @@
 # How many clicks until a notification message is sent to staff
-Clicks-Until-Notification-Message: 15
+Clicks-Until-Notification-Message: 10
 # message sent to staff if a player is cheating
-Notification-Msg: '%PLAYER% has reached %CLICKS%'
+Notification-Msg: '&e%PLAYER% &7&omight be using auto clicker they are at &c%CLICKS% &eCPS'

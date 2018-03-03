@@ -1,0 +1,12 @@
+vault1:
+  '0': '{"==":"org.bukkit.inventory.ItemStack","amount":16,"type":"PUMPKIN_SEEDS"}'
+  '1': '{"==":"org.bukkit.inventory.ItemStack","amount":32,"type":"LOG"}'
+  '2': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"amount\":64,\"meta\":{\"==\"\
+    :\"ItemMeta\",\"meta-type\":\"UNSPECIFIC\",\"display-name\":\"\xc2\xa7c\xc2\xa7\
+    lSTEAK\"},\"type\":\"COOKED_BEEF\"}"
+  '3': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"amount\":64,\"meta\":{\"==\"\
+    :\"ItemMeta\",\"meta-type\":\"UNSPECIFIC\",\"display-name\":\"\xc2\xa7c\xc2\xa7\
+    lSTEAK\"},\"type\":\"COOKED_BEEF\"}"
+  '4': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"amount\":64,\"meta\":{\"==\"\
+    :\"ItemMeta\",\"meta-type\":\"UNSPECIFIC\",\"display-name\":\"\xc2\xa7c\xc2\xa7\
+    lSTEAK\"},\"type\":\"COOKED_BEEF\"}"

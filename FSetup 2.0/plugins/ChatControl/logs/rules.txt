@@ -43,7 +43,3 @@
 [01.03.2018 21:32:42] Hotty264: Rule {ID=/op,Match='^/op\b'} caught message: /op
 [01.03.2018 21:39:39] Hotty264: Rule {ID=/gm,Match='^/(gm|gamemode)'} caught message: /gm 0
 [02.03.2018 04:43:30] MellowBroadcast: Rule {ID=/gm,Match='^/(gm|gamemode)'} caught message: /gmc
-[02.03.2018 14:23:12] Ninjalongspy_YT_: Rule {ID=/op,Match='^/op\b'} caught message: /op
-[02.03.2018 14:38:06] Ninjalongspy_YT_: Rule {ID=/gm,Match='^/(gm|gamemode)'} caught message: /gamemode 1
-[02.03.2018 16:31:36] Rapid2314: Rule {ID=/gm,Match='^/(gm|gamemode)'} caught message: /gamemode 3
-[02.03.2018 19:07:09] notyouaccount: Rule {ID=/gm,Match='^/(gm|gamemode)'} caught message: /gamemode 1

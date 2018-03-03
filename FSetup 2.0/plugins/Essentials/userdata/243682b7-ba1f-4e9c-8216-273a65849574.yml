@@ -1,24 +1,23 @@
 lastAccountName: notyouaccount
 timestamps:
-  login: 1520048103039
-  logout: 1520048106659
-  lastteleport: 1520046923918
+  login: 1519606657277
+  logout: 1519606766811
+  lastteleport: 1519606292717
   kits:
     member: 1519598763409
 ipAddress: 162.207.134.94
 logoutlocation:
   world: world
-  x: -3962.75226304307
-  y: 49.0
-  z: -3394.699999988079
-  yaw: -128.46909
-  pitch: 13.466912
+  x: 360.9366924205437
+  y: 109.0
+  z: -670.1003769855544
+  yaw: 211.43391
+  pitch: 58.47395
 lastlocation:
   world: world
-  x: -3963.902770207031
-  y: 123.23909423768688
-  z: -3420.239664935979
-  yaw: 47.121128
-  pitch: 63.198555
+  x: 882.3665934468087
+  y: 107.0
+  z: 2925.6475946247656
+  yaw: 170.34627
+  pitch: 57.039043
 money: '66000.0'
-afk: false

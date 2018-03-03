@@ -1,11 +1,11 @@
 lastAccountName: MellowBroadcast
 timestamps:
-  login: 1520026916778
-  lastheal: 1519994646968
+  login: 1520090106150
+  lastheal: 1520090202150
   kits:
     zombie: 1519606227375
-  logout: 1520028245965
-ipAddress: 70.27.37.99
+  logout: 1520090337031
+ipAddress: 70.27.33.247
 lastlocation:
   world: buildsextra
   x: 304.71824846993457
@@ -15,17 +15,9 @@ lastlocation:
   pitch: -4.6551843
 logoutlocation:
   world: world
-  x: -4537.201592616185
-  y: 49.0
-  z: -825.7112255001117
-  yaw: 18.004395
-  pitch: 14.099945
-money: '101002.0'
-homes:
-  home:
-    world: world
-    x: -4530.300000011921
-    y: 48.0
-    z: -808.7656677767114
-    yaw: 99.75012
-    pitch: 2.849997
+  x: -4536.129662314781
+  y: 47.0
+  z: -818.8548765096621
+  yaw: 342.60107
+  pitch: 15.8998165
+money: '1000.0'

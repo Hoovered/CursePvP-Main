@@ -1,8 +1,8 @@
 lastAccountName: Hoovered
 timestamps:
-  login: 1520054827252
-  lastteleport: 1520054561725
-  logout: 0
+  login: 1520071255612
+  lastteleport: 1520067821476
+  logout: 1520071262660
   kits:
     creeper2: 1519692677431
     dragon2: 1519977499061
@@ -16,20 +16,20 @@ timestamps:
 ipAddress: 107.2.106.156
 lastlocation:
   world: world
-  x: 5371.548791634591
-  y: 9.732233394447334
-  z: 4330.63779331416
-  yaw: 137.92163
-  pitch: 26.77202
+  x: 5352.5
+  y: 200.0
+  z: 4311.5
+  yaw: 267.3179
+  pitch: -0.4812122
 money: '110510.0'
 socialspy: true
 logoutlocation:
-  world: world
-  x: 5362.108827694144
-  y: 200.5
-  z: 4309.288721255423
-  yaw: 0.65018785
-  pitch: 9.282385
+  world: buildsextra
+  x: -3.8374731601838765
+  y: 35.0625
+  z: 238.60329400208946
+  yaw: -213.28749
+  pitch: 8.424926
 nickname: "\xa7cHoovered"
 afk: false
 powertools: {}

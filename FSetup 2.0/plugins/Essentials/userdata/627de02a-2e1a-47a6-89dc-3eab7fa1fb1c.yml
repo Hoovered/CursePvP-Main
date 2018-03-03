@@ -1,8 +1,8 @@
 lastAccountName: XxMrOGxX
 timestamps:
-  login: 1519997662581
+  login: 1520081877274
   lastteleport: 1520000248795
-  logout: 1520000769837
+  logout: 1520081880656
 ipAddress: 41.225.248.216
 lastlocation:
   world: world
@@ -17,5 +17,5 @@ logoutlocation:
   x: 380.45061968400876
   y: 71.0
   z: -676.2287882387402
-  yaw: -72.16656
-  pitch: 1.8043301
+  yaw: -142.96654
+  pitch: 3.9043303

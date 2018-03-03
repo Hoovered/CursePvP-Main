@@ -75,11 +75,11 @@
     "id": "26",
     "peacefulExplosionsEnabled": false,
     "permanent": false,
-    "tag": "Fruits",
-    "description": "DA F R U I T S",
+    "tag": "BOI",
+    "description": "Default faction description :(",
     "open": false,
     "peaceful": false,
-    "foundedDate": 1520037736031,
+    "foundedDate": 1520096045604,
     "money": 0.0,
     "powerBoost": 0.0,
     "relationWish": {},
@@ -88,24 +88,6 @@
     "announcements": {},
     "warps": {},
     "lastDeath": 0
-  },
-  "27": {
-    "id": "27",
-    "peacefulExplosionsEnabled": false,
-    "permanent": false,
-    "tag": "OOF",
-    "description": "haha",
-    "open": false,
-    "peaceful": false,
-    "foundedDate": 1520044591823,
-    "money": 0.0,
-    "powerBoost": 0.0,
-    "relationWish": {},
-    "claimOwnership": {},
-    "invites": [],
-    "announcements": {},
-    "warps": {},
-    "lastDeath": 1520046912105
   },
   "10": {
     "id": "10",
@@ -126,9 +108,7 @@
     "foundedDate": 1519627642846,
     "money": 0.0,
     "powerBoost": 10.0,
-    "relationWish": {
-      "8": "ALLY"
-    },
+    "relationWish": {},
     "claimOwnership": {},
     "invites": [],
     "announcements": {},
@@ -423,7 +403,27 @@
     "invites": [],
     "announcements": {},
     "warps": {},
-    "lastDeath": 1520047165475
+    "lastDeath": 1520094903553
+  },
+  "7": {
+    "id": "7",
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "Notzi",
+    "description": "We Are The Notzi",
+    "open": false,
+    "peaceful": false,
+    "foundedDate": 1519601214042,
+    "money": 0.0,
+    "powerBoost": 0.0,
+    "relationWish": {
+      "6": "ALLY"
+    },
+    "claimOwnership": {},
+    "invites": [],
+    "announcements": {},
+    "warps": {},
+    "lastDeath": 1519601374848
   },
   "8": {
     "id": "8",
@@ -436,9 +436,7 @@
     "foundedDate": 1519605888613,
     "money": 0.0,
     "powerBoost": 0.0,
-    "relationWish": {
-      "10": "ALLY"
-    },
+    "relationWish": {},
     "claimOwnership": {},
     "invites": [],
     "announcements": {},

@@ -1,23 +1,31 @@
 lastAccountName: christheGOD2017
 timestamps:
-  login: 1520056790562
-  lastteleport: 1520056702678
-  logout: 1520056904198
+  login: 1520069021109
+  lastteleport: 1520069040609
+  logout: 1520069072977
   kits:
     zombie: 1519618786582
 ipAddress: 154.5.131.188
-money: '45292'
+money: '41324'
 lastlocation:
-  world: world
-  x: 5368.445300564374
-  y: 6.0
-  z: 4331.02539312539
-  yaw: -59.37027
-  pitch: 4.438935
+  world: buildsextra
+  x: -3.5779531304185745
+  y: 38.0
+  z: 262.3960367357434
+  yaw: -177.44106
+  pitch: 34.6594
 logoutlocation:
-  world: world
-  x: 5351.316793671989
-  y: 6.0
-  z: 4331.362629653243
-  yaw: -91.53473
-  pitch: 1.2668972
+  world: buildsextra
+  x: -1.5678826822104526
+  y: 35.0
+  z: 232.54452650610324
+  yaw: -177.94229
+  pitch: -4.5736856
+homes:
+  base:
+    world: world
+    x: 5356.06073529085
+    y: 200.0
+    z: 4304.472703471691
+    yaw: -16.838823
+    pitch: -4.972149

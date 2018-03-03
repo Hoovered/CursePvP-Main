@@ -1,8 +1,8 @@
 lastAccountName: men_
 timestamps:
-  login: 1520043295300
+  login: 1519963715500
   lastteleport: 1519963788664
-  logout: 1520043358497
+  logout: 1519964504566
   kits:
     member: 1519620583256
 ipAddress: 76.221.93.170
@@ -15,11 +15,11 @@ lastlocation:
   pitch: -62.28623
 logoutlocation:
   world: world
-  x: -4602.292432417534
-  y: 64.0
-  z: 4258.769997461482
-  yaw: 6.8962026
-  pitch: 5.965949
+  x: -4609.763599301631
+  y: 63.0
+  z: 4261.300000011921
+  yaw: 91.36937
+  pitch: 4.6435494
 money: '466496.0'
 homes:
   home:

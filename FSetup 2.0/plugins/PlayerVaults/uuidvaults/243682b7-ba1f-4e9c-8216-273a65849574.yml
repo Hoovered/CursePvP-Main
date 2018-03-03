@@ -1,4 +1,7 @@
 vault1:
+  '0': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_HELMET\",\"\
+    meta\":{\"display-name\":\"\xa75\xa7lENDERMAN\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"PROTECTION_ENVIRONMENTAL\":4,\"DURABILITY\":4}}}"
   '1': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_CHESTPLATE\"\
     ,\"meta\":{\"display-name\":\"\xa73\xa7lENDERDRAGON\",\"==\":\"ItemMeta\",\"meta-type\"\
     :\"UNSPECIFIC\",\"enchants\":{\"PROTECTION_ENVIRONMENTAL\":6,\"DURABILITY\":6}}}"
@@ -8,6 +11,9 @@ vault1:
   '3': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"GOLDEN_APPLE"}'
   '4': '{"amount":64,"==":"org.bukkit.inventory.ItemStack","type":"GOLDEN_APPLE"}'
   '5': '{"amount":63,"==":"org.bukkit.inventory.ItemStack","type":"GOLDEN_APPLE"}'
+  '6': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_LEGGINGS\",\"\
+    meta\":{\"display-name\":\"\xa75\xa7lENDERMAN\",\"==\":\"ItemMeta\",\"meta-type\"\
+    :\"UNSPECIFIC\",\"enchants\":{\"PROTECTION_ENVIRONMENTAL\":4,\"DURABILITY\":4}}}"
   '7': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"type\":\"DIAMOND_LEGGINGS\",\"\
     meta\":{\"display-name\":\"\xa73\xa7lENDERDRAGON\",\"==\":\"ItemMeta\",\"meta-type\"\
     :\"UNSPECIFIC\",\"enchants\":{\"PROTECTION_ENVIRONMENTAL\":6,\"DURABILITY\":6}}}"

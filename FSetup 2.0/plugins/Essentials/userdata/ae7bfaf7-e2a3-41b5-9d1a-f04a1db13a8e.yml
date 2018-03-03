@@ -1,0 +1,23 @@
+lastAccountName: B25
+timestamps:
+  login: 1520094534017
+  lastteleport: 1520094559521
+  kits:
+    food: 1520094686061
+  logout: 1520094974383
+ipAddress: 173.169.105.116
+lastlocation:
+  world: world
+  x: 351.378876794784
+  y: 72.0
+  z: -668.1812950155971
+  yaw: 289.22934
+  pitch: 2.711666
+money: '0.0'
+logoutlocation:
+  world: world
+  x: -661.6907164406219
+  y: 61.1149627256022
+  z: -713.429904679558
+  yaw: -292.9505
+  pitch: -2.3999708

@@ -43,9 +43,4 @@
 [01.03.2018 06:44:45] MerlinMagician: [Handler=swear, Rule ID=UNSET] oh shit
 [01.03.2018 10:28:38] KRoberts423: [Handler=swear, Rule ID=UNSET] /f create FuckLyfe
 [01.03.2018 18:40:17] PalmtopTaiga: [Handler=swear, Rule ID=UNSET] Get the fuck out
-[02.03.2018 16:06:13] MerlinMagician: [Handler=swear, Rule ID=UNSET] why doesn't it say greekgods instead of member?
-[02.03.2018 16:22:41] MerlinMagician: [Handler=swear, Rule ID=UNSET] WTF U ASSHOLE
-[02.03.2018 17:43:19] TheRolo0917: [Handler=swear, Rule ID=UNSET] ur fucking ay
-[02.03.2018 17:43:40] TheRolo0917: [Handler=swear, Rule ID=UNSET] NIGGER
-[02.03.2018 17:43:46] TheRolo0917: [Handler=swear, Rule ID=UNSET] NIGGER
-[02.03.2018 19:15:46] GucciGanged: [Handler=swear, Rule ID=UNSET] fucking hell
+[03.03.2018 06:32:34] MerlinMagician: [Handler=swear, Rule ID=UNSET] unwanted shit

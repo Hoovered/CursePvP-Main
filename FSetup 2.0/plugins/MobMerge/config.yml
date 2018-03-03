@@ -1,6 +1,6 @@
 radius: 8
 period: 3
-limit: 1000
+limit: 10
 mobs:
 - ZOMBIE
 - SKELETON

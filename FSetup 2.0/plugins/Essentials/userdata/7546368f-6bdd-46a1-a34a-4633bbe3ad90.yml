@@ -1,7 +1,7 @@
 lastAccountName: GaranixLikePink
 timestamps:
-  login: 1520017542569
-  logout: 1520017754852
+  login: 1520080800509
+  logout: 1520080834905
 ipAddress: 86.5.91.94
 lastlocation:
   world: world
@@ -13,8 +13,8 @@ lastlocation:
 money: '0.0'
 logoutlocation:
   world: world
-  x: -3955.397492361659
+  x: -3958.699999988079
   y: 51.0
-  z: -3253.699999988079
-  yaw: 173.54944
-  pitch: 38.699947
+  z: -3254.0423396332617
+  yaw: 120.59951
+  pitch: 15.899935

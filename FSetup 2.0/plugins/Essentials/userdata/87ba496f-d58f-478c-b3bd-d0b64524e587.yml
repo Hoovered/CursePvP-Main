@@ -1,0 +1,22 @@
+lastAccountName: TBNR_Doggy
+timestamps:
+  login: 1520099775366
+  kits:
+    food: 1520095841844
+  logout: 1520099795209
+ipAddress: 68.112.97.189
+lastlocation:
+  world: world
+  x: -220.5
+  y: 68.0
+  z: 244.5
+  yaw: 0.0
+  pitch: 0.0
+money: '1000.0'
+logoutlocation:
+  world: world
+  x: 559.0263205183863
+  y: 76.0
+  z: 792.3002029560012
+  yaw: -89.699585
+  pitch: 63.29996

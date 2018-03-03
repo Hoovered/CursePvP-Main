@@ -1,0 +1,72 @@
+# 
+#   
+anti-spawner-guard:
+  enabled: true
+  water-radius: 3.0
+anti-spawner-mining:
+  enabled: true
+  radius: 200.0
+  message: '&4&l(!) &cYou can not break &eSpawners &cif there are nearby &cenemies!'
+  bypass-permission: btr.spawner.bypass
+  undetectable-permission: btr.spawner.undetectable
+enemy-teleport-prevention:
+  enabled: true
+  message: '&4&l(!) &cYou can not teleport to enemy territory!'
+  bypass-permission: btr.enemy.bypass
+enemy-sethome-prevention:
+  enabled: true
+  message: '&4&l(!) &cYou can not set your home in others territory!'
+  bypass-permission: btr.sethome.bypass
+sand-stacking-fix:
+  enabled: true
+irongolem-fast-death:
+  enabled: true
+  damage: 30
+pearl-glitch-fix:
+  enabled: true
+  message: "&cYou can\xc2\xb4t pearl right there!"
+deny-enderpearl-outside-border:
+  enabled: true
+  message: '&4&l(!) &cYou can not throw enderpearls outside the worldborder!'
+  bypass-permission: btr.enderpearl.bypass
+Anti-fly-Pearl:
+  enabled: true
+  message: '&4&l(!) &cYou can`t throw enderpearls while flying! '
+  bypass-permission: btr.enemypearlfly.bypass
+Anti-Enemy-Water-Pearl:
+  enabled: true
+  message: '&4&l(!) &cYou cant throw enderpearls in water, in enemy factions land!'
+  bypass-permission: btr.enemypearlwater.bypass
+creeper-egg-antiglitch:
+  enabled: true
+anti-horse-riding:
+  enabled: true
+  message: '&4&l(!) &cYou can not ride horses!'
+  bypass-permission: btr.horse.bypass
+disable-boats:
+  enabled: true
+  message: '&c(!) You can not place a boat in enemy territory!'
+  bypass-permission: btr.boat.bypass
+Anti-Item-burn:
+  enabled: true
+Anti-spawner-burn:
+  enabled: true
+Anti-Anvil-Shift:
+  enabled: true
+  message: "&4&l(!) &cYou can\xc2\xb4t interact with anvils while you are sneaking!"
+  bypass-permission: btr.anvil.bypass
+Faction-Broadcast:
+  enabled: true
+  message: '&a&l {faction_name} &7> &8> &eThe player &2&l {player} &eHas logged in!'
+Faction-Logout:
+  enabled: true
+  bypass-permission: btr.logout.bypass
+Bottle-Recycling:
+  enabled: true
+  permission: btpvp.recycle
+Hide-Quit-Messages:
+  enabled: true
+Hide-Join-Messages:
+  enabled: true
+Hoppers-Dont-Pickup-Spawners:
+  enabled: true

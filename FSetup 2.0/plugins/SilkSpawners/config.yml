@@ -3,6 +3,9 @@
 # Should the plugin automatically update if an update is available?
 autoUpdater: true
  
+# Should permissions be used
+usePermissions: true
+ 
 # Should a permission be required when a spawner explodes by TNT to achieve a drop
 permissionExplode: false
  
@@ -41,16 +44,10 @@ destroyDropEgg: false
 # If a spawner is destroyed, should XP be dropped
 destroyDropXP: 0
  
-# If a spawner is mined, should it be directly added to the inventory of the player
-dropSpawnerToInventory: false
- 
-# Amount of spawners to be dropped when mined with valid silk touch
-dropAmount: 1
- 
 # Flag a spawner as already mined to prevent XP duping
 preventXPFarming: true
  
-# Drops XP only when a spawner is destroyed and not mined via silk touch
+#Drops XP only when a spawner is destroyed and not mined via SilkTouch
 dropXPOnlyOnDestroy: false
  
 # If a spawner is destroyed, should iron bars be dropped
@@ -81,7 +78,7 @@ recipeAmount: 1
 ingredients:
 - A,IRON_FENCE
  
-# Should spawners be unstackable
+# Should spawners be stackable
 spawnersUnstackable: false
  
 # Should the egg be consumed when the spawner is changed with it
@@ -93,9 +90,6 @@ enableCreatureDefault: true
 # Should numbers be ignored (on eggs) and allow every number value?
 ignoreCheckNumbers: false
  
-# Disable left click to change spawners, spawns a mob instead. Still blocks Vanilla right click behavior.
-disableChangeTypeWithEgg: false
- 
 # Should instead of spawning a mob a MonsterSpawner be placed? (Uses consumeEgg value, too)
 spawnEggToSpawner: false
  
@@ -104,17 +98,6 @@ spawnEggOverride: false
  
 # Fallback if the creature should be spawned, if not specified for the entity
 spawnEggOverrideSpawnDefault: true
- 
-# Allowed set of tools which can mine a spawner. IDs are supported, too
-allowedTools:
-- WOOD_PICKAXE
-- STONE_PICKAXE
-- IRON_PICKAXE
-- GOLD_PICKAXE
-- DIAMOND_PICKAXE
- 
-# Amount of spawners or eggs given to a player when the argument is omitted
-defaultAmountGive: 1
  
 # Notify the player about the spawner when he clicks it in the inventory
 notifyOnClick: true
@@ -127,23 +110,6 @@ barAPI:
   enable: true
   displayTime: 3
  
-# Configure displaying with 1.9 BossBarApi, time is in seconds
-vanillaBossBar:
-  enable: true
-  displayTime: 3
- 
-  # Valid colors are BLUE, GREEN, PINK, PURPLE, RED, WHITE, YELLOW
-  color: RED
- 
-  # Valid styles are SEGMENTED_10, SEGMENTED_12, SEGMENTED_20, SEGMENTED_6, SOLID
-  style: SOLID
- 
-# Prevent that a spawner is changed via eggs in other territories
-factionsSupport: false
- 
-# Prevent that a spawner is changed via eggs in other kingdoms
-feudalSupport: false
- 
 # Puts more information out on startup
 verboseConfig: false
  
@@ -151,5 +117,4 @@ verboseConfig: false
 useReflection: true
 testMCVersion: true
 useMetadata: true
-usePermissions: true
 useLegacyName: false

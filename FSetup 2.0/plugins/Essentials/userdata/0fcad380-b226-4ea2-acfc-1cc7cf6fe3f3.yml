@@ -1,8 +1,8 @@
 lastAccountName: SecurityCode
 timestamps:
-  login: 1520047991710
-  lastteleport: 1520047494432
-  logout: 1520048003705
+  login: 1519966421537
+  lastteleport: 1519966468708
+  logout: 1519966625153
   kits:
     zombie2: 1519622041718
     dragon2: 1519623218117
@@ -18,19 +18,19 @@ timestamps:
 ipAddress: 86.16.136.71
 lastlocation:
   world: world
-  x: -4075.300000011921
-  y: 39.71364523274126
-  z: -3275.699999988079
-  yaw: -148.5325
-  pitch: -78.41474
+  x: 5358.276166640208
+  y: 200.5
+  z: 4325.397231648174
+  yaw: 225.0716
+  pitch: -13.2275715
 money: '1722.0'
 logoutlocation:
   world: world
-  x: -3965.5
-  y: 112.0
-  z: -3423.5
-  yaw: -6.735895
-  pitch: 49.046894
+  x: 5354.466628549537
+  y: 6.0
+  z: 4330.840622614011
+  yaw: -73.43014
+  pitch: 20.981808
 homes:
   shop:
     world: buildsextra

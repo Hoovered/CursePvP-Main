@@ -1,19 +1,12 @@
 lastAccountName: Legitti
 timestamps:
-  login: 1520044289248
-  logout: 1520044325098
-ipAddress: 37.219.56.95
-lastlocation:
-  world: world
-  x: -220.5
-  y: 68.0
-  z: 244.5
-  yaw: 0.0
-  pitch: 0.0
+  login: 1520089906718
+  logout: 1520090299393
+ipAddress: 91.157.194.199
 logoutlocation:
   world: world
-  x: 363.30645718124885
-  y: 71.0
-  z: -667.6728726196507
-  yaw: 92.38391
-  pitch: 31.504356
+  x: -3352.2480104062415
+  y: 72.0
+  z: -2243.73653952261
+  yaw: 288.40308
+  pitch: 18.299994

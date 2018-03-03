@@ -1453,14 +1453,3 @@
 01.03.2018 - 20:54:55|SecurityCode|/gm 0
 01.03.2018 - 20:56:03|SecurityCode|/feed
 01.03.2018 - 20:56:04|SecurityCode|/ce
-02.03.2018 - 19:20:23|SecurityCode|/vanish
-02.03.2018 - 19:20:34|SecurityCode|/tp Hoovered
-02.03.2018 - 19:20:57|SecurityCode|/gamemode c
-02.03.2018 - 19:20:57|SecurityCode|/gm c
-02.03.2018 - 19:21:19|SecurityCode|/mv info
-02.03.2018 - 19:22:47|SecurityCode|//wand
-02.03.2018 - 19:23:04|SecurityCode|//awe
-02.03.2018 - 19:23:51|SecurityCode|//regen
-02.03.2018 - 19:23:59|SecurityCode|/up 1
-02.03.2018 - 19:24:32|SecurityCode|//regen
-02.03.2018 - 19:24:54|SecurityCode|/tp Hoovered

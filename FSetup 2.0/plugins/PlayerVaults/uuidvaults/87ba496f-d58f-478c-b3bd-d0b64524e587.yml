@@ -1,0 +1,22 @@
+vault1:
+  '0': "{\"==\":\"org.bukkit.inventory.ItemStack\",\"meta\":{\"==\":\"ItemMeta\",\"\
+    meta-type\":\"UNSPECIFIC\",\"enchants\":{\"DAMAGE_ALL\":1},\"display-name\":\"\
+    \xa7a\xa7lMEMBER\"},\"type\":\"DIAMOND_SWORD\"}"
+  '1': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DIG_SPEED":1}},"type":"DIAMOND_PICKAXE"}'
+  '2': '{"==":"org.bukkit.inventory.ItemStack","damage":12,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DIG_SPEED":1}},"type":"DIAMOND_AXE"}'
+  '3': '{"==":"org.bukkit.inventory.ItemStack","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"DIG_SPEED":1}},"type":"DIAMOND_SPADE"}'
+  '4': '{"==":"org.bukkit.inventory.ItemStack","type":"DIAMOND_HOE"}'
+  '5': '{"==":"org.bukkit.inventory.ItemStack","damage":41,"meta":{"==":"ItemMeta","meta-type":"POTION","custom-effects":[{"duration":1800,"==":"PotionEffect","effect":5,"amplifier":0,"ambient":true,"has-particles":true}]},"type":"POTION"}'
+  '6': '{"==":"org.bukkit.inventory.ItemStack","amount":16,"type":"SUGAR_CANE"}'
+  '7': '{"==":"org.bukkit.inventory.ItemStack","amount":8,"type":"CACTUS"}'
+  '8': '{"==":"org.bukkit.inventory.ItemStack","amount":32,"type":"LOG"}'
+  '9': '{"==":"org.bukkit.inventory.ItemStack","amount":16,"type":"PUMPKIN_SEEDS"}'
+  '10': '{"==":"org.bukkit.inventory.ItemStack","type":"BOAT"}'
+  '11': '{"==":"org.bukkit.inventory.ItemStack","type":"BOAT"}'
+  '12': '{"==":"org.bukkit.inventory.ItemStack","amount":16,"type":"MELON_SEEDS"}'
+  '13': '{"==":"org.bukkit.inventory.ItemStack","amount":4,"type":"ENDER_PEARL"}'
+  '14': '{"==":"org.bukkit.inventory.ItemStack","amount":4,"type":"GOLDEN_APPLE"}'
+  '15': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"type":"COOKED_BEEF"}'
+  '16': '{"==":"org.bukkit.inventory.ItemStack","damage":41,"meta":{"==":"ItemMeta","meta-type":"POTION","custom-effects":[{"duration":1800,"==":"PotionEffect","effect":5,"amplifier":0,"ambient":true,"has-particles":true}]},"type":"POTION"}'
+  '17': '{"==":"org.bukkit.inventory.ItemStack","damage":34,"meta":{"==":"ItemMeta","meta-type":"POTION","custom-effects":[{"duration":1800,"==":"PotionEffect","effect":1,"amplifier":0,"ambient":true,"has-particles":true}]},"type":"POTION"}'
+  '18': '{"==":"org.bukkit.inventory.ItemStack","damage":34,"meta":{"==":"ItemMeta","meta-type":"POTION","custom-effects":[{"duration":1800,"==":"PotionEffect","effect":1,"amplifier":0,"ambient":true,"has-particles":true}]},"type":"POTION"}'

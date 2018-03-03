@@ -224,11 +224,6 @@ groups:
       prefix: '&7(&4Dragon&7) '
   YouTube:
     permissions:
-    - playervaults.amount.5
-    - playervaults.multiple.5
-    - playervault.multiple.5
-    - essentials.kits.YouTube
-    - essentials.kit.YouTube
     - essentials.fly
     - ffly.yours
     - ffly.ally
@@ -565,8 +560,6 @@ users:
     - YouTube
     options:
       name: MellowBroadcast
-    permissions:
-    - ffly.*
   8516c76c-64a8-401f-9b22-e89f1430a695:
     group:
     - YouTube
@@ -628,8 +621,3 @@ users:
     - YouTube
     options:
       name: KingShocker69
-  5b653d71-1f9a-4667-8883-4682bdf29a5a:
-    group:
-    - developer
-    options:
-      name: Kaatokence
